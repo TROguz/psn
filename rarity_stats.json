@@ -1,8 +1,10 @@
 {
     "games": {
         "NPWR20188_00": {
-            "progress": 1,
+            "progress": 3,
             "rarities": [
+                "Common",
+                "Common",
                 "Common"
             ]
         },
@@ -273,13 +275,135 @@
                 "Common",
                 "Common"
             ]
+        },
+        "NPWR22724_00": {
+            "progress": 0,
+            "rarities": []
+        },
+        "NPWR26546_00": {
+            "progress": 0,
+            "rarities": []
+        },
+        "NPWR08899_00": {
+            "progress": 11,
+            "rarities": [
+                "Uncommon",
+                "Uncommon",
+                "Uncommon",
+                "Uncommon",
+                "Uncommon",
+                "Uncommon",
+                "Very Rare",
+                "Rare",
+                "Uncommon",
+                "Common",
+                "Uncommon"
+            ]
+        },
+        "NPWR38194_00": {
+            "progress": 1,
+            "rarities": [
+                "Common"
+            ]
+        },
+        "NPWR21460_00": {
+            "progress": 11,
+            "rarities": [
+                "Rare",
+                "Common",
+                "Ultra Rare",
+                "Ultra Rare",
+                "Common",
+                "Ultra Rare",
+                "Ultra Rare",
+                "Ultra Rare",
+                "Ultra Rare",
+                "Ultra Rare"
+            ]
+        },
+        "NPWR13348_00": {
+            "progress": 0,
+            "rarities": []
+        },
+        "NPWR20277_00": {
+            "progress": 0,
+            "rarities": []
+        },
+        "NPWR15120_00": {
+            "progress": 0,
+            "rarities": []
+        },
+        "NPWR40887_00": {
+            "progress": 34,
+            "rarities": [
+                "Common",
+                "Common",
+                "Common",
+                "Common",
+                "Common"
+            ]
+        },
+        "NPWR34041_00": {
+            "progress": 0,
+            "rarities": []
+        },
+        "NPWR47175_00": {
+            "progress": 1,
+            "rarities": [
+                "Common"
+            ]
+        },
+        "NPWR38514_00": {
+            "progress": 0,
+            "rarities": []
+        },
+        "NPWR24170_00": {
+            "progress": 0,
+            "rarities": []
+        },
+        "NPWR20004_00": {
+            "progress": 0,
+            "rarities": []
+        },
+        "NPWR24577_00": {
+            "progress": 1,
+            "rarities": [
+                "Common"
+            ]
+        },
+        "NPWR11595_00": {
+            "progress": 0,
+            "rarities": []
+        },
+        "NPWR11262_00": {
+            "progress": 0,
+            "rarities": []
+        },
+        "NPWR17593_00": {
+            "progress": 0,
+            "rarities": []
+        },
+        "NPWR05335_00": {
+            "progress": 14,
+            "rarities": [
+                "Common",
+                "Uncommon",
+                "Very Rare",
+                "Ultra Rare"
+            ]
+        },
+        "NPWR05424_00": {
+            "progress": 1,
+            "rarities": [
+                "Very Rare"
+            ]
         }
     },
     "stats": {
-        "Ultra Rare": 1,
-        "Very Rare": 11,
-        "Rare": 37,
-        "Uncommon": 71,
-        "Common": 64
+        "Ultra Rare": 8,
+        "Very Rare": 5,
+        "Rare": 12,
+        "Uncommon": 39,
+        "Common": 35
     }
 }
