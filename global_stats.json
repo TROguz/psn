@@ -9,5 +9,12 @@
     "ps4_count": 151,
     "ps3_count": 77,
     "psvita_count": 30,
-    "psvr_count": 0
+    "psvr_count": 0,
+    "platform_stats": {
+        "PS3": 77,
+        "PS4": 151,
+        "PS5": 49,
+        "PSVITA": 30,
+        "PSVR": 0
+    }
 }
