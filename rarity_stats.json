@@ -240,6 +240,13 @@
                 "Common",
                 "Common"
             ]
+        },
+        "NPWR29496_00": {
+            "progress": 18,
+            "rarities": [
+                "Common",
+                "Common"
+            ]
         }
     },
     "stats": {
@@ -247,6 +254,6 @@
         "Very Rare": 3,
         "Rare": 4,
         "Uncommon": 21,
-        "Common": 64
+        "Common": 66
     }
 }
