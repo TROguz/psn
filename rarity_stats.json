@@ -214,8 +214,23 @@
             ]
         },
         "NPWR35451_00": {
-            "progress": 15,
+            "progress": 65,
             "rarities": [
+                "Common",
+                "Common",
+                "Common",
+                "Common",
+                "Common",
+                "Common",
+                "Common",
+                "Common",
+                "Common",
+                "Common",
+                "Common",
+                "Common",
+                "Common",
+                "Common",
+                "Common",
                 "Common",
                 "Common",
                 "Common",
@@ -232,6 +247,6 @@
         "Very Rare": 3,
         "Rare": 4,
         "Uncommon": 21,
-        "Common": 49
+        "Common": 64
     }
 }
