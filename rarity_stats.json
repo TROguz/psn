@@ -7,6 +7,7 @@
                 "Common",
                 "Common",
                 "Common",
+                "Common",
                 "Common"
             ]
         },
@@ -188,6 +189,6 @@
         "Very Rare": 3,
         "Rare": 4,
         "Uncommon": 21,
-        "Common": 29
+        "Common": 30
     }
 }
