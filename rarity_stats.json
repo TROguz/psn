@@ -199,6 +199,10 @@
             "rarities": [
                 "Very Rare"
             ]
+        },
+        "NPWR14855_00": {
+            "progress": 0,
+            "rarities": []
         }
     },
     "stats": {
