@@ -205,8 +205,26 @@
             "rarities": []
         },
         "NPWR19393_00": {
-            "progress": 0,
-            "rarities": []
+            "progress": 21,
+            "rarities": [
+                "Common",
+                "Common",
+                "Common",
+                "Common"
+            ]
+        },
+        "NPWR35451_00": {
+            "progress": 15,
+            "rarities": [
+                "Common",
+                "Common",
+                "Common",
+                "Common",
+                "Common",
+                "Common",
+                "Common",
+                "Common"
+            ]
         }
     },
     "stats": {
@@ -214,6 +232,6 @@
         "Very Rare": 3,
         "Rare": 4,
         "Uncommon": 21,
-        "Common": 37
+        "Common": 49
     }
 }
