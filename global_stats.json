@@ -3,6 +3,13 @@
     "completed": 274,
     "completion": "96.63",
     "unearned": 560,
-    "total_hours": 4346,
-    "accountId": "2768553135915236962"
+    "total_hours": 4326,
+    "accountId": "2768553135915236962",
+    "platform_stats": {
+        "PS3": 77,
+        "PS4": 151,
+        "PS5": 49,
+        "PSVITA": 30,
+        "PSVR": 0
+    }
 }
