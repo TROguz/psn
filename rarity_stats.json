@@ -1,8 +1,10 @@
 {
     "games": {
         "NPWR33005_00": {
-            "progress": 0,
-            "rarities": []
+            "progress": 2,
+            "rarities": [
+                "Common"
+            ]
         },
         "NPWR27074_00": {
             "progress": 26,
@@ -201,6 +203,6 @@
         "Very Rare": 3,
         "Rare": 4,
         "Uncommon": 21,
-        "Common": 33
+        "Common": 34
     }
 }
