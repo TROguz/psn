@@ -5153,7 +5153,7 @@
                 "Very Rare",
                 "Ultra Rare",
                 "Uncommon",
-                "Rare",
+                "Uncommon",
                 "Rare",
                 "Very Rare",
                 "Ultra Rare",
@@ -11284,8 +11284,8 @@
     "stats": {
         "Ultra Rare": 2150,
         "Very Rare": 1248,
-        "Rare": 1881,
-        "Uncommon": 2996,
+        "Rare": 1880,
+        "Uncommon": 2997,
         "Common": 1570
     }
 }
