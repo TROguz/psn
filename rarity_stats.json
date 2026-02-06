@@ -4,6 +4,9 @@
             "progress": 1,
             "rarities": [
                 "Common",
+                "Common",
+                "Common",
+                "Common",
                 "Common"
             ]
         },
@@ -185,6 +188,6 @@
         "Very Rare": 3,
         "Rare": 4,
         "Uncommon": 21,
-        "Common": 26
+        "Common": 29
     }
 }
