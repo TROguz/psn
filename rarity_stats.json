@@ -1,5 +1,9 @@
 {
     "games": {
+        "NPWR33005_00": {
+            "progress": 0,
+            "rarities": []
+        },
         "NPWR27074_00": {
             "progress": 26,
             "rarities": [
