@@ -1,32 +1,15 @@
 {
-    "played": 287,
-    "completed": 274,
-    "completion": "96.63",
-    "unearned": 560,
-    "total_hours": 4166,
-    "accountId": "2768553135915236962",
-    "platform_stats": {
-        "PS3": 78,
-        "PS4": 150,
-        "PS5": 49,
-        "PSVITA": 30,
-        "PSVR": 0
-    },
+    "played": 18,
+    "completed": 0,
+    "completion": "19.67",
+    "unearned": 765,
+    "total_hours": 385,
+    "accountId": "7629756801064137268",
     "platforms": {
-        "PS3": 77,
-        "PS4": 151,
-        "PS5": 49,
-        "PSVITA": 30,
+        "PS3": 0,
+        "PS4": 12,
+        "PS5": 6,
+        "PSVITA": 0,
         "PSVR": 0
-    },
-    "earned_summary": {
-        "bronze": 6057,
-        "silver": 2232,
-        "gold": 1313,
-        "platinum": 243
-    },
-    "level_info": {
-        "level": 535,
-        "progress": 52
     }
 }
