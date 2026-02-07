@@ -255,8 +255,12 @@
             ]
         },
         "NPWR47982_00": {
-            "progress": 0,
-            "rarities": []
+            "progress": 25,
+            "rarities": [
+                "Common",
+                "Common",
+                "Common"
+            ]
         }
     },
     "stats": {
@@ -264,6 +268,6 @@
         "Very Rare": 3,
         "Rare": 4,
         "Uncommon": 21,
-        "Common": 76
+        "Common": 79
     }
 }
