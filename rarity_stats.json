@@ -174,12 +174,13 @@
             ]
         },
         "NPWR20188_00": {
-            "progress": 5,
+            "progress": 6,
             "rarities": [
                 "Common",
                 "Common",
                 "Common",
                 "Very Rare",
+                "Rare",
                 "Common"
             ]
         },
@@ -289,7 +290,7 @@
     "stats": {
         "Ultra Rare": 8,
         "Very Rare": 4,
-        "Rare": 4,
+        "Rare": 5,
         "Uncommon": 21,
         "Common": 92
     }
