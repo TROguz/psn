@@ -1,15 +1,15 @@
 {
-    "played": 287,
-    "completed": 274,
-    "completion": "96.65",
-    "unearned": 556,
-    "total_hours": 4332,
-    "accountId": "2768553135915236962",
+    "played": 33,
+    "completed": 2,
+    "completion": "15.00",
+    "unearned": 1435,
+    "total_hours": 43,
+    "accountId": "5548943088307133737",
     "platforms": {
-        "PS3": 77,
-        "PS4": 151,
-        "PS5": 49,
-        "PSVITA": 30,
+        "PS3": 0,
+        "PS4": 17,
+        "PS5": 16,
+        "PSVITA": 0,
         "PSVR": 0
     }
 }
