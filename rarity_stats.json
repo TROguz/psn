@@ -121,9 +121,50 @@
             ]
         },
         "NPWR01654_00": {
-            "progress": 1,
+            "progress": 100,
             "rarities": [
-                "Common"
+                "Ultra Rare",
+                "Common",
+                "Common",
+                "Common",
+                "Common",
+                "Common",
+                "Common",
+                "Uncommon",
+                "Uncommon",
+                "Rare",
+                "Uncommon",
+                "Rare",
+                "Uncommon",
+                "Ultra Rare",
+                "Ultra Rare",
+                "Uncommon",
+                "Common",
+                "Uncommon",
+                "Ultra Rare",
+                "Ultra Rare",
+                "Common",
+                "Common",
+                "Uncommon",
+                "Uncommon",
+                "Uncommon",
+                "Uncommon",
+                "Uncommon",
+                "Uncommon",
+                "Uncommon",
+                "Uncommon",
+                "Uncommon",
+                "Ultra Rare",
+                "Ultra Rare",
+                "Uncommon",
+                "Uncommon",
+                "Ultra Rare",
+                "Ultra Rare",
+                "Ultra Rare",
+                "Ultra Rare",
+                "Ultra Rare",
+                "Uncommon",
+                "Ultra Rare"
             ]
         },
         "NPWR03073_00": {
@@ -11290,10 +11331,10 @@
         }
     },
     "stats": {
-        "Ultra Rare": 2150,
+        "Ultra Rare": 2163,
         "Very Rare": 1249,
-        "Rare": 1878,
-        "Uncommon": 3006,
-        "Common": 1570
+        "Rare": 1880,
+        "Uncommon": 3024,
+        "Common": 1578
     }
 }
