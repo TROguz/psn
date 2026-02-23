@@ -1,1 +1,15 @@
-{}
+{
+    "NPWR00449_00": {
+        "npCommunicationId": "NPWR00449_00",
+        "trophyTitleName": "Uncharted: Drake's Fortune",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00449_00_00727FDB8B71A3D03045ABCC7984807B8991254509/7CFF4AF57E944459DA3F079205E96BE52ECCA663.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 36
+        },
+        "service": "trophy"
+    }
+}
