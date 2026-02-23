@@ -50,5 +50,18 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR00464_00": {
+        "npCommunicationId": "NPWR00464_00",
+        "trophyTitleName": "Dead Space™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00464_00_00DBE20A1AFA75AF0CD243472031097C1757596370/F224070B5514CF1DBFDBE87CC7BD46038EA94C3A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 4,
+            "bronze": 41
+        },
+        "service": "trophy"
     }
 }
