@@ -206,5 +206,18 @@
             "bronze": 36
         },
         "service": "trophy"
+    },
+    "NPWR00563_00": {
+        "npCommunicationId": "NPWR00563_00",
+        "trophyTitleName": "Alone In The Dark",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00563_00_0065F8C1FC5CD563FC11F513BF0B864B08AD958E35/2703727C8EAB3AB542F6C85B8CD46FC620041035.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 3,
+            "bronze": 43
+        },
+        "service": "trophy"
     }
 }
