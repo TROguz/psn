@@ -167,5 +167,18 @@
             "bronze": 40
         },
         "service": "trophy"
+    },
+    "NPWR00323_00": {
+        "npCommunicationId": "NPWR00323_00",
+        "trophyTitleName": "Battlefield: Bad Company",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00323_00_00E856F909B1730BD388656CA12DD0CC936C7E7143/B0A60DEEFDA0C18DF759D7003F6169073073964D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
     }
 }
