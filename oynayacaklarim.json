@@ -141,5 +141,18 @@
             "bronze": 54
         },
         "service": "trophy"
+    },
+    "NPWR00214_00": {
+        "npCommunicationId": "NPWR00214_00",
+        "trophyTitleName": "MotorStorm®: Pacific Rift",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00214_00_007FD7DEEDACBA61EF5DB5F9B5ADFF06C1278CD01A/214A6065C703972256800FE4745F749C230023C9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 50
+        },
+        "service": "trophy"
     }
 }
