@@ -37,5 +37,18 @@
             "bronze": 65
         },
         "service": "trophy"
+    },
+    "NPWR00413_00": {
+        "npCommunicationId": "NPWR00413_00",
+        "trophyTitleName": "Linger In Shadows™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00413_00_00589B053CC7E76ED50365094B182843A16C7228DE/BDFE923D25A30B5308EE5A3CB12C5793EC1E7492.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
