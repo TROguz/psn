@@ -76,5 +76,18 @@
             "bronze": 59
         },
         "service": "trophy"
+    },
+    "NPWR00180_00": {
+        "npCommunicationId": "NPWR00180_00",
+        "trophyTitleName": "Midnight Club: Los Angeles",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00180_00_0037E9445D6FBDCA4BC047ECD3C58A9B5A1971D363/480FCBDB4697212C2C76BE48C00C56ABB3143DFF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 21,
+            "bronze": 33
+        },
+        "service": "trophy"
     }
 }
