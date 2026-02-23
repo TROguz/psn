@@ -24,5 +24,18 @@
             "bronze": 36
         },
         "service": "trophy"
+    },
+    "NPWR00234_00": {
+        "npCommunicationId": "NPWR00234_00",
+        "trophyTitleName": "Burnout™ Paradise",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00234_00_00D1EE47DC19BE5210C9A03E4C12D0416CE654D413/D8303B0EBB2CB613D48A023DFF1C77390D654A30.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 28,
+            "bronze": 65
+        },
+        "service": "trophy"
     }
 }
