@@ -245,5 +245,18 @@
             "bronze": 26
         },
         "service": "trophy"
+    },
+    "NPWR00374_00": {
+        "npCommunicationId": "NPWR00374_00",
+        "trophyTitleName": "Prince of Persia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00374_00_0062FDA111AD1057ADD0F9FB4CFF545B63A5B80BF6/5A9C195DE602A0FAD84D181146D3CB55D1D040D5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 49
+        },
+        "service": "trophy"
     }
 }
