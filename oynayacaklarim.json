@@ -102,5 +102,18 @@
             "bronze": 38
         },
         "service": "trophy"
+    },
+    "NPWR00339_00": {
+        "npCommunicationId": "NPWR00339_00",
+        "trophyTitleName": "Mercenaries 2: World in Flames™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00339_00_00114C5E3E9443C8707207BCEACD591FE4957B3D6B/B5B81A9B958282567FAE6DEDA3DA5DC61FBA42AB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 24
+        },
+        "service": "trophy"
     }
 }
