@@ -76,5 +76,18 @@
             "bronze": 59
         },
         "service": "trophy"
+    },
+    "NPWR00499_00": {
+        "npCommunicationId": "NPWR00499_00",
+        "trophyTitleName": "Mirror's Edge™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00499_00_004D6772B970ADF48444B24EBB543A07BCB6F691FC/21DB0E0685CCE98AEA9CD73F8CFBA7C5056D3361.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 36
+        },
+        "service": "trophy"
     }
 }
