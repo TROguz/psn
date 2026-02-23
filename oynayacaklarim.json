@@ -50,5 +50,18 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR05254_00": {
+        "npCommunicationId": "NPWR05254_00",
+        "trophyTitleName": "DRIVECLUB™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05254_00_0035A0268243FACE848A78FC8876CECE4F7ECECBD3/09000885A1AA03C74FC05EBD176F00295738B386.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 26,
+            "silver": 47,
+            "bronze": 54
+        },
+        "service": "trophy"
     }
 }
