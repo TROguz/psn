@@ -284,5 +284,18 @@
             "bronze": 35
         },
         "service": "trophy"
+    },
+    "NPWR00603_00": {
+        "npCommunicationId": "NPWR00603_00",
+        "trophyTitleName": "FALLOUT 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00603_00_0023C8068B49173583078A7EA18812E3697A2EF9A2/C96DF96461A6C4699C89A259E51976D6AE2A9D09.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 24,
+            "bronze": 41
+        },
+        "service": "trophy"
     }
 }
