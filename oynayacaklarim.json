@@ -206,5 +206,18 @@
             "bronze": 36
         },
         "service": "trophy"
+    },
+    "NPWR00390_00": {
+        "npCommunicationId": "NPWR00390_00",
+        "trophyTitleName": "Shaun White Snowboarding",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00390_00_00C90B56996D953C7777B44FA0B4296D4EC9AF5F5E/B350EA901BCE3D49E5C8586D09118C263D18CCCE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 36
+        },
+        "service": "trophy"
     }
 }
