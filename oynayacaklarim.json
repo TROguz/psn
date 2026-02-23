@@ -245,5 +245,18 @@
             "bronze": 34
         },
         "service": "trophy"
+    },
+    "NPWR00291_00": {
+        "npCommunicationId": "NPWR00291_00",
+        "trophyTitleName": "Resistance 2™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00291_00_00F20E479E0C56CFD77D2B5588B25B0DD71FBB1B1B/8F0B2E25C3524F1EF9EE87AD1999F7FD8A5EC4F8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 26
+        },
+        "service": "trophy"
     }
 }
