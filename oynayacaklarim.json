@@ -180,5 +180,18 @@
             "bronze": 42
         },
         "service": "trophy"
+    },
+    "NPWR00467_00": {
+        "npCommunicationId": "NPWR00467_00",
+        "trophyTitleName": "Call of Duty®: World at War",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/7C77C453CAA0B582F9D70DD16B5EE6DC7515441D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 18,
+            "bronze": 44
+        },
+        "service": "trophy"
     }
 }
