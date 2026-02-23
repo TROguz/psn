@@ -89,5 +89,18 @@
             "bronze": 33
         },
         "service": "trophy"
+    },
+    "NPWR00419_00": {
+        "npCommunicationId": "NPWR00419_00",
+        "trophyTitleName": "Far Cry® 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00419_00_00F2B21587617532C805C92AE0CFD94AB3B12F548E/6233B963985CD6E85653A1E160E073C6688BE263.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 38
+        },
+        "service": "trophy"
     }
 }
