@@ -128,5 +128,18 @@
             "bronze": 57
         },
         "service": "trophy"
+    },
+    "NPWR00160_00": {
+        "npCommunicationId": "NPWR00160_00",
+        "trophyTitleName": "LittleBigPlanet™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/618335118495DB7BB706D3477EB7C4F86D0629A6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 54
+        },
+        "service": "trophy"
     }
 }
