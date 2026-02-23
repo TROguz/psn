@@ -1,0 +1,15 @@
+{
+    "NPWR03581_00": {
+        "npCommunicationId": "NPWR03581_00",
+        "trophyTitleName": "Sly Cooper: Thieves in Time™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03581_00_00166D98CDE19468AD3128794E762B1EE14849D570/442C12ABA76E9E3F219B6960F08353471B485F9A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 41
+        },
+        "service": "trophy"
+    }
+}
