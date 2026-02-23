@@ -154,5 +154,18 @@
             "bronze": 50
         },
         "service": "trophy"
+    },
+    "NPWR00359_00": {
+        "npCommunicationId": "NPWR00359_00",
+        "trophyTitleName": "Quantum of Solace",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00359_00_005CCB6C686C75A138A0EFDFA8E7E47BAB1A2E9242/2CCEF4677C11BDBF2517C6068EC1A3793A8CD438.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 40
+        },
+        "service": "trophy"
     }
 }
