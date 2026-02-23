@@ -11,5 +11,18 @@
             "bronze": 36
         },
         "service": "trophy"
+    },
+    "NPWR00212_00": {
+        "npCommunicationId": "NPWR00212_00",
+        "trophyTitleName": "Ferrari Challenge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00212_00_001619D6A2CE2548540328A6AA7C285BAF53085CDA/53A418183D0F32D7CC11AA13D047306F198F9091.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 36
+        },
+        "service": "trophy"
     }
 }
