@@ -50,18 +50,5 @@
             "bronze": 11
         },
         "service": "trophy"
-    },
-    "NPWR04412_00": {
-        "npCommunicationId": "NPWR04412_00",
-        "trophyTitleName": "Battlefield 4™ Trophies",
-        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04412_00_00FABD2BE6C8EBFB6150A5446E1FD9351B8E9A9E77/146D0B429B3FC1799F97C68AB5F70FA69ABDDD41.PNG",
-        "trophyTitlePlatform": "PS3",
-        "definedTrophies": {
-            "platinum": 1,
-            "gold": 3,
-            "silver": 22,
-            "bronze": 42
-        },
-        "service": "trophy"
     }
 }
