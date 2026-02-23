@@ -63,5 +63,18 @@
             "bronze": 41
         },
         "service": "trophy"
+    },
+    "NPWR00352_00": {
+        "npCommunicationId": "NPWR00352_00",
+        "trophyTitleName": "BioShock",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00352_00_0054A97A00EA20990FC4F9D673CA9E90B5520B1D69/25E1901FBA6D18B9778DC3FFC260D664FF937D3F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 3,
+            "bronze": 59
+        },
+        "service": "trophy"
     }
 }
