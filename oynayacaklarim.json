@@ -50,18 +50,5 @@
             "bronze": 11
         },
         "service": "trophy"
-    },
-    "NPWR00132_00": {
-        "npCommunicationId": "NPWR00132_00",
-        "trophyTitleName": "GTA IV",
-        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00132_00_00418E3A341F6601FE2B592B96542E57D66D440367/5A7D06DD11D58892AFD1A5681FEEAB33F5C050A6.PNG",
-        "trophyTitlePlatform": "PS3",
-        "definedTrophies": {
-            "platinum": 1,
-            "gold": 3,
-            "silver": 5,
-            "bronze": 57
-        },
-        "service": "trophy"
     }
 }
