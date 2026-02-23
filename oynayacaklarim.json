@@ -271,5 +271,18 @@
             "bronze": 49
         },
         "service": "trophy"
+    },
+    "NPWR00507_00": {
+        "npCommunicationId": "NPWR00507_00",
+        "trophyTitleName": "SONIC UNLEASHED",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00507_00_00645EFA953845673BFBBAB3E540A4B1ADF6A018A8/7A09E1EC63B2873F33A8100041D4A44FDAEE4E90.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 35
+        },
+        "service": "trophy"
     }
 }
