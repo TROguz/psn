@@ -414,5 +414,18 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR00194_00": {
+        "npCommunicationId": "NPWR00194_00",
+        "trophyTitleName": "Unreal Tournament ® 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00194_00_003095A6CA09630F32E1947B6985E7A01EFD7161DA/F33189BDA343083A6B4454B579DB9CABCA40F550.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 36
+        },
+        "service": "trophy"
     }
 }
