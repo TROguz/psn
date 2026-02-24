@@ -427,5 +427,18 @@
             "bronze": 36
         },
         "service": "trophy"
+    },
+    "NPWR00535_00": {
+        "npCommunicationId": "NPWR00535_00",
+        "trophyTitleName": "Ski-Doo Snowmobile Challenge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00535_00_00CCDB4E83BC42477600691352B70D27016F2E288D/C09DA6A1767C70EEF77E6582AD9B4395057C7A44.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 6,
+            "bronze": 12
+        },
+        "service": "trophy"
     }
 }
