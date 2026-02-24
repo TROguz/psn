@@ -323,5 +323,18 @@
             "bronze": 35
         },
         "service": "trophy"
+    },
+    "NPWR00533_00": {
+        "npCommunicationId": "NPWR00533_00",
+        "trophyTitleName": "X-Blades",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00533_00_000D9572178C5015D0571C0DCEC07B33688C7FEBCD/7773554586054165EE423F806983DD13F9C3E6F5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 22
+        },
+        "service": "trophy"
     }
 }
