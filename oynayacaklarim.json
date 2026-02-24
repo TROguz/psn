@@ -349,5 +349,18 @@
             "bronze": 49
         },
         "service": "trophy"
+    },
+    "NPWR00434_00": {
+        "npCommunicationId": "NPWR00434_00",
+        "trophyTitleName": "STREET FIGHTER Ⅳ Trophy pack.",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00434_00_003BC625ACCD0C2A5C5B4960CA1C23C77EC443B477/D3154DF2AA814CA3F240222F084F18AFE8D3D8F1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 35
+        },
+        "service": "trophy"
     }
 }
