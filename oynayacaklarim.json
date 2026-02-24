@@ -466,5 +466,18 @@
             "bronze": 2
         },
         "service": "trophy"
+    },
+    "NPWR00357_00": {
+        "npCommunicationId": "NPWR00357_00",
+        "trophyTitleName": "FIFA 09",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00357_00_007DEB2E9EA9099AAC5F036FCBD2147F28DD8985F5/5182A4B3E04C5E469576AEE2BE059E0899C9E29D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 17,
+            "bronze": 37
+        },
+        "service": "trophy"
     }
 }
