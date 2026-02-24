@@ -401,5 +401,18 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR00686_00": {
+        "npCommunicationId": "NPWR00686_00",
+        "trophyTitleName": "Watchmen: The End Is Nigh Part 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00686_00_00E8FC804EE3008C491ACDBDE1D76DB947203D8CA5/677DF31D9835B073CAFAE10BA6B21E68D8653183.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
