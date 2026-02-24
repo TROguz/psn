@@ -440,5 +440,18 @@
             "bronze": 12
         },
         "service": "trophy"
+    },
+    "NPWR00481_00": {
+        "npCommunicationId": "NPWR00481_00",
+        "trophyTitleName": "FUEL™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00481_00_00E03BD10958887B54ADD36CD4DA51B81B1EE4BEE2/FEDAAF08BF0983D2CF4D22104819E02E5C3A4C12.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 34
+        },
+        "service": "trophy"
     }
 }
