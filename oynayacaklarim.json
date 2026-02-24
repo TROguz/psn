@@ -297,18 +297,5 @@
             "bronze": 41
         },
         "service": "trophy"
-    },
-    "NPWR00642_00": {
-        "npCommunicationId": "NPWR00642_00",
-        "trophyTitleName": "テイルズ オブ ヴェスペリア",
-        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00642_00_00D3D21C0F91DBA86E65712D0C050F3AAB9F22CE9B/A5883BF82FE369F86FD2162D683FF6E8E86E40EB.PNG",
-        "trophyTitlePlatform": "PS3",
-        "definedTrophies": {
-            "platinum": 1,
-            "gold": 2,
-            "silver": 7,
-            "bronze": 44
-        },
-        "service": "trophy"
     }
 }
