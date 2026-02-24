@@ -375,5 +375,18 @@
             "bronze": 72
         },
         "service": "trophy"
+    },
+    "NPWR00565_00": {
+        "npCommunicationId": "NPWR00565_00",
+        "trophyTitleName": "Eat Lead",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00565_00_00F556AB13ED1697A62E59443FEA2BF38D306E221D/6C9F4CCD487595B2EFA43FED1C265ECFC75B3210.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 39
+        },
+        "service": "trophy"
     }
 }
