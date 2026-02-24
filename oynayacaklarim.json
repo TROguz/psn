@@ -453,5 +453,18 @@
             "bronze": 53
         },
         "service": "trophy"
+    },
+    "NPWR00519_00": {
+        "npCommunicationId": "NPWR00519_00",
+        "trophyTitleName": "WWE Legends Of WrestleMania",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00519_00_007AC5E4F77220D50D7180FE4BDB5DB39C6477AB4B/0A736CDB2798CAD0E1358F74E83AAF83A9013810.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 2
+        },
+        "service": "trophy"
     }
 }
