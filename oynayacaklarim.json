@@ -323,5 +323,18 @@
             "bronze": 35
         },
         "service": "trophy"
+    },
+    "NPWR00630_00": {
+        "npCommunicationId": "NPWR00630_00",
+        "trophyTitleName": "Skate 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00630_00_005027689EB124CF66BAD216DE4CD2DFE9FD515559/A841B301D166A73FE861B6B3F3164B061C44EEAB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 35
+        },
+        "service": "trophy"
     }
 }
