@@ -362,5 +362,18 @@
             "bronze": 35
         },
         "service": "trophy"
+    },
+    "NPWR00153_00": {
+        "npCommunicationId": "NPWR00153_00",
+        "trophyTitleName": "Killzone 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00153_00_00415AC3B975E7285378E228D05C1FA13F9A1AE2B2/EA108414E92E1C3E62FD8F9BA13F790AB0B28800.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 72
+        },
+        "service": "trophy"
     }
 }
