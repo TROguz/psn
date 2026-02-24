@@ -479,5 +479,18 @@
             "bronze": 37
         },
         "service": "trophy"
+    },
+    "NPWR00512_00": {
+        "npCommunicationId": "NPWR00512_00",
+        "trophyTitleName": "Wanted",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00512_00_00223815D173B4B1386DEF1A79E38FF72CC6DE4C40/859B6C148A474FD575625EE8F0943B5FFF66BCF7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 39
+        },
+        "service": "trophy"
     }
 }
