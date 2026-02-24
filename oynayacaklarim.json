@@ -297,18 +297,5 @@
             "bronze": 41
         },
         "service": "trophy"
-    },
-    "NPWR02001_00": {
-        "npCommunicationId": "NPWR02001_00",
-        "trophyTitleName": "F1 2011",
-        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02001_00_0018DDE01C20EEE2F92EABBF1337233F0EF13C1059/0539214D116E55D372C08E4FA97E98D139111524.PNG",
-        "trophyTitlePlatform": "PSVITA",
-        "definedTrophies": {
-            "platinum": 1,
-            "gold": 6,
-            "silver": 10,
-            "bronze": 14
-        },
-        "service": "trophy"
     }
 }
