@@ -440,5 +440,18 @@
             "bronze": 12
         },
         "service": "trophy"
+    },
+    "NPWR00404_00": {
+        "npCommunicationId": "NPWR00404_00",
+        "trophyTitleName": "RESIDENT EVIL 5",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00404_00_00BF56688E8386CFCFBAF030517D8FFDD6FE43429B/5555CEDD54CF8FEFBD9C196404A3CE5ADE4C5ECA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 16,
+            "bronze": 53
+        },
+        "service": "trophy"
     }
 }
