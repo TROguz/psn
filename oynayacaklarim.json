@@ -505,5 +505,18 @@
             "bronze": 28
         },
         "service": "trophy"
+    },
+    "NPWR00354_00": {
+        "npCommunicationId": "NPWR00354_00",
+        "trophyTitleName": "Worms™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00354_00_00DD430690ED5EA22EE1F39E030B5BF810D0A1623C/E594A18B240F7B7646E58DF3B175E424ABE04050.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
