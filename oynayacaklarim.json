@@ -583,5 +583,18 @@
             "bronze": 24
         },
         "service": "trophy"
+    },
+    "NPWR00634_00": {
+        "npCommunicationId": "NPWR00634_00",
+        "trophyTitleName": "SBK®09 Superbike World Championship",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00634_00_00A7BA58288611C619C74532264DD364D13254C867/BC15665DA659B4E99E71E76CA52AA81A96138AE4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 14,
+            "bronze": 24
+        },
+        "service": "trophy"
     }
 }
