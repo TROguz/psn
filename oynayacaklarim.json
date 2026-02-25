@@ -531,5 +531,18 @@
             "bronze": 28
         },
         "service": "trophy"
+    },
+    "NPWR00458_00": {
+        "npCommunicationId": "NPWR00458_00",
+        "trophyTitleName": "OutRun™ Online Arcade",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00458_00_00B55F1714FD996FB02164A4BEC3224DCADB0C5C0F/A48DB08C04FCDFD5843D0AC0BBCC1ABA387E8BC0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
