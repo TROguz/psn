@@ -557,5 +557,18 @@
             "bronze": 42
         },
         "service": "trophy"
+    },
+    "NPWR00501_00": {
+        "npCommunicationId": "NPWR00501_00",
+        "trophyTitleName": "Wolverine Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00501_00_00F98F97EEA1DC56609FD9168CF1EE3E654937502B/1EFEEB3C2E910EFFC5199B0AB5A19FA7F90E505A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
     }
 }
