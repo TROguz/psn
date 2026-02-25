@@ -1,4 +1,8 @@
 {
+    "NPWR01654_00": {
+        "lastTrophyDate": "24 Ocak 2026",
+        "timeTaken": "Tamamlama Süresi: 1 hafta, 1 gün"
+    },
     "NPWR03180_00": {
         "lastTrophyDate": "17 Ocak 2026",
         "timeTaken": "Tamamlama Süresi: 3 gün, 4 saat"
@@ -1094,9 +1098,5 @@
     "NPWR11880_00": {
         "lastTrophyDate": "23 Eylül 2018",
         "timeTaken": "Tamamlama Süresi: 1 ay, 2 hafta"
-    },
-    "NPWR01654_00": {
-        "lastTrophyDate": "24 Ocak 2026",
-        "timeTaken": "Tamamlama Süresi: 1 hafta, 1 gün"
     }
 }
