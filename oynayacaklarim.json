@@ -544,5 +544,18 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR00206_00": {
+        "npCommunicationId": "NPWR00206_00",
+        "trophyTitleName": "The Chronicles of Riddick™ Assault on Dark Athena",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/C7A572846E05CDDA630829A585B00C68B1D2A12C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
     }
 }
