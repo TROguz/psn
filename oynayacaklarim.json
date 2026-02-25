@@ -570,5 +570,18 @@
             "bronze": 38
         },
         "service": "trophy"
+    },
+    "NPWR00179_00": {
+        "npCommunicationId": "NPWR00179_00",
+        "trophyTitleName": "Pure Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00179_00_00DD60793B8BA4A5CE171F444C73399863EE2594CA/62A2777C0835F8951A118854E6F99AF1C4FEF814.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 14,
+            "bronze": 24
+        },
+        "service": "trophy"
     }
 }
