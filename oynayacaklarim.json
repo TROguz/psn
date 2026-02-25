@@ -492,5 +492,18 @@
             "bronze": 39
         },
         "service": "trophy"
+    },
+    "NPWR00466_00": {
+        "npCommunicationId": "NPWR00466_00",
+        "trophyTitleName": "Wheelman",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00466_00_00436D4852A154649E99C88FDB828AF6A1ADA152D0/CECAD343098DF569E1A672519231AB52CA8B13CF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 28
+        },
+        "service": "trophy"
     }
 }
