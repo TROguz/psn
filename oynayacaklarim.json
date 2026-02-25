@@ -479,5 +479,18 @@
             "bronze": 37
         },
         "service": "trophy"
+    },
+    "NPWR15235_00": {
+        "npCommunicationId": "NPWR15235_00",
+        "trophyTitleName": "FIFA 19",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15235_00_00DCA8FDAAA2EF8F9CD6F8DF54A05F86F20B15A387/0365E7A5671529C46C53E7C75233C5BF9BB01C2E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 29
+        },
+        "service": "trophy"
     }
 }
