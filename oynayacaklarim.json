@@ -518,5 +518,18 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR00518_00": {
+        "npCommunicationId": "NPWR00518_00",
+        "trophyTitleName": "The Godfather™ II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00518_00_0017DD89CBAC04FE71D75DD8F39C54D5D602F4181A/8F6A80F4456B710FC9BD427D799354B9573839D2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 28
+        },
+        "service": "trophy"
     }
 }
