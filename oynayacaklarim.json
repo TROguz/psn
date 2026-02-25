@@ -596,5 +596,18 @@
             "bronze": 24
         },
         "service": "trophy"
+    },
+    "NPWR00447_00": {
+        "npCommunicationId": "NPWR00447_00",
+        "trophyTitleName": "Sacred 2 - Fallen Angel\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00447_00_009D8DA892DEEBA752E505C0C86D559DF91B928D69/58DC098D0B1E2E260887257FFBEF746C74D11E2A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 34
+        },
+        "service": "trophy"
     }
 }
