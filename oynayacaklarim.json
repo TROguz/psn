@@ -505,5 +505,18 @@
             "bronze": 28
         },
         "service": "trophy"
+    },
+    "NPWR34992_00": {
+        "npCommunicationId": "NPWR34992_00",
+        "trophyTitleName": "Black Myth: Wukong",
+        "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR34992_00/61830ea4-0722-4ad5-95cc-f313135de0b4.png",
+        "trophyTitlePlatform": "PS5",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy2"
     }
 }
