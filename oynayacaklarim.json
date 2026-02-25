@@ -479,44 +479,5 @@
             "bronze": 37
         },
         "service": "trophy"
-    },
-    "NPWR04770_00": {
-        "npCommunicationId": "NPWR04770_00",
-        "trophyTitleName": "Rayman® Legends",
-        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04770_00_0001D8A16DB91B280D8BC8E0D87DDC45826881B50A/F60842F6C5736DF7F98DC410A71F5876778BB870.PNG",
-        "trophyTitlePlatform": "PSVITA",
-        "definedTrophies": {
-            "platinum": 1,
-            "gold": 4,
-            "silver": 12,
-            "bronze": 21
-        },
-        "service": "trophy"
-    },
-    "NPWR03003_00": {
-        "npCommunicationId": "NPWR03003_00",
-        "trophyTitleName": "Rayman® Origins",
-        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03003_00_00B7CD25300ADB98463F1B075D5E56153DF43FBD48/BC757E14618717AECF744F00C99589F48B4FB0AF.PNG",
-        "trophyTitlePlatform": "PSVITA",
-        "definedTrophies": {
-            "platinum": 1,
-            "gold": 5,
-            "silver": 6,
-            "bronze": 28
-        },
-        "service": "trophy"
-    },
-    "NPWR34992_00": {
-        "npCommunicationId": "NPWR34992_00",
-        "trophyTitleName": "Black Myth: Wukong",
-        "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR34992_00/61830ea4-0722-4ad5-95cc-f313135de0b4.png",
-        "trophyTitlePlatform": "PS5",
-        "definedTrophies": {
-            "platinum": 1,
-            "gold": 4,
-            "silver": 9,
-            "bronze": 22
-        },
-        "service": "trophy2"
     }
 }
