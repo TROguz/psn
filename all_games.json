@@ -14038,5 +14038,135 @@
             "bronze": 44
         },
         "service": "trophy"
+    },
+    "NPWR02025_00": {
+        "npCommunicationId": "NPWR02025_00",
+        "trophyTitleName": "Everybody Dance™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02025_00_00A6150515D3D5F3425708FD67CB6A98D383CF0EF1/228F5C4CEB17F7F17F86ACD8A30EF85500502905.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR02028_00": {
+        "npCommunicationId": "NPWR02028_00",
+        "trophyTitleName": "マクロスラストフロンティア",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02028_00_00C90DA5D1C4FB890706FB19C809E82F80C6D1A70E/FE0434F7654E524F821DFBCCC0EE7F343CFEEBFA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR02029_00": {
+        "npCommunicationId": "NPWR02029_00",
+        "trophyTitleName": "The Adventures of Tintin",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02029_00_00D40A24B1D137ED6D9B4E18DD97898AF6ED94CB34/1F4F36124433959AC547EF500FBE8632FD22F5FF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR02031_00": {
+        "npCommunicationId": "NPWR02031_00",
+        "trophyTitleName": "LittleBigPlanet™ PlayStation®Vita",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02031_00_008EAA9684B2FF98EC924C368BDA8B2DCB662D00CB/38867C9C54927D068BCA736C98B65B0D8432F39C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 17,
+            "bronze": 62
+        },
+        "service": "trophy"
+    },
+    "NPWR02036_00": {
+        "npCommunicationId": "NPWR02036_00",
+        "trophyTitleName": "Hunted: The Demon's Forge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02036_00_00DAF1FD536FE94EF92736DF7462593DD92C65FADD/FEF9EA2E21D7C876391619F325CFDDAB40B53268.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR02037_00": {
+        "npCommunicationId": "NPWR02037_00",
+        "trophyTitleName": "ARMORED CORE V\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02037_00_006BDB9B153019472FF2DD5B2CA62E75ED41F82794/7CDE16E33EEABC0D58034491671FF23D2484D8AB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR02038_00": {
+        "npCommunicationId": "NPWR02038_00",
+        "trophyTitleName": "I AM ALIVE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02038_00_00C22A79A5637C40707F02B5554BD87D33F8C0230D/64E8F11F573697D9C674AE1225DEC2E7D09718FF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR02044_00": {
+        "npCommunicationId": "NPWR02044_00",
+        "trophyTitleName": "Trine 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02044_00_00D175D7B8BE795207C9CBBD46A45F6491E01BC8E9/C3704726A3165AE97E338B3D3517757D684CDF87.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 1,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR02048_00": {
+        "npCommunicationId": "NPWR02048_00",
+        "trophyTitleName": "Sam & Max - Beyond Time & Space: Episode 1 - Ice Station Santa",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02048_00_003D6DBF3B4C10CF662F88437126A0036222D32392/E1EE12A57962A3880C19BE4F069523EF22C29C2C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR02049_00": {
+        "npCommunicationId": "NPWR02049_00",
+        "trophyTitleName": "Voltron®: Defender of the Universe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02049_00_00E0869EB3D8AE4B4DDFB1341F65B1C6925B00433E/D7B10912415850D76DA9BFD23C8335EACA81EB2A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
