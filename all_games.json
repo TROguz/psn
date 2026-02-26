@@ -13258,5 +13258,135 @@
             "bronze": 9
         },
         "service": "trophy"
+    },
+    "NPWR01845_00": {
+        "npCommunicationId": "NPWR01845_00",
+        "trophyTitleName": "Zack Zero",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01845_00_002CBD83E4DFC032672F94FFDA087CF07BB7E7C766/836545E2AD1F91957A74DCFA5F85C84D6730AFB3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR01847_00": {
+        "npCommunicationId": "NPWR01847_00",
+        "trophyTitleName": "Dance! It's your stage.",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01847_00_00F024DD55AFE7C06AC52426B6F6699D03C9B94931/C41F18C0F4C6F5F3C0DC7396CE3136DF4EFC1872.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01848_00": {
+        "npCommunicationId": "NPWR01848_00",
+        "trophyTitleName": "METAL GEAR SOLID PEACE WALKER HD EDITION",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01848_00_00C7FFF488226E2E0889566BA7FEE779567EE8AF35/B5273CC7C07B6998A8942E44BCF34650DE632C3C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR01850_00": {
+        "npCommunicationId": "NPWR01850_00",
+        "trophyTitleName": "Ion Assault HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01850_00_0019E9B1DF12C6A9A3CAE6DB39E9F45534F3DDDB07/85162ECF2A5EB0387852AB15A37F7458E8EAD6C7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01851_00": {
+        "npCommunicationId": "NPWR01851_00",
+        "trophyTitleName": "StarDrone Extreme",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01851_00_00B93250896E09EDF8DE23B3F9A80E8A442090B3A8/AAC9A962236FBA1D2D851318F181514555488E7B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR01852_00": {
+        "npCommunicationId": "NPWR01852_00",
+        "trophyTitleName": "初音ミク -Project DIVA- ドリーミーシアター 2nd",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01852_00_00CEB52C94BFFE3B2C455106559EA78561C451163E/F36D0938FDB247389201BEE135F50A43746E273D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR01853_00": {
+        "npCommunicationId": "NPWR01853_00",
+        "trophyTitleName": "Hustle Kings™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01853_00_00620AF197EB4A7F03DEF1D7AE9A9CF4A1ADD515CC/1DDFE272EA577755276A2817C2FD4C02AE733161.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR01855_00": {
+        "npCommunicationId": "NPWR01855_00",
+        "trophyTitleName": "ПРИКЛЮЧЕНИЯ ТИНТИНА: ТАЙНА ЕДИНОРОГА",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01855_00_00DE4E24418205ACF7AD3E0B63A75677E213075DB0/BBE0FD264226D114EE314727D2E077732E431654.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR01856_00": {
+        "npCommunicationId": "NPWR01856_00",
+        "trophyTitleName": "Wrecked: Revenge Revisited",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01856_00_00FB5E381B15A5E68B6B3EED1366D26708C2F9D7C5/23404EAD67C1B703A89612A4CAE7F4EB60B702B2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 4,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR01857_00": {
+        "npCommunicationId": "NPWR01857_00",
+        "trophyTitleName": "Cyberbike 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01857_00_000A62A7A7093472659B10BE8B38E18985E18F5D43/A7640C1C821DC5BF53E8CA0918BB826551C7808A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
     }
 }
