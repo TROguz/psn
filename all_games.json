@@ -17808,5 +17808,135 @@
             "bronze": 12
         },
         "service": "trophy"
+    },
+    "NPWR02928_00": {
+        "npCommunicationId": "NPWR02928_00",
+        "trophyTitleName": "Army Corps of Hell",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02928_00_00114FD319788DBDF5A964158F43EF42ED9AB54181/5BC8FE7690D26146F9354B6765739A42D07A802D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR02933_00": {
+        "npCommunicationId": "NPWR02933_00",
+        "trophyTitleName": "実況パワフルプロ野球２０１２",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02933_00_007DC2E30B0E1858C483ADC78BED0B71C977BB500E/48B7C03EE70F981581862AFAF584224D25A69761.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 7,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR02935_00": {
+        "npCommunicationId": "NPWR02935_00",
+        "trophyTitleName": "萌え萌え大戦争☆げんだいばーん++",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02935_00_00CC319696D055E0978177FCD54D74242F41400874/3A711DD499A759148923DC6A938A7D6A1CEA4405.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR02938_00": {
+        "npCommunicationId": "NPWR02938_00",
+        "trophyTitleName": "Foosball 2012",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02938_00_0099D005438DDAF2936C20B59E06583DFC1248EB2E/87EBCDE0414FCEB2841461211D90EBCE8F424697.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR02941_00": {
+        "npCommunicationId": "NPWR02941_00",
+        "trophyTitleName": "Unit 13™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02941_00_00415AE325C091E9AB13C1AF072E3717C35A6D70B7/9A99FDB00DC6825492425D87A6A54F3D5DD1F705.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 17,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR02942_00": {
+        "npCommunicationId": "NPWR02942_00",
+        "trophyTitleName": "EA SPORTS™ FIFA Football",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02942_00_0015A915A53F93089C304B84C0697E6D2053E24744/098AFAE17903FFB92F0DFF281BC13C6E77CE0F6A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR02944_00": {
+        "npCommunicationId": "NPWR02944_00",
+        "trophyTitleName": "PulzAR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02944_00_00E3E188F9F5D3E21C64179EA9F441E95AEAEC8FF1/0767B43BC570E9B422EF2F33B9B6CC2E23570900.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR02947_00": {
+        "npCommunicationId": "NPWR02947_00",
+        "trophyTitleName": "ぎゃる☆がん",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02947_00_0003F2F34D6E7D4A5F3CBB7FE60BB7B053E5FC3B38/88FB057F5A511CED97D6BF4ED8C47F7258EDCC38.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR02948_00": {
+        "npCommunicationId": "NPWR02948_00",
+        "trophyTitleName": "実況パワフルプロ野球２０１２",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02948_00_00903BDB57583E2BB8793D8B815EEBB6C243F12501/9190F664FBC2F21851E7CDE52FE7E639701E9021.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 7,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR02953_00": {
+        "npCommunicationId": "NPWR02953_00",
+        "trophyTitleName": "SUMIONI:DEMON ARTS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02953_00_008EBA84AFC437442E9A1449B521795DBFCF60E0BD/C8F51832E13593965887E432655AB9B18F81B6A0.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
