@@ -2338,5 +2338,135 @@
             "bronze": 39
         },
         "service": "trophy"
+    },
+    "NPWR00567_00": {
+        "npCommunicationId": "NPWR00567_00",
+        "trophyTitleName": "Blur",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00567_00_00F5532BE5D6C45F2776AE2E5ED4AE76DEE04EC1E5/0921BA6DAA8EBEEBC605A0FAD8510AD3BB104AB9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR00570_00": {
+        "npCommunicationId": "NPWR00570_00",
+        "trophyTitleName": "Heavy Weapon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00570_00_00BC20215BF4A4BDD92186EF97C6F22C993327C67C/60F6145EE84E0AA396726EC6D6F0FA0805E0CC02.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR00571_00": {
+        "npCommunicationId": "NPWR00571_00",
+        "trophyTitleName": "Zuma",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00571_00_00FE18EBB6DFCA7F7B81B31225A4ADCAD76B1F8B46/6010D5D663D56972A6380324FB955E8EED50DE94.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR00574_00": {
+        "npCommunicationId": "NPWR00574_00",
+        "trophyTitleName": "TRASH PANIC™  Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00574_00_00636C5DE6C3E907EFF4635FC12CCC4A6C970753DE/4606CC9538DD2BBDD4ECCA6C38F845966861E819.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR00575_00": {
+        "npCommunicationId": "NPWR00575_00",
+        "trophyTitleName": "真・三國無双５ Empires",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00575_00_0093D8AEB283BB402658870D58AA4291A7FC92B287/DB70DADCC8D50AB7B87930E14A4A7DD9049879CB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR00576_00": {
+        "npCommunicationId": "NPWR00576_00",
+        "trophyTitleName": "Major League Baseball 2K9",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00576_00_0049A67E9D9AC132E7A97F61D87E78969DD7FFF2A8/AB8AE848F4B9F614B67148314049556C11A9F57A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR00577_00": {
+        "npCommunicationId": "NPWR00577_00",
+        "trophyTitleName": "Everybody's Putter Golf with TORO",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00577_00_0085D7E864493D2B436935924B04684550FF503FE1/FEEFC79000C8639A6C167AA73741145581184F69.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR00578_00": {
+        "npCommunicationId": "NPWR00578_00",
+        "trophyTitleName": "Backbreaker",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00578_00_00F55715053D55BB28E92A8BE4C8F34A403DFA258A/A1AA9678F6C548A8E096B029B29A5AD34A0C1429.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR00579_00": {
+        "npCommunicationId": "NPWR00579_00",
+        "trophyTitleName": "Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness, Episode Two",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00579_00_00F47313C2BCC6D4086C29D0DB893596BEAB440FCC/81FE837237D1C5B92B5F8219FFAC194CD6961B7C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00580_00": {
+        "npCommunicationId": "NPWR00580_00",
+        "trophyTitleName": "Call of Duty Classic Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00580_00_005A2273DE681C0886EB3CB58889D582542FDC4599/A6ED55EF42EFD07015BC7FFB7BAA7A4BBABA6325.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 6,
+            "bronze": 26
+        },
+        "service": "trophy"
     }
 }
