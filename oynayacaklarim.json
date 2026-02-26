@@ -609,5 +609,18 @@
             "bronze": 34
         },
         "service": "trophy"
+    },
+    "NPWR00002_00": {
+        "npCommunicationId": "NPWR00002_00",
+        "trophyTitleName": "THE EYE OF JUDGMENT™ Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00002_00_002EE610759F10A3D8BD38278BDE212CA49EA7F0B9/3AF62639404A7F716656FF3A975BC864EBA960C6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 21,
+            "bronze": 16
+        },
+        "service": "trophy"
     }
 }
