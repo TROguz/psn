@@ -14428,5 +14428,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR02098_00": {
+        "npCommunicationId": "NPWR02098_00",
+        "trophyTitleName": "ARKEDO SERIES - 03 PIXEL!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02098_00_000AE09974086302E268A3B2B46FBA731552B24DFD/AC123F82CC1649D974F9671DBA257F10FB4A6CAF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR02104_00": {
+        "npCommunicationId": "NPWR02104_00",
+        "trophyTitleName": "FIFA 12",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02104_00_00997CAE7892AAB3ECE75290F39C5FA6491226BA7E/861F304488014BE2342F3F72BA2DB85EBE4ACF09.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 17,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR02107_00": {
+        "npCommunicationId": "NPWR02107_00",
+        "trophyTitleName": "TEKKEN TAG TOURNAMENT 2 PROLOGUE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02107_00_00B008159A8B6B9ACABEC07C01B41D04B2CD02B421/7D9BE8F5B663D6FEE914527DF200DB8532979CEC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR02108_00": {
+        "npCommunicationId": "NPWR02108_00",
+        "trophyTitleName": "TEKKEN TAG TOURNAMENT HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02108_00_002B46991600D7DAF9B6C6919837FC6B75FCF3AB33/9BAA3FBC8478111B0A033361D2E2120810F8B293.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR02111_00": {
+        "npCommunicationId": "NPWR02111_00",
+        "trophyTitleName": "NASCAR® Unleashed",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02111_00_001327A77FF616A978A456F5CE7A38D5A0906F5091/82F80C2C0A17864823E26DD76AABD751FE8D3790.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR02112_00": {
+        "npCommunicationId": "NPWR02112_00",
+        "trophyTitleName": "PixelJunk™ 4am",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02112_00_0041AD6D3E0EFD8230E8B5C2AF9EF13E22AD352C5B/678277A7827D62E83E996394F2EDBA8F020A576A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR02113_00": {
+        "npCommunicationId": "NPWR02113_00",
+        "trophyTitleName": "Skullgirls",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02113_00_0058ED19DBAA790EDEFDFE188BDC76F29143D4F4A2/0ADDBE2DE3D8AD67949F7453206A5664583DE48B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR02117_00": {
+        "npCommunicationId": "NPWR02117_00",
+        "trophyTitleName": "Wanted Corp.",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02117_00_00167AF0BFF2CEB34A4DB443435A6B24A2C7CA7319/BECAA81D633204A53784DB5345771A7904F4AB7E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR02121_00": {
+        "npCommunicationId": "NPWR02121_00",
+        "trophyTitleName": "Shadows of the Damned™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02121_00_00F470AE6AF04A583F4D58FD50D06BF49D2D04FE81/A122FC2AD7B373230306D10C6C2ABE07973B2BFB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR02122_00": {
+        "npCommunicationId": "NPWR02122_00",
+        "trophyTitleName": "Okabu",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02122_00_00A7FE8E630C27AA09253D1B798EF583DB1FA8EF8D/8874CEEF1E95453BB2C5D20050A6B0585E208697.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 30
+        },
+        "service": "trophy"
     }
 }
