@@ -8838,5 +8838,135 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR01347_00": {
+        "npCommunicationId": "NPWR01347_00",
+        "trophyTitleName": "NBA ELITE 11",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01347_00_008518E3F1C613E740D11A313B58726B1F199D1D8E/D79E53439ED892A5AA8BC2E0D19F50BD01388C10.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR01348_00": {
+        "npCommunicationId": "NPWR01348_00",
+        "trophyTitleName": "The Lord of the Rings: Aragorn's Quest™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01348_00_00CB6159F96DF717D567D8171DB2FF4816807E2840/1B051A21611A07A9CDA69ADBC4967F41AAA3CD2A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01350_00": {
+        "npCommunicationId": "NPWR01350_00",
+        "trophyTitleName": "Alien Zombie Megadeath",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01350_00_008103C3C8B6491B6E5EAA800C2FCF7552263DEE8B/FBA94BF01C55DF97684B76CF5A0CA9B34593E7DF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR01351_00": {
+        "npCommunicationId": "NPWR01351_00",
+        "trophyTitleName": "The X Factor",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01351_00_00224007D134D0567620719B755833F99D66ADCEC5/4082E9981B74EA62C30DC1DCC7E72C035F7F2255.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR01355_00": {
+        "npCommunicationId": "NPWR01355_00",
+        "trophyTitleName": "Modern Combat: Domination",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01355_00_00F9CB5F608776E3CDB2A6F435A5A7EC30B7B65EF4/A1D808EA97BD14C454957F556EBCA77A8A160F9F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR01357_00": {
+        "npCommunicationId": "NPWR01357_00",
+        "trophyTitleName": "CSI: Fatal Conspiracy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01357_00_00953604551C9E059F0EDCE5FE24FBC8BCE28A7E73/D7F2017861E6DD17F13BB62A2A70ACF30D2089AE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01358_00": {
+        "npCommunicationId": "NPWR01358_00",
+        "trophyTitleName": "Jane's Advanced Strike Fighters",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01358_00_0031037E5A4E3D62DFD32DB42D3BA5DFC23743B998/3184D1BDF34EEFE77709B2F8B75F3C1ED53546BF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR01359_00": {
+        "npCommunicationId": "NPWR01359_00",
+        "trophyTitleName": "ENSLAVED™: Odyssey to the West™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01359_00_00B07925FE04C056CD7F6D5F82DCE515F231EB69C2/DC9C8AAB537DD24955B018CA678F0460DB313C51.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 49
+        },
+        "service": "trophy"
+    },
+    "NPWR01360_00": {
+        "npCommunicationId": "NPWR01360_00",
+        "trophyTitleName": "EA SPORTS™ MMA",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01360_00_009EF5D993E887BA0DCD3BF91DEFF520CE980AEFF1/F6D297FCFCA941F3B6D313F2F9D9DB7EED5DACE2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR01361_00": {
+        "npCommunicationId": "NPWR01361_00",
+        "trophyTitleName": "Section 8: Prejudice",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01361_00_00556A3A0C4ED9D68D167D1B763BC63F1DA46073B6/608A03938CCA6F6839F6F3656D37054FACB267F1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 43
+        },
+        "service": "trophy"
     }
 }
