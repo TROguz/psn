@@ -4158,5 +4158,135 @@
             "bronze": 34
         },
         "service": "trophy"
+    },
+    "NPWR00756_00": {
+        "npCommunicationId": "NPWR00756_00",
+        "trophyTitleName": "Battlefield 1943™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00756_00_0052B5A6A793A6E4B91F3D9EA3E60B40FA71C43A87/E9448B6FA33258D00410988673EF31E304C68A2A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00757_00": {
+        "npCommunicationId": "NPWR00757_00",
+        "trophyTitleName": "NINJA GAIDEN Σ2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00757_00_005C8FE66FFEFB30394DCB7B6E970D2128284DF210/080C12DB09C22C84C855E70EC1D952E2FDE758D5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR00758_00": {
+        "npCommunicationId": "NPWR00758_00",
+        "trophyTitleName": "Record of Agarest War Zero",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00758_00_00F06DA4B1C2210D7FF1A2866E012FC1E6F92DB21B/1A4576ED5B305982628EC9F9FD8C4D899FBF18D4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 19,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR00759_00": {
+        "npCommunicationId": "NPWR00759_00",
+        "trophyTitleName": "Trinity Universe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00759_00_00FB0A9158E9412F73DA8E8267E9C934D5BD4A61CC/80680A05F3FA148C2F72AC1F3DA6E68F294185CB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR00761_00": {
+        "npCommunicationId": "NPWR00761_00",
+        "trophyTitleName": "トロともりもり",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00761_00_00FE67F1A510A627BB34E63A13875DBF0F9D3AB621/2F72A71087AD3885910CB21A85C9714E11BD813C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR00762_00": {
+        "npCommunicationId": "NPWR00762_00",
+        "trophyTitleName": "Star Trek: D·A·C Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00762_00_00883E7E739CA1D31E9F8E19A87E3AFF914EF8431E/8376CB6DFF6003113F9AC924547C83C93E2EBE00.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00765_00": {
+        "npCommunicationId": "NPWR00765_00",
+        "trophyTitleName": "Castle Crashers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00765_00_009CDCFD0EA0ACAC2A1631B2402F38974A9333424B/FEFC83E46F21C6407F70C0A8C3DC978662682D85.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR00767_00": {
+        "npCommunicationId": "NPWR00767_00",
+        "trophyTitleName": "Time Machine: Rogue Pilot",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00767_00_00E9711C045715DB1EF165EE480E099C07486748F8/1A65F903795EB8F14149A5B2581766EB659717FC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR00768_00": {
+        "npCommunicationId": "NPWR00768_00",
+        "trophyTitleName": "Under Siege",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00768_00_007FEB724B735EC2DB8ADD8149BECD1789D60A117F/8D2F93275573C5D4484462476F92368CC9E07885.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 2,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR00770_00": {
+        "npCommunicationId": "NPWR00770_00",
+        "trophyTitleName": "Band Hero",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00770_00_00C76752EC44CD5AA8075FD39C9A30100D722168AE/4A815B4ED549BFCE29F260817ACA5860C12298C3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 38
+        },
+        "service": "trophy"
     }
 }
