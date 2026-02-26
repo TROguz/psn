@@ -9878,5 +9878,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR01468_00": {
+        "npCommunicationId": "NPWR01468_00",
+        "trophyTitleName": "Williams Pinball Classics",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01468_00_0023765BF85FBA6406C61651A76458D79ED380BEA1/0E6D2F98140E4B2220507D934312D38B9708812F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR01469_00": {
+        "npCommunicationId": "NPWR01469_00",
+        "trophyTitleName": "Racket Sports",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01469_00_00CB3E1D866F7660FB90879380B6DC701C863D4539/3537F4A0E501BF103C2A3F8441B0574125F08C2C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR01471_00": {
+        "npCommunicationId": "NPWR01471_00",
+        "trophyTitleName": "Thor™: God of Thunder",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01471_00_008DE7BF1CFAEE20BBC6E28B2D35DE6B6149CDCB6C/5F838B7D35A111FFCDE1306535DB6B8CDD1D74C3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR01472_00": {
+        "npCommunicationId": "NPWR01472_00",
+        "trophyTitleName": "Hunter's Trophy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01472_00_009889367B4D5EE75EFEAA9CD1366DF830F9FC479B/5EC291E595B8C13C8BCB6DA12EEB695C1F5B4BA9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR01473_00": {
+        "npCommunicationId": "NPWR01473_00",
+        "trophyTitleName": "My Body Coach 2 - Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01473_00_009909DA0FA2AA8BAEB016EA1F6493ADB0CA0610D9/FDD59E68ABA92C596A2282296BB4A40852CA67C0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR01475_00": {
+        "npCommunicationId": "NPWR01475_00",
+        "trophyTitleName": "Popstars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01475_00_00434DDF961C62CA7DA1DE6DE07E1D91FA0E97F7F4/1BAF701D94CFF4BFEC4C7A1D87E3D3A97991EEEC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01476_00": {
+        "npCommunicationId": "NPWR01476_00",
+        "trophyTitleName": "RISK: Factions",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01476_00_002954EC719A79F8840532832C4B34369759FE869C/77BBA7A9BD8AB0FCDA7C248AB39A651165A9043A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR01477_00": {
+        "npCommunicationId": "NPWR01477_00",
+        "trophyTitleName": "Atelier Rorona\nThe Alchemist of Arland",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01477_00_000A79B7E647913084B056ABC4A7728195597E54C4/21FF9DF3430BE860398A0E951E09E97D0BF77594.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR01478_00": {
+        "npCommunicationId": "NPWR01478_00",
+        "trophyTitleName": "BioShock Infinite",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/DEF5791FB8CC86CFAD8F32AD3FE2BEC8D3BADA93.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 24,
+            "bronze": 55
+        },
+        "service": "trophy"
+    },
+    "NPWR01479_00": {
+        "npCommunicationId": "NPWR01479_00",
+        "trophyTitleName": "Qlione",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01479_00_008E1DD405BE6D2FC23F6E46F514DD4817D91974D0/F5764DD9A2A9659E75BEC17C883B3D0827784E76.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
     }
 }
