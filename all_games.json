@@ -14818,5 +14818,135 @@
             "bronze": 9
         },
         "service": "trophy"
+    },
+    "NPWR02174_00": {
+        "npCommunicationId": "NPWR02174_00",
+        "trophyTitleName": "Welcome Park",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02174_00_001C1AC4389BB1DF58F019A5DBCDF346DCE872D726/AC69A21401BAE912BA25653CC95531159D5D6FDB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR02175_00": {
+        "npCommunicationId": "NPWR02175_00",
+        "trophyTitleName": "Magic 2013",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02175_00_009BC4EA40174FE67C23EF3B74D97C33C1C346D299/257F7EC80080BB82F6196F0BDFA40433E2D91ABD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR02181_00": {
+        "npCommunicationId": "NPWR02181_00",
+        "trophyTitleName": "NINJA GAIDEN 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02181_00_005E39EA2766A61F30583DB57BEF613AD28AF5E61B/DFDA55DC24F8ABCBE7092DBB598432BA939CE47E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR02184_00": {
+        "npCommunicationId": "NPWR02184_00",
+        "trophyTitleName": "MOTORSTORM® RC",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02184_00_0000C26E3C48140C49246A5CB3328A60C1339A8718/24334E4D9821463A5DC994CF1CFA534479A26F4C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 12,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR02193_00": {
+        "npCommunicationId": "NPWR02193_00",
+        "trophyTitleName": "Atelier Totori\nThe Adventurer of Arland",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02193_00_00BD100FC4C7590E62A0068FAA485819BA3B35247E/FE42E1D646503E26CFD584318464B321D328E4B4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 17,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR02200_00": {
+        "npCommunicationId": "NPWR02200_00",
+        "trophyTitleName": "Resident Evil: The Darkside Chronicles",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02200_00_005430558F95123496ACF48F603E80E3858D10980A/9BB4E6FA5F0BD62FF9931B30E6CC70DA9486A43A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR02201_00": {
+        "npCommunicationId": "NPWR02201_00",
+        "trophyTitleName": "Dragon Ball Z Ultimate Tenkaichi Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02201_00_00BED660AAC07BED29E8BEB549BFF7A8CF1DEE9094/6485567322D4342E908D549786D2A1839A2453B0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR02203_00": {
+        "npCommunicationId": "NPWR02203_00",
+        "trophyTitleName": "Ridge Racer™ Unbounded",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02203_00_0057EB62CF2FDE65D8D78D1D7F4DDA58E4DC2159A7/55BC41EEDF23F377555C69C21F3A28ABC68F25EF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR02209_00": {
+        "npCommunicationId": "NPWR02209_00",
+        "trophyTitleName": "ToHeart2 DX PLUS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02209_00_00556B0DED57389D30D66247D77152FD9239582AAC/144FD9DD10CC1D96C348CA5E7D08A6FE85748EFD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 18,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR02214_00": {
+        "npCommunicationId": "NPWR02214_00",
+        "trophyTitleName": "ULTIMATE MARVEL VS. CAPCOM 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02214_00_0071D8213080990F6E7EAE1E11F821AD8630A13E43/D553BB5C6BA46E627AEA07FF3ADB9176632238C7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 33
+        },
+        "service": "trophy"
     }
 }
