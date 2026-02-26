@@ -12088,5 +12088,135 @@
             "bronze": 4
         },
         "service": "trophy"
+    },
+    "NPWR01727_00": {
+        "npCommunicationId": "NPWR01727_00",
+        "trophyTitleName": "WWE '12",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01727_00_0010F6E50C1320388F81181F585F08A0622E5DBF36/9AC78CC5C4CA99008260B1C547B009B28DB256C1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR01728_00": {
+        "npCommunicationId": "NPWR01728_00",
+        "trophyTitleName": "Madden NFL 12",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01728_00_0045E962D35283EDC1F97CFA377E014F66CD8A087C/24397E8508F3E2E1BDF8330D1CE1371AE28A42DF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 4,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR01730_00": {
+        "npCommunicationId": "NPWR01730_00",
+        "trophyTitleName": "inFAMOUS 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01730_00_00F8EBA41BC7733BB46CF1FDCB0F8A26E44EE9FCF5/C84A62DD1D67398AA198619A048EE5AEDBDF0D9F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR01731_00": {
+        "npCommunicationId": "NPWR01731_00",
+        "trophyTitleName": "Mercury Hg",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01731_00_004DDA5F56ED2CEB79F7C6545EBB39671B23854E0C/4CB3747E19805E70D64606BFF6C66F391E6A42BF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 1,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR01733_00": {
+        "npCommunicationId": "NPWR01733_00",
+        "trophyTitleName": "SIMPLE500シリーズ Vol.2 THE 密室からの脱出",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01733_00_006FEE9D3434F339C918B6AB5A34F7698F880C1D2F/7A2D7F468EB1C0252817233B86372A576E3869B3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR01734_00": {
+        "npCommunicationId": "NPWR01734_00",
+        "trophyTitleName": "NCAA® Football 12",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01734_00_0082D9C1A965E295C71FDD3C469700C9A627BE2B0B/99DD1FB5E66F353B674D4281F4153791E28E79EB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR01735_00": {
+        "npCommunicationId": "NPWR01735_00",
+        "trophyTitleName": "NO MORE HEROES RED ZONE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01735_00_00AAD17240C4EA99C56226FB11930002C85E23131A/979035B1DA958149993ECB98262D33E36449C452.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR01736_00": {
+        "npCommunicationId": "NPWR01736_00",
+        "trophyTitleName": "Jimmie Johnson's Anything With An Engine",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01736_00_00B4412948973AD5A4B9FBB9444E663A99D079E701/3AEFDC49875A250F5AB4B3FDD3A48CC62B0E683A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR01737_00": {
+        "npCommunicationId": "NPWR01737_00",
+        "trophyTitleName": "Backbreaker Vengeance",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01737_00_00FCBB770F8BE44D67A2A6E0C8CE59730DDA63B5E9/5DD86FE4C1EE20E443F356D755604CBF92C3CBEF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01738_00": {
+        "npCommunicationId": "NPWR01738_00",
+        "trophyTitleName": "SOULCALIBUR Ⅴ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01738_00_0072CBBD3A16280F94FD0CC86BE74F6AE22E4A93F7/557E1348518D65FE6BDFF5A16FA4B2BFDAF3D15D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
     }
 }
