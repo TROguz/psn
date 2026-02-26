@@ -12738,5 +12738,135 @@
             "bronze": 34
         },
         "service": "trophy"
+    },
+    "NPWR01792_00": {
+        "npCommunicationId": "NPWR01792_00",
+        "trophyTitleName": "Top Gun: Hard Lock",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01792_00_00838D9D31D9B5E7F501F744B17B7966A254318F18/74F9F4F7F0A82F37A3DEEF4E2D5B27E503AB4D61.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR01793_00": {
+        "npCommunicationId": "NPWR01793_00",
+        "trophyTitleName": "Robot Rescue Revolution",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01793_00_00708629CA0C64F1064488FE95FF32D8BEB8B5DCCA/528146316ADCF6EF8FF9234861A6AB2751F51DE1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR01794_00": {
+        "npCommunicationId": "NPWR01794_00",
+        "trophyTitleName": "Kill Team",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01794_00_009BEA915A57F53BA701217E6FA3753F1D27AEA162/5F594307BA0206D79735F7AE64BAE18ECF960196.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01795_00": {
+        "npCommunicationId": "NPWR01795_00",
+        "trophyTitleName": "Crysis®2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01795_00_00EFDEF969EDBEABAEB87F68F976F238E39C8FB066/BFED90B907436527C8499E701565BB0F42635EE0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR01796_00": {
+        "npCommunicationId": "NPWR01796_00",
+        "trophyTitleName": "ULTIMATE MARVEL VS. CAPCOM 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01796_00_0043EC2C09755885A570C0FCBE710BE2716CD21AE1/D1B1E0BCBABF7F4DD9496962FF5C0D7A63467773.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR01797_00": {
+        "npCommunicationId": "NPWR01797_00",
+        "trophyTitleName": "Planets Under Attack",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01797_00_00F3690BE6B061BA119B55BE604180DF2362EA47D1/71B57AD6F81D021548983A3225D826D56F6A6B43.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR01798_00": {
+        "npCommunicationId": "NPWR01798_00",
+        "trophyTitleName": "Fast Draw Showdown",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01798_00_00DA58EC56AE02CBD3BEA7A2C54FB91304CDA68850/1903CC57EEBCDCF7F65BC933C9D47293C3190D41.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR01799_00": {
+        "npCommunicationId": "NPWR01799_00",
+        "trophyTitleName": "Nelson Tethers: Puzzle Agent",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01799_00_00993081EA501EEA615682E12D23D3D2377FD43778/C47061851E32A02ED544E15F5B491E4F3A346C13.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01800_00": {
+        "npCommunicationId": "NPWR01800_00",
+        "trophyTitleName": "Let's Dance with Mel B",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01800_00_00FEC99D041E00D6E936FBCD648646E4000C593769/DC798625E9E108BB778D299DF6636820A3B65316.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR01801_00": {
+        "npCommunicationId": "NPWR01801_00",
+        "trophyTitleName": "ペルソナ４　ザ・ゴールデン",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01801_00_0058AA3A0D0A20E0E4D8B6AC12111B4A7E50577107/4856D601B29512E79F2DE385FEA9C7741D069810.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
     }
 }
