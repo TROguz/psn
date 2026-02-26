@@ -648,5 +648,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR00314_00": {
+        "npCommunicationId": "NPWR00314_00",
+        "trophyTitleName": "白騎士物語®－古の鼓動－トロフィーセット",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00314_00_005006D62C49B493CA357480DC30C8CC85D7D0D1AE/BB2B9925AA81330F5E44783090C0011BA10C328A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR00319_00": {
+        "npCommunicationId": "NPWR00319_00",
+        "trophyTitleName": "Tom Clancy’s H.A.W.X",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00319_00_002B3D925761E533558DFFF97F6A8C3F3DE9ED69F8/0FBEB1A85C65EA83C9BB4CBDFABD5E94A904D0D0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR00323_00": {
+        "npCommunicationId": "NPWR00323_00",
+        "trophyTitleName": "Battlefield: Bad Company",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00323_00_00E856F909B1730BD388656CA12DD0CC936C7E7143/B0A60DEEFDA0C18DF759D7003F6169073073964D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR00324_00": {
+        "npCommunicationId": "NPWR00324_00",
+        "trophyTitleName": "HEAVY RAIN™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00324_00_008DAB1F50430C4731BD0A51BAFE43A467A594392A/1E684EF7FDD6C36734E7B4ABDE1F2F8440DD1700.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 4,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR00328_00": {
+        "npCommunicationId": "NPWR00328_00",
+        "trophyTitleName": "Kane & Lynch 2: Dog Days",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00328_00_0005BDA606B33F1CBFFA0FF22FCDC59AC9E95B48AA/48B5A1A95C08624FD16AEA4B278FDAE6FC0FC20B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR00331_00": {
+        "npCommunicationId": "NPWR00331_00",
+        "trophyTitleName": "DRIVER San Francisco",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00331_00_00894CA1AC36DA4DA9FCF3D9ECABE0BD54BE2D3B09/CF666EF2C89686B0E9586090CA3E6CC0B5DC5C47.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR00338_00": {
+        "npCommunicationId": "NPWR00338_00",
+        "trophyTitleName": "Virtua Tennis 2009",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00338_00_00C1B47D33A0CBFF4E0B7C3FF52D5AAE6E20E7E3DC/529D4121EDA3D8CD1ADF2470E2E07B694D3926DC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR00339_00": {
+        "npCommunicationId": "NPWR00339_00",
+        "trophyTitleName": "Mercenaries 2: World in Flames™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00339_00_00114C5E3E9443C8707207BCEACD591FE4957B3D6B/B5B81A9B958282567FAE6DEDA3DA5DC61FBA42AB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR00345_00": {
+        "npCommunicationId": "NPWR00345_00",
+        "trophyTitleName": "GHOSTBUSTERS™: The Video Game",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00345_00_00E06D1DCC4FCE51F2F177F5C197D7F8351601FD16/753F3509D24AC0F2EA816925CD8F1EB04D06D739.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 0,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR00346_00": {
+        "npCommunicationId": "NPWR00346_00",
+        "trophyTitleName": "Novastrike Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00346_00_00ABF2D4395206862AC2156A4740F751530A2F4082/2675AD43A7E4B8DD4DF3D1308D9B0B523BF89AC9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 12
+        },
+        "service": "trophy"
     }
 }
