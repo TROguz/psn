@@ -3378,5 +3378,135 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR00675_00": {
+        "npCommunicationId": "NPWR00675_00",
+        "trophyTitleName": "MX vs ATV Reflex Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00675_00_002E4FF2156C277C558978CF33EF289014C8FFC30E/415E4175EBEBD3210246028950815D3D5C4AA5CA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR00676_00": {
+        "npCommunicationId": "NPWR00676_00",
+        "trophyTitleName": "Hannah Montana The Movie",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00676_00_00479AA4D296565FBDB02395D387B7E6B4D0313D16/008871A5B33AEFC8F7C33B43B7DDAE462B480C02.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR00677_00": {
+        "npCommunicationId": "NPWR00677_00",
+        "trophyTitleName": "Guitar Hero® Hits",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00677_00_0001B2B9723995C5CD8CC2FDA02207F5C5C7E78523/11193539005CFEB9C7FE43CE6AD44EB9A2F643D1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR00678_00": {
+        "npCommunicationId": "NPWR00678_00",
+        "trophyTitleName": "Superstars® V8 Racing",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00678_00_00BB652152419FF4F50515F3A238D2EE8565A907A5/0B661EA38B8F48C52E9F0DDAAB017DBAE240D9F4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR00680_00": {
+        "npCommunicationId": "NPWR00680_00",
+        "trophyTitleName": "Classic Rock Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00680_00_00560BE7EC363A4962C5F47B0DEAA5F133A329E3DF/9865D6624228684A0A3745F9FF022C5D16C30607.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 8,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR00681_00": {
+        "npCommunicationId": "NPWR00681_00",
+        "trophyTitleName": "Interpol: The Trail of Dr. Chaos",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00681_00_00F2199E0AB2B31D27E049FEC036B87940E1BDDB3C/08F3195A2C26724AFF47A270C977F2119C7BB7F7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR00685_00": {
+        "npCommunicationId": "NPWR00685_00",
+        "trophyTitleName": "Army of TWO™: The 40th Day",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/5CF74A59B615029EF658ECF852F1AC6490510A83.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR00686_00": {
+        "npCommunicationId": "NPWR00686_00",
+        "trophyTitleName": "Watchmen: The End Is Nigh Part 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00686_00_00E8FC804EE3008C491ACDBDE1D76DB947203D8CA5/677DF31D9835B073CAFAE10BA6B21E68D8653183.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00687_00": {
+        "npCommunicationId": "NPWR00687_00",
+        "trophyTitleName": "Leisure Suit Larry® Box Office Bust™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00687_00_00C8C299ACBD001567FBDAA83FCF7ACDE5394D1ABC/FCC1F61883BF50BB8A6F5DEF21262527B8763EAE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR00688_00": {
+        "npCommunicationId": "NPWR00688_00",
+        "trophyTitleName": "Ashes Cricket 2009 ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00688_00_007F8B840F8A6DEE10459128AF783B30026F239B9E/3834B6C40F2B96324DC895271BAA784AD92ACA28.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
