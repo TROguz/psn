@@ -18068,5 +18068,135 @@
             "bronze": 36
         },
         "service": "trophy"
+    },
+    "NPWR02976_00": {
+        "npCommunicationId": "NPWR02976_00",
+        "trophyTitleName": "Summer Stars 2012",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02976_00_0027A232F05403AE29ADDE86E10A40078C1BE2848A/5BF880FB970E3E068BA04801D282A54226DF7BF2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR02977_00": {
+        "npCommunicationId": "NPWR02977_00",
+        "trophyTitleName": "Wanted Corp.",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02977_00_00E887C1FD98F13F011AE5A837C98BAC37C1822C18/87B8DCD9C621499C390F6057CC3F678E272F973A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR02978_00": {
+        "npCommunicationId": "NPWR02978_00",
+        "trophyTitleName": "Disgaea 3: Absence of Detention",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02978_00_004E6B2A35917C56014B6F6A9E3069913B336801FB/B912FAAA0B1AEE85DCE39F64C75E8086E224C8D6.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 2,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR02979_00": {
+        "npCommunicationId": "NPWR02979_00",
+        "trophyTitleName": "Disgaea 3: Absence of Detention",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02979_00_00EFEFFFF2EC190305E1E6BC07AA126E302F00875B/11119F1A74F9A3CE3DC9115C530C49D98304857A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 2,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR02983_00": {
+        "npCommunicationId": "NPWR02983_00",
+        "trophyTitleName": "LEGO® Harry Potter™: Years 5-7",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02983_00_00062F0686BDF2D67D3DBF894D6502D302FFF70CBC/A7CB3D37958AB73054BB4A132210A61E98EBAFC3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR02986_00": {
+        "npCommunicationId": "NPWR02986_00",
+        "trophyTitleName": "Syndicate™\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02986_00_00E25A2A14210BE044EFFFEB4DC75DC9413A23F13D/723D694DB14ED99A4CD8323C9191BF5C3B0DD9DF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 0,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR02990_00": {
+        "npCommunicationId": "NPWR02990_00",
+        "trophyTitleName": "Hot Shots Golf: World Invitational",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02990_00_008CF75E6FC9AF1DCDD2FCCE567F80EB7137B83402/205EAB0F58C9EEDCE3E35587018C319FF5FAEE00.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR02996_00": {
+        "npCommunicationId": "NPWR02996_00",
+        "trophyTitleName": "LEGO® Batman™ 2: DC Super Heroes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02996_00_008638377DD923E38AB3789C7213F3A5877FCF2B47/1AC3017DB21570DA47A512ADCC1125AE9B96F97B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR02997_00": {
+        "npCommunicationId": "NPWR02997_00",
+        "trophyTitleName": "LEGO® Batman™ 2: DC Super Heroes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02997_00_009A3064087D039DCF11AAB01C495BDC6A785C4B0B/EE1B94A8471F7B33ECDBF868A6E835EEBE834A38.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR02998_00": {
+        "npCommunicationId": "NPWR02998_00",
+        "trophyTitleName": "Unit 13™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02998_00_00313FDA2D636300112DABD924DFF623D70659D8C7/AB739B5F9FCF70F681ACF79E0B3F5B677CD924B5.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 17,
+            "bronze": 24
+        },
+        "service": "trophy"
     }
 }
