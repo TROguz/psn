@@ -12348,5 +12348,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR01749_00": {
+        "npCommunicationId": "NPWR01749_00",
+        "trophyTitleName": "Champion Jockey: Gallop Racer & GⅠ Jockey",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01749_00_000709FACD548CCFC69B0ED5D66C0EA588BF00F882/B1AE666ECB2B5ED4A2113182178F4E08B9A4CD24.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 16,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR01750_00": {
+        "npCommunicationId": "NPWR01750_00",
+        "trophyTitleName": "Champion Jockey: G1 Jockey & Gallop Racer",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01750_00_005374D5BF9AA099C0661D2134DB5411233A23A3CC/8C0F35B548C2264FB4E7CCCD930353128436EE14.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 16,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR01753_00": {
+        "npCommunicationId": "NPWR01753_00",
+        "trophyTitleName": "Putty Squad",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01753_00_0004A61E62D5205FA483135910A30B2DE4CEF9FE75/45865FE3E94E748C5F178DAFB7859EAA615B750C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 16,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR01756_00": {
+        "npCommunicationId": "NPWR01756_00",
+        "trophyTitleName": "Skylanders Spyro's Adventure",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01756_00_0094E2455EEB88C89F4B6B57564FFB63CF3A784756/EE26484CB7BC9E4C44F1CFC8E1DAA3822D54FA03.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR01757_00": {
+        "npCommunicationId": "NPWR01757_00",
+        "trophyTitleName": "Rochard",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01757_00_00648524243CA41C4F73675C8EDF050C75F89930EF/EE19F81EF173593D87083363C5A31298E32F1F7B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR01758_00": {
+        "npCommunicationId": "NPWR01758_00",
+        "trophyTitleName": "Devil May Cry HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01758_00_002AEDC8ED245F1D74A2CB0997B23408EBDFB9D7A2/11ED1848A2972D2B69A3B1B21865F135FFDF28D0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR01759_00": {
+        "npCommunicationId": "NPWR01759_00",
+        "trophyTitleName": "Devil May Cry 2 HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01759_00_00D518C4884795B4569438BA84CF70465AB1659ADF/042822A2F73160F82D4D435FFE903095E565CF39.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 17,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR01760_00": {
+        "npCommunicationId": "NPWR01760_00",
+        "trophyTitleName": "Devil May Cry 3 HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01760_00_007B60318CC65F6B0C04A94E58F1D54FAA264CD125/24212069C24A4CD95BCD47259382DF7BC2B870B2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR01761_00": {
+        "npCommunicationId": "NPWR01761_00",
+        "trophyTitleName": "Worms Ultimate Mayhem",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01761_00_00A2AA3FC0806C6A21DCD5F32CCE7B8F7BAEBA1EB2/F18968C5D57FB5CF2E9E51C1CE78C7943D0C8B55.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 12,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR01763_00": {
+        "npCommunicationId": "NPWR01763_00",
+        "trophyTitleName": "Beat Hazard Ultra",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01763_00_00CC41C33086E1787F68E97A81F92BD4CBB6D3772C/CA1614D179CF7972C18CE2EB240ABB25AB97DEDE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
