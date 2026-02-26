@@ -7538,5 +7538,135 @@
             "bronze": 40
         },
         "service": "trophy"
+    },
+    "NPWR01218_00": {
+        "npCommunicationId": "NPWR01218_00",
+        "trophyTitleName": "Joe Danger",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01218_00_0051C02A8B8C451DE43EBD56D76933F0C59F60B713/8118561B49966A0C7109E10FC4DCC4F5A8916F7F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR01219_00": {
+        "npCommunicationId": "NPWR01219_00",
+        "trophyTitleName": "Lucha Libre AAA: Heroes del Ring",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01219_00_008681CC28122154161D15BAD1E29BCE1E2CC2B87A/CBCDFD5D250341D195AB987CB6774A226D1B393B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 12,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR01220_00": {
+        "npCommunicationId": "NPWR01220_00",
+        "trophyTitleName": "Sam & Max: The Devil's Playhouse - Episode 2: The Tomb of Sammun-Mak",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01220_00_000BE61291566F0D594720D8DEE780893CBB242B0F/37E61FF5908DFCC43D4C8BBCFD3D209DA885B441.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01221_00": {
+        "npCommunicationId": "NPWR01221_00",
+        "trophyTitleName": "Sam & Max: The Devil's Playhouse - Episode 3: They Stole Max's Brain!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01221_00_002BBC6E69858D02D5A7A0F62DB7F5D81565FE077E/493FCC047A14AC823656071E358D6255D8678D33.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR01222_00": {
+        "npCommunicationId": "NPWR01222_00",
+        "trophyTitleName": "Sam & Max: The Devil's Playhouse - Episode 4: Beyond the Alley of the Dolls",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01222_00_00D1E88413598EF5EB6014611F72591BD016318C05/59CFF05C3CAA0578679172B6C3773C72BAF27D26.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR01223_00": {
+        "npCommunicationId": "NPWR01223_00",
+        "trophyTitleName": "Sam & Max: The Devil's Playhouse - Episode 5: The City That Dares Not Sleep",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01223_00_00576BA22FF4A47C34458B53BEB2E99BA12E353F83/4DA0D2FA754CD2F43935BB91694ACB6DCB500D87.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01224_00": {
+        "npCommunicationId": "NPWR01224_00",
+        "trophyTitleName": "Virtua Tennis 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01224_00_00550C7E815905AF788523255448831788EAF32265/B07EB62E7BEB8DC097D5BFE598085AF4AD75CC6C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR01225_00": {
+        "npCommunicationId": "NPWR01225_00",
+        "trophyTitleName": "Pure Futbol Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01225_00_006495CD824ABABDFC1521B984F48828B57E599BE2/AD11A721210F3575C654F4590415F14D9C6DA78E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR01226_00": {
+        "npCommunicationId": "NPWR01226_00",
+        "trophyTitleName": "Swords and Soldiers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01226_00_008A5E83CF23D5EBA143B98A2B4779AF51F3573DE8/4848C78075A9C0871AB2135A65CCAFEA57233658.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR01227_00": {
+        "npCommunicationId": "NPWR01227_00",
+        "trophyTitleName": "Test Drive Unlimited 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01227_00_004EF73B3E578AF3BB3D2DB388C73B52333C57EFE4/F1A6B6582E0DEA5F6F1A1F8D525428F79C603F12.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 43
+        },
+        "service": "trophy"
     }
 }
