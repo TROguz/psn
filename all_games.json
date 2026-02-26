@@ -4938,5 +4938,135 @@
             "bronze": 37
         },
         "service": "trophy"
+    },
+    "NPWR00858_00": {
+        "npCommunicationId": "NPWR00858_00",
+        "trophyTitleName": "Wizardry Labyrinth of Lost Souls",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00858_00_009F4F0F0811332E7F49A252B1BCBB44ED80C1A979/38B8EFFD6F9B24B43AE0A3809C45A1F136C97178.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR00859_00": {
+        "npCommunicationId": "NPWR00859_00",
+        "trophyTitleName": "龍が如く４　伝説を継ぐもの",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00859_00_00F24608CE1034850B39EC2C03BB66643660FBCEF6/C4B5579C64957663C669781845D1BA4522229647.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR00860_00": {
+        "npCommunicationId": "NPWR00860_00",
+        "trophyTitleName": "Tornado Outbreak",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00860_00_002FF7DF1CE55026A47D4BD1B5E99D5FEAD49C7AE6/32DC7A247DC1B585E2B6CCBC02E8243BE5D5CD5A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR00861_00": {
+        "npCommunicationId": "NPWR00861_00",
+        "trophyTitleName": "WORLD SOCCER Winning Eleven 2010",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00861_00_00E4547C45E08405CF13AF47080E64BF6562FBFBD2/F83600F067FC5CCA9C050CA5C796BC20BF13D6DA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR00862_00": {
+        "npCommunicationId": "NPWR00862_00",
+        "trophyTitleName": "Pro Evolution Soccer 2010",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00862_00_008EA82A35E93AD633A2D4BED4BB559AEE741DFDF7/E1D13F9C784BAC7ECB049CC7C17C7BDDE7351FE4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR00863_00": {
+        "npCommunicationId": "NPWR00863_00",
+        "trophyTitleName": "Braid",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00863_00_000377B39817AFDA1E75B1FA0533687A33BFFBAD19/05F28667631643177A422BBE7F38A08345980718.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 7,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR00864_00": {
+        "npCommunicationId": "NPWR00864_00",
+        "trophyTitleName": "HyperballoidHD Trophy Pack",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00864_00_00F13E0955487CE0A29332A998A6840515F2D05CBB/F999E72AFF7FF7E6B93BED1B0D22C6D5AF6AFF44.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR00866_00": {
+        "npCommunicationId": "NPWR00866_00",
+        "trophyTitleName": "TORO ! Let's Party !",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00866_00_0022EB55B89F67A05DDB43ABBE74E26C7516D1ACAF/E55D473C914ECFCFC7662D5908BD1F48821AF52B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR00867_00": {
+        "npCommunicationId": "NPWR00867_00",
+        "trophyTitleName": "Red Dead Redemption",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00867_00_00B20080027EF59CAB0A260E5829D2B86F3099B6B7/58E5702A267FC9E36A3F7CB95747CC20429E57C4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 17,
+            "bronze": 71
+        },
+        "service": "trophy"
+    },
+    "NPWR00870_00": {
+        "npCommunicationId": "NPWR00870_00",
+        "trophyTitleName": "Fairytale Fights®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00870_00_00A8EA3D106FCB4CBD429DB8BE5F3FEE52B1954060/03234E952B7D04A33E8BE7ECBDD4CD881732468A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 39
+        },
+        "service": "trophy"
     }
 }
