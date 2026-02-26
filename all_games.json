@@ -11828,5 +11828,135 @@
             "bronze": 34
         },
         "service": "trophy"
+    },
+    "NPWR01690_00": {
+        "npCommunicationId": "NPWR01690_00",
+        "trophyTitleName": "Motionsports™ Adrenaline Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01690_00_004AFE81A0C907CDFD83131C4A4C90905B7BFD8D28/044A34155EF3F123F89807B61F7576F374ACBB1C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR01692_00": {
+        "npCommunicationId": "NPWR01692_00",
+        "trophyTitleName": "Saints Row: The Third",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01692_00_0044C7EFA27D33B72999DF4837C7266CC79E6FE941/E619AC6310FFED9BFB7381E78A4B9654C822611D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 17,
+            "bronze": 61
+        },
+        "service": "trophy"
+    },
+    "NPWR01699_00": {
+        "npCommunicationId": "NPWR01699_00",
+        "trophyTitleName": "The Fancy Pants Adventures™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01699_00_00E91DEE66C7C4A938EE7C7E6BF50E7AB14E7AECFF/72DC636366A4ECBEF3FFE0E9DE7C21EE046C4D7C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01700_00": {
+        "npCommunicationId": "NPWR01700_00",
+        "trophyTitleName": "Eufloria",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01700_00_00FE84048377760651654BE863A9538D483E0DE10B/45A781FCC7D06AB6B82FCEB56C65A6CAB6A28748.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR01701_00": {
+        "npCommunicationId": "NPWR01701_00",
+        "trophyTitleName": "Fit in Six",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01701_00_00F8B9BDFF1DA915DDAFCD81BC8AD1E9D8F4F5C16A/649C7973A493E6FEA3845E6A0BE7CD8C4F452F1E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR01702_00": {
+        "npCommunicationId": "NPWR01702_00",
+        "trophyTitleName": "RUGBY CHALLENGE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01702_00_001296532ECCEF15A3114E6A68776F88157229AED3/CE81FF3C66C382467C65125616490153A948185F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 5,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR01703_00": {
+        "npCommunicationId": "NPWR01703_00",
+        "trophyTitleName": "Galaga Legions DX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01703_00_0073A6AF80FBEE7B05D056A6A18F27A0B018C6E454/648F06B4ECF1E25C3FC58C21E140F41027BD828A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01706_00": {
+        "npCommunicationId": "NPWR01706_00",
+        "trophyTitleName": "Dead Block",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01706_00_00FEFD21781FEEB6998C261C6956F85BA2C5385354/A270EDCB01C3289FE58BD711F66607813121C41D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR01708_00": {
+        "npCommunicationId": "NPWR01708_00",
+        "trophyTitleName": "TRINITY: Souls of Zill O'll",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01708_00_00A27913BD0EE4ED1E76CC8701D19DAAA6358FE921/EE92857DEEB6CCC4B5FFEFB0D1BFCA5442DE3493.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR01714_00": {
+        "npCommunicationId": "NPWR01714_00",
+        "trophyTitleName": "涼宮ハルヒの追想",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01714_00_00213027D596144A438175D3B082430BA9F77C5489/D4FD7A38C56FE7B562EF6131B98BBAF566D2691A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 46
+        },
+        "service": "trophy"
     }
 }
