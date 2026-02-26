@@ -13778,5 +13778,135 @@
             "bronze": 30
         },
         "service": "trophy"
+    },
+    "NPWR01913_00": {
+        "npCommunicationId": "NPWR01913_00",
+        "trophyTitleName": "BloodRayne:Betrayal",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01913_00_002E4C16F7EB52380E19476A06A19D45B39BC421AC/5CE107D6D5270D0C27145110DBD1F114063C2A71.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01914_00": {
+        "npCommunicationId": "NPWR01914_00",
+        "trophyTitleName": "MLB ボブルヘッド！",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01914_00_0040EEE6218BB41D5E6047E5C497D09FC49F642C5C/D9FE03B1F6D200B0407BC043412B209DF52812C6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 15,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR01931_00": {
+        "npCommunicationId": "NPWR01931_00",
+        "trophyTitleName": "Resistance: Burning Skies™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01931_00_005FCE740FC34746BA6040AD7082D78CBF656CFD9B/3C703877A58DCE7C95054F46967445AAB4348718.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR01946_00": {
+        "npCommunicationId": "NPWR01946_00",
+        "trophyTitleName": ".hack//Versus",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01946_00_00B4C00C0B32B1A0E006A597C27A8ED94806C5DD77/624627594F17F3F510E8E30F32E92B14332B092E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR01952_00": {
+        "npCommunicationId": "NPWR01952_00",
+        "trophyTitleName": "Saint Seiya: Sanctuary Battle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01952_00_002C722F3B5A12DFE5C6D9584D344E6D16498318D8/B2C73B407234D2ADAC9AAB7D1EE89E28949C6262.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR01962_00": {
+        "npCommunicationId": "NPWR01962_00",
+        "trophyTitleName": "Tour de France 2011",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01962_00_0061E19B066E8145A79C12E515AA842469A5FCF93E/B7FF44AD41A0890916EBCBCA29DAB6858E4FB29D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 6,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR01969_00": {
+        "npCommunicationId": "NPWR01969_00",
+        "trophyTitleName": "アリス マッドネス リターンズ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01969_00_007D0CE40BFDAB7A5FD8A62D24EF00041E97B08856/FDAA3303A84257EC889C93055F898881F4C4E149.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR01975_00": {
+        "npCommunicationId": "NPWR01975_00",
+        "trophyTitleName": "Phineas and Ferb Across the 2nd Dimension",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01975_00_0060E7205EB20F74D1DD99AC260536D539B5A615DF/6D5389B635EB66E230D7D03D6F80905D99A53AFE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 14,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR01982_00": {
+        "npCommunicationId": "NPWR01982_00",
+        "trophyTitleName": "Battle Slots",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01982_00_0093F072D816DE9F4BF03A178A8A3BACD66FC7B9FA/092E3BC4A2E0B8241BBB2F446C2DB09F1499A073.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 3,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR01990_00": {
+        "npCommunicationId": "NPWR01990_00",
+        "trophyTitleName": "Brink",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01990_00_00BD3F8D7A05E5D8466B690BF786A7F133DEE04E98/1ECBD7C1DB638CC380E3D535706C027C3E1F84F4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 19,
+            "bronze": 14
+        },
+        "service": "trophy"
     }
 }
