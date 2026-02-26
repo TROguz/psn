@@ -9228,5 +9228,135 @@
             "bronze": 20
         },
         "service": "trophy"
+    },
+    "NPWR01396_00": {
+        "npCommunicationId": "NPWR01396_00",
+        "trophyTitleName": "Renegade Ops",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01396_00_002C09B6B438FFCBE3469FFD3B376071F0DA0FAF94/8B3159615735C2BBCA353282364CC3A4B5687D9A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR01398_00": {
+        "npCommunicationId": "NPWR01398_00",
+        "trophyTitleName": "Zumba",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01398_00_00A85947C8CA8E5826F00B685A09F331DFBF62B954/C285BD46F67F8F77F651664E9EA6FE03D7C4C940.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 3,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR01399_00": {
+        "npCommunicationId": "NPWR01399_00",
+        "trophyTitleName": "剣と魔法と学園モノ。３",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01399_00_008993EB29DF072BCB1751FA9FF3357F87424D5210/AED1486C29FE20D19A120ED2A01B362D447017A1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR01400_00": {
+        "npCommunicationId": "NPWR01400_00",
+        "trophyTitleName": "El Shaddai ASCENSION OF THE METATRON ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01400_00_007E2255FB01FD16C2AAA62B8B51F17E78E40944A6/3B00A2F30ABF77CAAA89E5E728A4D0DBB5BF0361.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR01401_00": {
+        "npCommunicationId": "NPWR01401_00",
+        "trophyTitleName": "Who Wants To Be A Millionaire? Special Editions ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01401_00_00D1D4136810EEE1282DC70C189EC12640DA1980AB/4A2FA5FB260C9EB3EFEBBAA1A05C9F2375670491.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01402_00": {
+        "npCommunicationId": "NPWR01402_00",
+        "trophyTitleName": "Dead Space™ Ignition Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01402_00_0041CD665E73087D4E15A78F150C33A0FD210C6B72/4001F2648BB42390B64579A936C66BC1A76FFBC0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01403_00": {
+        "npCommunicationId": "NPWR01403_00",
+        "trophyTitleName": "SPELUNKER HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01403_00_00B405615B06E6368CA0536E25024E9FDBF8D93E21/75007B4A311AF7814CAC5EF3978B50BE780A7DE3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 12,
+            "silver": 27,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR01404_00": {
+        "npCommunicationId": "NPWR01404_00",
+        "trophyTitleName": "Medal of Honor Frontline™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01404_00_000008CEBD64B112C28E8E07792B97CD2ECBCFCA3C/15A4CC25FFC1CAF7028139EEA21197487FF30B0B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR01405_00": {
+        "npCommunicationId": "NPWR01405_00",
+        "trophyTitleName": "Pro Evolution Soccer 2011",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01405_00_0064379721B42AE52C7D135F73AC4A7F95EECB9219/F7AFC162BC26DCD14C281A841C89BE1409463F13.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR01406_00": {
+        "npCommunicationId": "NPWR01406_00",
+        "trophyTitleName": "Rugby World Cup 2011",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01406_00_0033314D908F65C2BC12D9869EBA215D7A6915716C/2A44A7A20930F1525299EB0EDE1A3781C4A64306.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 32
+        },
+        "service": "trophy"
     }
 }
