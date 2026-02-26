@@ -8058,5 +8058,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR01267_00": {
+        "npCommunicationId": "NPWR01267_00",
+        "trophyTitleName": "Yoostar2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/6C3894DBCB93EAB38AFDC23A8BA76D39E5A4E39B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR01268_00": {
+        "npCommunicationId": "NPWR01268_00",
+        "trophyTitleName": "TV Superstars™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01268_00_0095CFFE42AA5428CDEDD004959A4496C647E0C470/FCD432D6DA40800EE8604612447A2FF9E5DD13EB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR01269_00": {
+        "npCommunicationId": "NPWR01269_00",
+        "trophyTitleName": "Need for Speed™ Hot Pursuit",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01269_00_00794168B8E28B60244C9AFB7DE9A46B5B9CA1168F/3EA6A1348A9FB350CA347F9235BC8D34734C21CD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 56
+        },
+        "service": "trophy"
+    },
+    "NPWR01270_00": {
+        "npCommunicationId": "NPWR01270_00",
+        "trophyTitleName": "SBK®09 Superbike World Championship",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01270_00_003CF30E19BA3D8BD9D2116E7E11F59104B63ECE47/7FAE3808582FF5F8828EF5263CB4F8AA68CA9E1E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 14,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR01271_00": {
+        "npCommunicationId": "NPWR01271_00",
+        "trophyTitleName": "RAZING STORM",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01271_00_006AD8F6AEDB787066B544D5749364C5A6FE267F72/39BCD9BDE951E51400D564D5C9900B1A503847CC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR01272_00": {
+        "npCommunicationId": "NPWR01272_00",
+        "trophyTitleName": "Disney Sing It: Party Hits ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01272_00_008612C2EFA19A74BE9DEDFADF52CBFAC41F12D115/0879064D4E01ADBF0B9341929E42960C0B31C030.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR01275_00": {
+        "npCommunicationId": "NPWR01275_00",
+        "trophyTitleName": "Lara Croft and the Guardian of Light",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01275_00_00A14E1252474387AD933FD777C7FAB290DA217477/70C770AF59736EABBB59CDA724E1B0AA6D0C3800.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01278_00": {
+        "npCommunicationId": "NPWR01278_00",
+        "trophyTitleName": "Deadstorm Pirates",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01278_00_0025EDBA816F22FE5B8DCF1333CBA61967642D406D/DBD2A014630705A9FEEFF3439D7FA15ACD6DE7E3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01279_00": {
+        "npCommunicationId": "NPWR01279_00",
+        "trophyTitleName": "Free Realms",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/6A21AACECA6F65487B45D8CBB78ADD06813C99B4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 20,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR01281_00": {
+        "npCommunicationId": "NPWR01281_00",
+        "trophyTitleName": "Supremacy MMA",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01281_00_00821D44344B5E92AB3F8E7EC80044C66CBB8812CB/E61C8BAF0AAB606525F8F0FB34DEA3D5307D9FEF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 9
+        },
+        "service": "trophy"
     }
 }
