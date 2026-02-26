@@ -16768,5 +16768,135 @@
             "bronze": 24
         },
         "service": "trophy"
+    },
+    "NPWR02695_00": {
+        "npCommunicationId": "NPWR02695_00",
+        "trophyTitleName": "Resident Evil: The Umbrella Chronicles",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02695_00_00BF951EF5A2E310DBE643FA377685F2232819A905/294FF46B746E38B1BFB74AB5A253565B18D1C179.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR02712_00": {
+        "npCommunicationId": "NPWR02712_00",
+        "trophyTitleName": "YAKUZA: Dead Souls",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02712_00_0067E7A19D82B43854D493BBC91714192A06B0127C/91B9130B330F235CAB7010A06BEF13A3BF60DC0B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR02714_00": {
+        "npCommunicationId": "NPWR02714_00",
+        "trophyTitleName": "The testament of Sherlock Holmes Trophy set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02714_00_00B9FA677E96B04569F5A1DE3A9A5D40445C9A8836/83AD63730E6CD720B5339B8892098F26612FD974.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR02715_00": {
+        "npCommunicationId": "NPWR02715_00",
+        "trophyTitleName": "Lights, Camera, Party!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02715_00_0004632FA4E83190A2928533C8E9EF5E69D4E325FD/66FC3D0193223A0AD1C0337AD1C3426E85EA0D4B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR02717_00": {
+        "npCommunicationId": "NPWR02717_00",
+        "trophyTitleName": "PooYoos - Episode 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02717_00_00F01F616184F1F8AAA4C83C4B37D129BE580F1078/8E020404F212DEE7AFE47515F988C24DB8701EB3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR02719_00": {
+        "npCommunicationId": "NPWR02719_00",
+        "trophyTitleName": "FIFA Street",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02719_00_00396F215B3D1C0138C89BD9A71663E41DB9A73E67/528DC2416FB1C89B0A3744284DF4B11A033853E4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR02720_00": {
+        "npCommunicationId": "NPWR02720_00",
+        "trophyTitleName": "Family Game Night 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02720_00_005F02CDDF62BDE9489271A6C8A9E131BFFC86870B/DC2018745C60F70283F2C978248185E0BBE6DE8C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 20,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR02723_00": {
+        "npCommunicationId": "NPWR02723_00",
+        "trophyTitleName": "Puddle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02723_00_00B600E9769C9238DE94C31DFB0180850A97C55C77/5017E66FB58AF7D07530EE374A28290E39171094.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR02724_00": {
+        "npCommunicationId": "NPWR02724_00",
+        "trophyTitleName": "The Cube",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02724_00_0021DE93C50A859631971D83D123C602A00646724C/052C0701FB4E5731691F5E577E721B5B41AF1180.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR02725_00": {
+        "npCommunicationId": "NPWR02725_00",
+        "trophyTitleName": "Dungeon Hunter: Alliance",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02725_00_00AB04E995E59A07DCEBC12CFABF8EF0EAF4BECB98/7F725F10F154339EC0A690258BE578C20635F1AC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 48
+        },
+        "service": "trophy"
     }
 }
