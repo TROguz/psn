@@ -778,5 +778,135 @@
             "bronze": 12
         },
         "service": "trophy"
+    },
+    "NPWR00350_00": {
+        "npCommunicationId": "NPWR00350_00",
+        "trophyTitleName": "PixelJunk™ Eden / Encore",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00350_00_003E7951836589EE9C1263078439CA7C0502044199/EDED87AC75C3379249C3C86EB475578D832F5942.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR00352_00": {
+        "npCommunicationId": "NPWR00352_00",
+        "trophyTitleName": "BioShock",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00352_00_0054A97A00EA20990FC4F9D673CA9E90B5520B1D69/25E1901FBA6D18B9778DC3FFC260D664FF937D3F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 3,
+            "bronze": 59
+        },
+        "service": "trophy"
+    },
+    "NPWR00354_00": {
+        "npCommunicationId": "NPWR00354_00",
+        "trophyTitleName": "Worms™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00354_00_00DD430690ED5EA22EE1F39E030B5BF810D0A1623C/E594A18B240F7B7646E58DF3B175E424ABE04050.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR00355_00": {
+        "npCommunicationId": "NPWR00355_00",
+        "trophyTitleName": "Switchball®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00355_00_0056DEC60EF0F50F5D8727FE511F6DACC1E847D467/18265A31FF29BA473E1FAC6119D17FE933FB5FCB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00356_00": {
+        "npCommunicationId": "NPWR00356_00",
+        "trophyTitleName": "Mahjong Tales: Ancient Wisdom",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00356_00_00F93425C7A6772D237AC6C209CA49D29861B44C27/C35721AA876EB875AE476A84DCC93D247F9E3BC5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR00357_00": {
+        "npCommunicationId": "NPWR00357_00",
+        "trophyTitleName": "FIFA 09",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00357_00_007DEB2E9EA9099AAC5F036FCBD2147F28DD8985F5/5182A4B3E04C5E469576AEE2BE059E0899C9E29D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 17,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR00359_00": {
+        "npCommunicationId": "NPWR00359_00",
+        "trophyTitleName": "Quantum of Solace",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00359_00_005CCB6C686C75A138A0EFDFA8E7E47BAB1A2E9242/2CCEF4677C11BDBF2517C6068EC1A3793A8CD438.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR00362_00": {
+        "npCommunicationId": "NPWR00362_00",
+        "trophyTitleName": "CRASH COMMANDO™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00362_00_00C7944FB4D00610124B5C7B0943DEA0F6F209DA49/5504715D732E1F03C633E5E6DC20B7BD75D77504.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR00373_00": {
+        "npCommunicationId": "NPWR00373_00",
+        "trophyTitleName": "THE KING OF FIGHTERS XII",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00373_00_0028A1AEAE60144E27081A45B6E63FCCCF8A4CB5AA/A2FFC137B686E5709C59FFBCD8A03907A703FBCD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR00374_00": {
+        "npCommunicationId": "NPWR00374_00",
+        "trophyTitleName": "Prince of Persia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00374_00_0062FDA111AD1057ADD0F9FB4CFF545B63A5B80BF6/5A9C195DE602A0FAD84D181146D3CB55D1D040D5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 49
+        },
+        "service": "trophy"
     }
 }
