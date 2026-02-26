@@ -609,18 +609,5 @@
             "bronze": 34
         },
         "service": "trophy"
-    },
-    "NPWR20189_00": {
-        "npCommunicationId": "NPWR20189_00",
-        "trophyTitleName": "The Secret Order: Shadow Breach",
-        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20189_00_0026D6EE707A398121ECA3CFC9A0A65AF49E4A2883/3E346B225CD0F41A177C4D3FEEAAF48539B8FE37.PNG",
-        "trophyTitlePlatform": "PS4",
-        "definedTrophies": {
-            "platinum": 1,
-            "gold": 5,
-            "silver": 8,
-            "bronze": 18
-        },
-        "service": "trophy"
     }
 }
