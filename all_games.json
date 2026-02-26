@@ -5198,5 +5198,135 @@
             "bronze": 42
         },
         "service": "trophy"
+    },
+    "NPWR00888_00": {
+        "npCommunicationId": "NPWR00888_00",
+        "trophyTitleName": "NBA 2K10: Draft Combine",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00888_00_00A740A7B84395BEACF398E26A781FCEE7D1095BAE/9184F6DD792716D26FE6F9D76A5F4A51A7833CFB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00891_00": {
+        "npCommunicationId": "NPWR00891_00",
+        "trophyTitleName": "Transformers: War for Cybertron",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/A631FE1467D832695524CC28F7B4AD097B9FFD15.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 12,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR00893_00": {
+        "npCommunicationId": "NPWR00893_00",
+        "trophyTitleName": "Frogger Returns",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00893_00_00EAB06370E2BBA1B7C8D700209F2F4E817A461D3B/9CD7A187353FD915603B0BC768D723C9243B7C44.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 1,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR00894_00": {
+        "npCommunicationId": "NPWR00894_00",
+        "trophyTitleName": "Assassin's Creed II™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00894_00_0012974057318022E9A7FBACB0099F290E1F3D89E1/ED8B8942EC5153273CEB5C11B4B4F5233BE6686E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 15,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR00897_00": {
+        "npCommunicationId": "NPWR00897_00",
+        "trophyTitleName": "Final Fight™: Double Impact",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00897_00_00185AECFEF26DA8CC5405AC3523B66850E71A6089/9FA80514A28700207D1DE3AF82F22F31C8DAD9A3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR00899_00": {
+        "npCommunicationId": "NPWR00899_00",
+        "trophyTitleName": "MOTORSTORM: APOCALYPSE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00899_00_0041650521347243B6FA4991444CAD74F47872BEA1/94B0CBA111ED44756B62DCBF2C6611D0D012A358.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR00900_00": {
+        "npCommunicationId": "NPWR00900_00",
+        "trophyTitleName": "Naughty Bear",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00900_00_00589B96B645D2CC6E9339B5EADD6856C19D98F0BB/7DF6F76A682C8C8B10604335CEA75A8BA22E85A7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 6,
+            "bronze": 56
+        },
+        "service": "trophy"
+    },
+    "NPWR00901_00": {
+        "npCommunicationId": "NPWR00901_00",
+        "trophyTitleName": "NASCAR The Game 2011",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00901_00_001E910154FE7B38EA60EA21FFEBAD043A56743091/7255F9A10C15A157DB92E6A7E463F24032DD73A4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR00905_00": {
+        "npCommunicationId": "NPWR00905_00",
+        "trophyTitleName": "Polar Panic",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00905_00_0044B49C5B65E45FF120822EB7D12E188B7EC3CC99/038C3D159E480EA142F5689CEF209FC14DD379D1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR00906_00": {
+        "npCommunicationId": "NPWR00906_00",
+        "trophyTitleName": "CATHERINE Trophy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00906_00_00B3A6E2E82548802D769FBB9532649FA33F0B2065/67B8BD929CD05CE391FD7DBA2FB13ED553C3A06F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
     }
 }
