@@ -11958,5 +11958,135 @@
             "bronze": 46
         },
         "service": "trophy"
+    },
+    "NPWR01715_00": {
+        "npCommunicationId": "NPWR01715_00",
+        "trophyTitleName": "L@ve once -mermaid's tears-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01715_00_0070ACD1C508987C7DEC111A4D06768012891A3651/EA15F3D66AA82A61CA8D468AA1A79CE3DEF9EEC8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 6,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR01717_00": {
+        "npCommunicationId": "NPWR01717_00",
+        "trophyTitleName": "Sideway",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01717_00_00A3464B105B46B61A61A0A59D5265F8975BC216A3/D0C67961FFE3029CB6FFE73D43CED1271CD532F0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01718_00": {
+        "npCommunicationId": "NPWR01718_00",
+        "trophyTitleName": "Major League Baseball 2K11",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01718_00_0052927E0D4575285107077E3CF84503CF8EE145FA/967414E302C675FEDBA17106571A9CDE637C2268.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR01719_00": {
+        "npCommunicationId": "NPWR01719_00",
+        "trophyTitleName": "Portal 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01719_00_00CF627F25C038D9A2448E7FA617F41CC6668C4737/3F8C2EA5336638A7344F8789B995799139E39DF7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR01720_00": {
+        "npCommunicationId": "NPWR01720_00",
+        "trophyTitleName": "We Dare",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01720_00_000C95B4BA68F153CEF839CFD18A985A034E04C4CA/29FE95F686B986926B9CB1B2C585A0D78D2414DB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01721_00": {
+        "npCommunicationId": "NPWR01721_00",
+        "trophyTitleName": "All Zombies Must Die!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01721_00_006BA8619284D225E83944C65CC3B76A97E01C1466/6BF9584A8197EE3A46D78615DB2E6C03A462DAA1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01722_00": {
+        "npCommunicationId": "NPWR01722_00",
+        "trophyTitleName": "Who Wants To Be A Millionaire",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01722_00_00A4CED9160447CA9F33168B655009474D12CA5DDE/2070C2E02A2E54C8AD8CD00598B9D8BF18A5EEDB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR01723_00": {
+        "npCommunicationId": "NPWR01723_00",
+        "trophyTitleName": "Chime Super Deluxe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01723_00_00ADB4912499FE92326E1992D74E0CEBF0FFDD4486/C814800F098265DBF5079821709CF6FDF32C4A5C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01724_00": {
+        "npCommunicationId": "NPWR01724_00",
+        "trophyTitleName": "パチパラ１７ ～新海物語Withアグネス･ラム～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01724_00_00E79711AAE8DEF340408AF147D4251E4C33E3172F/E1F51805E358B4953A4626573EB51C2A568C8BEB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 14,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR01726_00": {
+        "npCommunicationId": "NPWR01726_00",
+        "trophyTitleName": "Air Conflicts: Secret Wars Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01726_00_00421F25FEFCEE622A0ABFE7220A5043D6B8C6AD97/BE1E91188040BBDFDC329A0EEE73752E051BDFB8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 4
+        },
+        "service": "trophy"
     }
 }
