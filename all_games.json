@@ -6498,5 +6498,135 @@
             "bronze": 30
         },
         "service": "trophy"
+    },
+    "NPWR01079_00": {
+        "npCommunicationId": "NPWR01079_00",
+        "trophyTitleName": "SPELUNKER BLACK",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01079_00_001D3E69C37C9723462E630D2CF83A33C11D6C2DF7/66F57DBA566AD8662F192E1715A0DD6CDB5E7D51.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR01080_00": {
+        "npCommunicationId": "NPWR01080_00",
+        "trophyTitleName": "Top Gun",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01080_00_001AA14D7F1E0B3A7F92BFCA2522718F4E86FE00C1/AF55A4371AE6E9B3BB5579B7F290F65FB36453C9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR01084_00": {
+        "npCommunicationId": "NPWR01084_00",
+        "trophyTitleName": "Power Smash ライブマッチ！",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01084_00_00AB7F63AB232405A6CC71E3418128BA5F728605BB/3DD2419B37F97AEABBCBFE9042D664C45AB06B0E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR01090_00": {
+        "npCommunicationId": "NPWR01090_00",
+        "trophyTitleName": "MARVEL VS. CAPCOM 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01090_00_0030750786C6D32E42859035166173F8825A75334B/1E59600A556817D67554DFAE63DB85B419F37D7E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR01092_00": {
+        "npCommunicationId": "NPWR01092_00",
+        "trophyTitleName": "いっき おんらいん",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01092_00_00C8CC7D23971B6300DB9550C7CBFEE75576E27FF3/8DA50E67011052B91B2465B0D1ED848E9A897D31.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01096_00": {
+        "npCommunicationId": "NPWR01096_00",
+        "trophyTitleName": "NO MORE HEROES 英雄たちの楽園",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01096_00_00FE390950D4D7BA56CAA0A8D25A4256521B83808E/02E37E340DAB5E86808B6ECD61F6029C04CB5297.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR01097_00": {
+        "npCommunicationId": "NPWR01097_00",
+        "trophyTitleName": "3D DOT GAME HEROES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01097_00_00CF4AF608190084E1894C4CB67DAFF6133C27BEDA/F42C4EA234B2EBA7EC4EE344BE22824EE3290124.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR01099_00": {
+        "npCommunicationId": "NPWR01099_00",
+        "trophyTitleName": "MySims SkyHeroes™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01099_00_007BD26DFE629FB12F0F8CF4993108C350E4A7DB6C/720BDB136DAC56C5EE942285916D24F9F9B372C6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 12,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR01100_00": {
+        "npCommunicationId": "NPWR01100_00",
+        "trophyTitleName": "Acceleration of Suguri X Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01100_00_00FF302F61335F3FD26C498663F111DB4EA3DA5ACC/6B6519F3E399AFF0958F9C7828586B61A52CE5D4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR01101_00": {
+        "npCommunicationId": "NPWR01101_00",
+        "trophyTitleName": "YAKUZA 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01101_00_00AD077C923D0F38C8DF27B9A6C31125CA532A8921/A983984B521B85A2C62A760F2DEC394D8B5DDFC2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 36
+        },
+        "service": "trophy"
     }
 }
