@@ -4288,5 +4288,135 @@
             "bronze": 38
         },
         "service": "trophy"
+    },
+    "NPWR00771_00": {
+        "npCommunicationId": "NPWR00771_00",
+        "trophyTitleName": "CLOUDY WITH A CHANCE OF MEATBALLS™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00771_00_001C76C86C0E3B55555A537A6A95B1DB7EBC3F753D/D391ECBBB3D5FB627DE1740F0036C09F36ADD8BD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 14,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR00772_00": {
+        "npCommunicationId": "NPWR00772_00",
+        "trophyTitleName": "Mafia II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00772_00_0026A32165F3BA5E9412EDD7E5A77A861745FF8415/A3DCBFC88E4A1BE7BEEE46B64866216058554604.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 51
+        },
+        "service": "trophy"
+    },
+    "NPWR00773_00": {
+        "npCommunicationId": "NPWR00773_00",
+        "trophyTitleName": "Spec Ops: The Line",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00773_00_00791EFEF7C712DB518AC29EB03B3FF326F815B5E9/5835AC24071BFF8B4934DE051CA108A24DE887B7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR00774_00": {
+        "npCommunicationId": "NPWR00774_00",
+        "trophyTitleName": "FINAL FANTASY XIII",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00774_00_00F4E56EF4C9EB9BAFFDC44C5C831B9BB660014DF6/F7AABD1742D2ECF3D5141312798287EA32AE0B88.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR00775_00": {
+        "npCommunicationId": "NPWR00775_00",
+        "trophyTitleName": "RA3™ Commander's Challenge™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00775_00_004E465B0C82ECBB384DBA762D28FAFE8E00276980/7A41C397CEC6AE27ED094BF26C373ED4D8076391.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR00776_00": {
+        "npCommunicationId": "NPWR00776_00",
+        "trophyTitleName": "NBA LIVE 10",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00776_00_002AFB8E7C122F7119369ACCDA66FC4945E7EB809A/4BC51506A9DCC5788422F0C3789A83995F9365CB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 18,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR00777_00": {
+        "npCommunicationId": "NPWR00777_00",
+        "trophyTitleName": "DJ Hero",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00777_00_00C8F8EEB6C62FC1E00A3099569BD68EEE818CD785/EBC4C2882E89BDF8E34B8886082ECAA4F2D7F6D0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR00779_00": {
+        "npCommunicationId": "NPWR00779_00",
+        "trophyTitleName": "Matt Hazard: Blood, Bath and Beyond",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00779_00_00EDF56B98A52622ED94B4C3E5961DE65C35217642/EBA6701F4F7988AE4CF2429C2573D5D267AB69E3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00780_00": {
+        "npCommunicationId": "NPWR00780_00",
+        "trophyTitleName": "Earth Defense Force®: Insect Armageddon™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00780_00_00A42F56D0D2B0C8BD9238C49886053ECDAD88D8D6/70C8AF657521F8FF76C5741BAE2258D6538D41BC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 12,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR00781_00": {
+        "npCommunicationId": "NPWR00781_00",
+        "trophyTitleName": "torne™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00781_00_00CBD8E7B2EF69B9FDB92E4A4430016617E379950B/9E87541BB37DC2CBFA203029870636ED2CE2AB39.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
     }
 }
