@@ -9358,5 +9358,135 @@
             "bronze": 32
         },
         "service": "trophy"
+    },
+    "NPWR01408_00": {
+        "npCommunicationId": "NPWR01408_00",
+        "trophyTitleName": "Knights Contract",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01408_00_007B9D9AA05E79118DD71532728458CE7E283128F3/DD8AF1DCB7F28C7590DB7AF4B3B83014EEA8651A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR01413_00": {
+        "npCommunicationId": "NPWR01413_00",
+        "trophyTitleName": "Alien Breed 2: Assault",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01413_00_000E36C8A794D9C027BC8E6F427842CFD8599A3C3F/D48E3C0A77081C9B64C70AFCB103B1602D8C87A0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR01414_00": {
+        "npCommunicationId": "NPWR01414_00",
+        "trophyTitleName": "Dungeons & Dragons: Daggerdale",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01414_00_00762D7507A5A061E9E131CA83F38A9C2DCED5E5C4/BF07751D3607AA7A3AB4601D01327B271582E0DD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01415_00": {
+        "npCommunicationId": "NPWR01415_00",
+        "trophyTitleName": "MALICIOUS™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01415_00_00BED34F654B422B94D0CADB489A480E227F56C3B3/FA3DFE7C4B5C9309F344E4E667897F41A1A8DE97.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR01416_00": {
+        "npCommunicationId": "NPWR01416_00",
+        "trophyTitleName": "Winning Post 7 2010",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01416_00_007BCA75AF218F668CD0CDACDC89B3446429CA689D/7547CBBC9B376F4E06747B8B928142B6B5D06CEA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 16,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR01418_00": {
+        "npCommunicationId": "NPWR01418_00",
+        "trophyTitleName": "Armageddon Riders",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01418_00_009F07F162A074A06D55E48E5E68277F52462BE4A7/67E2BEFD2CC7BD5B49E239DD55A19FCA22ECAF22.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01419_00": {
+        "npCommunicationId": "NPWR01419_00",
+        "trophyTitleName": "Bakugan™: Defenders of the Core",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/AB3959BFAA20C780A3326DFBBA464FA9FE63F6AF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR01420_00": {
+        "npCommunicationId": "NPWR01420_00",
+        "trophyTitleName": "National Geographic Challenge!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01420_00_00C12E8C9391D7ABB2D0780EC0D1235D54D8FCD890/60AEF1FEFA5DF37942D1FC70671B173F519D3A65.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR01421_00": {
+        "npCommunicationId": "NPWR01421_00",
+        "trophyTitleName": "FIGHT NIGHT CHAMPION Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01421_00_0049474C997CE8A64E1734339A6443B9DB8E31C9EF/22BC0B36A592A50F575A4BC945EE3E1A60109C29.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR01423_00": {
+        "npCommunicationId": "NPWR01423_00",
+        "trophyTitleName": "AFL Live",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01423_00_00AC9401C6BFB51269ABDE86305B39372847C4A1E0/330799C5FBCA78B5FBB5FF35AC209FD5CDF29295.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 23
+        },
+        "service": "trophy"
     }
 }
