@@ -89,5 +89,18 @@
             "bronze": 3
         },
         "service": "trophy"
+    },
+    "NPWR00054_00": {
+        "npCommunicationId": "NPWR00054_00",
+        "trophyTitleName": "Blast Factor™ Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00054_00_0033B6FBAB7E85DC8FA7C81C4521501CBAD0F098CF/A22765414DB585EB14EA1837CB2B09FBAADBC972.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 11,
+            "bronze": 14
+        },
+        "service": "trophy"
     }
 }
