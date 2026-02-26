@@ -3248,5 +3248,135 @@
             "bronze": 38
         },
         "service": "trophy"
+    },
+    "NPWR00663_00": {
+        "npCommunicationId": "NPWR00663_00",
+        "trophyTitleName": "Cabela's® Outdoor Adventures",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00663_00_00165AE9891B712FC02CD3195E22A59B473CFBB72E/7E9E774BF279CA8D49774B0CDD419F4ADB3DE0C6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 3,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR00664_00": {
+        "npCommunicationId": "NPWR00664_00",
+        "trophyTitleName": "CRYSTAL DEFENDERS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00664_00_00BD028EE49FC01DB1BAE56F969749FDDC6C99180D/9ED7BF5EF3348E84A3A682E4691FFFAEB2C5726B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR00665_00": {
+        "npCommunicationId": "NPWR00665_00",
+        "trophyTitleName": "Anarchy: Rush Hour",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00665_00_00AE4DF49C05513FDDA89EB384996520EECCD96E91/DE81FCB321E16FC294990D6853E34614B6DD8503.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR00666_00": {
+        "npCommunicationId": "NPWR00666_00",
+        "trophyTitleName": "MotoGP 09/10",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00666_00_00184EE40044C551E7467C279F025593FF715C4397/030FA953094D088DB57F603851F5AAAE152C106F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR00667_00": {
+        "npCommunicationId": "NPWR00667_00",
+        "trophyTitleName": "Winning Post World",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00667_00_00FDE92550E9ECD28BE402B45E0E720BF6F8453B2F/247CC482C146118B39022BC18961C458B1E81389.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR00668_00": {
+        "npCommunicationId": "NPWR00668_00",
+        "trophyTitleName": "Rogue Warrior",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00668_00_0072D0AA61CCC4971238DFC08A6BEA034EC087436E/509731742BF7B9D1FE6D9447C36EBDC27E618E19.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR00669_00": {
+        "npCommunicationId": "NPWR00669_00",
+        "trophyTitleName": "Where the Wild Things Are",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00669_00_00A027875AF928AF6ED5C14B1A02367305E3B34D2B/2CC9F4ABF8DE57DA0B07C499403211A1C50022D9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR00672_00": {
+        "npCommunicationId": "NPWR00672_00",
+        "trophyTitleName": "Front Mission Evolved™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00672_00_00BCBA65E2BCAE597FC5D81AE48C08596D32130B29/06E47A3366644CD15E97E7E5A09519DC37060A0E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR00673_00": {
+        "npCommunicationId": "NPWR00673_00",
+        "trophyTitleName": "Pro Evolution Soccer 2010",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00673_00_00035CBC99B2FCFDCEAEA8DCE7F7435D1090B888AD/F522C9C5401C794AC5BDE95E6250F503DCF3DB8A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR00674_00": {
+        "npCommunicationId": "NPWR00674_00",
+        "trophyTitleName": "Red Faction: Battlegrounds",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00674_00_0012E8D1576CCCE23E575556BC61C9455B2F31DFFB/A21CFD824C2818D69868B0012BA1C9775ADE997E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
