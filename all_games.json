@@ -9098,5 +9098,135 @@
             "bronze": 13
         },
         "service": "trophy"
+    },
+    "NPWR01384_00": {
+        "npCommunicationId": "NPWR01384_00",
+        "trophyTitleName": "Crescent Pale Mist ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01384_00_009E52D648264D55A505BA13ED11F5206BD3D8A208/C2C238510D338A173ED75E50F628CBD223D0DA6F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR01385_00": {
+        "npCommunicationId": "NPWR01385_00",
+        "trophyTitleName": "MORTAL KOMBAT: Arcade Kollection",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01385_00_00B11EACBB0EDFF65026A11BB598D264BC603E4D1C/7F8BF0DAD55F00B65F71C44F81D39D09E10CF251.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01386_00": {
+        "npCommunicationId": "NPWR01386_00",
+        "trophyTitleName": "DYNASTY WARRIORS: GUNDAM 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01386_00_00808677CBD71C1DFDA7D50C2FF53A0623E85664FC/E6991C73899FB5BF107D4C4522989ABF324053D9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR01387_00": {
+        "npCommunicationId": "NPWR01387_00",
+        "trophyTitleName": "ぬらりひょんの孫",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01387_00_00530DC0834B8B70E78FD6F8D4C3D188D1F3C34AEF/F392F1B954048DA5B3CDA069F71FDF77948B2F4F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR01388_00": {
+        "npCommunicationId": "NPWR01388_00",
+        "trophyTitleName": "Sonic Adventure",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01388_00_00348FBBD8869FEF5CD2B2678EF0960D76AA37543B/0DC92874CA47C7A97877F40C2E754CB6E25D6D64.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR01389_00": {
+        "npCommunicationId": "NPWR01389_00",
+        "trophyTitleName": "Rio™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01389_00_0093FD0D88177663BF1B315B98232DE1BB2A4B2D33/D44FDDE6B1307E89BB6B27AAD287E067C7A4F3C5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR01390_00": {
+        "npCommunicationId": "NPWR01390_00",
+        "trophyTitleName": "Costume Quest",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01390_00_00E118FA3A92C28C6064A363F32E18F5A9A1578BFF/D8B7375B2C158830B5119FC73C01A221597F8C8C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR01391_00": {
+        "npCommunicationId": "NPWR01391_00",
+        "trophyTitleName": "Way of the Samurai 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01391_00_00B7D6D6D7C0B45AB3D9FC7D07D630E9BDDB9B3A4A/CEB8C7444266A23BF3A09EC61D92DD9F61426663.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 11,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR01392_00": {
+        "npCommunicationId": "NPWR01392_00",
+        "trophyTitleName": "Duke Nukem Forever",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01392_00_0054A4CCA44E4780DBEACBD128274B0695B9E3A4AA/23EC681F1F58833C411312F81AFBC7AE4C35AEE2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR01395_00": {
+        "npCommunicationId": "NPWR01395_00",
+        "trophyTitleName": "Explodemon Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01395_00_001A54C8861A9E05980405BE86A1AF1ECE64C00F54/4A665F73FB2FAA63304476D764FADE1A81766E83.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
     }
 }
