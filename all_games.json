@@ -3118,5 +3118,135 @@
             "bronze": 9
         },
         "service": "trophy"
+    },
+    "NPWR00649_00": {
+        "npCommunicationId": "NPWR00649_00",
+        "trophyTitleName": "Hustle Kings™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00649_00_009873FB18A1412162A2BF6851666E67132ABEDC0C/A8E4F725493D4D13AE2F59370A8C16FC3E8D5DE2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR00650_00": {
+        "npCommunicationId": "NPWR00650_00",
+        "trophyTitleName": "L.A. Noire",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00650_00_002DA5283475DE869AC05F325CD3EB307C8D5E857A/4D7303ADDD6CACC91525DEA75C0D6C25A61529EB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 10,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR00651_00": {
+        "npCommunicationId": "NPWR00651_00",
+        "trophyTitleName": "Gran Turismo 5",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00651_00_00A5594DB31F4D266715A922DFE16914E2D4911E0C/B88297CDC9E9CBC12E9E281BC8DCA2C2CE7FE6C1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 53
+        },
+        "service": "trophy"
+    },
+    "NPWR00654_00": {
+        "npCommunicationId": "NPWR00654_00",
+        "trophyTitleName": "The Beatles: Rock Band",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00654_00_0020D1581003F52977204B5DBB0E50ECEFBCE6F44A/A81C0A9B9DBF3EAA58648DC558EB0018F2CCD841.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 15,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR00656_00": {
+        "npCommunicationId": "NPWR00656_00",
+        "trophyTitleName": "BLAZBLUE Trophy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00656_00_00CB0D5EFD267238E6408BA0DB951459C6FCAD2BE9/41192C5DEE091880E5A154AA9544961881A41308.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR00657_00": {
+        "npCommunicationId": "NPWR00657_00",
+        "trophyTitleName": "Pure Football Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00657_00_007B6257869BD4B1589A83FBD7C0D0E85C8D91CC36/D0B8A91801D8A3C8E786017F9C4017FA962F499E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR00658_00": {
+        "npCommunicationId": "NPWR00658_00",
+        "trophyTitleName": "Pinball Hall of Fame: \nThe Williams Collection",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00658_00_0072F2A00DB4C1E318F0451869D74C2B96C75EF58C/4D133345B8B79D806C8A60A7D99267078ADBFDD3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR00659_00": {
+        "npCommunicationId": "NPWR00659_00",
+        "trophyTitleName": "Chaotic™: Shadow Warriors",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00659_00_004A83B5D24D3E9C9F882967CC6350E80BED3791D0/273144C6F060D30E08822572E609F2B3C82CACE2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR00660_00": {
+        "npCommunicationId": "NPWR00660_00",
+        "trophyTitleName": "inFamous",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00660_00_003CC702A6A6E46ED00BFC61BD5F289C414DCC7C25/707A365EC53D59D4AE9F9C7B55CE6AFBBDE09960.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 11,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR00661_00": {
+        "npCommunicationId": "NPWR00661_00",
+        "trophyTitleName": "James Bond 007: Blood Stone",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00661_00_0079BD2C44923901C1D536FE9AFE213F8AB735C78C/F8E894D53BE9789A26B251C897D06092A0DFB199.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 11,
+            "bronze": 38
+        },
+        "service": "trophy"
     }
 }
