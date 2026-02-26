@@ -258,5 +258,135 @@
             "bronze": 54
         },
         "service": "trophy"
+    },
+    "NPWR00163_00": {
+        "npCommunicationId": "NPWR00163_00",
+        "trophyTitleName": "Warhawk",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00163_00_006A0132F2CD3E1F3814C36072E4B2494F04353413/D4AEC63DADD0F010298C77C2683E79589EAD7352.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 13,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR00179_00": {
+        "npCommunicationId": "NPWR00179_00",
+        "trophyTitleName": "Pure Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00179_00_00DD60793B8BA4A5CE171F444C73399863EE2594CA/62A2777C0835F8951A118854E6F99AF1C4FEF814.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 14,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR00180_00": {
+        "npCommunicationId": "NPWR00180_00",
+        "trophyTitleName": "Midnight Club: Los Angeles",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00180_00_0037E9445D6FBDCA4BC047ECD3C58A9B5A1971D363/480FCBDB4697212C2C76BE48C00C56ABB3143DFF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 21,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR00181_00": {
+        "npCommunicationId": "NPWR00181_00",
+        "trophyTitleName": "echochrome™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00181_00_00EBFE68D629BF7D7EED86E30E5DE77C3B66D086FC/C327903B6DEC0DB2D2F38DD735783BA930E6C872.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00187_00": {
+        "npCommunicationId": "NPWR00187_00",
+        "trophyTitleName": "WipEout® HD Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00187_00_00311F26296C49C4A9D544E75F435C6CE4972E8C1F/0715F96A747099B20A29B393B67CB06CA9368F1F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 7,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR00194_00": {
+        "npCommunicationId": "NPWR00194_00",
+        "trophyTitleName": "Unreal Tournament ® 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00194_00_003095A6CA09630F32E1947B6985E7A01EFD7161DA/F33189BDA343083A6B4454B579DB9CABCA40F550.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR00196_00": {
+        "npCommunicationId": "NPWR00196_00",
+        "trophyTitleName": "PAIN",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00196_00_00C8F97276BE47F31C685D82160C235AC301A85C6E/7F3687EECE66832BF802708BA4E90C3B7B8137B4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR00206_00": {
+        "npCommunicationId": "NPWR00206_00",
+        "trophyTitleName": "The Chronicles of Riddick™ Assault on Dark Athena",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/C7A572846E05CDDA630829A585B00C68B1D2A12C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR00212_00": {
+        "npCommunicationId": "NPWR00212_00",
+        "trophyTitleName": "Ferrari Challenge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00212_00_001619D6A2CE2548540328A6AA7C285BAF53085CDA/53A418183D0F32D7CC11AA13D047306F198F9091.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR00214_00": {
+        "npCommunicationId": "NPWR00214_00",
+        "trophyTitleName": "MotorStorm®: Pacific Rift",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00214_00_007FD7DEEDACBA61EF5DB5F9B5ADFF06C1278CD01A/214A6065C703972256800FE4745F749C230023C9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 50
+        },
+        "service": "trophy"
     }
 }
