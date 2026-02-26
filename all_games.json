@@ -17028,5 +17028,135 @@
             "bronze": 0
         },
         "service": "trophy"
+    },
+    "NPWR02751_00": {
+        "npCommunicationId": "NPWR02751_00",
+        "trophyTitleName": "Back to the Future: The Game",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02751_00_0084EDBF87817A8EF41AF719000039DA404728498F/8552B6F89059DA992BAF4B5BC25E17650F355B92.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 52
+        },
+        "service": "trophy"
+    },
+    "NPWR02755_00": {
+        "npCommunicationId": "NPWR02755_00",
+        "trophyTitleName": "アスファルト：インジェクション",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02755_00_00F7AC7CEBE1FAE784794E87BAC7A32E608AE8AD0D/E941C361F7FA7D41A0C2A170EA2F87E242B68986.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR02758_00": {
+        "npCommunicationId": "NPWR02758_00",
+        "trophyTitleName": "迷宮塔路レガシスタ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02758_00_007BC7798A1E20A7B418E500194E0BD071E2ACA290/FE66C582C124A738E769124EEE510E3B001FAF7E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 11,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR02768_00": {
+        "npCommunicationId": "NPWR02768_00",
+        "trophyTitleName": "FROBISHER SAYS!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02768_00_007FA5786219B59FD2383CDC67C6622FDC77E0F61F/1D1711F657A82112D6BEB396B40A3802A7E8D18E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR02771_00": {
+        "npCommunicationId": "NPWR02771_00",
+        "trophyTitleName": "Retro/Grade",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02771_00_00FD19961AE4AE0240F541196E086CB490AE98610C/E60F2521E0FB4F681E909505C9E49E427DC31834.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR02773_00": {
+        "npCommunicationId": "NPWR02773_00",
+        "trophyTitleName": "Girl Fight",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02773_00_001BA8AF46A7F4497C7DE007EAC6A11B189FE77512/6A515DA5B03AF8A27B0A717C74332C7F8922E453.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR02775_00": {
+        "npCommunicationId": "NPWR02775_00",
+        "trophyTitleName": "Urban Trial Freestyle Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02775_00_00FF459BC6C9FD9071906BFD3AFA05E930D5B45DD5/753874B71C99E57F52654CBBC5E8608DA4951931.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR02777_00": {
+        "npCommunicationId": "NPWR02777_00",
+        "trophyTitleName": "Medieval Moves",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02777_00_0021CEF39B2412E11997113CE589B34DEB69B98385/8B147C49A446334CBA32F009E03E0BFC708FF133.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR02779_00": {
+        "npCommunicationId": "NPWR02779_00",
+        "trophyTitleName": "BEYOND THE FUTURE - FIX THE TIME ARROWS -",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02779_00_002833583EDD9D731D1FC03CD598850174BB5F5A62/5893A918C99409236533B4E72302BAC66D54660E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR02780_00": {
+        "npCommunicationId": "NPWR02780_00",
+        "trophyTitleName": "Michael Jackson The Experience HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02780_00_000783AA1A4278864885E0D5C6FF470349FE90CF0D/4C0D009E0A2851066792D7B7E9D25A08EB5CFAE2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
