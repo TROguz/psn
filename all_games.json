@@ -5588,5 +5588,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR00944_00": {
+        "npCommunicationId": "NPWR00944_00",
+        "trophyTitleName": "Frogger Returns",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00944_00_00C1578C2B57190E5C58D5795616BCCF8B420CDC94/BE395444981EB9846612D54C062C3F723913F714.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 1,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR00945_00": {
+        "npCommunicationId": "NPWR00945_00",
+        "trophyTitleName": "Frogger Returns",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00945_00_003BACCBED4157C95BDF62D7F46DEB45E050175496/B2DEC549ED915063269C30AD1B1071A9EE44D06D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 1,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR00946_00": {
+        "npCommunicationId": "NPWR00946_00",
+        "trophyTitleName": "James Cameron's AVATAR™: THE GAME",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00946_00_00D14057110CE9C934F1F43004AF89A9700D2BE8DD/05CA4D733B03C18EAFA2BBC44A0B0288EB2812F8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR00947_00": {
+        "npCommunicationId": "NPWR00947_00",
+        "trophyTitleName": "3Dドットゲームヒーローズ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00947_00_0027F49ABCAB1D9407C087896E837791F0C0E2F18F/6356D13D1A02BAEB65131D68FC9BC9632E94267C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR00949_00": {
+        "npCommunicationId": "NPWR00949_00",
+        "trophyTitleName": "Prison Break",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00949_00_0013B4C5AFE9CB85B3AC8ED187DAE63060F8DBC986/4805156A9D4007C3CA43A4932F0F5049629D40A2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR00950_00": {
+        "npCommunicationId": "NPWR00950_00",
+        "trophyTitleName": "God of War® Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00950_00_006A41BF1A5E1779DC1DF512088854BC27F415BEDA/7002B6FDCAA9C698088B93514F60953FA56CEE40.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR00951_00": {
+        "npCommunicationId": "NPWR00951_00",
+        "trophyTitleName": "God of War® II Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00951_00_009E3D77C68F6962010CA5BC3F7F03654D5AE0A23E/AFB1C251B6DFE461CB4989557C1C1FDB183C6EB5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR00953_00": {
+        "npCommunicationId": "NPWR00953_00",
+        "trophyTitleName": "Rocket Knight",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00953_00_00134D5A575008E9D89270E502A5D3B740A6EE5C1E/DD044DD0649E3F33F6FFD0E738ABF64CEF2231A0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00954_00": {
+        "npCommunicationId": "NPWR00954_00",
+        "trophyTitleName": "SONIC THE HEDGEHOG 4 Episode I",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00954_00_0035C2AF9E8611383BEC5BCF1B832DA6C97B1B82DF/3D7E870F2389E2C585B2793313A8842E3572EA9B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR00956_00": {
+        "npCommunicationId": "NPWR00956_00",
+        "trophyTitleName": "Dead Island",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00956_00_005389840F4A6F5152A9CA42D91A10FF9AB5CBCD7C/9CE893CC46F49ADEC10566CDFD941F4B29EF491B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 43
+        },
+        "service": "trophy"
     }
 }
