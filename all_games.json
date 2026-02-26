@@ -2208,5 +2208,135 @@
             "bronze": 35
         },
         "service": "trophy"
+    },
+    "NPWR00553_00": {
+        "npCommunicationId": "NPWR00553_00",
+        "trophyTitleName": "Sports Champions™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00553_00_00F2DF11DF050EFF8CC4F5CD1E63D82F711DE327C9/8E9046CF25CF2EECBE0AEC423C5A5CC0C4AEAF13.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR00556_00": {
+        "npCommunicationId": "NPWR00556_00",
+        "trophyTitleName": "Bejeweled 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00556_00_0076E52EC364D35820D11200956AB18CD63D585A08/96705A1C1EFB78B23B5147B2B0E15002828C4725.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00557_00": {
+        "npCommunicationId": "NPWR00557_00",
+        "trophyTitleName": "ZOMBIE APOCALYPSE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00557_00_00B25F07F5ED0E923AB4D887EB3AB0C159A5F26742/6D1034332C9F50C36D012E7653ACA34728EDE358.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00558_00": {
+        "npCommunicationId": "NPWR00558_00",
+        "trophyTitleName": "Katamari Forever",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00558_00_00E51546960B3E8929ABCEDD34C4265D9870BD19DC/B732A3480E29EFD398076C82BFAB01D9844A87E5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 6,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR00559_00": {
+        "npCommunicationId": "NPWR00559_00",
+        "trophyTitleName": "NUMBLAST™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00559_00_00BA6D683385137BA08595683100CF8F7117C447CD/B4BBB77F60B653A6DB9D4621E72DD01CABF4B4D7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR00560_00": {
+        "npCommunicationId": "NPWR00560_00",
+        "trophyTitleName": "Vancouver 2010™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/96900E3CADD7AF39B173C46FCA107FBCB8C67697.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR00561_00": {
+        "npCommunicationId": "NPWR00561_00",
+        "trophyTitleName": "Marvel: Ultimate Alliance 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00561_00_00114E7663DA64D4B67B80FBA50D4C0FCC1D21F2DF/E6DBC62EB5CC38DE8D9A060393504198AE6DD4A4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR00563_00": {
+        "npCommunicationId": "NPWR00563_00",
+        "trophyTitleName": "Alone In The Dark",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00563_00_0065F8C1FC5CD563FC11F513BF0B864B08AD958E35/2703727C8EAB3AB542F6C85B8CD46FC620041035.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 3,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR00564_00": {
+        "npCommunicationId": "NPWR00564_00",
+        "trophyTitleName": "Supercar Challenge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00564_00_00F3F071E8B6504425F2A0A37328C5CB06DCBE930D/39217C7FC7A99F8C076FBEE878FCC44C52FFE208.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR00565_00": {
+        "npCommunicationId": "NPWR00565_00",
+        "trophyTitleName": "Eat Lead",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00565_00_00F556AB13ED1697A62E59443FEA2BF38D306E221D/6C9F4CCD487595B2EFA43FED1C265ECFC75B3210.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 39
+        },
+        "service": "trophy"
     }
 }
