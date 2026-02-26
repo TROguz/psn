@@ -6758,5 +6758,135 @@
             "bronze": 41
         },
         "service": "trophy"
+    },
+    "NPWR01116_00": {
+        "npCommunicationId": "NPWR01116_00",
+        "trophyTitleName": "Last Rebellion",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01116_00_0027ABFF3B4B9C532959F2B736CE43BC91B69EDF97/D6F9172D5E3058B1E1EF5211690D06278D49F041.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 7,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR01117_00": {
+        "npCommunicationId": "NPWR01117_00",
+        "trophyTitleName": "Tron: Evolution",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01117_00_00255620A4AC832D15EA28C7AAB3A64713B566DBE1/DE1DA1CAF6C4090DD2D6A3308221071986E780D4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 15,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR01118_00": {
+        "npCommunicationId": "NPWR01118_00",
+        "trophyTitleName": "Army of TWO™: The 40th Day (JP)",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01118_00_00CCFDCE4C9AD45FB6603E68E392314C4075126698/8B366BF27884F283B930AF6A432FCE5D01278F17.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR01119_00": {
+        "npCommunicationId": "NPWR01119_00",
+        "trophyTitleName": "Dungeon Siege III",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01119_00_001E04ACB64E4E7C54A153108B566D81869B6299CB/BE082B709CA018393F18C0B40458477E52ADA79A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 14,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR01120_00": {
+        "npCommunicationId": "NPWR01120_00",
+        "trophyTitleName": "Two Worlds II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01120_00_00EABB5918E84B8706BAAD97837448C01A89EE3B35/E00E9FFE3AC773CB4257954F4F8D18DE70503713.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 17,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR01123_00": {
+        "npCommunicationId": "NPWR01123_00",
+        "trophyTitleName": "パチパラ１５ ～スーパー海IN沖縄２～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01123_00_00F20311FE6B321C9D574ED47F46B6DD742D0D841F/E77C171706A1CCA89F6402638382A3AC19CFCB0F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR01124_00": {
+        "npCommunicationId": "NPWR01124_00",
+        "trophyTitleName": "Another Century's Episode R",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01124_00_00FEEEC2FA88C25A50A1DDF0A9413226DDEEB8D0AC/9FFA357052F4E75BF946DE037151656ED8354CE1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 4,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR01125_00": {
+        "npCommunicationId": "NPWR01125_00",
+        "trophyTitleName": "NIER",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01125_00_00AD1116CEEA27ABDB50B38008A34428ABFBE280D2/9FE487861B8A596B8CF9F99A41929B77D09632F7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 19,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR01126_00": {
+        "npCommunicationId": "NPWR01126_00",
+        "trophyTitleName": "CLASH OF THE TITANS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01126_00_00FA428E43C67BAAE9B3153AFC067ED1675F9F7F9B/0BE6433741485A0E9DE2A597528D8E8614646E71.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR01127_00": {
+        "npCommunicationId": "NPWR01127_00",
+        "trophyTitleName": "CLASH OF THE TITANS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01127_00_00F9F1866561D0559CE28D470BC6E1D94223E95E3F/322AED4FD921D2E888BAC56A2109767CC921E4F0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 34
+        },
+        "service": "trophy"
     }
 }
