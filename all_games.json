@@ -6888,5 +6888,135 @@
             "bronze": 34
         },
         "service": "trophy"
+    },
+    "NPWR01128_00": {
+        "npCommunicationId": "NPWR01128_00",
+        "trophyTitleName": "CLASH OF THE TITANS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01128_00_009DA15280B006309FA17F37D15D30D050B750E22C/E2F8D0DAC4012E7C0CB09CAE8C566E2D1730778F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR01129_00": {
+        "npCommunicationId": "NPWR01129_00",
+        "trophyTitleName": "Blacklight: Tango Down",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01129_00_006FF224F674B4CD01BCF0B556352D0553C34EC7BB/654292972034AA5152C52AD7A0A86E9BE74EB449.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01130_00": {
+        "npCommunicationId": "NPWR01130_00",
+        "trophyTitleName": "Medal of Honor™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01130_00_00ED92997714B4261BBDACB23703361A48A9ED5BF8/593DA69722D5C01EF64465A627F46B8DD9B1EF33.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR01132_00": {
+        "npCommunicationId": "NPWR01132_00",
+        "trophyTitleName": "NieR Replicant",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01132_00_00AC812001BE6F268169C35D0F5FE016D38F11D331/78B32D221E110CF29E2EA93E7D66A6B3C0999B47.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 19,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR01133_00": {
+        "npCommunicationId": "NPWR01133_00",
+        "trophyTitleName": "Winning Post World 2010",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01133_00_00B3765AD951C4D54D05C8AE86617DA81FE649E397/6EC6871A0857D82C0DBAEBE24CDA11714402A488.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR01135_00": {
+        "npCommunicationId": "NPWR01135_00",
+        "trophyTitleName": "VANQUISH",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01135_00_00BFC900729A66B9CE02A75749D0A7DB4368748195/18DC39CC7AC43EC94A8F76BE94E11FEE523F5064.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR01137_00": {
+        "npCommunicationId": "NPWR01137_00",
+        "trophyTitleName": "WORLD SOCCER Winning Eleven 2010 蒼き侍の挑戦",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01137_00_005BD330A931BE219811C9D20F033A028823C5B956/4D71E8FD17A18A3A6F2303F4CBF5102012E2BC18.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR01139_00": {
+        "npCommunicationId": "NPWR01139_00",
+        "trophyTitleName": "Brink",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01139_00_00ECCD06E25DE8471B25C622F233B9AF4D2ACE8846/FE03E4252FCEFEE49205A1E6C975C36E1221FB37.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 20,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR01140_00": {
+        "npCommunicationId": "NPWR01140_00",
+        "trophyTitleName": "Bodycount®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01140_00_0046911225DEC83F3EA677863E308698DA8F36B864/1F3A7AB592C843E5E169FE33547AF7BF8B7F8760.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR01141_00": {
+        "npCommunicationId": "NPWR01141_00",
+        "trophyTitleName": "Worms 2: Armageddon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01141_00_0050254E6A5F198BA55AD7D96DC25E9F45A8FFB97F/F9E8A7523AAFDADE2C4181D64C3B426F26887D95.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 13,
+            "bronze": 54
+        },
+        "service": "trophy"
     }
 }
