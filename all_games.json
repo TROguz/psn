@@ -5068,5 +5068,135 @@
             "bronze": 39
         },
         "service": "trophy"
+    },
+    "NPWR00871_00": {
+        "npCommunicationId": "NPWR00871_00",
+        "trophyTitleName": "Puzzlegeddon Trophy Pack",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00871_00_00C8325636FE0766E4D33293C5E3873E7C0B691972/F517C8F08E1027FE6F76E81577EC184D4F895993.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00874_00": {
+        "npCommunicationId": "NPWR00874_00",
+        "trophyTitleName": "Bakugan Battle Brawlers™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/8488D5C3043FF0C08876518D1978BE1C74EED170.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 52
+        },
+        "service": "trophy"
+    },
+    "NPWR00875_00": {
+        "npCommunicationId": "NPWR00875_00",
+        "trophyTitleName": "Vandal Hearts: Flames of Judgment",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00875_00_0033AF126EFA571B24B1783C91F721130FE6A4DDC1/315E2BEAF6CC6F96F01DBF0A962BA7192A81E861.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00876_00": {
+        "npCommunicationId": "NPWR00876_00",
+        "trophyTitleName": "Vandal Hearts: Flames of Judgment",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00876_00_00EA43BB40AD6F0E29DFF5EEC8E0FF4B26DA8F52C7/B92004DEF41A90D0CE94F8AF3F77E851382928EF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00877_00": {
+        "npCommunicationId": "NPWR00877_00",
+        "trophyTitleName": "Vandal Hearts: Flames of Judgment",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00877_00_00CB9788F58B535950390279D088F28DD19BA6F7A7/B4162B1A4891E3E6C8E4C60D9BE88D45B734A884.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00880_00": {
+        "npCommunicationId": "NPWR00880_00",
+        "trophyTitleName": "MEGA MAN 10",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00880_00_0062753B10FF090A5879DA116F4CA70CA63CDCF38C/F119A2F150D495119A3B4BE9A382EBF7240FC775.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 7,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR00881_00": {
+        "npCommunicationId": "NPWR00881_00",
+        "trophyTitleName": "Demon's Souls",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00881_00_002CBF8E5275110B4338A82904B030A15881A7FFAA/40378FE00ADB3F680E3B7A5A5A29AA8246A2A1D4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR00883_00": {
+        "npCommunicationId": "NPWR00883_00",
+        "trophyTitleName": "NBA Unrivaled",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00883_00_005FC1F7F043756B93BA0624D0FD75B6810C4E1CBD/CB7E2A597D5CB8C6F3BC8D524B704C9A570E1DF1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00884_00": {
+        "npCommunicationId": "NPWR00884_00",
+        "trophyTitleName": "侍道３plus",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00884_00_0021F8D5251D4A06A35837DDDC8C90965E78D3FE4E/D8C7AC868A00CBEB335C916BFD1405158410801D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 54
+        },
+        "service": "trophy"
+    },
+    "NPWR00885_00": {
+        "npCommunicationId": "NPWR00885_00",
+        "trophyTitleName": "Way of the Samurai 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00885_00_00040A6CBB8A2EC462BF2443A5B441D21D49BABE27/A95CB54F51683F4A637B0E068018DA4B8C62B829.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
     }
 }
