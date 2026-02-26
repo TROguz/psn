@@ -17678,5 +17678,135 @@
             "bronze": 9
         },
         "service": "trophy"
+    },
+    "NPWR02908_00": {
+        "npCommunicationId": "NPWR02908_00",
+        "trophyTitleName": "MUD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02908_00_00E01EB69B48C26CB2E055777DE49917292A1572A1/9BA564FFCD85DAF7E064E6EB909377799EDCFF35.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR02910_00": {
+        "npCommunicationId": "NPWR02910_00",
+        "trophyTitleName": "Everyone Sing",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02910_00_000EE27F8BF81D2BD3BAB0DE8D1BE594A9192BEDC0/AE55A31FC526301D4E93DF625CE5EE2CD44E24E7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 5,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR02911_00": {
+        "npCommunicationId": "NPWR02911_00",
+        "trophyTitleName": "Quantum Conundrum",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02911_00_008CFE6902F5448C2D9391B1BBE417FB0B0F3A8F0F/D2C396D8D9D254A730693A20AC264E1C41DD5E2D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR02915_00": {
+        "npCommunicationId": "NPWR02915_00",
+        "trophyTitleName": "Persona 4 ARENA Trophy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02915_00_003D3D57E7176C89DDF614B801A17483A850E4CD93/09015421D66D1173DB0F88AB300FD09C7675BA3E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR02917_00": {
+        "npCommunicationId": "NPWR02917_00",
+        "trophyTitleName": "Lumines Electronic Symphony",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02917_00_005A3FE869A9AD92C8ED7D22DEAEF38CE057C767A0/9288A65E1C7C2019C3182172A58734BB5AD7E7E4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR02918_00": {
+        "npCommunicationId": "NPWR02918_00",
+        "trophyTitleName": "Smash 'N' Survive",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02918_00_00F89B86AEEB23DE50670090BBBC79790BF7ADA8DC/3B8D37B95325BC3BF5C067BE9F14E65683756DA7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR02920_00": {
+        "npCommunicationId": "NPWR02920_00",
+        "trophyTitleName": "Battleship",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02920_00_00EAE834E7D0B6FC48F921799DDF66949548ECD4DA/F26DE4F13DC1540EF330C39FBDE7928B4EA1E85E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR02924_00": {
+        "npCommunicationId": "NPWR02924_00",
+        "trophyTitleName": "The Amazing Spider-Man",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02924_00_00F7983E4200D083012426EC28B50AA79215045A02/3BE8DC7CF4E44A96DDBC5C79B648B5D3292DA016.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR02925_00": {
+        "npCommunicationId": "NPWR02925_00",
+        "trophyTitleName": "Men In Black: Alien Crisis",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02925_00_00F4DDF614D09253B0F8ABE9BB9B1109A702750040/7C3851D10AA70444AB7E6EB8DACF7BAC75E79D39.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 7,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR02927_00": {
+        "npCommunicationId": "NPWR02927_00",
+        "trophyTitleName": "Army Corps of Hell",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02927_00_00EE7C3A8A1B91770D2FE835217B954E8FCF069E88/26A67D6524908C614978235DFF881226BD980263.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 12
+        },
+        "service": "trophy"
     }
 }
