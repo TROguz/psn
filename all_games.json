@@ -12608,5 +12608,135 @@
             "bronze": 6
         },
         "service": "trophy"
+    },
+    "NPWR01776_00": {
+        "npCommunicationId": "NPWR01776_00",
+        "trophyTitleName": "緋色の欠片 愛蔵版 ～あかねいろの追憶～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01776_00_00FCE8EFAE052741B3E09C11280CEF3D23FCA44FC9/E95155EBDAC396DE3DA3E5CF45957BAAA0858EE1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR01777_00": {
+        "npCommunicationId": "NPWR01777_00",
+        "trophyTitleName": "スロッター超マニア\nアントニオ猪木が元気にするパチスロ機",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01777_00_0010EE60F2515DB9DED6092042DF0F75C5E0E2072B/B24C6F8912B17E83F45FE6910A8A15310547001D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR01779_00": {
+        "npCommunicationId": "NPWR01779_00",
+        "trophyTitleName": "Gachinko Heroes™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01779_00_00B7656C54E2CE72F91BC2D81B2249350C6E49D751/807F0841450922ADDCDF82DD683D1F84A1CE42E3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR01781_00": {
+        "npCommunicationId": "NPWR01781_00",
+        "trophyTitleName": "STREET FIGHTER X TEKKEN",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01781_00_00B8C46BEB5C27379293E62579EB841D64F57A3A0A/A81CEAB39D559C78CE53E055E06B0A39D4E43D06.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR01782_00": {
+        "npCommunicationId": "NPWR01782_00",
+        "trophyTitleName": "Dead Space™ 2 - DE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01782_00_009790DBBB6512206A94581F9B98E95CDE35745F60/C52AF5260AE36386B8D541DC52B3D9E0654F1BBE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 4,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR01783_00": {
+        "npCommunicationId": "NPWR01783_00",
+        "trophyTitleName": "Agarest Generations of War Zero",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01783_00_00AF66FEE6B46EA58FC553E83805ADBF40B44195AF/C9FFCF976476FF1BAC2CA88167D1BF897D655835.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 17,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR01785_00": {
+        "npCommunicationId": "NPWR01785_00",
+        "trophyTitleName": "Puppeteer™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01785_00_003F9F56B855B33D7EBF1F09C06ADF070ACCB44C0D/945EB6AD16AA97BD54F1AE4F2F7C0FAFEAFB7492.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 58
+        },
+        "service": "trophy"
+    },
+    "NPWR01788_00": {
+        "npCommunicationId": "NPWR01788_00",
+        "trophyTitleName": "Reality Fighters",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01788_00_00216FB907E0F6E2C8909972EF32F12F7CFAA6CDB8/16B2D725DC112257CF5F08A709BA98BB793400E1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 5,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR01789_00": {
+        "npCommunicationId": "NPWR01789_00",
+        "trophyTitleName": "Crash Time 4 - The Syndicate",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01789_00_0065DA8EA0D01E6FECC54A8ADE6FEA59AEDB250B34/CC715BD5D0E62947778725858BC7FBCB88E5AD47.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR01791_00": {
+        "npCommunicationId": "NPWR01791_00",
+        "trophyTitleName": "SOCOM: Special Forces",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01791_00_0052EF53D627DA3E7AE35B5A8C7D2C0D3B984018C8/E6244125507B58BF29854412B3BCB5AB05B574C3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 6,
+            "bronze": 34
+        },
+        "service": "trophy"
     }
 }
