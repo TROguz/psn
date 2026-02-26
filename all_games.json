@@ -2078,5 +2078,135 @@
             "bronze": 32
         },
         "service": "trophy"
+    },
+    "NPWR00538_00": {
+        "npCommunicationId": "NPWR00538_00",
+        "trophyTitleName": "MLB 09 The Show",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00538_00_0018E359EF467B27DFDDDC3229D19762AFB8219DAD/B97A161A656354C4F5F08B15E7594D2A19C03C7E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR00539_00": {
+        "npCommunicationId": "NPWR00539_00",
+        "trophyTitleName": "World of Outlaws Sprint Cars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00539_00_009C27FC2539CC11A3F0147F57B634D515508EFAD9/7DB4420BE8EA80FF071A6CA4A179E091D3BCAB58.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR00540_00": {
+        "npCommunicationId": "NPWR00540_00",
+        "trophyTitleName": "BUZZ!™: Quiz World",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00540_00_00881580EF54B223106EAE948B10DBEA56EC3CA6A7/C38AAB833522D195C5C9ED18664D885D48182409.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR00541_00": {
+        "npCommunicationId": "NPWR00541_00",
+        "trophyTitleName": "Texas Cheat'em",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00541_00_005AE952C6877F6E769BE190580AD5AF1A55772B0C/E035DB61384064F9489B930BA2CEBAAE180EF4D6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR00542_00": {
+        "npCommunicationId": "NPWR00542_00",
+        "trophyTitleName": "Flower",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00542_00_00951DB5BDD167A1B5737F32E8FF0EC82677971CFA/011F5A1157D4773E3803144722951CB949D5B020.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR00546_00": {
+        "npCommunicationId": "NPWR00546_00",
+        "trophyTitleName": "Need for Speed™ Undercover",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00546_00_0047EC126643E12AEB6FEF15DC413CD62B3FC2E662/424A4D377033981853585C3CD556E35A44040AE3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 1,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR00549_00": {
+        "npCommunicationId": "NPWR00549_00",
+        "trophyTitleName": "3 on 3 NHL® Arcade",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00549_00_0080D9F0CBCDD775BB00FCFC54BD29F0A684C934B9/5192B18BEB1A16BC62601BB86851171DC5147F4B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR00550_00": {
+        "npCommunicationId": "NPWR00550_00",
+        "trophyTitleName": "Planet Minigolf™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00550_00_0059C52FF54F59551D997377EED1874BA293B5CD28/1C3D7FB2C11217297E2E2EB9D895851CFF557ABE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00551_00": {
+        "npCommunicationId": "NPWR00551_00",
+        "trophyTitleName": "Overlord II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/0386EF193584A2A91EF8DC7FB950EA802CC84503.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR00552_00": {
+        "npCommunicationId": "NPWR00552_00",
+        "trophyTitleName": "大航海時代 Online",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00552_00_00777A5C2EA65A3691C05ADF95E0054FFC302BA91E/8CF0E6A452577C74ABF923341F8BF5D2C8D8FC12.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 22,
+            "bronze": 35
+        },
+        "service": "trophy"
     }
 }
