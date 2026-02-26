@@ -5328,5 +5328,135 @@
             "bronze": 40
         },
         "service": "trophy"
+    },
+    "NPWR00907_00": {
+        "npCommunicationId": "NPWR00907_00",
+        "trophyTitleName": "Bionic Commando Rearmed 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00907_00_0043FB9161AC4046A6F672A63453415D3388D53061/93C21E7470D9CC11F9CC55C8D756800A47F45775.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00908_00": {
+        "npCommunicationId": "NPWR00908_00",
+        "trophyTitleName": "NCAA® Basketball 10",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00908_00_00D56AC095EC0814E12D2D4B47D5BCCFABD483514E/4F6BF4B3260307B55B9E0C711883836E6C2891C5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 11,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR00909_00": {
+        "npCommunicationId": "NPWR00909_00",
+        "trophyTitleName": "Way of the Samurai 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00909_00_0093C4B2EDF28D72AF5F6493281688D5B3C7E7625F/D59B43B444991EA1B33A92ED98D6E17040835382.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR00911_00": {
+        "npCommunicationId": "NPWR00911_00",
+        "trophyTitleName": "週刊トロ・ステーション",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00911_00_0069EB7C2A6F65D982748D35D825F34699973AAC4C/6D3752469DCBDC2836888CA6A26A5C3542ACF557.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR00913_00": {
+        "npCommunicationId": "NPWR00913_00",
+        "trophyTitleName": "Shrek Forever After",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00913_00_009686EDFA69B5BA2EBA266ABEA0E0F20D51DB0DB4/6AA0FF624D0DEDCDF3E87651BC3A7013BEACC800.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 21,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR00914_00": {
+        "npCommunicationId": "NPWR00914_00",
+        "trophyTitleName": "Buzz!™ Junior: Dino Den",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00914_00_00E6B88EFF9FA0F7F2AE4B9848873FC73ABAD5912E/2E3B4832E8E5F8444E37371B35E7FF1822C9E325.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR00915_00": {
+        "npCommunicationId": "NPWR00915_00",
+        "trophyTitleName": "Warriors: Legends of Troy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00915_00_00C786A303D1159D096E1C1A2CCEF4AFA70A9DF607/C5C027CDCDA4080EE5B40B084EFCEC26D3C02DD4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR00918_00": {
+        "npCommunicationId": "NPWR00918_00",
+        "trophyTitleName": "Arthur and the Revenge of Maltazard",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00918_00_00DFE2BF35BB0360C84639F6C0A249A3A7964028AE/427D7E531D0F0CC85740397E12885092013F182F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00926_00": {
+        "npCommunicationId": "NPWR00926_00",
+        "trophyTitleName": "Scene It?® Bright Lights! Big Screen!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00926_00_00F3831C24C2DB01EAE2D183B8196F155328DB4962/156BE777431A4210F9FD7B96E2C48894955C5788.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR00927_00": {
+        "npCommunicationId": "NPWR00927_00",
+        "trophyTitleName": "Ape Escape Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00927_00_005907D705A4F41BFD171CA9110B4CD8637C539065/75E95A5693CBE4B9581B926479FF36926B2F94C3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
