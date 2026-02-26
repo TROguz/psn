@@ -2988,5 +2988,135 @@
             "bronze": 24
         },
         "service": "trophy"
+    },
+    "NPWR00635_00": {
+        "npCommunicationId": "NPWR00635_00",
+        "trophyTitleName": "Cabela's Big Game Hunter 2010",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00635_00_006E7C6C8C7206D73FD04EE022B87F454EB7619341/EF1287B213209A7942BF706E8FCF09E96D1C952B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR00637_00": {
+        "npCommunicationId": "NPWR00637_00",
+        "trophyTitleName": "NARUTO SHIPPUDEN™: Ultimate Ninja®: STORM 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00637_00_00BE216EA342CB47434DE99551A20CADCED75999D5/735FE8568DF5C7877E11ACEA33E63DB6A74435D1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 4,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR00638_00": {
+        "npCommunicationId": "NPWR00638_00",
+        "trophyTitleName": "NHL® 10 Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00638_00_000E1CE08EC38B85DB85CB939DAAF504BD907FE08C/233410F5EF90ACCB49B348DC4A9C05FA6F322171.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR00640_00": {
+        "npCommunicationId": "NPWR00640_00",
+        "trophyTitleName": "Tiger Woods PGA TOUR® 10",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00640_00_001E40FEDBFB5A6711220729D3089B6868EDDD6650/BC7924923BF2553AFFBF13288F3E23CCF069C138.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 13,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR00641_00": {
+        "npCommunicationId": "NPWR00641_00",
+        "trophyTitleName": "topatoi",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00641_00_00299C387AE73AEA4358504B21D59A565AC9036DB6/3568DF17AEAA59F36037B95CCF371C65A917E4D9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 4,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR00642_00": {
+        "npCommunicationId": "NPWR00642_00",
+        "trophyTitleName": "テイルズ オブ ヴェスペリア",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00642_00_00D3D21C0F91DBA86E65712D0C050F3AAB9F22CE9B/A5883BF82FE369F86FD2162D683FF6E8E86E40EB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR00643_00": {
+        "npCommunicationId": "NPWR00643_00",
+        "trophyTitleName": "プロ野球スピリッツ６",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00643_00_0002F213B0A24DB61DAE19135A3343FF8ECF57B7AA/14E043C30B711E185C9F10F9B4CCF3815704FA94.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR00644_00": {
+        "npCommunicationId": "NPWR00644_00",
+        "trophyTitleName": "Alpha Protocol trophy set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00644_00_001004BEC078892022E99D890D8E3F542CEE8C173C/AD22E38C94E07AF65B73B6B887B89CED8CDEA36D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR00646_00": {
+        "npCommunicationId": "NPWR00646_00",
+        "trophyTitleName": "SPLATTERHOUSE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00646_00_00A0BFBF25A3186ABC3A0847C3466231C51F4D2FCB/762C969D24C1AB1210676D44DD1737673299EFCC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR00647_00": {
+        "npCommunicationId": "NPWR00647_00",
+        "trophyTitleName": "Rugby League Live Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00647_00_00172F15AABCD688D7B2E58AC10B1ED7B6C5680F2C/72254FEB2DD708E317E827441EB3A3DAB50864A9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 9
+        },
+        "service": "trophy"
     }
 }
