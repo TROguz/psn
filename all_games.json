@@ -1168,5 +1168,135 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR00416_00": {
+        "npCommunicationId": "NPWR00416_00",
+        "trophyTitleName": "Disgaea 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00416_00_00EFFE9CF0E237EF4CB9285299AD2BF5FF43BD4BFF/54C52113131E12B922F5E0DB451F79E332BC2D12.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR00419_00": {
+        "npCommunicationId": "NPWR00419_00",
+        "trophyTitleName": "Far Cry® 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00419_00_00F2B21587617532C805C92AE0CFD94AB3B12F548E/6233B963985CD6E85653A1E160E073C6688BE263.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR00421_00": {
+        "npCommunicationId": "NPWR00421_00",
+        "trophyTitleName": "TV Show King Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00421_00_00B7E9B89CBB71FF93F87CF878D0C153830001DC9D/CD5ADD87D912B6200879C81ACD1B42A2F437550C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR00425_00": {
+        "npCommunicationId": "NPWR00425_00",
+        "trophyTitleName": "Assault Heroes ™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00425_00_009B135921B9C28484D95A54EAAFE46FC85E84332D/78C3E138DF0FAF6675A4F6CB081512AAE8ED6B02.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00426_00": {
+        "npCommunicationId": "NPWR00426_00",
+        "trophyTitleName": "Sonic & SEGA All-Stars Racing",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00426_00_00D722DB194AE6DCF85D354142E295D6FC2962B37A/91F0600A078C9B6BBF0EF750D27AE2087C37BC83.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 13,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR00429_00": {
+        "npCommunicationId": "NPWR00429_00",
+        "trophyTitleName": "DiRT 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00429_00_00EF5F053C7DF17A0B14E6DB6E2A4E65B5516EDA41/D91A867E0A4EDE86E5722072185299C5A0ED3FC5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR00430_00": {
+        "npCommunicationId": "NPWR00430_00",
+        "trophyTitleName": "Skate 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00430_00_0027D4819936ACC26CA6B815890FED4D03B10C7A3A/15A03260D37F9890FCFD942DA155FDF811F4FCE1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR00432_00": {
+        "npCommunicationId": "NPWR00432_00",
+        "trophyTitleName": "PlayStation®Home",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00432_00_0003472C02B2710AD5532F20F4D34C426E6A488314/E2E54879114441EAF2E889CD1F5CC77E443D1AB8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR00434_00": {
+        "npCommunicationId": "NPWR00434_00",
+        "trophyTitleName": "STREET FIGHTER Ⅳ Trophy pack.",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00434_00_003BC625ACCD0C2A5C5B4960CA1C23C77EC443B477/D3154DF2AA814CA3F240222F084F18AFE8D3D8F1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR00439_00": {
+        "npCommunicationId": "NPWR00439_00",
+        "trophyTitleName": "UFC 2009 Undisputed",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00439_00_00E5CECBEF7EC8E4BAD8EBF5EE966A264AEBA49367/1F93E4C76E65C71461D30612F87CAFF6BA3F6B50.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 16,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
