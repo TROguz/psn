@@ -1948,5 +1948,135 @@
             "bronze": 2
         },
         "service": "trophy"
+    },
+    "NPWR00521_00": {
+        "npCommunicationId": "NPWR00521_00",
+        "trophyTitleName": "Watchmen",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00521_00_007D16CEAAD67DEB92A76E188E37AC1E519487A178/FAB98D4BD54710AF0728631C87103865630B675A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00525_00": {
+        "npCommunicationId": "NPWR00525_00",
+        "trophyTitleName": "SONIC WORLD ADVENTURE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00525_00_0052FBD37CA0B95D2A55445F76AAF62C93E458BCB5/A858C3D835433DBF4D64FD06BE5C2744000294B6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR00527_00": {
+        "npCommunicationId": "NPWR00527_00",
+        "trophyTitleName": "Revenge of the Wounded Dragons",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00527_00_000ECD009AE8AAC86BEAD6DCC26A491B68DB5E909C/9A935B5754AA3EC2753CCC4A63A91C9B3E168073.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00528_00": {
+        "npCommunicationId": "NPWR00528_00",
+        "trophyTitleName": "SBK® Superbike World Championship",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00528_00_00174D20CC9F163E8104853A09755E7FD919116022/4F7F7B1034361D19A908EDEAC27ED4EC7C548A17.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR00529_00": {
+        "npCommunicationId": "NPWR00529_00",
+        "trophyTitleName": "FLOCK!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00529_00_00AF28EE7AC51E6EE85BD71F58838F913CD936C272/EEBCFC9757725E33D562E55AEBF10A5D28D83F11.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR00530_00": {
+        "npCommunicationId": "NPWR00530_00",
+        "trophyTitleName": "Harry Potter and the Half-Blood Prince™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00530_00_004AAA1FD23C2198C1B285280510C463444A94B02D/F6E058614516F155D76E6C32B410FDB0F73E19FB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR00533_00": {
+        "npCommunicationId": "NPWR00533_00",
+        "trophyTitleName": "X-Blades",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00533_00_000D9572178C5015D0571C0DCEC07B33688C7FEBCD/7773554586054165EE423F806983DD13F9C3E6F5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR00534_00": {
+        "npCommunicationId": "NPWR00534_00",
+        "trophyTitleName": "Catan's Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00534_00_008BF57410655C7EDD5A8D047DBEF39421EB31A8DD/34CA520DFFD0E5656C715BEFF3BC9E4BD061FE12.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00535_00": {
+        "npCommunicationId": "NPWR00535_00",
+        "trophyTitleName": "Ski-Doo Snowmobile Challenge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00535_00_00CCDB4E83BC42477600691352B70D27016F2E288D/C09DA6A1767C70EEF77E6582AD9B4395057C7A44.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 6,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR00537_00": {
+        "npCommunicationId": "NPWR00537_00",
+        "trophyTitleName": "The Lord of the Rings: Conquest™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00537_00_00BF0C090AF9CCB9D1FF5011FF12D944BC67015239/91E3269DF5DCB85F3BA9A0DF180B834A5DD64B8B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 32
+        },
+        "service": "trophy"
     }
 }
