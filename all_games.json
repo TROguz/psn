@@ -16508,5 +16508,135 @@
             "bronze": 1
         },
         "service": "trophy"
+    },
+    "NPWR02621_00": {
+        "npCommunicationId": "NPWR02621_00",
+        "trophyTitleName": "PlayStation® All-Stars Battle Royale",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02621_00_003EC757C4E058334D23A8BF87629D532E7D0F7346/7F0CAF0E78E0F55FA86EAB91BD63AEE7B49975C2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 9,
+            "bronze": 45
+        },
+        "service": "trophy"
+    },
+    "NPWR02622_00": {
+        "npCommunicationId": "NPWR02622_00",
+        "trophyTitleName": "真かまいたちの夜\n11人目の訪問者（サスペクト）",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02622_00_00146D06E5811982DC26E98D46F538BF3B4006851A/3C91D8F2B25E74682AF59BD395AE4071C99A2065.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR02627_00": {
+        "npCommunicationId": "NPWR02627_00",
+        "trophyTitleName": "Captain Morgane and the Golden Turtle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02627_00_00332330AE0AF989D62F98D9BB8BD6FF49B1F9203A/0001CBEF460D054A8DE43E173BBEFD818355B033.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR02631_00": {
+        "npCommunicationId": "NPWR02631_00",
+        "trophyTitleName": "Skyrim",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02631_00_003C060E54FE8D2AF8515477478F7A50522A3A8E35/4DC1937A77A66EC99FBB312B114CD31CCE1E3232.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 20,
+            "bronze": 54
+        },
+        "service": "trophy"
+    },
+    "NPWR02635_00": {
+        "npCommunicationId": "NPWR02635_00",
+        "trophyTitleName": "CATHERINE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02635_00_0039381F1E615E25E86242C891246599ED084F43D8/6AE62379E91DA800250230588EC3BF062F543426.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR02636_00": {
+        "npCommunicationId": "NPWR02636_00",
+        "trophyTitleName": "Tiger Woods PGA TOUR® 13",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02636_00_006C5E9E659E33D7FEAC880D100227BB362E3A5CCA/923DAF33DD8BB05D546AE7A9E522685162FD8CF9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR02639_00": {
+        "npCommunicationId": "NPWR02639_00",
+        "trophyTitleName": "涼風のメルト - days in the sanctuary -",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02639_00_006AE456EE481FEAEA04821DA80165C11B4BE36F33/04B1F8BE48495779B9E5E9583E489571D0D1E90D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR02642_00": {
+        "npCommunicationId": "NPWR02642_00",
+        "trophyTitleName": "Agarest: Generation of War 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02642_00_00C5F0D43FD08967E118D5D5833777C54935FB1DC6/5D5193025C49897680E952FBF61AC8C1BE4C7720.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR02644_00": {
+        "npCommunicationId": "NPWR02644_00",
+        "trophyTitleName": "THE HOUSE OF THE DEAD 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02644_00_003B2F5BEA95A1F7E5DB650552525361056AA3B545/FE7FC8E42631A33982FDE6350CEFD67DC458DCDB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR02645_00": {
+        "npCommunicationId": "NPWR02645_00",
+        "trophyTitleName": "THE KING OF FIGHTERS XIII",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02645_00_005429EBB3D701ED36F99BE78971F26CF12772EB77/97A3E22E202C460C03034AF6B9D17185359705CC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 33
+        },
+        "service": "trophy"
     }
 }
