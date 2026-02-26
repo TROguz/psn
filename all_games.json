@@ -1558,5 +1558,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR00476_00": {
+        "npCommunicationId": "NPWR00476_00",
+        "trophyTitleName": "NAMCO MUSEUM ESSENTIALS™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00476_00_00699B7C8B6D51B3D8FD1BAC5D7602986A00A75C99/FB631E983472F248ADEA3E2677CE1BF54D735692.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR00478_00": {
+        "npCommunicationId": "NPWR00478_00",
+        "trophyTitleName": "Guitar Hero Metallica",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00478_00_0076CC4B88BBF60907CB3EF79BCCF467CEC589AE59/85CFD3FF1244A3CB17412D9BD04E015633FFBEE3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 12,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR00479_00": {
+        "npCommunicationId": "NPWR00479_00",
+        "trophyTitleName": "Comet Crash",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00479_00_000399F648198039F678DA753CF4AA04048C9691C5/C5A8D8208D3C87F3B143C91136CF6D7DA8641B7B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR00481_00": {
+        "npCommunicationId": "NPWR00481_00",
+        "trophyTitleName": "FUEL™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00481_00_00E03BD10958887B54ADD36CD4DA51B81B1EE4BEE2/FEDAAF08BF0983D2CF4D22104819E02E5C3A4C12.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR00482_00": {
+        "npCommunicationId": "NPWR00482_00",
+        "trophyTitleName": "TEKKEN 6 Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00482_00_004DB8386A0180C345E258822BAB3DAD9B59F92C31/BE617A079A95B99280BECBD08A685763F60216D0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR00483_00": {
+        "npCommunicationId": "NPWR00483_00",
+        "trophyTitleName": "Monsters vs. Aliens (TM)",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00483_00_00F12BE25967E88BDDB547085F874CD0921EE92E28/8BC5B411F7F187F284730BE15DD5CFA48CAAC567.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR00484_00": {
+        "npCommunicationId": "NPWR00484_00",
+        "trophyTitleName": "Aliens: Colonial Marines",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00484_00_0070608D659334E74EE8DEDEF234814F29F8196F2E/0CA5C0076FBB2EBDDF73A6095EC99254DF1CAF44.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 45
+        },
+        "service": "trophy"
+    },
+    "NPWR00485_00": {
+        "npCommunicationId": "NPWR00485_00",
+        "trophyTitleName": "Buzz!™: Brain of...",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00485_00_00C6B09AB09849A29B363058712E93BCD9B3D246E0/CD63C1D62EF4829558CDF14E3FEA265F26070463.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 11,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR00489_00": {
+        "npCommunicationId": "NPWR00489_00",
+        "trophyTitleName": "Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness, Episode One",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00489_00_00521F525ACE4CAE24F2C2D41B9E055B146C0E10F3/2B1CCEC723FB4278B295415139624BC348F48AB9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00491_00": {
+        "npCommunicationId": "NPWR00491_00",
+        "trophyTitleName": "Cuboid",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00491_00_00E3B46DA6CD9AE9D8F03C90B70A9BDC9DBDB60031/38432D900DE1C0C41D7A7CA537567F538B419078.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 6,
+            "bronze": 18
+        },
+        "service": "trophy"
     }
 }
