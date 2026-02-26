@@ -9488,5 +9488,135 @@
             "bronze": 23
         },
         "service": "trophy"
+    },
+    "NPWR01424_00": {
+        "npCommunicationId": "NPWR01424_00",
+        "trophyTitleName": "実況パワフルプロ野球２０１１",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01424_00_002F5E4341F4C14CC03CA758A5C95FEC933799D515/031BF64AA796E33FCC5C9BF898A19671911C2084.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR01426_00": {
+        "npCommunicationId": "NPWR01426_00",
+        "trophyTitleName": "Inversion™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01426_00_0090FF8308B96EE81D8F81561090E277DBA53223EB/5CFA6103085272437275FBE5F53E439BB70FE316.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR01428_00": {
+        "npCommunicationId": "NPWR01428_00",
+        "trophyTitleName": "Akimi Village",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01428_00_008F200443EC4BF9F404EC94049D9ADC215906F486/124822970F16BE6525FB6FE96225377A92E8DB8A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01429_00": {
+        "npCommunicationId": "NPWR01429_00",
+        "trophyTitleName": "Swarm",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01429_00_00E74B63FEB38F82335FAD487FF7D5BBCA26EED887/60821BD190694D447ECD77BF4A625AC633E4EB2D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01430_00": {
+        "npCommunicationId": "NPWR01430_00",
+        "trophyTitleName": "Power Gig: Rise of the SixString",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01430_00_00519A12C7A7CD7A8F49C34932961E857951B39B8B/0BB0C12A6FDF911AC2997E4E8371EADC93FB91CE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR01431_00": {
+        "npCommunicationId": "NPWR01431_00",
+        "trophyTitleName": "Hunted: The Demon's Forge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01431_00_002AADC6321D34D5ACE3BF3FCB8865629122198F3C/EB026B3D500D57A4A7AF2CB607FE2F553987A731.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR01433_00": {
+        "npCommunicationId": "NPWR01433_00",
+        "trophyTitleName": "Sly 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01433_00_00F428DDEDD53F75D6D4F0BA781DCB6184F5CCA5B5/8151DAB55C42B2CD90708460BA35944A28269715.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR01434_00": {
+        "npCommunicationId": "NPWR01434_00",
+        "trophyTitleName": "Rock Band Country Track Pack 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01434_00_00E6B2FA6213729B3D3E1F75986E630F1EE71EA3E0/4037FD4481C27EA8B03FAF778362ECFF221BB43A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR01435_00": {
+        "npCommunicationId": "NPWR01435_00",
+        "trophyTitleName": "Sly 1",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01435_00_00151F548398A04B50A87FE0577F8B424BAF53E467/4DAF8CD41274518D376437C1A3587E45AF11850A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR01436_00": {
+        "npCommunicationId": "NPWR01436_00",
+        "trophyTitleName": "Mafia II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01436_00_0024453986E3E63920947ED4291CD18667BE8D63DC/553C5AE958A89FD2FE655A276ED97FB025287D5D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 51
+        },
+        "service": "trophy"
     }
 }
