@@ -4418,5 +4418,135 @@
             "bronze": 9
         },
         "service": "trophy"
+    },
+    "NPWR00783_00": {
+        "npCommunicationId": "NPWR00783_00",
+        "trophyTitleName": "真・三國無双 MULTI RAID Special",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00783_00_001CD9C3F9AEAE12B6ED97A2AEEFC604730CD4A339/9AFE5E3F15BF7E62F535DCFD7238E4435C966A58.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR00785_00": {
+        "npCommunicationId": "NPWR00785_00",
+        "trophyTitleName": "Disney Sing It: Pop Hits",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00785_00_0056378B166417794982827B3BF85F9713A791D2DB/E2BD2F7D5EE3B4C1272357F2FDAEC0965FA40E41.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR00787_00": {
+        "npCommunicationId": "NPWR00787_00",
+        "trophyTitleName": "AFRIKA",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00787_00_00D2AD08CF105C4A67956E644A2CDAC612AA5756E2/C9783F9C30C794B26307B7550E08C3A92B7C986D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 6,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR00788_00": {
+        "npCommunicationId": "NPWR00788_00",
+        "trophyTitleName": "UFC® Undisputed™ 2010",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00788_00_0037CF7B9C905113C5B7C7A84BB3D2CAFA40105BC3/A8268981EB3E62CD7F0D0BB5D16927E464C8CA05.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR00790_00": {
+        "npCommunicationId": "NPWR00790_00",
+        "trophyTitleName": "BUZZ!™ Junior: Monsters",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00790_00_00093BDD2CA537CF04E5DB3F91A7A0EF32BBDFE8DD/22B39C78A64D003B3A59EA97F960D322523D3F02.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR00791_00": {
+        "npCommunicationId": "NPWR00791_00",
+        "trophyTitleName": "Modern Warfare® 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00791_00_0075D21B07B0B4EDA90CF12C1F394CE44BAD0207E5/58E5A097A8D249F05A604777729D66B089B5BE49.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR00793_00": {
+        "npCommunicationId": "NPWR00793_00",
+        "trophyTitleName": "ジャンライン　アール",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00793_00_007700B3D9E138DE3B8366FCAC71CB2BB758D55BC7/14759850CC425F98E64F5B7FBC9F2AD1EB6A7D8A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR00794_00": {
+        "npCommunicationId": "NPWR00794_00",
+        "trophyTitleName": "TMNT: Turtles in Time Re-Shelled",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00794_00_0063141075BBADB81D524277B33F6F9627F813F0D5/32C10869E81D693DB97DA2124F64AE37209170C4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00797_00": {
+        "npCommunicationId": "NPWR00797_00",
+        "trophyTitleName": "Madagascar Kartz",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00797_00_00F974ADA1B710293E9691C813B7C230C80D6469F3/0EFC7F4F8CBA73197EC6BCA05C81BA3DE2DA8C67.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 12,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR00798_00": {
+        "npCommunicationId": "NPWR00798_00",
+        "trophyTitleName": "Cars: Race-O-Rama",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00798_00_008E5E1438AC21702224A5DFAD09B816E9B392A1D1/15C2D2D67A42BFB8DA603CED80D4EB6B39D42D26.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 14,
+            "bronze": 0
+        },
+        "service": "trophy"
     }
 }
