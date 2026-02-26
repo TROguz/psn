@@ -11,5 +11,18 @@
             "bronze": 16
         },
         "service": "trophy"
+    },
+    "NPWR00032_00": {
+        "npCommunicationId": "NPWR00032_00",
+        "trophyTitleName": "Lemmings™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00032_00_00814360A811CD3720D54A5C3F74DF94FE89617311/7B7C540E1A5EA948FF81D128F436E9D0E0840EC3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
     }
 }
