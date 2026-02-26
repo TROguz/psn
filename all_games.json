@@ -12868,5 +12868,135 @@
             "bronze": 40
         },
         "service": "trophy"
+    },
+    "NPWR01804_00": {
+        "npCommunicationId": "NPWR01804_00",
+        "trophyTitleName": "DanceStar™ Party",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01804_00_008144851B570D74DEDBDA4D64DE53794DB1AF468E/76E8EE094441D77B6F8B68BB523027509F277348.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR01808_00": {
+        "npCommunicationId": "NPWR01808_00",
+        "trophyTitleName": "Battle: Los Angeles",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01808_00_00E236DE3EAC2CE730AAA2B1E25F7ED850AF964C30/11A6562805E374678C15A863BBAC80B277EB80FD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01810_00": {
+        "npCommunicationId": "NPWR01810_00",
+        "trophyTitleName": "Sniper: Ghost Warrior",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01810_00_0090CB42BBA19D1E0BD07D896A83AEFD58661C93E3/C19A9CA5E7C9173C6C5EB622A5E07EC4AF2F1D67.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR01811_00": {
+        "npCommunicationId": "NPWR01811_00",
+        "trophyTitleName": "Tom Clancy's™ Splinter Cell® HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01811_00_00E435C9C4207B9EEC3741CD2742001B7CD4CC4FB6/3F80C6955A0CA216583FC8D7C147FD631E550EA8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR01812_00": {
+        "npCommunicationId": "NPWR01812_00",
+        "trophyTitleName": "Tom Clancy's™ Splinter Cell Pandora Tomorrow® HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01812_00_00E7188634C4AB3211C8C06D10A915B9C9674BFCE0/89147B94AEDC3B7C566B14A9DE8605BA78ED8248.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR01813_00": {
+        "npCommunicationId": "NPWR01813_00",
+        "trophyTitleName": "Need for Speed™ Most Wanted",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01813_00_0019681F778CF8DEE3FE1B083452100E26BF60E852/93D2AFFE4E406380163D84E39914C7B6C3BA4862.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 49
+        },
+        "service": "trophy"
+    },
+    "NPWR01814_00": {
+        "npCommunicationId": "NPWR01814_00",
+        "trophyTitleName": "Mass Effect™ 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01814_00_00C673FFAB6E8B4E211A9DE573760C366509A30571/FEC5793C03CDF70FBDC39D24F153B77DC32E6C89.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 53
+        },
+        "service": "trophy"
+    },
+    "NPWR01815_00": {
+        "npCommunicationId": "NPWR01815_00",
+        "trophyTitleName": "DAYTONA USA",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01815_00_00B04163FF213A97B7558C87ED1387FC8D8A7DDB39/2B546065BA33526D27BF0C85706D1B3A6CBAB442.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01816_00": {
+        "npCommunicationId": "NPWR01816_00",
+        "trophyTitleName": "Deadliest Warrior: Legends",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01816_00_00674BB178866092CB0CCEBA1E27068285561F7DFB/205C0FA9E5E5382C275181DC6375D849E03AA703.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR01817_00": {
+        "npCommunicationId": "NPWR01817_00",
+        "trophyTitleName": "The Darkness II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01817_00_006F5A66B7629F8589FB1CE05E561367E00C8362F4/8E1EDF6E8DDC554FE265CB52DFB440D8A96FA8E0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
     }
 }
