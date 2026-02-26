@@ -17158,5 +17158,135 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR02783_00": {
+        "npCommunicationId": "NPWR02783_00",
+        "trophyTitleName": "Sonic CD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02783_00_000A24EA65D4DF27CF583D9D2EC01D1125670F9F99/1AD97571531CD2F0D8FF4DD03D9A3EEAC85B0D34.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR02784_00": {
+        "npCommunicationId": "NPWR02784_00",
+        "trophyTitleName": "極限脱出ＡＤＶ　善人シボウデス",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02784_00_00CE24E8DC12FEFD9D5715AED330FA847785BA2AAA/37F4414722391A56F987E7DD405F195DE955BB38.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR02787_00": {
+        "npCommunicationId": "NPWR02787_00",
+        "trophyTitleName": "テイルズ オブ イノセンス R",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02787_00_001034FF8A48C9E3257F1B5FFB2A84BFFC34C93DFC/0F83FA066ED444186BFA4F256670D27F70F55D7A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR02793_00": {
+        "npCommunicationId": "NPWR02793_00",
+        "trophyTitleName": "＠ｆｉｅｌｄ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02793_00_00D0F017CD9266B923E92C000874B14DE64E0528E2/EE13DA891D7C6DCD728E02458860AFBAF080D33D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR02798_00": {
+        "npCommunicationId": "NPWR02798_00",
+        "trophyTitleName": "Escape Plan™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02798_00_00D083426C4F7F8BBBF40616A88CA72E114C869FBE/2A43D29FE464909DD861D1AB5240FCC7709947BA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR02800_00": {
+        "npCommunicationId": "NPWR02800_00",
+        "trophyTitleName": "MOTORSTORM® RC",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02800_00_00AA5A221D36497C8E45DAA88EA7426CF87FD48412/1E18DD19E13C9B51975CA682C5F7D83F1037336D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 12,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR02803_00": {
+        "npCommunicationId": "NPWR02803_00",
+        "trophyTitleName": "Just Dance 3 ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02803_00_00A0CAF13ECF4C9BF5BAF5ACF5B36DFA9CF56AC39E/FF161A2E95615E8B227F7013F3EEBDAEAAC71127.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR02812_00": {
+        "npCommunicationId": "NPWR02812_00",
+        "trophyTitleName": "Tales of Graces f",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02812_00_00E65A9DA35B7BF5BD20F90C5CE1C0E790039720C8/41F34BB4F6AFDE787AC448096F9B7607E54A9C0D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR02816_00": {
+        "npCommunicationId": "NPWR02816_00",
+        "trophyTitleName": "Asphalt: Injection",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02816_00_000AFC34602A9DF5C3EA69B9C561AE3E221FCFFC63/06E7ED896BE496279610C584E07A4213C342EE0C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR02817_00": {
+        "npCommunicationId": "NPWR02817_00",
+        "trophyTitleName": "Family Feud Decades",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02817_00_00FF8405A04FF6337E235AC1AAD0950895EC62C2F2/D190AA7583EF7580972353D960295689A3D4FEFA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 12
+        },
+        "service": "trophy"
     }
 }
