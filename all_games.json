@@ -6628,5 +6628,135 @@
             "bronze": 36
         },
         "service": "trophy"
+    },
+    "NPWR01103_00": {
+        "npCommunicationId": "NPWR01103_00",
+        "trophyTitleName": "Resonance of Fate",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01103_00_00F83CBA8F3757C9DC3978411B191820000EB1AE70/27D74A8FA4B606493C285C88FB85B72528E55626.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR01104_00": {
+        "npCommunicationId": "NPWR01104_00",
+        "trophyTitleName": "Sam & Max: The Devil's Playhouse - Episode 1: The Penal Zone",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01104_00_007BD7DE001B4794D2F48D4AD9B424D81DCD46AF36/55587422D14134558583E2016EA831BEE3E8FDE7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01107_00": {
+        "npCommunicationId": "NPWR01107_00",
+        "trophyTitleName": "Guitar Hero®: Warriors of Rock",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01107_00_00CF6197CBEF131735E5EAF1ACD9AFF1BEDF84ECAD/487F86DEB691BD82BCD7D490BF90ADDEC754BA00.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 13,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR01109_00": {
+        "npCommunicationId": "NPWR01109_00",
+        "trophyTitleName": "PixelJunk™ Racers 2nd Lap",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01109_00_0024727128EADE2A13CDBAD2E1D82E296E1F57700A/8FD955760B382E3147C1A7F243B63C8C5A1B3ED2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR01110_00": {
+        "npCommunicationId": "NPWR01110_00",
+        "trophyTitleName": "International Cricket 2010",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01110_00_00F5BA84E1D5E4C9C082C52A7120C7DF60CCFA3D5E/3512048DF8476F8092F8ED3D580B330EA0F81054.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR01111_00": {
+        "npCommunicationId": "NPWR01111_00",
+        "trophyTitleName": "Little League World Series Baseball 2010",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01111_00_00D1B2FE0E2638D6D2AEF68783FB5570B5F45796D7/8EA879D38E7DF18BAD58DA1D2CD3ECC7456B1784.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR01112_00": {
+        "npCommunicationId": "NPWR01112_00",
+        "trophyTitleName": "Prince of Persia The Forgotten Sands™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01112_00_00E599119744082E22A4134997569F1BAD9A04C0D6/4E6166E7C8BA600D7EAE7E2FC5520AF32C913398.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR01113_00": {
+        "npCommunicationId": "NPWR01113_00",
+        "trophyTitleName": "Soldner-X 2: Final Prototype",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01113_00_0086F0066D6946A97CE2FF5B8883BCBCA15203EFB6/AE1DCF8E91F96F25FFFE1F35D6ED680B8E2F399A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR01114_00": {
+        "npCommunicationId": "NPWR01114_00",
+        "trophyTitleName": "Ferrari The Race Experience",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01114_00_00530CC94838373B38E4195920F487E73D9832A7DD/651720ED4DF0A13E01C9C10C69E851BB40D526A0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR01115_00": {
+        "npCommunicationId": "NPWR01115_00",
+        "trophyTitleName": "Iron Man™ 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01115_00_00C67563ABBCDF0D228BCE4870E86BF082BF153325/F0FA1DDB5B4C286A64B250DCE256EADFF5564984.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 41
+        },
+        "service": "trophy"
     }
 }
