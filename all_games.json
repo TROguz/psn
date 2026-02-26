@@ -8448,5 +8448,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR01308_00": {
+        "npCommunicationId": "NPWR01308_00",
+        "trophyTitleName": "My Aquarium",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01308_00_00FBCEB65EFB9E204D0BAD2A2E8676EE2B559A01AD/FADBCFCFF0148D341039F5FD9053A71E7E86EEF3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR01309_00": {
+        "npCommunicationId": "NPWR01309_00",
+        "trophyTitleName": "Winter Sports 2011",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01309_00_00F4618979948C1438BC2E0B5CDFCCC55D40CA766A/3A7013805F9E1F6E229216186E3973EA79533FBD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR01311_00": {
+        "npCommunicationId": "NPWR01311_00",
+        "trophyTitleName": "Major League Baseball 2K10",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01311_00_00433FC7E4C507DACF348BEEE4056B6EC09D508891/C358C36A8AD3828C8B42134A98BF0B7B3E1082B7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR01312_00": {
+        "npCommunicationId": "NPWR01312_00",
+        "trophyTitleName": "DARK AWAKE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01312_00_00293F1C45A68A5EC795F7202B81C5EBAB98D414B4/136DF0991966C7BD4F8D1371DBAB5BE51ABCDECB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01313_00": {
+        "npCommunicationId": "NPWR01313_00",
+        "trophyTitleName": "Shank",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01313_00_0060952E92C197BD064C164C805DB3F8000B30953A/38B68B361ACE9F316931DC663D8610F0688F9799.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01314_00": {
+        "npCommunicationId": "NPWR01314_00",
+        "trophyTitleName": "Hyperdimension　Neptune",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01314_00_0085659A468C9ACC66230210F30501D199A68FF9DB/2DBD2A41EDF95CCF676C3CE3621073F53E34EA26.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR01317_00": {
+        "npCommunicationId": "NPWR01317_00",
+        "trophyTitleName": "剣と魔法と学園モノ。２Ｇ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01317_00_0025651397F66DB5480C157F5F1E8F5878E1B2B553/01F54B89808C8A42AADECFC3491262C8BD3357F7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR01318_00": {
+        "npCommunicationId": "NPWR01318_00",
+        "trophyTitleName": "Rock of the Dead",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01318_00_0085E6EFCA2D7DFCE6A42285E6880D80F00DC7DEC1/97F82976E696643AD62D8046046FCF54D8BDB2AC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR01319_00": {
+        "npCommunicationId": "NPWR01319_00",
+        "trophyTitleName": "マクロストライアルフロンティア",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01319_00_00C9D4254250B7136F4C5A8CC8B45D04456E3AFCD2/6D709FD5CA0A0B097B7A723F1CB17AC532D82AC2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR01320_00": {
+        "npCommunicationId": "NPWR01320_00",
+        "trophyTitleName": "SCOTT PILGRIM VS. THE WORLD: THE GAME",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01320_00_000B21C5762A21A1F48865583DD7262D3C06FF494D/F9368A3FA224A516470682358A682B2865E46033.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
