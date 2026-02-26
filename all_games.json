@@ -8318,5 +8318,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR01295_00": {
+        "npCommunicationId": "NPWR01295_00",
+        "trophyTitleName": "SOCOM 4: U.S. Navy SEALs",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01295_00_00A1EAB41FF82944D916A5E6C65ABB23FE8FA03A0E/1F7563E075FB42046E84AD779E3E1CF9BA51FA1E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 6,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR01297_00": {
+        "npCommunicationId": "NPWR01297_00",
+        "trophyTitleName": "Record of Agarest WarⅡ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01297_00_00EA54431C69C78FD6F62AD296E119AAB59DD51867/A4947A75C2BBEEAD943A35900F89B53FB43E64F0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR01298_00": {
+        "npCommunicationId": "NPWR01298_00",
+        "trophyTitleName": "Dungeon Defenders Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01298_00_004A91BD0D92A08140E673E3FF5E1B585557CD4C63/DC2FDDE01D66E2370C77098BDBB818F212F4366A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 9,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR01299_00": {
+        "npCommunicationId": "NPWR01299_00",
+        "trophyTitleName": "真・三國無双６",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01299_00_0074729B4B36A2FAE9FA28E2AE9E16E84236FF4248/028614B01E776F22F5A153AD1420C285EF5C7C95.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR01300_00": {
+        "npCommunicationId": "NPWR01300_00",
+        "trophyTitleName": "Megamind",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01300_00_00AA4B7DA5A857051801D2C48571860FE6728C507D/520C49EE965EB2CC79EE6B54AB264086551FA242.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR01301_00": {
+        "npCommunicationId": "NPWR01301_00",
+        "trophyTitleName": "Beat Sketcher™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01301_00_00E559F848665F45B2F4633AD242CF0E3ACC0C91BB/E46013B11AF4056E40E6DCF00C5496DD0E357C16.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR01302_00": {
+        "npCommunicationId": "NPWR01302_00",
+        "trophyTitleName": "Brunswick Pro Bowling",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01302_00_004ED6313516A27723EFC38072ADBB47071CE90D04/3A38DA33B88E3B9112B0B0878F90B66D46853F15.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01304_00": {
+        "npCommunicationId": "NPWR01304_00",
+        "trophyTitleName": "Tom Clancy's H.A.W.X. 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01304_00_00A7575768C81EB262C29EDE989D1A511326D9B9E7/548EABD5B38E22D23C5101553ECE9CA172C1BC4A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR01305_00": {
+        "npCommunicationId": "NPWR01305_00",
+        "trophyTitleName": "The Sims™ 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01305_00_00D097852F9E50BA049F025BFDEA2EF15223774403/F021AEA4E381EC8A22381D1CCD05DCDFDB794D4F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 15,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR01307_00": {
+        "npCommunicationId": "NPWR01307_00",
+        "trophyTitleName": "Tetris®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01307_00_003AA76CE08F0476EC9035128A6320CB4C0F270A5A/8B243AD16BE28482E7CB00484EE951C302E3CF39.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
