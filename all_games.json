@@ -5718,5 +5718,135 @@
             "bronze": 43
         },
         "service": "trophy"
+    },
+    "NPWR00962_00": {
+        "npCommunicationId": "NPWR00962_00",
+        "trophyTitleName": "NHL® 11 Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00962_00_00F9E36E46FE951D5FEF40EDD0BD052084680548B5/1EE5925008E6AAD29699DB912F74EE0EB4AD6430.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR00964_00": {
+        "npCommunicationId": "NPWR00964_00",
+        "trophyTitleName": "Madden NFL Arcade",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00964_00_000D857E2AC0955736CFA2DB59780C32264B3B6D22/3CDA0B0749563FBEBC175DBDA5FFDE347DB58100.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00967_00": {
+        "npCommunicationId": "NPWR00967_00",
+        "trophyTitleName": "WWE SmackDown vs. RAW 2011",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00967_00_000C66EA5BCA5DB862F9430AD612F0CC0B94032DF7/1A496EAD8AF25E09FDCEB7086A1372B0C9920DA6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 17,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR00968_00": {
+        "npCommunicationId": "NPWR00968_00",
+        "trophyTitleName": "真・三國無双 Online",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00968_00_007C7AB2BA356A4C6753F97D4690230208325B7148/0B47C9DA0A39DD73FD462C6F6A095188F4ADE6D7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR00971_00": {
+        "npCommunicationId": "NPWR00971_00",
+        "trophyTitleName": "Rust Buccaneers trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00971_00_002868AB5E2F08F7CBD40D6EC79209CB276D58104C/873C73F298FF0A790A0CF1513ABE29082BE7F9EF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00972_00": {
+        "npCommunicationId": "NPWR00972_00",
+        "trophyTitleName": "Puzzle Chronicles",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00972_00_00217C18748FCAD988FD5FE337AAADF2864C092640/801A39C0BEEC922F6A1A55ACFB207ACAFDD03DF6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR00981_00": {
+        "npCommunicationId": "NPWR00981_00",
+        "trophyTitleName": "After Burner Climax",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00981_00_00CCB28F3734CAD3162D090DB49EB02EF3D3F172DA/BA069D718D16E0BE9DA5CB87B90DF25217F42D62.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR00982_00": {
+        "npCommunicationId": "NPWR00982_00",
+        "trophyTitleName": "NBA 2K10",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00982_00_001AFC1B544FDDCF5D836CE53C5CE5A89FBFCA3987/CE07FC68BBEE74C1D1EF85D7A9C3B393A6A0AFC0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 15,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR00985_00": {
+        "npCommunicationId": "NPWR00985_00",
+        "trophyTitleName": "Rock Band 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00985_00_00A86E28ADCDEDA22D6B8EDC0CFEE8F76877D3376F/D67DF25A3101A4805C9D361D6BC57C50E25F3C03.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 15,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR00986_00": {
+        "npCommunicationId": "NPWR00986_00",
+        "trophyTitleName": "Darksiders",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00986_00_0075E388BA80529D73196514429625620C4940A6B7/9B52BA001C5931CB4093E9996FEB4C8AD26D6395.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 26
+        },
+        "service": "trophy"
     }
 }
