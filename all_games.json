@@ -10918,5 +10918,265 @@
             "bronze": 20
         },
         "service": "trophy"
+    },
+    "NPWR01588_00": {
+        "npCommunicationId": "NPWR01588_00",
+        "trophyTitleName": "Hydrophobia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01588_00_00E7BF1051FA576E527EC975319161DC6F73043789/78D13F5335FE32D8AEA4523F7B1233ADC0485AA3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR01589_00": {
+        "npCommunicationId": "NPWR01589_00",
+        "trophyTitleName": "MARVEL Pinball",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01589_00_003266CCC7EF24EE35E128F3280A39B347A4C40553/5068B717EAF8256965F6D068274F3F6D18B29DE8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR01592_00": {
+        "npCommunicationId": "NPWR01592_00",
+        "trophyTitleName": "TRANSFORMERS: Fall of Cybertron",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01592_00_00BCE781425F841BB049291A2A8AC5B077EDB0DF9B/264A5A0A44DA338316907990F8672DD7E65B9BD3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR01598_00": {
+        "npCommunicationId": "NPWR01598_00",
+        "trophyTitleName": "うみねこのなく頃に ～魔女と推理の輪舞曲～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01598_00_009B71E59CE3A88726ECBC42CFFA6AA60551AD0FFD/B110390902BB709925350B2A97EC25D7A4C79A1C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR01599_00": {
+        "npCommunicationId": "NPWR01599_00",
+        "trophyTitleName": "BLEACH: Soul Resurreccion",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01599_00_006994991145E8D7E3BF38E4FBA3574E9314C4E10B/CB823BA31AB7BA7AC872720305AC62AA0DD56735.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR01600_00": {
+        "npCommunicationId": "NPWR01600_00",
+        "trophyTitleName": "Brunswick Pro Bowling",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01600_00_00B830D1D5CDD5EF86B5A165099FA4A76DD89B4F67/F5DBACC3F48819ECB76785423C78F1ECAF3E5C0D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01601_00": {
+        "npCommunicationId": "NPWR01601_00",
+        "trophyTitleName": "Michael Jackson The Experience",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01601_00_008D9264D9CD1F8642A6FFF065B49C5381F2D98CEB/695C04F827AE0135F04968DDA61215739012C120.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR01602_00": {
+        "npCommunicationId": "NPWR01602_00",
+        "trophyTitleName": "激アツ!! パチゲー魂 「CRヱヴァンゲリヲン～始まりの福音～」",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01602_00_00DA6761A24A216B30F4B4316BF006844FAB9E73F7/B7AAC034073234940F8B4C1B346ADF95E119FF9E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR01603_00": {
+        "npCommunicationId": "NPWR01603_00",
+        "trophyTitleName": "Slam Bolt Scrappers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01603_00_0066CD26C875986465D00754A6130EED3DB2B95FD2/088011332C47CFA47420DB81B37DDE04FA1CCDF4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR01605_00": {
+        "npCommunicationId": "NPWR01605_00",
+        "trophyTitleName": "Deus Ex: Human Revolution",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01605_00_00F600D9AE50B456AC5D1CD66784983C59CBDF35A9/ED381C2C07BD4A0B43DB3EEFA44F25567630184A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR01607_00": {
+        "npCommunicationId": "NPWR01607_00",
+        "trophyTitleName": "Red Johnson's Chronicles",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01607_00_00F7629D5C4DDE3E087E586FC8F9C490403318BC2B/F37A9AA618BBFA600F8CB101605E71C212B89302.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01608_00": {
+        "npCommunicationId": "NPWR01608_00",
+        "trophyTitleName": "Tomb Raider: Legend",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01608_00_00641A84078166BAFDB3C310F1181588FBA26B6B78/6EFB14472AF03F4E982B7003E0CF247859DD4E10.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 14,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR01609_00": {
+        "npCommunicationId": "NPWR01609_00",
+        "trophyTitleName": "RuneFactory Oceans",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01609_00_00F8AF0F6A760E17F3F08E141C0EB5CBAC17A712EC/E9DD06508C993370D75322C20467D9D448DE4D31.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR01610_00": {
+        "npCommunicationId": "NPWR01610_00",
+        "trophyTitleName": "龍が如く OF THE END",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01610_00_00D56B45FEEA796C77E60A760DB8470B44F0B3A43B/F41F3B15236CEE7477E44DB2AC8628EB9AFC2D36.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR01613_00": {
+        "npCommunicationId": "NPWR01613_00",
+        "trophyTitleName": "WSC Real 2011",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01613_00_00F750D39174B389D15ECA472CB7C9628FCC5E389E/0567395E898735596B32AB53ACC1E8E7A0D3414C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR01614_00": {
+        "npCommunicationId": "NPWR01614_00",
+        "trophyTitleName": "4 Elements HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01614_00_00D3EB51A6C33F80D7B887FD29B4E11018CFE03745/4662E86CFC5FD9330C23EF4188AFF92F58B91AF8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR01615_00": {
+        "npCommunicationId": "NPWR01615_00",
+        "trophyTitleName": "Crazy Strike Bowling",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01615_00_0047516CFC8DE32510F58A79CFDEE923BA5221D033/4E19E46001246D1EDD48BD912F362811F354933F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR01617_00": {
+        "npCommunicationId": "NPWR01617_00",
+        "trophyTitleName": "TV Superstar™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01617_00_00A20AD73F1EE6AF1BBD99115A9E47105676B77A07/482B8B29463242A900F4B2AEC4A8065FCA5990DE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR01618_00": {
+        "npCommunicationId": "NPWR01618_00",
+        "trophyTitleName": "TV Superstars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01618_00_0058320A52D5A64A39450C98B36ABFDABB6AD83BFE/CD675365A6C162BC8CA63EE28B9F38265D88A91B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR01620_00": {
+        "npCommunicationId": "NPWR01620_00",
+        "trophyTitleName": "Worms Crazy Golf",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01620_00_0051BDA443C3DFF3D98DE84DE1EA76661805CA9E14/E7C0B035B4BC4C3874D4957E870FFD02B737B486.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
     }
 }
