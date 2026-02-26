@@ -9618,5 +9618,135 @@
             "bronze": 51
         },
         "service": "trophy"
+    },
+    "NPWR01438_00": {
+        "npCommunicationId": "NPWR01438_00",
+        "trophyTitleName": "Dead Space™ 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/F06A540EC24320FC320EEBEC3E27912E148DA29A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 47
+        },
+        "service": "trophy"
+    },
+    "NPWR01439_00": {
+        "npCommunicationId": "NPWR01439_00",
+        "trophyTitleName": "SAW 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/ECC80ABB6AC4D950FA902E147E1E069AFFCEB3D2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR01440_00": {
+        "npCommunicationId": "NPWR01440_00",
+        "trophyTitleName": "Crazy Taxi",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01440_00_00F0F83147A03E763A577EA4B1A53A32126AC8BAA4/7CE059FBE492E0FBE4A311A09501E75C108BCC49.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR01441_00": {
+        "npCommunicationId": "NPWR01441_00",
+        "trophyTitleName": "PAC-MAN Championship Edition DX+",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01441_00_003DE3E5C13D04D869CA4AD7D19439D32574B0F7CB/AD8F62350284222ECA10C8CB0E76C1AC0A4BD820.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR01442_00": {
+        "npCommunicationId": "NPWR01442_00",
+        "trophyTitleName": "Eat Them!™ Edible Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01442_00_00C5E3F685624986D8E310D32E49231756CC987C37/915BDD7C679FA3AF89AF45688073649E0A51B64E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01444_00": {
+        "npCommunicationId": "NPWR01444_00",
+        "trophyTitleName": "The Simpsons™ Arcade Game",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01444_00_00129033051E1E3877EB7C6A60863689D5A924ED59/AA53A5D57F0D1BBEDC122DFD3541A48190C2CCB0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01445_00": {
+        "npCommunicationId": "NPWR01445_00",
+        "trophyTitleName": "プロ野球スピリッツ2011",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01445_00_00596F412A604BB8FDB0CE016A51F81288DE2DB98D/5EAA05484EB9A227B0837366E5125C9C18D44B23.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 17,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR01447_00": {
+        "npCommunicationId": "NPWR01447_00",
+        "trophyTitleName": "AERO-CROSS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01447_00_00FEE4766D2BA2DE60BFE81034C0F3440A8DFAF03F/D24499357910E814A017F7D0C68AF893A7A63FD1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01448_00": {
+        "npCommunicationId": "NPWR01448_00",
+        "trophyTitleName": "WORLD SOCCER Winning Eleven 2011",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01448_00_00ECA40E98DA23F0D9BAC3E889A7A865D221A64540/F94D4FB3A23E0E9B4357F83E2F30DAC9E50B4FA4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR01450_00": {
+        "npCommunicationId": "NPWR01450_00",
+        "trophyTitleName": "Pro Evolution Soccer 2011",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01450_00_0087F170B830E2A89B8FD6F5BF9D7BD6F9E8861E3B/EC211F783306D612F70BF9CD8F2A55F51557ED93.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
