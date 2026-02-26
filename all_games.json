@@ -1688,5 +1688,135 @@
             "bronze": 18
         },
         "service": "trophy"
+    },
+    "NPWR00493_00": {
+        "npCommunicationId": "NPWR00493_00",
+        "trophyTitleName": "UP",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00493_00_00A163189F47FFA73296B4257E6ADF4B54A6FE02D7/FD346387EE82D3E4C20E49CBA02655CC70753B98.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR00494_00": {
+        "npCommunicationId": "NPWR00494_00",
+        "trophyTitleName": "Brütal Legend",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00494_00_00A6498BFA7A31D2135BD8D8E339C4E29879027DD1/82541AF8BCD9E6BA5919392F9F7332930766BA5D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 47
+        },
+        "service": "trophy"
+    },
+    "NPWR00495_00": {
+        "npCommunicationId": "NPWR00495_00",
+        "trophyTitleName": "Soldner-X: Himmelssturmer",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00495_00_00CC05593C2D0DDDBB27EF99178CE0B8DA125EC821/91C0DDC032DEE8ADBC33B113B3832F8193F5C940.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR00497_00": {
+        "npCommunicationId": "NPWR00497_00",
+        "trophyTitleName": "Mortal Kombat vs. DC Universe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/0FEEAE70FA3F605BAF478C69FAE1166208F8E025.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 3,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR00498_00": {
+        "npCommunicationId": "NPWR00498_00",
+        "trophyTitleName": "Command & Conquer™ Red Alert™ 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00498_00_006C12CBAE54E438CC456370C7407C4B3880B6E23F/1828F9D0453AD0531B294A982C350C630C34B5D2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR00499_00": {
+        "npCommunicationId": "NPWR00499_00",
+        "trophyTitleName": "Mirror's Edge™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00499_00_004D6772B970ADF48444B24EBB543A07BCB6F691FC/21DB0E0685CCE98AEA9CD73F8CFBA7C5056D3361.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR00501_00": {
+        "npCommunicationId": "NPWR00501_00",
+        "trophyTitleName": "Wolverine Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00501_00_00F98F97EEA1DC56609FD9168CF1EE3E654937502B/6BE45DBC59872388AEF909899E438F7BDFB43005.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR00502_00": {
+        "npCommunicationId": "NPWR00502_00",
+        "trophyTitleName": "Singularity Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00502_00_00BB3B1468DA76D898F0BC4D1E9698AEFD71C60333/5E24279DBE112B06A6BE0419BF420F92E0222590.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 15,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR00504_00": {
+        "npCommunicationId": "NPWR00504_00",
+        "trophyTitleName": "SAW",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/26D2D83C94680FC64AFB62EFCCE621FE6CEBF699.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR00505_00": {
+        "npCommunicationId": "NPWR00505_00",
+        "trophyTitleName": "SIMPLE500シリーズVol.1 THE麻雀 ～通信対局機能付～\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00505_00_0066E993F66AAF5CA19408F33D94CD3EB273E63747/6539D28494153A58E63C7B62A0D9A5F923A9746D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
     }
 }
