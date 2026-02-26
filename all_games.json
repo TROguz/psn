@@ -1298,5 +1298,135 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR00440_00": {
+        "npCommunicationId": "NPWR00440_00",
+        "trophyTitleName": "Rock Band 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00440_00_00C3B2C594F025643D79805AFDB7BA7E81F31B0859/F35F2AE40938B9F92908432B8DDEBCE2CFCDC161.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR00441_00": {
+        "npCommunicationId": "NPWR00441_00",
+        "trophyTitleName": "Tom Clancy's EndWar™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00441_00_00F8D91CE108924BCEA40FB8363E3702A8259DFD2D/DBB3D1657F2E65634A2C481616B7644B2CAFFBE6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 49
+        },
+        "service": "trophy"
+    },
+    "NPWR00442_00": {
+        "npCommunicationId": "NPWR00442_00",
+        "trophyTitleName": "Transformers™: Revenge of The Fallen™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00442_00_0071A66F70EE64B2877379662C64573A89A0376E0D/326654840C1C3429AA3C313C1441C79E9ED9F4D9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 7,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR00447_00": {
+        "npCommunicationId": "NPWR00447_00",
+        "trophyTitleName": "Sacred 2 - Fallen Angel\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00447_00_009D8DA892DEEBA752E505C0C86D559DF91B928D69/58DC098D0B1E2E260887257FFBEF746C74D11E2A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR00449_00": {
+        "npCommunicationId": "NPWR00449_00",
+        "trophyTitleName": "Uncharted: Drake's Fortune™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00449_00_00727FDB8B71A3D03045ABCC7984807B8991254509/7CFF4AF57E944459DA3F079205E96BE52ECCA663.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR00450_00": {
+        "npCommunicationId": "NPWR00450_00",
+        "trophyTitleName": "Blitz: The League II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00450_00_00125FBD79E523E019F4A8A3B915559871EC4AC6C1/326BAD56708205654BA8556E4797F5932A464340.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR00455_00": {
+        "npCommunicationId": "NPWR00455_00",
+        "trophyTitleName": "Wolfenstein™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00455_00_00C1DE0263EC487D0D5F38F3481B29C8138FC49D01/7C039C10EE7CF59E534E6FFC4B073694E6642471.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 15,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR00456_00": {
+        "npCommunicationId": "NPWR00456_00",
+        "trophyTitleName": "Days Of Thunder NASCAR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00456_00_00E3CACF470EC4856C3AA270CE337B4591BD6F6D84/D5784B1D6F1293661AAE98F017DD799BE5F8FC24.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR00458_00": {
+        "npCommunicationId": "NPWR00458_00",
+        "trophyTitleName": "OutRun™ Online Arcade",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00458_00_00B55F1714FD996FB02164A4BEC3224DCADB0C5C0F/A48DB08C04FCDFD5843D0AC0BBCC1ABA387E8BC0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00459_00": {
+        "npCommunicationId": "NPWR00459_00",
+        "trophyTitleName": "Kung Fu Rider™ Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00459_00_008BFC848E610084A7AD1AC359E2FBAE4F26647489/EE86645FE393C00FA40D31248F18FC0B06AA0D13.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
     }
 }
