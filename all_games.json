@@ -10138,5 +10138,265 @@
             "bronze": 18
         },
         "service": "trophy"
+    },
+    "NPWR01504_00": {
+        "npCommunicationId": "NPWR01504_00",
+        "trophyTitleName": "ICO™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01504_00_0094B312586558EC122CFEB69EAFDFB17435D1C7B5/E9F9E070B0AFC5D0F82F84CAFD720ADB43B8B195.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 4,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR01505_00": {
+        "npCommunicationId": "NPWR01505_00",
+        "trophyTitleName": "BurgerTime World Tour",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01505_00_00B23A5F76E7B76AB386A782558A870C0B02F7C477/0A75D304065B9C2FFF9A31DAE0596004C556626A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR01506_00": {
+        "npCommunicationId": "NPWR01506_00",
+        "trophyTitleName": "Prince of Persia: The Sands of Time",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01506_00_005156F95E23C20413FF136D8659154D20A3512894/9B74FC8CA34FEFF57ABED7A5B288DD948584C073.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 6,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR01507_00": {
+        "npCommunicationId": "NPWR01507_00",
+        "trophyTitleName": "Space Channel 5 Part 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01507_00_008D3A44F81D6EB97BBEB170CDBE37D07A5D030DBB/D645584350BA1C95E052EB03E80920300C835B70.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01508_00": {
+        "npCommunicationId": "NPWR01508_00",
+        "trophyTitleName": "Rush'N Attack Ex-Patriot",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01508_00_0029C48650846B337CCFD9FF4336EA99865D256DD9/45A18C1FAA2F158AD36A482A8118331855729B23.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01511_00": {
+        "npCommunicationId": "NPWR01511_00",
+        "trophyTitleName": "MOON DIVER",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01511_00_00DDDF6D4E86094C090FFA6877EFB1D28405394890/9909C5B2D588671A4A2A9B59C3B4F6BA66796DEF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR01512_00": {
+        "npCommunicationId": "NPWR01512_00",
+        "trophyTitleName": "Dragon Age II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01512_00_007FA810AA1D7C367873A69F38CB691E3D9225E2E3/6E64428D82CF7CC763C937F5BBA5E9E608C6F79A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 21,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR01513_00": {
+        "npCommunicationId": "NPWR01513_00",
+        "trophyTitleName": "パチパラ１６ ～ギンギラパラダイス２～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01513_00_001151B23AB1AF04018CACEC09814270D460E6A53D/DA2FA06D90A81811377F3023BD9AAD4007C43DB1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 16,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR01515_00": {
+        "npCommunicationId": "NPWR01515_00",
+        "trophyTitleName": "Crazy Machines Elements",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01515_00_00668AC41B557B9D5B6D04FEED3D36F37D5FF611E3/6ABDD88483EE2A902C6719F7A3E932D98014CE2C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01516_00": {
+        "npCommunicationId": "NPWR01516_00",
+        "trophyTitleName": "MX vs. ATV Alive",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01516_00_005DBA20E0CD930C09855BCDA6BFFF3DE3CD57452F/6E43C5DAB540C8761933E11EAAFC049F9B804469.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR01519_00": {
+        "npCommunicationId": "NPWR01519_00",
+        "trophyTitleName": "TOP DARTS™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01519_00_00EED8B1AC1AD6BDC41A3E357213864B307AA3AF4F/5CCA83D5ACF98E83A8F03786FB17A135D33E3812.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR01520_00": {
+        "npCommunicationId": "NPWR01520_00",
+        "trophyTitleName": "WWE All Stars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01520_00_00A463ABD494B72D5746465ECFAE87B48DF740E4DF/F11E6B1F53ABD18F33F794CAE104F1DEA861E8F7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR01521_00": {
+        "npCommunicationId": "NPWR01521_00",
+        "trophyTitleName": "SEGA Bass Fishing",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01521_00_0010A8A2697EE67792E4B989657B17B30DA1B250D9/3382D6FBD5DA2763B8535676F50977D3C6B43430.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01523_00": {
+        "npCommunicationId": "NPWR01523_00",
+        "trophyTitleName": "Gatling Gears",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01523_00_00F054689EEF9443B955762FF84C1FEE4371A57540/01A992CD4CA574FBECB122F4F0384E76E6D9A19E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01524_00": {
+        "npCommunicationId": "NPWR01524_00",
+        "trophyTitleName": "Wanted Corp.",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01524_00_0076BFB2773763352E0174EE6B3C7BAD23823F067B/A2176B82855E26547689097D5D1143F00BC984BF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01525_00": {
+        "npCommunicationId": "NPWR01525_00",
+        "trophyTitleName": "Star Raiders",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01525_00_0084DEF13145628F80627C8E05F9CED535FB527CBA/A42D5322B3B516A5FDEA2C7EBF33F6096A14A03B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01526_00": {
+        "npCommunicationId": "NPWR01526_00",
+        "trophyTitleName": "Prince of Persia: Warrior Within",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01526_00_001599E10C1CFF6002A2CEB2050AFF54CE3F1F23A4/979190FA856A844F327334A8DB7584E29BA8E8E6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR01527_00": {
+        "npCommunicationId": "NPWR01527_00",
+        "trophyTitleName": "Funky Lab Rat",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01527_00_00A9928E41ECE23FD4994986278A2ADC5337DB1CB7/DE273EF61E3ADB5D577BD38DD2502636C7141F16.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01528_00": {
+        "npCommunicationId": "NPWR01528_00",
+        "trophyTitleName": "Venetica",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01528_00_00B9852D037A1C8DA466F1271D77B2379156852528/91A457F22799C8FE8C41A9DD843EFB27A655D2FF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR01529_00": {
+        "npCommunicationId": "NPWR01529_00",
+        "trophyTitleName": "Microbot",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01529_00_00A2153E439C3C144CCD38B4D36F33107C66F0F344/2F45E760E4BFA3567F1E3109C4506D8509CF0A13.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 8,
+            "bronze": 4
+        },
+        "service": "trophy"
     }
 }
