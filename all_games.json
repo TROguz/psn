@@ -15598,5 +15598,135 @@
             "bronze": 45
         },
         "service": "trophy"
+    },
+    "NPWR02355_00": {
+        "npCommunicationId": "NPWR02355_00",
+        "trophyTitleName": "NBA JAM: On Fire Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02355_00_007FD6345F3B4D1ADF7E4784A12805D61BB105DC58/C5E81856A560DE80B15D5FD4C691B43A3EE3513F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR02359_00": {
+        "npCommunicationId": "NPWR02359_00",
+        "trophyTitleName": "NCIS Game",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02359_00_00F2438CD738E56C4D27BB2FF5A9F18CBC4495E0D9/5E07C6B8FB72E6596E2D16E98E171B1AC0E3C0B3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 16,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR02367_00": {
+        "npCommunicationId": "NPWR02367_00",
+        "trophyTitleName": "Blades of Time",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02367_00_00B446C0546F89D04D1A31DA331DCC8D2692D5B84A/E871DB67B51AC962171C07BF7D4835F10CE25563.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 7,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR02372_00": {
+        "npCommunicationId": "NPWR02372_00",
+        "trophyTitleName": "Instant Artist",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02372_00_009E6556D83BE48989117FFBEF59A060628EA3D563/37A819650B4C067A2ED9A8F288417865AC5F5863.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR02376_00": {
+        "npCommunicationId": "NPWR02376_00",
+        "trophyTitleName": "ASURA'S WRATH",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02376_00_00E6B7DA34137EAD4CA0DA8184D7A0B0AFD2367BE1/4A6BAF707FABF834111FE9880B0CA31B87F18EF9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR02377_00": {
+        "npCommunicationId": "NPWR02377_00",
+        "trophyTitleName": "아가레스트 전기 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02377_00_00A9292378837BD7AB0C2CBA9075709542CBEB2277/17348051FF4A863A4231C03D9E0B6B447AF7213E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR02378_00": {
+        "npCommunicationId": "NPWR02378_00",
+        "trophyTitleName": "タイムリープ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02378_00_0011A70341DAABFB8279A944E58F6E574A09BFA969/64F8814FEF577B5158B0BE85052F929AF1536DB5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR02379_00": {
+        "npCommunicationId": "NPWR02379_00",
+        "trophyTitleName": "WORLD SOCCER Winning Eleven 2012",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02379_00_0026B46E74E1D894837E82DF414C4E6FC6BA231398/83BFE6D49D9FD86BD73546E5AAD913775C79A92A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR02380_00": {
+        "npCommunicationId": "NPWR02380_00",
+        "trophyTitleName": "Metal Gear Solid 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02380_00_00C5437AEB12698C2DA39618CA3C1A367D321768C0/D4391533EB80242F182613C15C0ADF8161D16E37.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR02381_00": {
+        "npCommunicationId": "NPWR02381_00",
+        "trophyTitleName": "Metal Gear Solid 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02381_00_00474F9A4C5B859F76E75A4A3AF753663391631B9B/8C9AFCE69831C875CCE322E18DA9EFFA60632A86.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 36
+        },
+        "service": "trophy"
     }
 }
