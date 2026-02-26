@@ -5848,5 +5848,135 @@
             "bronze": 26
         },
         "service": "trophy"
+    },
+    "NPWR00987_00": {
+        "npCommunicationId": "NPWR00987_00",
+        "trophyTitleName": "End of Eternity",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00987_00_00D7C813EB8B49983522D6FD42E5DD4F3C9F0742E6/5EE89D66E643DCEC2E43403711A831C0331C4E38.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR00989_00": {
+        "npCommunicationId": "NPWR00989_00",
+        "trophyTitleName": "Major League Baseball 2K10",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00989_00_002EC29B2DD10BD7C4C97D4779033928E88E80D1B7/90CCE16E5ECD8A9613F3A08F1653B7BD23358CBA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR00990_00": {
+        "npCommunicationId": "NPWR00990_00",
+        "trophyTitleName": "Last Rebellion",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00990_00_0088F051CD221C6388A9BD1BC2CAC518794A359B7B/1AC916226F6B5D32146DBFB89516A882481F8C4A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 7,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR00992_00": {
+        "npCommunicationId": "NPWR00992_00",
+        "trophyTitleName": "AquaPanic!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00992_00_005980BB9E3FCF18057A7BBFDABB8B56747C670C0F/78E2701C41662D8EE782170FCC2D76E9628477B7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR00993_00": {
+        "npCommunicationId": "NPWR00993_00",
+        "trophyTitleName": "Red Seeds Profile",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00993_00_003C3967E22F1E7EDE2BB8CB9893DA1A475EE76D57/A1D8D589D1BDA81F67F46E17CA7228D1F24D71FC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 52
+        },
+        "service": "trophy"
+    },
+    "NPWR00994_00": {
+        "npCommunicationId": "NPWR00994_00",
+        "trophyTitleName": "LEGO® Indiana Jones™ 2: The Adventure Continues",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00994_00_0043AAC654D1BCE6AAB7C5CE32AD0F77AFE75441A9/7EEDCCA007AC6E9FCA98DFF6ED8AF0EC54C2CBF3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 22,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR00996_00": {
+        "npCommunicationId": "NPWR00996_00",
+        "trophyTitleName": "Record of Agarest War",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00996_00_00A35BEC40A61D726FE680552F4415772E5278719A/205F8C3FFB371DCDAF27B698688A2AD6CC71E54E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 20,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR00997_00": {
+        "npCommunicationId": "NPWR00997_00",
+        "trophyTitleName": "STAR OCEAN® THE LAST HOPE® -INTERNATIONAL-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00997_00_0048AEBE510EEF5EE8BB2C9B24E4CE842668DAF957/CB15E493D6221E5E81F0001F966B6E5EEFC138FB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR00999_00": {
+        "npCommunicationId": "NPWR00999_00",
+        "trophyTitleName": "Legend of the Guardians: The Owls of Ga'hoole Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00999_00_00623F58C3E2D75C5F09219076D5C293C114BDF187/EB0A8DC4D4ED21D18D5E58AEF2154DF6BF96942E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR01002_00": {
+        "npCommunicationId": "NPWR01002_00",
+        "trophyTitleName": "Skate 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01002_00_00BA25925E9E30C18F5EC1FBA8915189F871DB0DE2/702887A2CBF5C4A8C37286047E95392A17FD2EAE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 17,
+            "bronze": 48
+        },
+        "service": "trophy"
     }
 }
