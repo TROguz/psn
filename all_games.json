@@ -3638,5 +3638,135 @@
             "bronze": 32
         },
         "service": "trophy"
+    },
+    "NPWR00706_00": {
+        "npCommunicationId": "NPWR00706_00",
+        "trophyTitleName": "BUZZ!™ Junior: RoboJam",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00706_00_00A24081B6938C25904D4174D9FE1FFC6C8421E4F4/814109418824A8F60C58CF0D393933F321D4E52F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR00707_00": {
+        "npCommunicationId": "NPWR00707_00",
+        "trophyTitleName": "UNO",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00707_00_00B6B9BC6736E67B0380466DE2AEE77725FDAAB842/E3D591EDFF8BC0F7F1D37A3690C5A92BFFA8E902.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR00708_00": {
+        "npCommunicationId": "NPWR00708_00",
+        "trophyTitleName": "Karaoke Revolution",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00708_00_00E8B67A65C83AE184094AEDB701F98153598F438A/BD574841469C600F5732A7D9C315C473524E1291.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR00709_00": {
+        "npCommunicationId": "NPWR00709_00",
+        "trophyTitleName": "IL-2 Sturmovik: Birds of Prey",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/D3ABE880F844FB2C529AB807CEE5619DB7D751F5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR00710_00": {
+        "npCommunicationId": "NPWR00710_00",
+        "trophyTitleName": "Fritz Chess",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/F91208BF29A4C7B61F889C81AFE5777F672E95EB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 7,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR00711_00": {
+        "npCommunicationId": "NPWR00711_00",
+        "trophyTitleName": "Guitar Hero 5",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00711_00_00D7C62731E8E7D8FBD90281B09B95432CDA44847D/ED6F0E7E48B44FAE2903FAB2EECC7190F8F61C84.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 12,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR00712_00": {
+        "npCommunicationId": "NPWR00712_00",
+        "trophyTitleName": "ロロナのアトリエ\n～アーランドの錬金術士～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00712_00_00D1608925B447434647383E2AC563117C52838C64/6F12356A8437BC922421E450505F48613AC8015D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR00714_00": {
+        "npCommunicationId": "NPWR00714_00",
+        "trophyTitleName": "Journey",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00714_00_00D0F303707C21B0FCD80CFC122C34004FB6E1D8B0/2CD1E532725B62B68C3DE1738245D079347DFE21.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR00715_00": {
+        "npCommunicationId": "NPWR00715_00",
+        "trophyTitleName": "Wolfenstein 3D",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00715_00_00FD7C989E8421717DAE2F91CDAA24F855AE4BB02B/FCBCF005828F47C82296260637D28E23A9C3D0D4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR00716_00": {
+        "npCommunicationId": "NPWR00716_00",
+        "trophyTitleName": "Tomb Raider: Underworld",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00716_00_00D760DB49307AC6B5DB8BB8319F06443FDEF1A614/FEF5BE9419A8F2FA1DE17A850742170D06FB03B5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 17
+        },
+        "service": "trophy"
     }
 }
