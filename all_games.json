@@ -14948,5 +14948,135 @@
             "bronze": 33
         },
         "service": "trophy"
+    },
+    "NPWR02219_00": {
+        "npCommunicationId": "NPWR02219_00",
+        "trophyTitleName": "ELEVATOR ACTION DELUXE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02219_00_001ED85CBE3952CDD8C4F2A98B6BECE6F19B4FD6B2/0140653E71DEAF990476A06EFDC97DD16A5E4D60.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR02221_00": {
+        "npCommunicationId": "NPWR02221_00",
+        "trophyTitleName": "Mortal Kombat",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02221_00_006BE982E9D455059E527050A6B04DE4EFEBADED68/447932B1ECE9483138FE738B975EF8E642722F8A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR02223_00": {
+        "npCommunicationId": "NPWR02223_00",
+        "trophyTitleName": "WORLD SOCCER Winning Eleven 2012",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02223_00_0099EC98AAB6E725993DD17441EF56B76E5B2993DF/F1BFE729344E532307EEDC2B54FA74A0A986EE94.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR02231_00": {
+        "npCommunicationId": "NPWR02231_00",
+        "trophyTitleName": "アイドルマスター\nグラビアフォーユー！ VOL.1",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02231_00_0089133E89D0B5AB99B07BD271004035B5AE7D330C/6712E8A0E8A8B4347408DD80EB39900B60B5C6CA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR02232_00": {
+        "npCommunicationId": "NPWR02232_00",
+        "trophyTitleName": "アイドルマスター\nグラビアフォーユー！ VOL.2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02232_00_002408279481E821A2D5D9DACA89217CAEA775382C/67C293F99ED9392FC73EE6D9FF79F378F595C0E4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR02233_00": {
+        "npCommunicationId": "NPWR02233_00",
+        "trophyTitleName": "アイドルマスター\nグラビアフォーユー！ VOL.3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02233_00_00C7A21CD23D1029327ECBC23FEFDBBE7C9448E5E2/83E45FE4C6595491CE86391F28B1DD2DF930B423.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR02234_00": {
+        "npCommunicationId": "NPWR02234_00",
+        "trophyTitleName": "アイドルマスター\nグラビアフォーユー！ VOL.4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02234_00_00D38418E2A7AF6D2444ADADE0A09FF1E79C082A2D/B0E5CCBAC3194939BF9B697AA8C07EF978D12FF8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR02235_00": {
+        "npCommunicationId": "NPWR02235_00",
+        "trophyTitleName": "アイドルマスター\nグラビアフォーユー！ VOL.5",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02235_00_004349D8F294289E8DAFD2CF8591C69980703686C1/9C008D83EBAB3207E5384DFA5F8F5853A1144A96.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR02236_00": {
+        "npCommunicationId": "NPWR02236_00",
+        "trophyTitleName": "アイドルマスター\nグラビアフォーユー！ VOL.6",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02236_00_0088EADC26CB66C602235FF87735D3676012BCDC5F/59FC95C56FAA88D751015B2106A4BE8577F3E546.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR02237_00": {
+        "npCommunicationId": "NPWR02237_00",
+        "trophyTitleName": "アイドルマスター\nグラビアフォーユー！ VOL.7",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02237_00_006FCBF03150B12B672044B88D05041D5E56D7203B/EBE63729D75F5C98213E1C1128AF097E527122AC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
     }
 }
