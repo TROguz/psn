@@ -16248,5 +16248,135 @@
             "bronze": 34
         },
         "service": "trophy"
+    },
+    "NPWR02544_00": {
+        "npCommunicationId": "NPWR02544_00",
+        "trophyTitleName": "Clan of Champions",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02544_00_0094C3BA2F124F38A24E8DFCE0EAD984A50AC99967/DB916CBB9E3C1A1E0C6B3BDFA514C98AAC7AFEEB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR02545_00": {
+        "npCommunicationId": "NPWR02545_00",
+        "trophyTitleName": "Saints Row: The Third",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02545_00_004D41A063A22DB1A24FF6D3EAEBFD89E3F8C51205/B6674E2DD1EBE2E2F9617237E975F6D4FEC1B226.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 17,
+            "bronze": 61
+        },
+        "service": "trophy"
+    },
+    "NPWR02553_00": {
+        "npCommunicationId": "NPWR02553_00",
+        "trophyTitleName": "Kingdoms of Amalur: Reckoning",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02553_00_005F9554469099CDB11242FB0B9641B9D59DBD8716/C6E07C70C2235FB0A482799EB29ADB2148D0DFFD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 49
+        },
+        "service": "trophy"
+    },
+    "NPWR02558_00": {
+        "npCommunicationId": "NPWR02558_00",
+        "trophyTitleName": "Atelier Meruru:The Apprentice of Arland",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02558_00_0050F6A7A1BFB29EFA2D8EAE9341F8B7FDC0445F61/CD889DB456BE7669104B7FD59DDCADFDC1E7599C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 5,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR02560_00": {
+        "npCommunicationId": "NPWR02560_00",
+        "trophyTitleName": "NCAA® Football 13",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02560_00_00A6E3E0239AF97995518A49CDBC637F999FA8C622/57471F710FF8C86788F27FACE33F35AD2CCD869B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR02563_00": {
+        "npCommunicationId": "NPWR02563_00",
+        "trophyTitleName": "モンスターレーダー プラス",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02563_00_00C367171DB4C7634FB6D842991370318012CB743D/0F161ED83BF3DA623477A381A3E75E71089B5A57.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 6,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR02564_00": {
+        "npCommunicationId": "NPWR02564_00",
+        "trophyTitleName": "Schlag den Raab – Das 2. Spiel",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02564_00_0009DB005670145833E567FE05DCDC1A60039453CC/BFFA3D8C192F9A29769CB16CB9B59CEFDB16C5A1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR02565_00": {
+        "npCommunicationId": "NPWR02565_00",
+        "trophyTitleName": "BlazBlue: Continuum Shift EXTEND Trophy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02565_00_004108724549B3E087F4E53B07E90BE6DC0A76D3AC/63B93EFA24C37CC6F94A4B7BD0FDDAF1967AAD8A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR02569_00": {
+        "npCommunicationId": "NPWR02569_00",
+        "trophyTitleName": "Tomb Raider",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02569_00_007B1E4E0A244B1B2D190ECCB261B43B92E844814E/26602F176C08C91433CA00E17DA75189E9CD11F4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR02572_00": {
+        "npCommunicationId": "NPWR02572_00",
+        "trophyTitleName": "無双OROCHI２",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02572_00_00C96225D35B5590A26F12A6C25AF1494EF701BC5B/F57BC6790A8BF5D7D0B32584C98124E18E9BC53C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 18,
+            "bronze": 22
+        },
+        "service": "trophy"
     }
 }
