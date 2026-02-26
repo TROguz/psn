@@ -9748,5 +9748,135 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR01452_00": {
+        "npCommunicationId": "NPWR01452_00",
+        "trophyTitleName": "Castlevania: Lords of Shadow™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01452_00_0074D081CF302C7156961E2525BF32584D452F6A4A/4FC29B343A52E1CCFBC51A5F9DF97807A6263BB3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 25,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR01454_00": {
+        "npCommunicationId": "NPWR01454_00",
+        "trophyTitleName": "Faery : Legends Of Avalon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01454_00_00F455D4A0856CA71F455D3AF6D0996C01FEF68A6C/B4C4D840934A62278948510C69EEFB9AC06674E5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR01455_00": {
+        "npCommunicationId": "NPWR01455_00",
+        "trophyTitleName": "Fist of the North Star: Ken's Rage",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01455_00_0053D31C004640B632374E0183BEE1C0D91018ABEB/6644B2FE1CA5097DD3B455EF9DC9BE4EE17127A5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR01456_00": {
+        "npCommunicationId": "NPWR01456_00",
+        "trophyTitleName": "SF3: Online Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01456_00_0007B8F12EC4F9170200054502DEED69DD53DC5734/C557E0A851D8788C0DEDE24D5CD9742AEFAF3FB4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01459_00": {
+        "npCommunicationId": "NPWR01459_00",
+        "trophyTitleName": "Create",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01459_00_00E8AD0D40B0544FD13AF962A145EA134E25339109/4FE94F70B4D628DA215A769082C1C5AD2139B9F6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR01460_00": {
+        "npCommunicationId": "NPWR01460_00",
+        "trophyTitleName": "Fallout: New Vegas",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01460_00_00FF5D9EC70F5D26715D224725D98B69AA4BCC5D4A/4F036368C50C7654879B3417E01552BFE0804B5A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 22,
+            "bronze": 47
+        },
+        "service": "trophy"
+    },
+    "NPWR01462_00": {
+        "npCommunicationId": "NPWR01462_00",
+        "trophyTitleName": "Dead Space™ Extraction",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01462_00_00CC0B6A287E48989EF28618771E8B63152BEBFDE8/669CB1D3EDF8204D9B21B5449442B505FE957231.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR01463_00": {
+        "npCommunicationId": "NPWR01463_00",
+        "trophyTitleName": "Dungeon Hunter: Alliance",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01463_00_00D65D493F7BF99640331F2BE0A0CD4329FB7C4AE7/BE91CDFC370585126612838CC8F163A02FA060C1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR01464_00": {
+        "npCommunicationId": "NPWR01464_00",
+        "trophyTitleName": "Arcana Heart 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01464_00_001A8F27933BBAE23F7C572B10DF173FB6742A1E50/61E3DF8320381C81F3ABF0373E4B79660D31DBF2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR01465_00": {
+        "npCommunicationId": "NPWR01465_00",
+        "trophyTitleName": "Flight Control HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01465_00_00B2DA7A5B6D598228CE6DED786194A36DCBD57858/1A57DD26A99B83546C5617773CBA629604F7751F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
