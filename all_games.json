@@ -10788,5 +10788,135 @@
             "bronze": 39
         },
         "service": "trophy"
+    },
+    "NPWR01571_00": {
+        "npCommunicationId": "NPWR01571_00",
+        "trophyTitleName": "Cars 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01571_00_006B2434AA5D7937F0D11E8CC453E582C3B2DB794A/B9C574C8EF61421FAA17B8F98010343D9C0C3103.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR01573_00": {
+        "npCommunicationId": "NPWR01573_00",
+        "trophyTitleName": "Deadliest Catch: Sea of Chaos",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01573_00_007C71FD38A4AEBB641F1F8835A2E03A57DD2C5206/2BE64290B56BED544650322AB1EB909258A85BC9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR01574_00": {
+        "npCommunicationId": "NPWR01574_00",
+        "trophyTitleName": "Kung-Fu Live",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01574_00_0050459EE7B5A948B93ECEEDF94C00C3E726EFD5BA/AD540AF8025473C1B8493B15547135E4B903F0BE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01576_00": {
+        "npCommunicationId": "NPWR01576_00",
+        "trophyTitleName": "Beyond Good & Evil HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01576_00_005EA64E3F8F74A213DB62BB2BD8A9345F7DFCAAFF/FB774C5B9F326B185BB6FDE2508FEA2147AA10F1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01577_00": {
+        "npCommunicationId": "NPWR01577_00",
+        "trophyTitleName": "RESIDENT EVIL 6",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01577_00_005171726A589CB1B839704ED0FADF9CBF3BFDFE6E/028DB6F7C49D6A450DE94CD911F7B1F21946EC49.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 15,
+            "bronze": 49
+        },
+        "service": "trophy"
+    },
+    "NPWR01580_00": {
+        "npCommunicationId": "NPWR01580_00",
+        "trophyTitleName": "Mass Effect™ 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/0DF2825C4C57EF0ECA6893BCAD22AA45070DEBB9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR01582_00": {
+        "npCommunicationId": "NPWR01582_00",
+        "trophyTitleName": "世界最強銀星囲碁 ハイブリッドモンテカルロ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01582_00_0019470726D0476716F243C9643540D14D93A2C853/AD340DB0EF3A1D6937C5C639FFDE42C2498DCE84.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 1,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR01584_00": {
+        "npCommunicationId": "NPWR01584_00",
+        "trophyTitleName": "Jeremy McGrath's Offroad",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01584_00_00A7C208AD0D84127FCCB3826C223DF630E127F6BE/573B9B99D42B0D17386618ED3EE4AFEB37B255AD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01585_00": {
+        "npCommunicationId": "NPWR01585_00",
+        "trophyTitleName": "SBK®X Superbike World Championship",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01585_00_006A45CED8569100BE6D7CA4CBBE346AE14C7BAF21/F2D8020270ECFDDF8383B694E1CDBB5359C14F3B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR01586_00": {
+        "npCommunicationId": "NPWR01586_00",
+        "trophyTitleName": "Superstars® V8 Next Challenge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01586_00_0065E9577378BF7777F91C34AA17872B80CBF9D649/B6E8A0CDE883B2A5A760928DB8407CEAF5A89EC1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
     }
 }
