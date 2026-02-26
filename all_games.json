@@ -1428,5 +1428,135 @@
             "bronze": 9
         },
         "service": "trophy"
+    },
+    "NPWR00461_00": {
+        "npCommunicationId": "NPWR00461_00",
+        "trophyTitleName": "Aliens vs Predator",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00461_00_005330DB3C1E9096B8BBA2A6B22025B1E209AD87CA/DFD7F21557DCB9843994628DA4F4570B336137D5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 13,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR00462_00": {
+        "npCommunicationId": "NPWR00462_00",
+        "trophyTitleName": "Uncharted 2: Among Thieves™ ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00462_00_00534AD6647D743E1E7466BB16667F7E6334D643DD/4226B4020FFEBD3538E0A4FB2BB8375E4BD4643B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 57
+        },
+        "service": "trophy"
+    },
+    "NPWR00464_00": {
+        "npCommunicationId": "NPWR00464_00",
+        "trophyTitleName": "Dead Space™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00464_00_00DBE20A1AFA75AF0CD243472031097C1757596370/F224070B5514CF1DBFDBE87CC7BD46038EA94C3A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 4,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR00466_00": {
+        "npCommunicationId": "NPWR00466_00",
+        "trophyTitleName": "Wheelman",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00466_00_00436D4852A154649E99C88FDB828AF6A1ADA152D0/CECAD343098DF569E1A672519231AB52CA8B13CF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR00467_00": {
+        "npCommunicationId": "NPWR00467_00",
+        "trophyTitleName": "Call of Duty®: World at War",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/7C77C453CAA0B582F9D70DD16B5EE6DC7515441D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 18,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR00468_00": {
+        "npCommunicationId": "NPWR00468_00",
+        "trophyTitleName": "F.E.A.R. 2: Project Origin",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/530D88F3B94DCE1300DB2DB0FE1A472E3D49D8FD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 49
+        },
+        "service": "trophy"
+    },
+    "NPWR00469_00": {
+        "npCommunicationId": "NPWR00469_00",
+        "trophyTitleName": "Critter Crunch",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00469_00_007CBE63F073F357DC6F235A7961CF88804BC51476/951A26F95BB71BA2073C854E3F2E10D4D855F619.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR00471_00": {
+        "npCommunicationId": "NPWR00471_00",
+        "trophyTitleName": "NBA 09 The Inside",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00471_00_00892B71BEF736F6B594E46446A41B0FD3509832BE/A312B2DE61544FB4FF2B78790B24566C5A5A0B11.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR00472_00": {
+        "npCommunicationId": "NPWR00472_00",
+        "trophyTitleName": "Ride to Hell: Retribution",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00472_00_0092D6F029453D9C4912F788D36D54C07262C2D5F8/4CD29FCFDB3DA24D92607A4F6E13E936B558C811.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 20,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR00473_00": {
+        "npCommunicationId": "NPWR00473_00",
+        "trophyTitleName": "3D Ultra MiniGolf Adventures 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00473_00_0040634B9ED6647B196AB585D634CE62D30C7DC930/9E8F4B556B029022FFC69B1B2E845F495A14610E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
