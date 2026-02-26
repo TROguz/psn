@@ -10008,5 +10008,135 @@
             "bronze": 4
         },
         "service": "trophy"
+    },
+    "NPWR01484_00": {
+        "npCommunicationId": "NPWR01484_00",
+        "trophyTitleName": "Monster Jam: Path of Destruction",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01484_00_009F04B8A4990CE7C661A2D2F7458254DAD649ED94/FFDFE852CFCD3DADFF476C015A3CBEB2E65052C8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR01486_00": {
+        "npCommunicationId": "NPWR01486_00",
+        "trophyTitleName": "Borderlands™: Game of the Year Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01486_00_003948B895D9A4088721706CCFEE85AB6A4644A1AA/859109029E7B12F73A77561721F2044A8E841751.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 17,
+            "bronze": 59
+        },
+        "service": "trophy"
+    },
+    "NPWR01488_00": {
+        "npCommunicationId": "NPWR01488_00",
+        "trophyTitleName": "Alien Breed 3: Descent",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01488_00_001726875B32FE0958D4311F4A64189082FE9A0782/1E9E492F66B72FC14C442026E741013DA4AD28B1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR01490_00": {
+        "npCommunicationId": "NPWR01490_00",
+        "trophyTitleName": "Sly 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01490_00_00DD7F707CAF86A6EBE0B47E3BCA2F65E95AB1E07D/9C3DD9CF8D0DC91165AF592D7FFC0AB3540BAFC7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR01491_00": {
+        "npCommunicationId": "NPWR01491_00",
+        "trophyTitleName": "Qlione 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01491_00_00E972F0EE6E766CB512AF66947DAB97D3E338799C/93ED94B12C09DD467775EEC0C2824003CADAB4D9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR01495_00": {
+        "npCommunicationId": "NPWR01495_00",
+        "trophyTitleName": "The UnderGarden",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01495_00_0084B95C26DE649A8658A238E258FA23F2686927C7/B0736EEFB445CF66A83AAF8160ED35184FC391BC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01496_00": {
+        "npCommunicationId": "NPWR01496_00",
+        "trophyTitleName": "X-MEN™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01496_00_0012966C91BC55AF21D18B31480DD20D78AE50FA2B/D1FF1846E1BB98D46A782F0BF5DA46B8F62F9967.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01500_00": {
+        "npCommunicationId": "NPWR01500_00",
+        "trophyTitleName": "DCUO Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/C29D6B41BEDEDFFC7B526B9134C82E7499F81138.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 13,
+            "silver": 59,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR01502_00": {
+        "npCommunicationId": "NPWR01502_00",
+        "trophyTitleName": "Sackboy's Prehistoric Moves™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01502_00_007BB6A13F33C7B8C2F1ECFF915725CB496C3E60B9/E030EDF37A7C8DCE57F9A9250956FD54CEC0A2D0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR01503_00": {
+        "npCommunicationId": "NPWR01503_00",
+        "trophyTitleName": "Shadow of the Colossus™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01503_00_00E150139A61FE70810C9D92FC1B92063BDFF30E56/F8C2BA2A682D374FA17EF317243D91751762E693.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 6,
+            "bronze": 18
+        },
+        "service": "trophy"
     }
 }
