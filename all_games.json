@@ -14298,5 +14298,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR02067_00": {
+        "npCommunicationId": "NPWR02067_00",
+        "trophyTitleName": "Absolute Supercars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02067_00_0055A61AD23CDE6170A982CD19FB3582BD57492B14/41D10235102CDEDCF4F09B85C77372FCC98A9FF6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR02070_00": {
+        "npCommunicationId": "NPWR02070_00",
+        "trophyTitleName": "God of War®: Chains of Olympus",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02070_00_005449CE8B744ECED684213A11496BBD32E6680E1E/E6D05CD070A2F8D8A36EE2F6742890F954463E4A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR02071_00": {
+        "npCommunicationId": "NPWR02071_00",
+        "trophyTitleName": "God of War®: Ghost of Sparta",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02071_00_0054B84134B8D9CEB60760CEF052F6E2D0E59739CB/127D26489536F90B886A4F5531A237FAB3522269.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR02072_00": {
+        "npCommunicationId": "NPWR02072_00",
+        "trophyTitleName": "ARKEDO SERIES - 01 JUMP!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02072_00_006748F873B6FE988B7E55194E597C389DB5040674/ECEA431B05C9CAA4CB74AEB72CB3F5792F36475B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR02081_00": {
+        "npCommunicationId": "NPWR02081_00",
+        "trophyTitleName": "Limbo",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02081_00_00D3AC0DE6DCA9E1D80F000A98F6121B840655072D/2CB50E883F6149368E7170A6F2D736763CFB6AE9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR02082_00": {
+        "npCommunicationId": "NPWR02082_00",
+        "trophyTitleName": "Max & the Magic Marker - Gold Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02082_00_00DAC6F82FA315D093C6B3A445671B691A9010075D/2A2E1811A99BAD0A20BD32989C99C40E9EC0F365.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR02088_00": {
+        "npCommunicationId": "NPWR02088_00",
+        "trophyTitleName": "機動戦士ガンダム エクストリームバーサス",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02088_00_00D0DAAE51636C883578A8F8FEFA6AB2F1A762AE5D/85EE6A15F4C7594AB2B8AFFF1FC6549396D299CC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR02094_00": {
+        "npCommunicationId": "NPWR02094_00",
+        "trophyTitleName": "The Sims™ 3 Pets",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02094_00_00057186189130F738567CEAA2AC1D14B71E9561ED/0B7B6AC3D157EF8BB84B0AC7ECBD85DB2CCCB50C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR02096_00": {
+        "npCommunicationId": "NPWR02096_00",
+        "trophyTitleName": "MLB® 12 The Show™ (VITA)",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02096_00_00EA384FDD08E4B2B2A34CC5916C8E8835BE115111/8A8A76894871E988C4B5418293E1AAE74A54ADB3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR02097_00": {
+        "npCommunicationId": "NPWR02097_00",
+        "trophyTitleName": "ARKEDO SERIES - 02 SWAP!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02097_00_003864FE108D0043419A1A8D04FE496F71DB992E7C/C2CEEE7817C75670279B192295771263C4985BAF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
