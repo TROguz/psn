@@ -11438,5 +11438,135 @@
             "bronze": 34
         },
         "service": "trophy"
+    },
+    "NPWR01651_00": {
+        "npCommunicationId": "NPWR01651_00",
+        "trophyTitleName": "Tomb Raider: Anniversary",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01651_00_006D6292798635302D6B87AA64AD07ED986D1C3DC2/7D4510F0BF32F0924CAE3B9783444E65C0E9750A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 17,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR01652_00": {
+        "npCommunicationId": "NPWR01652_00",
+        "trophyTitleName": "resident evil 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01652_00_001A34A44D186B1736FC089268AFE24847E9726264/05A8E1577A57992A3CE6CE48ACA75EECF1C6DC20.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01653_00": {
+        "npCommunicationId": "NPWR01653_00",
+        "trophyTitleName": "ダンシングアイ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01653_00_0042D161EBC871A17A0E0EAE16D26F531E83F37A79/B63BFB1211F45E6571CC8693AC272FC3D478D7DF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01654_00": {
+        "npCommunicationId": "NPWR01654_00",
+        "trophyTitleName": "Sniper Elite V2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01654_00_005FADC749CE8618A709B841D3576026C606FC3E4D/32045F611A3F827FD63B12E7BE17FA1F3359959B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 15,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR01655_00": {
+        "npCommunicationId": "NPWR01655_00",
+        "trophyTitleName": "SEGA Rally™ Online Arcade",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01655_00_0029D19617A93702BE3486FBB3277D8E8BF478AEEE/BA8E02811EF44D58AD4C136E89F86BD40DE9AD00.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01656_00": {
+        "npCommunicationId": "NPWR01656_00",
+        "trophyTitleName": "My Fitness Coach – Club",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01656_00_00C4BA1622F98E969F4B4BDEE6F7E9D7CEFE1FB340/BADA999A219A111D4507B5761BCFA40B7CB24E57.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR01657_00": {
+        "npCommunicationId": "NPWR01657_00",
+        "trophyTitleName": "SBCG4AP Episode 1: Homestar Ruiner",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01657_00_0042181D51D044CAE7481649A8E99267B1302764B2/673C8E9370AF4695275F091F806CE7F3A5E732A6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR01658_00": {
+        "npCommunicationId": "NPWR01658_00",
+        "trophyTitleName": "SBCG4AP Episode 2: Strong Badia the Free",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01658_00_00FD19D7E34BC14D7E4889C1E8C4C80106F265CCDD/FE47BBCE2E605FDD9694A17840FB112990206EF1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR01659_00": {
+        "npCommunicationId": "NPWR01659_00",
+        "trophyTitleName": "SBCG4AP Episode 3: Baddest of the Bands",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01659_00_001EF93D9C59F17977F7BD2914B083FBB42941B01F/D18EC811D772728035BF949B213D89A8D43115D1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR01660_00": {
+        "npCommunicationId": "NPWR01660_00",
+        "trophyTitleName": "SBCG4AP Episode 4: Dangeresque 3: The Criminal Projective",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01660_00_00B20A479181D0AA242B4379127CBAAFCB7BBD3AE7/3276B29AD70E43D76895ACC9A60083874D5E5950.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
     }
 }
