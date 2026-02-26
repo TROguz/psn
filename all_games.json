@@ -2728,5 +2728,135 @@
             "bronze": 13
         },
         "service": "trophy"
+    },
+    "NPWR00612_00": {
+        "npCommunicationId": "NPWR00612_00",
+        "trophyTitleName": "Borderlands™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00612_00_0013D86509A661AFFA0F5341061C7CE5C0CB3650AD/139C9C9CED4D16F49088574B9725573E3D8222BB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 17,
+            "bronze": 59
+        },
+        "service": "trophy"
+    },
+    "NPWR00614_00": {
+        "npCommunicationId": "NPWR00614_00",
+        "trophyTitleName": "トゥームレイダー：アンダーワールド",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00614_00_009AE3E3F6CA770436C1C8CFC566467FD6AF558209/FF9C391404C1446CA0DD8DB63DFD1349F4C99073.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR00615_00": {
+        "npCommunicationId": "NPWR00615_00",
+        "trophyTitleName": "The Shoot™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00615_00_0001F14EF5212A10D7F44714263A19190314679C9C/C7FBC85D8ED59FFA2BC8DFA57D6EB1ACEFBBCA14.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 6,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR00616_00": {
+        "npCommunicationId": "NPWR00616_00",
+        "trophyTitleName": "Puzzle Quest Galactrix",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00616_00_003145CF8F0466A4689BCF10E22C3556B9D936528B/FA59CBD79D0C0A28A20BAA234BEC60F7DEFA2335.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR00617_00": {
+        "npCommunicationId": "NPWR00617_00",
+        "trophyTitleName": "FIGHT NIGHT ROUND 4 Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00617_00_006644E911687916EAD196E5AFDFEC69970EE03E49/F88C12275920E6D0025FDF5FE711FA3AE9BB68E4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR00619_00": {
+        "npCommunicationId": "NPWR00619_00",
+        "trophyTitleName": "SEGA MEGA DRIVE Ultimate Collection",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00619_00_00DC48884E075FA47E4272CD2685CDEF7763EBA7AD/F1CC65777E537D95E30502C1CFBF72D4BB2A962B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR00620_00": {
+        "npCommunicationId": "NPWR00620_00",
+        "trophyTitleName": "Nat Geo Quiz! Wild Life",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00620_00_001B03FEE36C5452AE0D832EFB9746A133E5C35480/69BAA9610AB138E5AC698D25C81AB2540DB9E965.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR00621_00": {
+        "npCommunicationId": "NPWR00621_00",
+        "trophyTitleName": "MiNi NiNJAS™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00621_00_00D487021035D0695895C4D575A9826D21CCC3AABD/F02691BFB96816CA8861E94038B0CDED52D0F1F4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR00622_00": {
+        "npCommunicationId": "NPWR00622_00",
+        "trophyTitleName": "Inferno Pool",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00622_00_00044DBD814C481306B8B1E026D432D0FFB8F90623/E893CE3824A5DA6996999CE4258CEC5AE2FCB332.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 8,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR00623_00": {
+        "npCommunicationId": "NPWR00623_00",
+        "trophyTitleName": "Terminator Salvation",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00623_00_0079D28B97BD4E8660F7EFF16957BD2086CBE0F76C/723971D65F76D3E337665FAD00D95B70CC633476.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 0
+        },
+        "service": "trophy"
     }
 }
