@@ -908,5 +908,135 @@
             "bronze": 49
         },
         "service": "trophy"
+    },
+    "NPWR00375_00": {
+        "npCommunicationId": "NPWR00375_00",
+        "trophyTitleName": "Stormrise",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00375_00_00E7EA7E3960BF8A9A7D9C92A9AA992D86003373AE/04176551C39CD165B2D7EE31D5411879CEAED216.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR00380_00": {
+        "npCommunicationId": "NPWR00380_00",
+        "trophyTitleName": "MAG™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00380_00_00BA0C5467ACEEF41E4A5B0748222BA6732DE84013/29719D0B82A87530E2E2BAE999CA770F80565153.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 15,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR00382_00": {
+        "npCommunicationId": "NPWR00382_00",
+        "trophyTitleName": "Burn Zombie Burn!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00382_00_0046BE0377292477D74004632DBE706C47C448FADC/E8BE3C9CF2C229F74BBA084F8FA0A000D2C0F7F5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR00388_00": {
+        "npCommunicationId": "NPWR00388_00",
+        "trophyTitleName": "Rag Doll Kung Fu™: Fists of Plastic ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00388_00_004642E118DC37746B4F390599071BD9E0E94B5DEF/CAE0BAD73415EBD78631244996755FA77DD9ACB3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00389_00": {
+        "npCommunicationId": "NPWR00389_00",
+        "trophyTitleName": "Bomberman ULTRA",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00389_00_00EF77F3D09A4948145205FD1771A9BD0F50B0E6DB/167CA29CE96DB9BA6F90BB4FE33C56D61FEBF1FE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR00390_00": {
+        "npCommunicationId": "NPWR00390_00",
+        "trophyTitleName": "Shaun White Snowboarding",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00390_00_00C90B56996D953C7777B44FA0B4296D4EC9AF5F5E/B350EA901BCE3D49E5C8586D09118C263D18CCCE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR00391_00": {
+        "npCommunicationId": "NPWR00391_00",
+        "trophyTitleName": "Savage Moon™ Veteran's Awards",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00391_00_000F1405DA09D704E15FDF633CF2142DB1EB707500/808DE29858BBE16B44E3D68886F7A9BF49A64F55.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR00394_00": {
+        "npCommunicationId": "NPWR00394_00",
+        "trophyTitleName": "LUMINES™ Supernova",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00394_00_007C6C74CAA36BADE2EBFC0AED3A6A5B64FAC303B8/7457FAF0570113E43E7604216221B24CDE4165BA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR00396_00": {
+        "npCommunicationId": "NPWR00396_00",
+        "trophyTitleName": "Magic Orbz",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00396_00_0095F8B23A614309C97407D2C83839325E0FC3380E/F2841A6381F304657548B800F175E0C78F8DAA34.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 10,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR00398_00": {
+        "npCommunicationId": "NPWR00398_00",
+        "trophyTitleName": "Brain Challenge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00398_00_003936AB184362A6A9128BAEBD454898AFFC2F0103/C63CF8D2B040200F3AD2A0C5BC06516181169983.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
