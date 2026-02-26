@@ -6238,5 +6238,135 @@
             "bronze": 46
         },
         "service": "trophy"
+    },
+    "NPWR01035_00": {
+        "npCommunicationId": "NPWR01035_00",
+        "trophyTitleName": "Hamilton's Great Adventure",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01035_00_00F5081274A6D57BDE9F81256341169B042211B33C/24CE3DBB95763CE8D2E70A8C2145C46F8418E2A5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR01037_00": {
+        "npCommunicationId": "NPWR01037_00",
+        "trophyTitleName": "MASSIVE ACTION GAME™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01037_00_003C9AA8CBE523A1BCB68E1063D0F6602FD98DEE3E/CF1CBB25A592BCDD508A77DD8A889847CC673D49.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 15,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR01039_00": {
+        "npCommunicationId": "NPWR01039_00",
+        "trophyTitleName": "Summer Challenge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01039_00_00346B08B545DBC320A783AAD8B38F8251F466DB75/D11364C74C1146E54349195591568544B874FEC4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 16,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR01040_00": {
+        "npCommunicationId": "NPWR01040_00",
+        "trophyTitleName": "How to Train Your Dragon™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01040_00_00B4E7D96025F7E583C74EFC02630CD24469ED70FA/7E03F9E5845E4CC7419E4A0034F4820AC3B06879.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR01041_00": {
+        "npCommunicationId": "NPWR01041_00",
+        "trophyTitleName": "Feeding Frenzy 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01041_00_00BB774385898C9BDB94316C591C5F4721DCD35A45/D27CBDD4828DFE750DDA5DBF8C56277C5EF6CDA5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR01043_00": {
+        "npCommunicationId": "NPWR01043_00",
+        "trophyTitleName": "Football Genius",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01043_00_009AAB2F996028898458F9C8FA34A8CCE6F5FE68A2/9CED48473E53D0A65DF911F139BDE44733604F30.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR01056_00": {
+        "npCommunicationId": "NPWR01056_00",
+        "trophyTitleName": "実況パワフルプロ野球２０１０",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01056_00_00541C233365E5CF990A78F80A235018800F090C92/5C12B9434C6BB761FBC7706F1BDF720AF003CA75.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR01057_00": {
+        "npCommunicationId": "NPWR01057_00",
+        "trophyTitleName": "Buzz!™: The Ultimate Music Quiz",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01057_00_001C2EA2C8BD1BDA35642640C3F32C36BBFEA088AF/76D4722D3DD4944503F34EC01C44C8D1076E2F47.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR01062_00": {
+        "npCommunicationId": "NPWR01062_00",
+        "trophyTitleName": "信長の野望･天道",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01062_00_005A320BA34CF4B03E2E67155CF58F0536CA9921EC/770340975FFC3FD04AF7D6C31AD8C0B6477A1715.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 20,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR01063_00": {
+        "npCommunicationId": "NPWR01063_00",
+        "trophyTitleName": "Super Stacker Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01063_00_000CF771BFF6C01B075AB7B555B031037B17B056FC/8740E9F377C34938A39F0BA01CCD5D383707C594.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
     }
 }
