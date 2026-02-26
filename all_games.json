@@ -15728,5 +15728,135 @@
             "bronze": 36
         },
         "service": "trophy"
+    },
+    "NPWR02389_00": {
+        "npCommunicationId": "NPWR02389_00",
+        "trophyTitleName": "Ni no Kuni: Wrath of the White Witch",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02389_00_00AA84287BDBA9A529364DD945EDC9F0574A09AC5D/4EA610590B116B547808CC467AC430887247542A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR02391_00": {
+        "npCommunicationId": "NPWR02391_00",
+        "trophyTitleName": "FINAL FANTASY XIII-2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02391_00_00BCC2DB33DA63C053DCF6D8F8F3D7BC7FFAD61057/551B2C8949FD6A4803E6864B513D79B9D8D1E91F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 6,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR02396_00": {
+        "npCommunicationId": "NPWR02396_00",
+        "trophyTitleName": "Choplifter HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02396_00_001ED8FAA083F044FF409CBD2D11B235E7B0CB943E/23198EE398742E12C7BC7AE202B221AB0F4D026D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR02397_00": {
+        "npCommunicationId": "NPWR02397_00",
+        "trophyTitleName": "Virtua Tennis 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02397_00_00CB3ECF81C56D63A1CF5996E3E54C9DB499F9906F/D86178CEE2F251A3955691E73EF49A8C30486173.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR02401_00": {
+        "npCommunicationId": "NPWR02401_00",
+        "trophyTitleName": "Deep Black",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02401_00_009BC594ABD4D7F3E9ABE3AAC0C2ACA8559008778B/306B27E5277F6B93A69EDE19644A8ECDCD450E66.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR02402_00": {
+        "npCommunicationId": "NPWR02402_00",
+        "trophyTitleName": "Puss In Boots®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02402_00_002E08D848A8402DD5DD30DBAF5423ACA417A20CA8/6930E912F732BB0F609F1508D683431FB8180C10.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR02410_00": {
+        "npCommunicationId": "NPWR02410_00",
+        "trophyTitleName": "Generator Rex: Agent of Providence",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02410_00_006B2D3BF4305CEA86F2AF87CAE68D3B0F077B8C7D/FBAF8B5A28A57242868DBDC474798FD5C9A09D03.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR02411_00": {
+        "npCommunicationId": "NPWR02411_00",
+        "trophyTitleName": "Killzone 3 Multiplayer",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02411_00_00F85213EE00743CC51374F6444E53C4D88A7FAB48/952F3DA563A28216D40A051008377F4F31DAA388.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 14,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR02412_00": {
+        "npCommunicationId": "NPWR02412_00",
+        "trophyTitleName": "Just Dance Kids 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02412_00_0008C95F9B9B77E3E3E5AE73EDDDAEAF129CF6D07E/960CEE778A3A35E1B47E48D7FDC380F0EE801279.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR02416_00": {
+        "npCommunicationId": "NPWR02416_00",
+        "trophyTitleName": "Pure Chess®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02416_00_00CF203D161E41C3C7282E0B8CE930E219C855A923/5574D30A3567EF7CAA8C8229166787BA2490386D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
     }
 }
