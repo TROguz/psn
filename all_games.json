@@ -16638,5 +16638,135 @@
             "bronze": 33
         },
         "service": "trophy"
+    },
+    "NPWR02646_00": {
+        "npCommunicationId": "NPWR02646_00",
+        "trophyTitleName": "MLB® 12 The Show™ (PS3)",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02646_00_00A4F214BBF2D2CB79BF65F672C647A799E15CA1C3/6785479DB9F5842CB2E06DDF9B32FF5E31173DD7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR02648_00": {
+        "npCommunicationId": "NPWR02648_00",
+        "trophyTitleName": "Smart As",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02648_00_00CF6B812FA3C6CF68A8CC8A71398BB2BC7941AF7B/238D2D1ECFC9DF3A83057EF04F2EA7E7F6FA2A19.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR02652_00": {
+        "npCommunicationId": "NPWR02652_00",
+        "trophyTitleName": "ワンピース 海賊無双",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02652_00_003C0D804AACA6E5E470DDF9E25F49DA3CB68DC0F5/5D490041CBD78543ECA109B9E4B3C2CCE791BB3A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR02653_00": {
+        "npCommunicationId": "NPWR02653_00",
+        "trophyTitleName": "Order Up!!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02653_00_005345DC84F7543A35F9F32146745951EE506A300A/DDF9CA1B2B3E5762B5A5DF49C95D489881B8E809.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR02654_00": {
+        "npCommunicationId": "NPWR02654_00",
+        "trophyTitleName": "inFAMOUS: Festival of Blood",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02654_00_002232F5491169A0E338564334E0D001FA79A0532B/03974B8B553CB3B248E5EE13D9B4F71D652509EA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR02658_00": {
+        "npCommunicationId": "NPWR02658_00",
+        "trophyTitleName": "DYNASTY WARRIORS 7: Xtreme Legends",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02658_00_00C2AFF57BE50F4BD560847CD9B6305B68B51EA1FA/96535907CBF786B548D4687817F1D22FEA300675.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR02660_00": {
+        "npCommunicationId": "NPWR02660_00",
+        "trophyTitleName": "真・三國無雙６ 猛將傳",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02660_00_0082C907E02F135C83608A2D07C00257A11E228276/9C93977ACA6027F3C50CE05A4902B6202958E634.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR02662_00": {
+        "npCommunicationId": "NPWR02662_00",
+        "trophyTitleName": "Red Johnson's Chronicles : One Against All",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02662_00_003A35E773C3171B0755E7F0B6C4CE10A7DCDD2855/5DE8A88F20E109C6D7DF103B54D4E4DC9F9E28E4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR02663_00": {
+        "npCommunicationId": "NPWR02663_00",
+        "trophyTitleName": "DYNASTY WARRIORS NEXT",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02663_00_00BEAA9AF2714EC6ED6C3305DF0597B7DFB853776C/40076F4C2A150FD08252D244E3F9DF0BA3BFE2F4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR02666_00": {
+        "npCommunicationId": "NPWR02666_00",
+        "trophyTitleName": "水月 弐",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02666_00_00C72D9CF6EBEF4B6D9A4755105A5DB9BF122BC0C5/F22160A98E883FA0D6FCFFAD74A76093AE334D69.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 24
+        },
+        "service": "trophy"
     }
 }
