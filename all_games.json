@@ -128,5 +128,135 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR00106_00": {
+        "npCommunicationId": "NPWR00106_00",
+        "trophyTitleName": "Wheel of Fortune",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00106_00_00CDA74886DC70D9D64B598C55C18BA6B531713295/5F8EFD629941FD183AABEF2E48057424E4898C52.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR00116_00": {
+        "npCommunicationId": "NPWR00116_00",
+        "trophyTitleName": "NOBY NOBY BOY™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00116_00_00619D1F53E68239F8B32895087C865E8C4AB5B454/C39573646DA9E9E8892C9A32E9C43A11F8845E76.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00117_00": {
+        "npCommunicationId": "NPWR00117_00",
+        "trophyTitleName": "SUPER STARDUST™ HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00117_00_00E2D6C0A2BB7475BC6C26626F04790CDAD0507E33/797A9F853E90AE722EE315B9A8747E0842390FF3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR00129_00": {
+        "npCommunicationId": "NPWR00129_00",
+        "trophyTitleName": "High Velocity Bowling™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00129_00_006149C528618383B438B2C139E76824BA9AFEE79F/782AFE7228E8963D23B18F8A2D72A4DC6B01F185.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00132_00": {
+        "npCommunicationId": "NPWR00132_00",
+        "trophyTitleName": "GTA IV",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00132_00_00418E3A341F6601FE2B592B96542E57D66D440367/5A7D06DD11D58892AFD1A5681FEEAB33F5C050A6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 57
+        },
+        "service": "trophy"
+    },
+    "NPWR00133_00": {
+        "npCommunicationId": "NPWR00133_00",
+        "trophyTitleName": "Just Cause 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00133_00_00EFFA6E8AA7EE7394DC1ED64614E5855D5E0A875F/CF2EF2120D31C2EC96FB599CBEF3BBE97133DCCD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR00134_00": {
+        "npCommunicationId": "NPWR00134_00",
+        "trophyTitleName": "MOBILE SUIT GUNDAM BATTLEFIELD RECORD U.C.0081",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00134_00_0050DEF69EB30C3832A7317B2ADED87E47550FFC14/A0BEAEAAA1B7B75B306DE4B854AB7725C28395CA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR00153_00": {
+        "npCommunicationId": "NPWR00153_00",
+        "trophyTitleName": "Killzone 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00153_00_00415AC3B975E7285378E228D05C1FA13F9A1AE2B2/EA108414E92E1C3E62FD8F9BA13F790AB0B28800.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 72
+        },
+        "service": "trophy"
+    },
+    "NPWR00156_00": {
+        "npCommunicationId": "NPWR00156_00",
+        "trophyTitleName": "Star Wars: The Force Unleashed",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00156_00_006E63068D87B26BC542BD703E41070CF8B0C09686/09D5E05C6E22B6905ACB8E421B66399186FD68AB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 16,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR00160_00": {
+        "npCommunicationId": "NPWR00160_00",
+        "trophyTitleName": "LittleBigPlanet™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00160_00_008E284646AFE80C3D45BBA5D6763ADDF683823CD4/618335118495DB7BB706D3477EB7C4F86D0629A6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 54
+        },
+        "service": "trophy"
     }
 }
