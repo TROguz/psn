@@ -7798,5 +7798,135 @@
             "bronze": 38
         },
         "service": "trophy"
+    },
+    "NPWR01241_00": {
+        "npCommunicationId": "NPWR01241_00",
+        "trophyTitleName": "Press Your Luck",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01241_00_006DE6847AA6B67A94929429FEE82FBE51AEC2EE93/216B5029F4D56287FEDC25DDE5A8FF4F884C11B3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 6,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01242_00": {
+        "npCommunicationId": "NPWR01242_00",
+        "trophyTitleName": "Family Feud",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01242_00_00F94676215034E1AF0F8F139332C2B397AAA1A469/C1B25EB3861F1F16333958EEC5E1FE525ED47299.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01246_00": {
+        "npCommunicationId": "NPWR01246_00",
+        "trophyTitleName": "Landit Bandit",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01246_00_0064B3C2EAA43828E1FF8E6665A04F82DB161F27C3/49254902735D8B214B3605E7A4334CDB8293EC13.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR01247_00": {
+        "npCommunicationId": "NPWR01247_00",
+        "trophyTitleName": "Call of Duty®: Black Ops",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01247_00_0081F62DCDA79FB17FE22878978F7D55E007C364C6/ED88D97F801A3E7D3DDC317D8935C457B2754190.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 18,
+            "bronze": 51
+        },
+        "service": "trophy"
+    },
+    "NPWR01249_00": {
+        "npCommunicationId": "NPWR01249_00",
+        "trophyTitleName": "Demon's Souls",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01249_00_00F4143E320303EC83EF9A4B3E66814332273E4395/3AC76BCD874FA75A34E311B96C94E8534B41895B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR01250_00": {
+        "npCommunicationId": "NPWR01250_00",
+        "trophyTitleName": "Apache: Air Assault",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/F1FCB0FB56C1DF94BA21BFA50CBA917F3C134585.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR01251_00": {
+        "npCommunicationId": "NPWR01251_00",
+        "trophyTitleName": "PixelJunk™ Shooter 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01251_00_003A341087E9679663BE1E10AED33E61E499A0BCA9/4A0014D6A4ABE5C115E890C6409C935E8CC197A4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01252_00": {
+        "npCommunicationId": "NPWR01252_00",
+        "trophyTitleName": "Magic: The Gathering - Duels of the Planeswalkers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01252_00_00AA5C9D6429FFAE047050C1F3CFD7AE1ED55EBF8D/B3FB39959C4718B732560BC9F9053D18E80331A0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 13,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01254_00": {
+        "npCommunicationId": "NPWR01254_00",
+        "trophyTitleName": "AC Brotherhood",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01254_00_005511AF9C516F0BD6E7A90E00EFB073B8960BFAC1/6F455461C5803FF7E2286469B98B4A7841BD961B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 18,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR01255_00": {
+        "npCommunicationId": "NPWR01255_00",
+        "trophyTitleName": "Trinity Universe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01255_00_008229DC2A928B656D08725D44FCB97ED2D25BD001/F7F688365E22A006804E895887C9CA6DE7E4DDF2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy"
     }
 }
