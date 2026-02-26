@@ -15988,5 +15988,135 @@
             "bronze": 38
         },
         "service": "trophy"
+    },
+    "NPWR02480_00": {
+        "npCommunicationId": "NPWR02480_00",
+        "trophyTitleName": "Touch My Katamari",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02480_00_007893ACBDFBC5AE9F719A18223EE863A638A4902E/EFD7280DA54C3490AA1017D93F5A19719D3C86E9.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR02483_00": {
+        "npCommunicationId": "NPWR02483_00",
+        "trophyTitleName": "Just Dance Kids",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02483_00_00C8A706EE282649BFE63C7AA6692FE5E2B7AA0BC3/9802B04342A8FAE61D83991248BFBE124671C504.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR02484_00": {
+        "npCommunicationId": "NPWR02484_00",
+        "trophyTitleName": "SONIC THE HEDGEHOG 4 Episode II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02484_00_003ED5587720C5F5D695ACDD42E761084DE472E870/C995E806142823F68345D53E1BA0EBA30B9423B0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR02485_00": {
+        "npCommunicationId": "NPWR02485_00",
+        "trophyTitleName": "Silent Hill Downpour",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02485_00_002386F07A4A00762AC7C83024226570DE87F0B6A6/13ED703E28DAFEA30E11C8D767D996DA833FD949.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 14,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR02488_00": {
+        "npCommunicationId": "NPWR02488_00",
+        "trophyTitleName": "Happy Feet Two Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02488_00_0053365B3F104129CAFFEDD1950C487AEC09C8E1FE/2D011745A1E8869BF091B80A942E27908407822A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR02490_00": {
+        "npCommunicationId": "NPWR02490_00",
+        "trophyTitleName": "Pro Evolution Soccer 2012",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02490_00_00ADACF6329B639E6B1A957E55264B381AACBB71CF/84BCBA588704B726B061BAB1DC45357ED70DEB27.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR02493_00": {
+        "npCommunicationId": "NPWR02493_00",
+        "trophyTitleName": "Silent Hill 2 HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02493_00_00457D4E4BB798C36D977CC96DE0E6CD4AA0939E4B/DE1EBD6358511B689CD94E2D6F5D6055821056EB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR02494_00": {
+        "npCommunicationId": "NPWR02494_00",
+        "trophyTitleName": "Silent Hill 3 HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02494_00_005CE89945B04803D962027E9F55A24A4F948F884D/88DCF3A90E9F674E0BC7C879FB5BF96082328369.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR02497_00": {
+        "npCommunicationId": "NPWR02497_00",
+        "trophyTitleName": "BINARY DOMAIN",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02497_00_006CE1362CB108A44222BE375DF9162976A61F183E/2EF1459D3A7D00244FEA133AB4084B4CCE9254FD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 4,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR02500_00": {
+        "npCommunicationId": "NPWR02500_00",
+        "trophyTitleName": "Start the Party!™ Save the World",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02500_00_00F6590297B2A86F7CDD46B8621FBD43A527F5E55A/DEF0C9F27771F1236FA2753E7618DEE992090A6E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 23,
+            "bronze": 12
+        },
+        "service": "trophy"
     }
 }
