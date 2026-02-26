@@ -3508,5 +3508,135 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR00691_00": {
+        "npCommunicationId": "NPWR00691_00",
+        "trophyTitleName": "Cross Edge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00691_00_00AF8AF9FFC50444E7B0F918D3943952B0E4ABC9D9/B3DDAE7808AD83C0A3BB597B08836ECDF417D0B4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 11,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR00693_00": {
+        "npCommunicationId": "NPWR00693_00",
+        "trophyTitleName": "Invincible Tiger: The Legend of Han Tao",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00693_00_00543967019631AE2E8503B61AA44A5DAE90CE8D87/2FB3E6FFE606A9B016D700FCB1E9738ED99D2619.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR00694_00": {
+        "npCommunicationId": "NPWR00694_00",
+        "trophyTitleName": "Mushroom Wars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00694_00_003E80EDD2CA0E8B4023DC35B228F5663CE7F2E920/5D95EF11A55642F78D0509BDB3C106429E23380A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR00697_00": {
+        "npCommunicationId": "NPWR00697_00",
+        "trophyTitleName": "Ice Age 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00697_00_0011D000262434790461D34B9A6E0C575BA5B34277/BA6AC2C9078AF8C23DA8A24FF1FE082E8A429BD3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 19,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR00698_00": {
+        "npCommunicationId": "NPWR00698_00",
+        "trophyTitleName": "Dark Void",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00698_00_0090F972F70BA79D5E57E1FB857BEEC06ACD1318A9/75BC4ECCF3E8DED7E52DD47CA66D05D515F704D6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR00699_00": {
+        "npCommunicationId": "NPWR00699_00",
+        "trophyTitleName": "Dead Rising 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00699_00_0027A080C6B347344C9DC59F88366204D442F9250C/2B8008ED9E790CAED7CEBB86B0C111B975BEB67F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 4,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR00700_00": {
+        "npCommunicationId": "NPWR00700_00",
+        "trophyTitleName": "The BIGS 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00700_00_004C4494516800C2BD14E3EAC847E816170E69C497/DA0FDE2A42E493F68B245603206F0C3A07B710D8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 4,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR00701_00": {
+        "npCommunicationId": "NPWR00701_00",
+        "trophyTitleName": "G-Force",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00701_00_00A9F3F9B1961365A36BCC1CDF0D43C523C89CDFC4/347FABDF66E18F9CB747747A09AE02583BF01EA5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR00702_00": {
+        "npCommunicationId": "NPWR00702_00",
+        "trophyTitleName": "Hasbro Family Game Night",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/BFD437B000A42E7797C9DB9904BC335AF8DD926E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR00703_00": {
+        "npCommunicationId": "NPWR00703_00",
+        "trophyTitleName": "Wanted",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00703_00_00986DF1C72CA7851C21D8B851E6F004C0D1FF2267/A6DB0A06FBD5EE33EA6CBAB72D97774FF8213F52.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 32
+        },
+        "service": "trophy"
     }
 }
