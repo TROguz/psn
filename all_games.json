@@ -10658,5 +10658,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR01560_00": {
+        "npCommunicationId": "NPWR01560_00",
+        "trophyTitleName": "Green Lantern: Rise of the Manhunters",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01560_00_004E4AE05B930F4D2CFE09102908312C8F8BAF6ECC/FCCC05C5AE3E3BBC596D562998A2C1029B9F880E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR01561_00": {
+        "npCommunicationId": "NPWR01561_00",
+        "trophyTitleName": "Ghostbusters: Sanctum of Slime",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01561_00_00A3DA7189D176DDCEC10EDABBE0BDE5DCBD4EDACF/09B73246DE37DA2F8B1876BD6E98B7D4DB612C38.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01562_00": {
+        "npCommunicationId": "NPWR01562_00",
+        "trophyTitleName": "MLB 11 The Show™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01562_00_00CADE3CC750AF6E337EA9D347EDA2C6666A628C7F/9914A5E898399B5A66BB33AB957A24CBD967B154.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 5,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR01563_00": {
+        "npCommunicationId": "NPWR01563_00",
+        "trophyTitleName": "TableTop Cricket",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01563_00_00C48A5F6B6059D154504433C50859C150FA9FCDA7/99BC968F0CD8EBB5DC9239918B4A4FB0D89A45C0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01565_00": {
+        "npCommunicationId": "NPWR01565_00",
+        "trophyTitleName": "第２次スーパーロボット大戦ＯＧ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01565_00_004F91601154510C5542E9411AD417919989FBC80E/F81A9A8B2059302D5B8753011634B34C182505C1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR01566_00": {
+        "npCommunicationId": "NPWR01566_00",
+        "trophyTitleName": "Hitman: Absolution™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01566_00_000F43587A825ADF99AFAE9FF8CD422582E8FBCDE4/448FB60E5AA1A6FA7E8FA7E1AF47ECAF74FF1CED.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR01567_00": {
+        "npCommunicationId": "NPWR01567_00",
+        "trophyTitleName": "Nat Geo Challenge! Wild Life",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01567_00_00F8C2C459B325BD68606DD49815762BBD8D20481B/AB9D143B129EE01927BD8FEFE389455EDD0DD9B7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 14,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR01568_00": {
+        "npCommunicationId": "NPWR01568_00",
+        "trophyTitleName": "Blokus™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01568_00_002B94859E711C654E55C87C1EA88965881BEC6C08/6011F895AA8C69263DB5A08E5D1F80C10DD6828B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01569_00": {
+        "npCommunicationId": "NPWR01569_00",
+        "trophyTitleName": "Killzone 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01569_00_0067015A3EE4202AB58C5806B0AC5F75782BF7A378/D491F79AF9DF6ED5DCA2F95AE7B48B2D9CC9A2B8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 59
+        },
+        "service": "trophy"
+    },
+    "NPWR01570_00": {
+        "npCommunicationId": "NPWR01570_00",
+        "trophyTitleName": "PlayStation®Move Heroes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01570_00_00A9406B0E7D41CFC47A4487333810E895A6D5A729/E2AA8F0F978D3E04B25C5F7A5F2B698F90F4C2B6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 39
+        },
+        "service": "trophy"
     }
 }
