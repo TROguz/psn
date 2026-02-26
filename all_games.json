@@ -6368,5 +6368,135 @@
             "bronze": 15
         },
         "service": "trophy"
+    },
+    "NPWR01064_00": {
+        "npCommunicationId": "NPWR01064_00",
+        "trophyTitleName": "nail'd",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01064_00_001A1C2636E104E1F3CBA96E58A9BE94CA475963C4/AECBADE7B261B17B5D20ABFD2EFF6BFE397F6388.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 45
+        },
+        "service": "trophy"
+    },
+    "NPWR01065_00": {
+        "npCommunicationId": "NPWR01065_00",
+        "trophyTitleName": "TNT Racers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01065_00_00DED788ACB7A48124282842FC27BFB15706A42469/82E48CD1988FE184BCE97DAC6EC3C07EBDCC3874.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01066_00": {
+        "npCommunicationId": "NPWR01066_00",
+        "trophyTitleName": "Hamster Ball",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01066_00_00CA03B8F96143ED5B5DDBD69042078AC988CFA2C8/F4BB5526921456BAA10B05D9757267A917E04835.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR01067_00": {
+        "npCommunicationId": "NPWR01067_00",
+        "trophyTitleName": "Wakeboarding HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01067_00_00E488F9549884E327DE3546C0AD2E81B9C73AD4CE/EABCE08C90C1CE06C7CBFA09048F254CD3B9C093.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR01068_00": {
+        "npCommunicationId": "NPWR01068_00",
+        "trophyTitleName": "\"DYNASTY WARRIORS: Strikeforce\" Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01068_00_00B9FA877BC7E0BB18A4EC5B5D3E103FC3CE1D774A/94C67A3CA68BB8065EA90AF78903CE7AA80CDD46.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR01072_00": {
+        "npCommunicationId": "NPWR01072_00",
+        "trophyTitleName": "Tecmo Bowl Throwback®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01072_00_00BA4F2A31A5F527088B5C255EC8C8D0F83BF11662/CDE702023EBAB01B21030AACD0F0C9F4CC8EC9D5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01073_00": {
+        "npCommunicationId": "NPWR01073_00",
+        "trophyTitleName": "Shirokishi Monogatari: Hikari to Yami no Kakusei Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01073_00_00389029B6995767DE74A773B0AB82B28D39A6343F/A8E73B1842A2959BF3B3CE096C4AD534276F4E21.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR01075_00": {
+        "npCommunicationId": "NPWR01075_00",
+        "trophyTitleName": "Deadliest Warrior: The Game",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01075_00_00778EA01013F67D842BB6B99AF546BB9FFA40E07A/57E30B1CBB8C015DF79A4301383FF9CBCA6F09D3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR01076_00": {
+        "npCommunicationId": "NPWR01076_00",
+        "trophyTitleName": "MIGHT & MAGIC CLASH OF HEROES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01076_00_00D8EDE28C0F7D88B0D2645883A5FE92BBFE825145/653840C7339686EA27494B86863975EC8550E702.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01077_00": {
+        "npCommunicationId": "NPWR01077_00",
+        "trophyTitleName": "プロ野球スピリッツ2010",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01077_00_00F25DB242B101F8D2B5275CB1DFD7CA27E7DF5B9A/30F97C3F9F62865B4D2B407B0E0BF48B2B062865.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 30
+        },
+        "service": "trophy"
     }
 }
