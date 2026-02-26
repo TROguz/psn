@@ -2598,5 +2598,135 @@
             "bronze": 15
         },
         "service": "trophy"
+    },
+    "NPWR00597_00": {
+        "npCommunicationId": "NPWR00597_00",
+        "trophyTitleName": "Golden Axe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00597_00_00DC279AADE7252E024761472D97BBA1049E32B774/D4B04A850B0DEFF57085490AFC83F71E6A6F58E2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR00599_00": {
+        "npCommunicationId": "NPWR00599_00",
+        "trophyTitleName": "Need for Speed™ SHIFT\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00599_00_001C3F25BF66E16AF3AF5EEE6E575A723DA1A90DD8/F780D8815676A028753F99DB6E64D34255A2ABEB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 15,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR00600_00": {
+        "npCommunicationId": "NPWR00600_00",
+        "trophyTitleName": "Heroes Over Europe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00600_00_001072FC4B01822EF65828D18A73D38B3AA9F0E024/5C704DFF8BB2177EFD102176CA6367CDDC083DE5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 20,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR00602_00": {
+        "npCommunicationId": "NPWR00602_00",
+        "trophyTitleName": "CellFactor: Psychokinetic Wars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00602_00_003EDB03CF94D9B8689AA179ABE961DCA33DC1E89C/B55781E1A8AB41DE00AC4ACBEF9C7251763AB45D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR00603_00": {
+        "npCommunicationId": "NPWR00603_00",
+        "trophyTitleName": "FALLOUT 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00603_00_0023C8068B49173583078A7EA18812E3697A2EF9A2/C96DF96461A6C4699C89A259E51976D6AE2A9D09.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 24,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR00605_00": {
+        "npCommunicationId": "NPWR00605_00",
+        "trophyTitleName": "QUANTUM THEORY",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00605_00_00AD9AD90F56D475B033AA9EB09167B29AB1E52D09/71AC7BA76467536F28BCF765E94DFA556C09E764.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR00606_00": {
+        "npCommunicationId": "NPWR00606_00",
+        "trophyTitleName": "Guitar Hero Van Halen",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00606_00_00111C5AADD0AA835CF4F30D4259A97AC2DBEE1D9C/7997322DB4EB80077B3F0E7EF59232A2E3FB7B2B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR00607_00": {
+        "npCommunicationId": "NPWR00607_00",
+        "trophyTitleName": "BioShock",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00607_00_00293C4DA25EFFACF9DA69AB89F2C2D4001B9D50BF/D3EF40D634A6E4CD979E26BC172DE3F2B88B368D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 3,
+            "bronze": 59
+        },
+        "service": "trophy"
+    },
+    "NPWR00608_00": {
+        "npCommunicationId": "NPWR00608_00",
+        "trophyTitleName": "WWE SmackDown vs. RAW 2010",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00608_00_009BE08193C2C22683D3C962E736497D417470B749/075D0F6BCDD2D2B1F63468F2725AA0B24645637B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR00611_00": {
+        "npCommunicationId": "NPWR00611_00",
+        "trophyTitleName": "EyePet™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00611_00_008EEAAAA21E8025A7CB2968313C208EE93F396188/6F9A2A57157C0999312E5F74F0F5C038E9F9E6A0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 18,
+            "bronze": 13
+        },
+        "service": "trophy"
     }
 }
