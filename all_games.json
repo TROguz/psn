@@ -8968,5 +8968,135 @@
             "bronze": 43
         },
         "service": "trophy"
+    },
+    "NPWR01363_00": {
+        "npCommunicationId": "NPWR01363_00",
+        "trophyTitleName": "Shaun White Skateboarding",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01363_00_00B164DC931ECFE93383B879E95071EA23C22FAEB4/BDA815686F1FEC7432E897A10C140028EB1A3D60.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR01365_00": {
+        "npCommunicationId": "NPWR01365_00",
+        "trophyTitleName": "Dungeon Twister",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01365_00_0017DC1C740145BDEC3BE8A51C7E171BCADD51D92D/6304923715FAB05DFF60D24981E5CEE7389961B6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR01367_00": {
+        "npCommunicationId": "NPWR01367_00",
+        "trophyTitleName": "Get Fit With Mel B",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01367_00_0002F674DD9AFC1580BD27F05E6D2B61DE33536F09/0FAFB392562DA5AB7E2E3BDAA4ABF94E988CE7D0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR01369_00": {
+        "npCommunicationId": "NPWR01369_00",
+        "trophyTitleName": "TONY HAWK: SHRED",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01369_00_009BFA0164CF500B4BFD3F8039FDC592FC4F8E02AF/C6BDDCCEB1B4087984F18C2013EAFA742FBAD3EC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR01372_00": {
+        "npCommunicationId": "NPWR01372_00",
+        "trophyTitleName": "UFC® Undisputed™ 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01372_00_00E3075E9A3873BC1B99251545EE02B7DA69D3EFD8/88645AE504AA11FC39E286F9F4C85E44F96D0792.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR01374_00": {
+        "npCommunicationId": "NPWR01374_00",
+        "trophyTitleName": "HOARD™ Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01374_00_009E36EE4A875B5FE227DAD8DBA282DED729133844/7B07D4D4B20AF4FA2B5C5C8DEB52C0FDBD9DE737.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01375_00": {
+        "npCommunicationId": "NPWR01375_00",
+        "trophyTitleName": "DeathSpank™: Thongs Of Virtue",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01375_00_005C149CA04AF2837D7C5BAF875755C201D7007A53/CB9478199EAB2E800DADFFE6113E7148FD85CC33.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01380_00": {
+        "npCommunicationId": "NPWR01380_00",
+        "trophyTitleName": "WRC FIA World Rally Championship",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01380_00_0013FEE96C315477EE892E64B4F74C5BE00263A9AC/2E72BD5D981DF08DF85247AFD097D124393372A3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR01381_00": {
+        "npCommunicationId": "NPWR01381_00",
+        "trophyTitleName": "Voodoo Dice",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01381_00_0068BB5ADED64DD5B29F888D87484BA03EA5CFE099/78FEA3F39D108F95207CA51D2F6968587C457153.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01382_00": {
+        "npCommunicationId": "NPWR01382_00",
+        "trophyTitleName": "信長の野望 Online",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01382_00_00A577BA842BF5E9123F62F56BE6D30E819C63A8D6/CE1FA9AEA46EE9023993BC733985485DCED272F3.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 17,
+            "bronze": 13
+        },
+        "service": "trophy"
     }
 }
