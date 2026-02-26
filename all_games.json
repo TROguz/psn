@@ -4808,5 +4808,135 @@
             "bronze": 5
         },
         "service": "trophy"
+    },
+    "NPWR00842_00": {
+        "npCommunicationId": "NPWR00842_00",
+        "trophyTitleName": "EA SPORTS™ GRAND SLAM® TENNIS 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00842_00_00F9E0107BE9716737696FC1D94100CEA36A875351/4A0647CAA985CF008A11692FCB2F84B6FDF7B103.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR00843_00": {
+        "npCommunicationId": "NPWR00843_00",
+        "trophyTitleName": "PixelJunk™ Shooter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00843_00_00A8D9EB7E596BA5D0CF886A453E95839E95C24710/3FB31D813C05B7580586003C84FA88E7D3F31CF7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR00844_00": {
+        "npCommunicationId": "NPWR00844_00",
+        "trophyTitleName": "龍が如く３ PLAYSTATION®3 the Best",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00844_00_00445542F52918F38CC079AF882B1BFA4B03E5B55C/3995E6F2FB3CF42C21B714F1EE07404322BBC2B0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 3,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR00845_00": {
+        "npCommunicationId": "NPWR00845_00",
+        "trophyTitleName": "Dragon Age: Origins",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00845_00_00570667D143293CE33F1F71A6B95A2DDEC62489C4/937EC02007AE26F6AA09A7976D5996C805859AD3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 6,
+            "bronze": 66
+        },
+        "service": "trophy"
+    },
+    "NPWR00848_00": {
+        "npCommunicationId": "NPWR00848_00",
+        "trophyTitleName": "Tom Clancy's Ghost Recon Future Soldier™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00848_00_005292B15D335678820784760C9881EEE79CAB3E25/1161C280B7CD559399D6ACCF1FB0F0993AD2D521.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR00849_00": {
+        "npCommunicationId": "NPWR00849_00",
+        "trophyTitleName": "Cross Edge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00849_00_006E6E904CB3C799BADB8588D7671FF97E785D4A44/F9012E4C6083273DEC284DC3E9EECCF0E181C800.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 11,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR00850_00": {
+        "npCommunicationId": "NPWR00850_00",
+        "trophyTitleName": "Tony Hawk: RIDE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00850_00_0054DD94A33910B1E619726355AEADD4A754E2750F/9BA0853FBC2479270E1684D64800DE8AC45BB253.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR00851_00": {
+        "npCommunicationId": "NPWR00851_00",
+        "trophyTitleName": "BAYONETTA",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00851_00_00DA3EEA418F9FB09F96914E1D4EF8CBF05B017A82/34DEFBA6AB4F81903A26F8341205A49DBBE5D275.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR00855_00": {
+        "npCommunicationId": "NPWR00855_00",
+        "trophyTitleName": "Warhammer 40,000: Space Marine",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00855_00_00590ECBDC8B8F804BC0F8AF0E73ACB468944CC8EA/572561374062410041944731D5223C56F652EFC2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR00856_00": {
+        "npCommunicationId": "NPWR00856_00",
+        "trophyTitleName": "LEGO Rock Band",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/3971EBEBF954DB8A2AED872800D0221B2EC2578E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 37
+        },
+        "service": "trophy"
     }
 }
