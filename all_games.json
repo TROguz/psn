@@ -11178,5 +11178,265 @@
             "bronze": 20
         },
         "service": "trophy"
+    },
+    "NPWR01623_00": {
+        "npCommunicationId": "NPWR01623_00",
+        "trophyTitleName": "StarDrone",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01623_00_002FFCB1A3E45BF218346E3AA0411AB8F02279CF4D/88CE8D89FA4A32F22495E5C946CB63739F0BFC34.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR01625_00": {
+        "npCommunicationId": "NPWR01625_00",
+        "trophyTitleName": "Puzzle Dimension",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01625_00_00CDAE79AD232C9184437F87EF226D1CB5E7DEBB71/E3BB4273023FC8EFFFC87B7ECFB788AF2C103697.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR01626_00": {
+        "npCommunicationId": "NPWR01626_00",
+        "trophyTitleName": "Zumba",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01626_00_0023E8568BEBD6BDFA8CAA9068458CDBC616A85C98/A0E3032A60F735765E40B9FDF6132D9D618C7033.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 3,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR01628_00": {
+        "npCommunicationId": "NPWR01628_00",
+        "trophyTitleName": "Dragon Age: Origins",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01628_00_00D4B04299D5B4DBC016D9AA102BCE736D57ECF275/2AE878E6100DC4E3BFBCF4D22F067656FFAD1DB5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 64
+        },
+        "service": "trophy"
+    },
+    "NPWR01629_00": {
+        "npCommunicationId": "NPWR01629_00",
+        "trophyTitleName": "NBA JAM",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01629_00_0049C7E32674680CF3CC3BEFDD8E73BBF3CFBC8A78/9369EFF61DF6547D98DC49D387C04FDFB213248B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 14,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR01630_00": {
+        "npCommunicationId": "NPWR01630_00",
+        "trophyTitleName": "戦国無双３ Z",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01630_00_00B416DBA0FAEC4882B65518B3E1334C1D31C38B10/3C57DA2425E43490F9EBF22D4C595389FBAF86D6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR01631_00": {
+        "npCommunicationId": "NPWR01631_00",
+        "trophyTitleName": "魔界戦記ディスガイア４ ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01631_00_00FCC17F05104E242F46EBA587133ABC6FD399B156/F24BC7EBB26738D2FC54E62BFE9DF1464CD9839F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR01633_00": {
+        "npCommunicationId": "NPWR01633_00",
+        "trophyTitleName": "Magic 2012",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01633_00_006DA843688B5738AF7FE5D35308D7E896CFBAAC14/35F2AB4C8A693385285735E5AB1D97DA89B32D7D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR01634_00": {
+        "npCommunicationId": "NPWR01634_00",
+        "trophyTitleName": "Space Ace",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01634_00_002CB39D9D8830BA553E40EFF82285218B9C2018A9/CA11A98552DF1831D8A7D5BC25EC853BAF50F4BD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR01635_00": {
+        "npCommunicationId": "NPWR01635_00",
+        "trophyTitleName": "SkyDrift",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01635_00_009E9D7A9C96C24536274C28C826DF13CFA3A32AEA/14408C924764900DB14FFDDD5F17C6F6D0B7EB20.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01636_00": {
+        "npCommunicationId": "NPWR01636_00",
+        "trophyTitleName": "まもるクンは呪われてしまった！ ～冥界活劇ワイド版～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01636_00_00576A5347DE394B11FB8D4197B27134B17B25074A/D07BEFB37116D6B6FA1CDF51001EC28E381FD0CA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 52
+        },
+        "service": "trophy"
+    },
+    "NPWR01638_00": {
+        "npCommunicationId": "NPWR01638_00",
+        "trophyTitleName": "Quizball Goal! Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01638_00_000082745CB38D25B19A44FA6F128A26BB6B2F59EC/D82586D409B7A72D687BE61A7176019D80662378.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR01640_00": {
+        "npCommunicationId": "NPWR01640_00",
+        "trophyTitleName": "Stacking",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01640_00_00247D24537A51DF5FAAFE23B06DC90FA0C75EE3BC/5A424057AF92BA8BEC35E6A4FC45B399CC4D4CD9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR01641_00": {
+        "npCommunicationId": "NPWR01641_00",
+        "trophyTitleName": "大戦略パーフェクト～戦場の覇者～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01641_00_008CA8AA9DB0353A951F04151F5B92A5616E0AB498/CE4F471BDB0D96F526AD19F86112221B224E67BA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 3,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR01642_00": {
+        "npCommunicationId": "NPWR01642_00",
+        "trophyTitleName": "YAKUZA 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01642_00_00847C6B65C9C3D8A5AA90CF23E0D4AFEFDBDC1BDC/CDDE62C04A2BC6724987B0B5E649475C27229181.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR01643_00": {
+        "npCommunicationId": "NPWR01643_00",
+        "trophyTitleName": "びっくりぱちんこ　あしたのジョー KYORAKU コレクション Vol.1",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01643_00_001EBFF84A3DD79D8F24B7CFAEB4CE41BDDEB85495/FB55345C7EC298F59162488496C384D833769FDC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR01644_00": {
+        "npCommunicationId": "NPWR01644_00",
+        "trophyTitleName": "Storm",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01644_00_003A3F947E0DEBE3EB5EC8A83A2E25E822A29EE361/4D162D97FBF0A35A4B8D252C712A0E594720C0A0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01645_00": {
+        "npCommunicationId": "NPWR01645_00",
+        "trophyTitleName": "Dragon's Lair II: Time Warp",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01645_00_00E44978BE209D132EFB3431E210B01CE4FA23DB46/431E930F5AA07DF87834615984E8787118E151C9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR01649_00": {
+        "npCommunicationId": "NPWR01649_00",
+        "trophyTitleName": "FINAL FANTASY XIV: A Realm Reborn",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01649_00_0029302F962C0A4D96FF3E56FEF7AB9FDD9B3B17A4/31CF7FED9BD3A2E7442553D01A54A4AA9883C993.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR01650_00": {
+        "npCommunicationId": "NPWR01650_00",
+        "trophyTitleName": "Tiger Woods PGA TOUR® 12: The Masters®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01650_00_00B98FB44A684F1A963EBE0BA243A5221D5FFC299D/724EBD9EFF7CE28FE0E8409C857D7606B7328FE8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 34
+        },
+        "service": "trophy"
     }
 }
