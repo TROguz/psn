@@ -15468,5 +15468,135 @@
             "bronze": 38
         },
         "service": "trophy"
+    },
+    "NPWR02333_00": {
+        "npCommunicationId": "NPWR02333_00",
+        "trophyTitleName": "WipEout® 2048",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02333_00_000494699925ED2C7C731CE568070FD4EDF3725195/35DC01F1B0D182689F6BBF28047E0ACA5CC89F0E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR02334_00": {
+        "npCommunicationId": "NPWR02334_00",
+        "trophyTitleName": "Grease Dance",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02334_00_007BFA99CEF4EF206D52E8642FBFA91F9E0715B1D3/6A836BADDEF2E1D3F7E53FCB079BDBC162CD01AD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR02335_00": {
+        "npCommunicationId": "NPWR02335_00",
+        "trophyTitleName": "Ratchet & Clank",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02335_00_008CD1FC325814DFFF726AC3F484B42DE38CFDCD66/B082DD57D798A6003E0C1C2AAB5BF26042868773.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR02343_00": {
+        "npCommunicationId": "NPWR02343_00",
+        "trophyTitleName": "街ingメーカー４",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02343_00_009CAEEC7A8AF73E88D6728CC7C4BE3C69ECA6D8E9/A4737C7CDB3C7C25D0E1BC2C3658BDBD63A118AE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR02345_00": {
+        "npCommunicationId": "NPWR02345_00",
+        "trophyTitleName": "Toki Tori",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02345_00_006A0DC142F970EE8B264E611BF05D21C13B53BEED/D0A4955D2BB7C49771D616F630C16367D8508835.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR02346_00": {
+        "npCommunicationId": "NPWR02346_00",
+        "trophyTitleName": "Ratchet & Clank 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02346_00_00C8A4F8F61BF41C92644000A2ACCC8A504A2B3E32/9FE6170EDE20D96F95CA312991957C335ED5CC64.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR02347_00": {
+        "npCommunicationId": "NPWR02347_00",
+        "trophyTitleName": "Ratchet & Clank 3: Up Your Arsenal",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02347_00_001DFEA4D16170273C8DE9E77E0FDCE9B5B3362431/2C38DCC16F4B6CE439C4F7E7574E345F0F3FAA37.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR02348_00": {
+        "npCommunicationId": "NPWR02348_00",
+        "trophyTitleName": "Ratchet: Deadlocked™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02348_00_006339EEA77F315544C2DE052EC2F8E9486DE72460/B95C9FEA2E1F2BF915C78A65CB7F8D34333EAB89.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR02349_00": {
+        "npCommunicationId": "NPWR02349_00",
+        "trophyTitleName": "Bejeweled 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02349_00_005DE506BCDF1A7FE1DEAE3B4CD84875E8670CFD00/099C75EF746A772798176067E8D43C0CC3FBEC8B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR02350_00": {
+        "npCommunicationId": "NPWR02350_00",
+        "trophyTitleName": "AC Revelations",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02350_00_00642F7E5DE4B7D6ED00F9C8B4D4F0203533BAF4B4/CEF35AB761D991887BA270A5A1285A0A14EF1A09.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 23,
+            "bronze": 45
+        },
+        "service": "trophy"
     }
 }
