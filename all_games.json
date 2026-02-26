@@ -15858,5 +15858,135 @@
             "bronze": 9
         },
         "service": "trophy"
+    },
+    "NPWR02426_00": {
+        "npCommunicationId": "NPWR02426_00",
+        "trophyTitleName": "マージャン★ドリームクラブ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02426_00_00364C06C54CFDA1C0ED9864C7EC16E9424E920010/6F6B10728A30156A165996BD9AD5F435796CFD06.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR02441_00": {
+        "npCommunicationId": "NPWR02441_00",
+        "trophyTitleName": "Rocksmith",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02441_00_006D8D30CE63BDCCFB4A9DF47D99B574DF1BF396AD/C6019AC2E406B3E1DB6F0B6BFC048D7359090C1B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR02453_00": {
+        "npCommunicationId": "NPWR02453_00",
+        "trophyTitleName": "CastleStorm - Complete Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02453_00_00970F591B219643638358D9F2E4FE907F3B60EC8E/82EFC59D8BA4971020858211116115D637D12D5C.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 8,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR02457_00": {
+        "npCommunicationId": "NPWR02457_00",
+        "trophyTitleName": "GRAVITY RUSH™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02457_00_007F250EB3177842B6A7E62ADBEE7AC56B92883FFA/47255D00F638F82E12A557FC30C3A0DC1464BD37.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 19,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR02466_00": {
+        "npCommunicationId": "NPWR02466_00",
+        "trophyTitleName": "Rune Factory: Tides of Destiny",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02466_00_00AF7F3A35A11324DC64BE3357FE413E4B44A59AEC/46F359F50A331FF929B6FF50A1866B4936BBA349.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR02469_00": {
+        "npCommunicationId": "NPWR02469_00",
+        "trophyTitleName": "Twisted Land: ShadowTown",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02469_00_005F43668DD740C6FD78DFD47B3A67D0AA0C1B9BD1/0914A4D0B8AC74713BB55795B0B5A2B00A52796D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR02470_00": {
+        "npCommunicationId": "NPWR02470_00",
+        "trophyTitleName": "Scene It? Movie Night",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02470_00_000AA86D7A6F4EEB096DD19BF17FDC2038743F2E3D/1B02AC46F8CFECE763088AD3F7E53758BBF55F46.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR02471_00": {
+        "npCommunicationId": "NPWR02471_00",
+        "trophyTitleName": "Dead Island",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02471_00_001C8A06634C19F7479F044CF4C90F86271BC6C6CB/F05D13F52926542B13F1BC0ADC5F5C330884D295.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR02472_00": {
+        "npCommunicationId": "NPWR02472_00",
+        "trophyTitleName": "Bang Bang Racing Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02472_00_00A294F82C01945A54DB4C082C335754F8F3617A42/64605E1DAF827F5DB7EB5E2F64A732E27D7D2AE1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR02479_00": {
+        "npCommunicationId": "NPWR02479_00",
+        "trophyTitleName": "Ragnarok Odyssey",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02479_00_004E3DD1C506BDEDFDD28E6083319E2160764B97D4/DE1C0F0650231FDC7CB0BBE4DEB949F8F5E65B14.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 38
+        },
+        "service": "trophy"
     }
 }
