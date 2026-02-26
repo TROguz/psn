@@ -5978,5 +5978,135 @@
             "bronze": 48
         },
         "service": "trophy"
+    },
+    "NPWR01003_00": {
+        "npCommunicationId": "NPWR01003_00",
+        "trophyTitleName": "진・삼국무쌍 MULTI RAID Special",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01003_00_0053206E6DCB47501AA27AC09C7B864F817218C80F/7C0AE329369082DFF64FD59881C44AC7E22E0F3C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR01004_00": {
+        "npCommunicationId": "NPWR01004_00",
+        "trophyTitleName": "真・三國無雙 MULTI RAID Special",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01004_00_007C87AF52C8E8F833546672A2A6EE6C49A8B2365B/9AB5527098371F7C05B61315D0E92B1C2F6F4733.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR01005_00": {
+        "npCommunicationId": "NPWR01005_00",
+        "trophyTitleName": "Sacred 2 - Fallen Angel\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01005_00_003D3E4C1517121CAA365639C8C41E9AF0154C6898/2C4CF92EDDCBB5CE756B5379EC48B5E601AE8BEF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR01006_00": {
+        "npCommunicationId": "NPWR01006_00",
+        "trophyTitleName": "Battlefield: Bad Company™ 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01006_00_002B9006FA794A578597C4750A9CC9D9FDAD149F8A/79067CE1A81469FF80F51E60CC3BB3B643CDD510.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 58
+        },
+        "service": "trophy"
+    },
+    "NPWR01007_00": {
+        "npCommunicationId": "NPWR01007_00",
+        "trophyTitleName": "Dead Nation™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01007_00_00176F813044257273752E20FE1F22AF91EDDDEA4A/3EF0336C7EAAE8861310723679A538E4E844A943.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR01008_00": {
+        "npCommunicationId": "NPWR01008_00",
+        "trophyTitleName": "Ratchet & Clank: All 4 One",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01008_00_00FE5FE5319DF0894AE53552852B9CC04649AFAC07/EC5FB8968CB3D0FF4FCD9C2D575569CB7BEC37EF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 6,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR01012_00": {
+        "npCommunicationId": "NPWR01012_00",
+        "trophyTitleName": "Batman: Arkham Asylum",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01012_00_0045E21DFAB73D962181305D8169DA616317FA3C3F/3E896C32ACE953F647A783D5C6F0BF0F7E0CDCD4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 18,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR01013_00": {
+        "npCommunicationId": "NPWR01013_00",
+        "trophyTitleName": "Start the Party!™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01013_00_0084D104B6567D846A6876C1F797AC778539C444AE/4B3A54D57B12862436C2DAB7F111A6FF5AB66E67.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR01014_00": {
+        "npCommunicationId": "NPWR01014_00",
+        "trophyTitleName": "Tumble",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01014_00_00EE9F902DAE822F26A91D9CC448A34C95A99963FB/01E1FEA4D327E0A982B397BCFD639C8D37593DBD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01016_00": {
+        "npCommunicationId": "NPWR01016_00",
+        "trophyTitleName": "Sky Fighter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01016_00_0011D597B3F23A75C6DAE77CFA3C41304D067D1666/E7867998C3AA6361497DB5E26F1B09B6D92ABAF3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
     }
 }
