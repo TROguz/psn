@@ -16898,5 +16898,135 @@
             "bronze": 48
         },
         "service": "trophy"
+    },
+    "NPWR02726_00": {
+        "npCommunicationId": "NPWR02726_00",
+        "trophyTitleName": "出撃！！乙女たちの戦場２ トロフィー",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02726_00_0091CBBDFF25A9864CB2A858224227C6AC4CB79CA4/8D83567A70E2ACD4C525E7DD17FB5534BD17F871.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR02727_00": {
+        "npCommunicationId": "NPWR02727_00",
+        "trophyTitleName": "Skydive: Proximity Flight",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02727_00_00119102F7342C9B689A35DA89857F2A16808EC0B0/9178528EF9EEFE8677F9C4C90E8C90965790B59E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 3,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR02730_00": {
+        "npCommunicationId": "NPWR02730_00",
+        "trophyTitleName": "The Ultimate Battle of the Sexes: Quiz & Play!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02730_00_00594AA55665D3A29047859F4CEC789A7B6627E0B4/EB3C8048A9A9FD1CD7C54B8097DE62C670A9939D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR02733_00": {
+        "npCommunicationId": "NPWR02733_00",
+        "trophyTitleName": "TABLE TOP TANKS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02733_00_0093D3B72E7C2D0FC6DD634C183C826A7D71664350/68F039592E8587868EFD056142A6C91AC81459D2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR02734_00": {
+        "npCommunicationId": "NPWR02734_00",
+        "trophyTitleName": "RA.ONE The Game",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02734_00_00BFF966AE1330F94614C7F3895ABBA8DF5D7DFCDB/E2B228E33432BDD5516864CB62CFAA8F4DBB187A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR02736_00": {
+        "npCommunicationId": "NPWR02736_00",
+        "trophyTitleName": "HollywoodSquares",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02736_00_002D193AB3FE57FBF340CE148D26CCA3F3FAC6DBEC/BD22C99F2AAAEAD31548141C3EF081BC2AC3BFF4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR02744_00": {
+        "npCommunicationId": "NPWR02744_00",
+        "trophyTitleName": "Rayman 3 HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02744_00_003988A196E182C1D7108B3FD73D70C7820DDB13B5/A34F9A29F54C63A072FB07587FFCA89FE4B0F5EA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR02746_00": {
+        "npCommunicationId": "NPWR02746_00",
+        "trophyTitleName": "実況パワフルプロ野球２０１１決定版",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02746_00_0039547FAC1EB5692A667D5C07CCFE08E828D93B14/33F842BB919287545B0546B8D3D1F7D825ABF869.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR02747_00": {
+        "npCommunicationId": "NPWR02747_00",
+        "trophyTitleName": "Dragon Age II (J)",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02747_00_00ABB3D6C176E4B300B87098F083B2CBA90C2BF9D5/A85226F55A8462E37FE47B0CFEB2005E72215235.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 21,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR02749_00": {
+        "npCommunicationId": "NPWR02749_00",
+        "trophyTitleName": "Sound Shapes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02749_00_00EF1E70F2C585F2208EB026958859E657A37DFE86/A6B70D0E19541443B15D2913853CEB33E1DD1861.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 87,
+            "bronze": 0
+        },
+        "service": "trophy"
     }
 }
