@@ -4548,5 +4548,135 @@
             "bronze": 0
         },
         "service": "trophy"
+    },
+    "NPWR00801_00": {
+        "npCommunicationId": "NPWR00801_00",
+        "trophyTitleName": "God of War® III",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00801_00_007CA5B0A11275E93A3609C24E5F5B12C07A205CE0/76940BA9595F5BF61D68E5231FB888ED72227382.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR00802_00": {
+        "npCommunicationId": "NPWR00802_00",
+        "trophyTitleName": "God of War: Ascension™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00802_00_002AA4F9C4DCFF30E12529FEEDFDEFB9FB71C99018/F563621D645BA661D3E71A007D1D382AF47634AB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR00804_00": {
+        "npCommunicationId": "NPWR00804_00",
+        "trophyTitleName": "50 Cent: Blood On The Sand™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00804_00_00225F4F7F4F2DDF5C51C2E7E82BD17C7DA7C385CB/787089458DBC9DF69CD221316E52C0FCA9D6A73F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR00805_00": {
+        "npCommunicationId": "NPWR00805_00",
+        "trophyTitleName": "Trine",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00805_00_00916C1984EDBE7E4B34152A7FE832C813ECDB2B28/E3C0CB1DA6892F8F8B404EF0472FBE83E207325D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 23,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR00807_00": {
+        "npCommunicationId": "NPWR00807_00",
+        "trophyTitleName": "Top Spin 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00807_00_0080425C9DDDAD2EDA63FFFB970746D09075FB7CB4/47548A65F27F16D22849BD5EAE6F47D492F19DFD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR00808_00": {
+        "npCommunicationId": "NPWR00808_00",
+        "trophyTitleName": "LEGO® Indiana Jones™ 2: The Adventure Continues",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00808_00_009EE7A81DA2F32E44D392EED1FC60504BB4E9F88B/CDDB2F6418600BE1F436660E3A33AAE679882EB7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 22,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR00809_00": {
+        "npCommunicationId": "NPWR00809_00",
+        "trophyTitleName": "Dead To Rights: Retribution",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00809_00_0084E9A19257129E01BA3ED87E291B591C6BC1003F/AF0CB6536E3095862CE08F66F4CEDFC2B409853C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 45
+        },
+        "service": "trophy"
+    },
+    "NPWR00813_00": {
+        "npCommunicationId": "NPWR00813_00",
+        "trophyTitleName": "DanceDanceRevolution",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00813_00_0003AAF8B0725594E711D5D684D0E6B658E7615AEC/D0DA6E0822DDBD168E361D86E89986D1736BAE6D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR00817_00": {
+        "npCommunicationId": "NPWR00817_00",
+        "trophyTitleName": "DARK SOULS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00817_00_00A858C2E2A1A80A7663E02BE55B2D62EE28A43CD1/46EDDA4E3F15F0F75A39C4DEC5EDE645760362B9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 20,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR00819_00": {
+        "npCommunicationId": "NPWR00819_00",
+        "trophyTitleName": "F.E.A.R. 2: Project Origin",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00819_00_006EAC31F25D7B20AC6FC7AB9143899FF546B0CBD4/8C4D0E8B6422EF0206FFBA13D9635C31E6ED7E52.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
     }
 }
