@@ -14558,5 +14558,135 @@
             "bronze": 30
         },
         "service": "trophy"
+    },
+    "NPWR02123_00": {
+        "npCommunicationId": "NPWR02123_00",
+        "trophyTitleName": "Babel Rising",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02123_00_00600E2A2A98ABD3B422178756E7A89300D06ED5FF/C0E87094937270CCA67ED7329E204046FB2CD39A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR02124_00": {
+        "npCommunicationId": "NPWR02124_00",
+        "trophyTitleName": "Plants Vs. Zombies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02124_00_009F61BC4B29F4BE9E7F3BB6044BEFE295612CBC22/0D5A3F6E424B60301736E4487CAED4E5A636B869.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR02125_00": {
+        "npCommunicationId": "NPWR02125_00",
+        "trophyTitleName": "EyePet & Friends™ Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02125_00_00AA7E1FDB135D9413DA18415357E1981979963362/42DB117C28D7BA01D090FDE8E32057D0A875B0D9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR02127_00": {
+        "npCommunicationId": "NPWR02127_00",
+        "trophyTitleName": "WRC 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02127_00_007DFC64B1AFF52AA961328FB2F7680E0EC3F842E1/2895271E7957E8EB892D6035678D32E01B6D7EFD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR02131_00": {
+        "npCommunicationId": "NPWR02131_00",
+        "trophyTitleName": "Child of Eden",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02131_00_0067F57BDB7DB8DCDA5FCF0638278C2748C349F254/8239BBE8C4FCB82E468D53D9E89D7A32487992A0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR02133_00": {
+        "npCommunicationId": "NPWR02133_00",
+        "trophyTitleName": "The House of the Dead: OVERKILL™ Extended Cut",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02133_00_002AD2B7BE9198FA239206A2F1821018DE365B7F0D/5362561A89B501A726B33474923EF1A74CFF3295.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR02138_00": {
+        "npCommunicationId": "NPWR02138_00",
+        "trophyTitleName": "真・三國無双６ 猛将伝",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02138_00_00EE70CDD8141AE9763C6DA8CC5AC82D7F4FF818F7/1B9752064DD1A588153B6FE33539FD0B3699326A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR02139_00": {
+        "npCommunicationId": "NPWR02139_00",
+        "trophyTitleName": "WWE All Stars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02139_00_00BE50F95D78DDF5143937AA0D2B14EFAF55B79770/8E8BD35392B7F239CC1ED6B1C7DC8DFDFB047A6E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR02148_00": {
+        "npCommunicationId": "NPWR02148_00",
+        "trophyTitleName": "JAM",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02148_00_003FF22AB49BEC9F3FFEE9A4406105F33BACBFFAE5/BCEE6927A807FED79556101A907A586418B3A621.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR02149_00": {
+        "npCommunicationId": "NPWR02149_00",
+        "trophyTitleName": "戦国無双３ Empires",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02149_00_00E1C4639569932AE8061238736EBF417A281AC00D/37D0481B0B2DEB166930ECD3F3D0AAB52A864083.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 36
+        },
+        "service": "trophy"
     }
 }
