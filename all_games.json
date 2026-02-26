@@ -1038,5 +1038,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR00399_00": {
+        "npCommunicationId": "NPWR00399_00",
+        "trophyTitleName": "AQUANAUT'S HOLIDAY ™　- Hidden memories -",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00399_00_007E353F7C2BBB8015B96777A28D1C8D5B883B828F/A78B08488B7D8FAE73D5C36FA1A41C9AB2562B88.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR00400_00": {
+        "npCommunicationId": "NPWR00400_00",
+        "trophyTitleName": "魔界戦記ディスガイア３ ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00400_00_0099B656033E0CDEF95BFDFDF840A21EC507769613/450585D32A39AA7F78747BFC0B92347D6D9C9442.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR00403_00": {
+        "npCommunicationId": "NPWR00403_00",
+        "trophyTitleName": "Astro Tripper",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00403_00_003ACD0A1292148CEA4A080D942AAD908188DF359C/6A31CB8D3FF48ACA1B4273FCB742DD5E6B99E3EC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR00404_00": {
+        "npCommunicationId": "NPWR00404_00",
+        "trophyTitleName": "RESIDENT EVIL 5",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00404_00_00BF56688E8386CFCFBAF030517D8FFDD6FE43429B/59EA12A11A1F71D0B81E849720588D149D210EB7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 16,
+            "bronze": 53
+        },
+        "service": "trophy"
+    },
+    "NPWR00406_00": {
+        "npCommunicationId": "NPWR00406_00",
+        "trophyTitleName": "Supersonic Acrobatic Rocket-Powered Battle-Cars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00406_00_0073BD39F0AA954F0F890C0FAA6A7664BAD3E46DA2/52909F135D7A33B141002F5D17D78343074E2B51.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR00408_00": {
+        "npCommunicationId": "NPWR00408_00",
+        "trophyTitleName": "ZEN Pinball",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00408_00_000A6746A47DB3B95D3CEF9C9841502BECE2D3EC67/7B7F9FCFED841E65C066E5E4DBA23195D70F6EFC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 13,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR00409_00": {
+        "npCommunicationId": "NPWR00409_00",
+        "trophyTitleName": "SPELUNKER HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00409_00_0022B8D1E550520323C4D4D376B1838C277ABCEF19/FA00C21A4007B0434E4BA0E0E35C52D1E85267F4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 12,
+            "silver": 27,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR00410_00": {
+        "npCommunicationId": "NPWR00410_00",
+        "trophyTitleName": "Buzz!™: Quiz TV",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00410_00_006143EE503CDACF3B747425E7C24EB0F202BF7421/335DED060C5D2816EF2C52D7683E5F2C925C0D3E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 11,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR00413_00": {
+        "npCommunicationId": "NPWR00413_00",
+        "trophyTitleName": "Linger In Shadows™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00413_00_00589B053CC7E76ED50365094B182843A16C7228DE/BDFE923D25A30B5308EE5A3CB12C5793EC1E7492.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR00414_00": {
+        "npCommunicationId": "NPWR00414_00",
+        "trophyTitleName": "Diner Dash®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00414_00_00D9C60AFBF5F6D7C881583BB5E5565EAB16408BE0/CDA999B6315E43FE591364F0A4CE3F69AC5A1526.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
     }
 }
