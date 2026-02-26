@@ -388,5 +388,265 @@
             "bronze": 50
         },
         "service": "trophy"
+    },
+    "NPWR00234_00": {
+        "npCommunicationId": "NPWR00234_00",
+        "trophyTitleName": "Burnout™ Paradise",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00234_00_00D1EE47DC19BE5210C9A03E4C12D0416CE654D413/D8303B0EBB2CB613D48A023DFF1C77390D654A30.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 28,
+            "bronze": 65
+        },
+        "service": "trophy"
+    },
+    "NPWR00245_00": {
+        "npCommunicationId": "NPWR00245_00",
+        "trophyTitleName": "Demon's Souls",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00245_00_0033A3A71C90F843F8132746DA6796F18EDD348170/A2F00D6AB19DFDA5C2ACD746C2EADC69C2350183.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR00251_00": {
+        "npCommunicationId": "NPWR00251_00",
+        "trophyTitleName": "WET",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00251_00_00E4E36230A55FF3B04401FEBA8AB03A69D892DB6B/EF00692871C3110EB61ACDD438812A96E56F8428.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR00254_00": {
+        "npCommunicationId": "NPWR00254_00",
+        "trophyTitleName": "Red Faction: Guerrilla",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00254_00_002BB220E10B9F156F89015980110835F086DAE68B/CEA1700BAD74581BD19504FE4CCA13CD0F47B114.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 49
+        },
+        "service": "trophy"
+    },
+    "NPWR00257_00": {
+        "npCommunicationId": "NPWR00257_00",
+        "trophyTitleName": "PixelJunk™ Monsters and Encore",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00257_00_003B9303D4FA488B75E6ECDB1F877524880832071D/F39F0333F4EA8595C6090230A226590768628261.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR00261_00": {
+        "npCommunicationId": "NPWR00261_00",
+        "trophyTitleName": "[PROTOTYPE]™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00261_00_008BE8912C7BE7A727B24674FF1D87B1219449D5B8/A30CE14EE652E0C0BF7433E4C0F096EE13CB6B8D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR00273_00": {
+        "npCommunicationId": "NPWR00273_00",
+        "trophyTitleName": "BattleFantasia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00273_00_00C5A2630BE8241CBBDBEF538C01002F0300AAB7BB/6886AADAFAB7EC062D3DF445C3CAF96548EBE6FB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 56
+        },
+        "service": "trophy"
+    },
+    "NPWR00280_00": {
+        "npCommunicationId": "NPWR00280_00",
+        "trophyTitleName": "The Last Guy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00280_00_006B70ECD3F6E935403560869FB60929721883492C/6292A4AA19FEED4EAD392075510ED53ABE8E8B88.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR00283_00": {
+        "npCommunicationId": "NPWR00283_00",
+        "trophyTitleName": "Bionic Commando Rearmed",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00283_00_005E7861476C9C55D53E3F6D188FC7BDBA87308472/7208A5D38C624DF1E01F77FA4084501DACB87121.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00284_00": {
+        "npCommunicationId": "NPWR00284_00",
+        "trophyTitleName": "GTI Club + Rally Cote D'Azur",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00284_00_0098BC2B441A1817C6715DF723A815B0EF35F292CE/8A822C5E084F302BE712D0056DA549E099215D63.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR00287_00": {
+        "npCommunicationId": "NPWR00287_00",
+        "trophyTitleName": "Ferrari Racing Legends",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00287_00_00A5EA67998831AE55877D409F9BA3698D5BF6A0B3/4A88D07CC5626A61F4DBC3BE9A43A44ADD2082B7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR00288_00": {
+        "npCommunicationId": "NPWR00288_00",
+        "trophyTitleName": "Damnation™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00288_00_004194164D5CC216C30FE6C46148E2B7876A64B001/4C26719EC65C849B7567F65C7176ACDBA21A7A29.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR00291_00": {
+        "npCommunicationId": "NPWR00291_00",
+        "trophyTitleName": "Resistance 2™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00291_00_00F20E479E0C56CFD77D2B5588B25B0DD71FBB1B1B/8F0B2E25C3524F1EF9EE87AD1999F7FD8A5EC4F8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR00295_00": {
+        "npCommunicationId": "NPWR00295_00",
+        "trophyTitleName": "Twisted Metal™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00295_00_004A7414C3175D3BFECABEBF7EA08216711D7FAA09/B8AA498D59F04DBFB5907D68DA27BFDAAD95B66F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR00300_00": {
+        "npCommunicationId": "NPWR00300_00",
+        "trophyTitleName": "ModNation™ Racers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00300_00_008B520AEA86D68CD1876D7CD068375F8F97BC5F52/95312EA347C857E4C8221C963A035D9EAF8DE728.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 51
+        },
+        "service": "trophy"
+    },
+    "NPWR00302_00": {
+        "npCommunicationId": "NPWR00302_00",
+        "trophyTitleName": "SOCOM: U.S. NAVY SEALS CONFRONTATION",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00302_00_00DC4FDF3B64A5C34131263976CC8FE8E2C542F82D/9052EF174E4F43CB087B593AAB5E0A8DC4E3545F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 23,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR00305_00": {
+        "npCommunicationId": "NPWR00305_00",
+        "trophyTitleName": "Bionic Commando",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00305_00_00D1A80104E622EEB6665CBDE89403F71A7651288F/E7497A36512726EE85EECB5388781CCEBBCB4ED0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 4,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR00306_00": {
+        "npCommunicationId": "NPWR00306_00",
+        "trophyTitleName": "Punisher: No Mercy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00306_00_00DA3ECD2528BAEB3DFE2863BC951747C167CABB55/9EF14B208939B1111F0A8E00FA4C1329D67EA875.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00312_00": {
+        "npCommunicationId": "NPWR00312_00",
+        "trophyTitleName": "ACE COMBAT ASSAULT HORIZON",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00312_00_0053F0092982AC4DA797E0B27964DF64D9F8D6709A/A6D52892DBB8CD22A94F61B648FA3DF503741014.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR00313_00": {
+        "npCommunicationId": "NPWR00313_00",
+        "trophyTitleName": "Geon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00313_00_005064244DF69EE0237D83D62A2E14C75AD63B33CC/260AD22DCA53B7C11E12E6B15367183EA008F6D9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
