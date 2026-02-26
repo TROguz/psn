@@ -10398,5 +10398,265 @@
             "bronze": 4
         },
         "service": "trophy"
+    },
+    "NPWR01531_00": {
+        "npCommunicationId": "NPWR01531_00",
+        "trophyTitleName": "Tales from Space: About a Blob",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01531_00_00D5F719BD9F4F8E1EC1F22A52953B12FEA6440AC1/0AF938ED9C199358419FDC8B35177C581692DFD7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01535_00": {
+        "npCommunicationId": "NPWR01535_00",
+        "trophyTitleName": "NHL® 12 Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01535_00_00337E01C971E5A56E1ED3FAD9364D6B126639635A/EA2EAAF90F572F45377F9A43AC8D12E8B28C5378.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR01536_00": {
+        "npCommunicationId": "NPWR01536_00",
+        "trophyTitleName": "Star Trek",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01536_00_0060DA3048474C5C5AED7BCC7BC26ED307FC392502/3C926D2A779A4DB5C2E6EEA3015FAB72B36A1E6F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 4,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR01537_00": {
+        "npCommunicationId": "NPWR01537_00",
+        "trophyTitleName": "Borderlands™ 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01537_00_005A10EF01A1E099E3634BBC37989D5E90706F85AC/F43D47CB001F86E4BB1499BED4DA4030AC382AD4.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 49
+        },
+        "service": "trophy"
+    },
+    "NPWR01539_00": {
+        "npCommunicationId": "NPWR01539_00",
+        "trophyTitleName": "Alex Kidd in Miracle World",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01539_00_006DBFCC466614A2F759F772B6C57EC511A3BE1F46/415C0BB20A4F165B86B200CA3EA113C2723F6B9F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01541_00": {
+        "npCommunicationId": "NPWR01541_00",
+        "trophyTitleName": "NeverDead",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01541_00_00F7CD7E64CB54D9794DCD6BD05D1173E1627D733F/1FE78264A09E191935951E468C69C4B18D5C38CF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR01542_00": {
+        "npCommunicationId": "NPWR01542_00",
+        "trophyTitleName": "Gotham City Impostors",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01542_00_009230AA201C3BD43F470C234A51D27833D127469D/F53EC38BAD1FBD768D2A085C9817A5A770B6F247.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 8,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR01543_00": {
+        "npCommunicationId": "NPWR01543_00",
+        "trophyTitleName": "NO MORE HEROES HEROES' PARADISE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01543_00_00818ED8781AEB097C77DED62CB5EB0F8BC4C25EA0/1EC3190AD60B7E4E6D01FA3D9312C37D1EE18F5F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR01544_00": {
+        "npCommunicationId": "NPWR01544_00",
+        "trophyTitleName": "The Revenge of Shinobi",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01544_00_001C49298712C4A02E709FA9D9421DBE049ABF650A/34ED98533222FB6BFF8401CF070AAA4F81ED4D09.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01546_00": {
+        "npCommunicationId": "NPWR01546_00",
+        "trophyTitleName": "Wonder Boy in Monster World",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01546_00_00BA437A5091088F1480FCC23DAAAAA8C3AD3446FC/D82F65A64FBCE61869603DB2D5F2D507AF1EA2FB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01547_00": {
+        "npCommunicationId": "NPWR01547_00",
+        "trophyTitleName": "Monster World IV",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01547_00_000F344843340D4732D9673170363CDCBA54BF87F6/68302F05FF8F57B1E425680AD0213619F7F0159E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01548_00": {
+        "npCommunicationId": "NPWR01548_00",
+        "trophyTitleName": "Super Hang-On",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01548_00_00DA530CB843C157F3A57C4E62366D88F90259EBA4/E425F0DC3A41135299A534FE1FA3EC9742D1C72F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01550_00": {
+        "npCommunicationId": "NPWR01550_00",
+        "trophyTitleName": "Cabela's® Dangerous Hunts 2011",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01550_00_00BBD9332080166A564B896A35CC0851B6037DE6D6/DF1DEF01765E679C3BC3D7EC7E80A2AFE8817AE2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR01551_00": {
+        "npCommunicationId": "NPWR01551_00",
+        "trophyTitleName": "Prince of Persia: The Two Thrones",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01551_00_00D573A9E21F77D6A94CAF6D2085A683FACF83705E/485E8440C72EEF7009C7FA57BBE4FC69A8A5331D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR01552_00": {
+        "npCommunicationId": "NPWR01552_00",
+        "trophyTitleName": "Alice: Madness Returns™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01552_00_00E74DDE0865E6B4CCAA9259EEFE09C1754DCCD2B1/78746176BC25D882BD9B83D9ECCBAEFB2B38D1B8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR01554_00": {
+        "npCommunicationId": "NPWR01554_00",
+        "trophyTitleName": "SingStar® Junior",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01554_00_00EB22D17E88E9DDD966C99E2162A676701ABB3DB4/367B7C6C307EE258CE7590F6BDF527E96A17687E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR01555_00": {
+        "npCommunicationId": "NPWR01555_00",
+        "trophyTitleName": "Wizardry 囚われし亡霊の街　Scenario1",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01555_00_007DB204A31DD2A771FEEF447D03A57F79317524BB/B96916186FAFAFEF677776DB9C300B738D9DD11C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR01556_00": {
+        "npCommunicationId": "NPWR01556_00",
+        "trophyTitleName": "Captain America™: Super Soldier",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01556_00_00D8DBB9A0661BB5A4DC95B499DA41B993A90E581C/6612F6C55E580CF5BF6B1549B0C0E872B1092C3F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR01558_00": {
+        "npCommunicationId": "NPWR01558_00",
+        "trophyTitleName": "Majin and the Forsaken Kingdom™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01558_00_00E78E3230D4AB3E2F6A839D0E013EBE482BE2C900/01DBFE15CBB4E8C2B90203DFD74601006BBA9ECA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 15,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR01559_00": {
+        "npCommunicationId": "NPWR01559_00",
+        "trophyTitleName": "Plants Vs. Zombies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01559_00_006881A4CA017002074D68B34F5EC094BD684505E3/14CCEBC586243B1438052DBA4DA921D7CA6B9323.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
