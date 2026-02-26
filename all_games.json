@@ -17418,5 +17418,135 @@
             "bronze": 42
         },
         "service": "trophy"
+    },
+    "NPWR02846_00": {
+        "npCommunicationId": "NPWR02846_00",
+        "trophyTitleName": "新 東大将棋",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02846_00_00423057EAA0D039EF55DCE169632E10EB99AF439B/0BD9CBBCFB4F6826CF95EDA82C4126070C569CD3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR02848_00": {
+        "npCommunicationId": "NPWR02848_00",
+        "trophyTitleName": "AMY",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02848_00_00D1DC5B9D7B32D7D905CACCD297015EA7E5D9F6F4/12B5C956A50771295155230CA2409829BD4B97C1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR02849_00": {
+        "npCommunicationId": "NPWR02849_00",
+        "trophyTitleName": "Hyperdimension Neptunia mk2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02849_00_0052F67938931E1F7A6E0C9C6E437D70262421FD86/D861627861C22EB4F66FF314968541F2C83D619D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR02852_00": {
+        "npCommunicationId": "NPWR02852_00",
+        "trophyTitleName": "Jurassic Park: The Intruder",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02852_00_00E1B5C279D89940BB253FB3155D960D86F0C18B14/4F5A70B0DDCA197E3344D29D019EBBE18BCD5075.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR02853_00": {
+        "npCommunicationId": "NPWR02853_00",
+        "trophyTitleName": "Frogger: Hyper Arcade Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02853_00_009BA12CDBCE9DE94046696648A506B0DC5E077FFC/7E12ABBA802B348457BD78CB3CA2B98F735A477F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR02857_00": {
+        "npCommunicationId": "NPWR02857_00",
+        "trophyTitleName": "Hell Yeah! Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02857_00_004634F829CB5A9CEEA57FC3ABD0B95595C6A3409A/455AFA837E9871EAF66F964E2FCD65BB641D7261.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR02858_00": {
+        "npCommunicationId": "NPWR02858_00",
+        "trophyTitleName": "Jurassic Park: The Cavalry",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02858_00_009B9613CC6097A484E7F95233FB7990C27EA22281/3C29FC93166FEF0C5FA6DE2140D7D52CC245BA57.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR02859_00": {
+        "npCommunicationId": "NPWR02859_00",
+        "trophyTitleName": "Jurassic Park: The Depths",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02859_00_002BF5AED9C9F8A5240F456EFC625944D6F46B0B03/70295257613638DDB167253FD640081AE621DD05.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR02860_00": {
+        "npCommunicationId": "NPWR02860_00",
+        "trophyTitleName": "Jurassic Park: The Survivors",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02860_00_0022C2700AA86C760C2E30D85AE22E0236AA9A55FA/4B27C0531FA1236126E2FB0787BF75CD20D57645.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 6,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR02862_00": {
+        "npCommunicationId": "NPWR02862_00",
+        "trophyTitleName": "Pool Nation",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02862_00_00091C3520E4D7FDB2DB122F3EF18F1F592B2D966A/7FE7802FA0EFF21B1C46C4DD5B129F25468049EB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
     }
 }
