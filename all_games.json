@@ -11568,5 +11568,135 @@
             "bronze": 13
         },
         "service": "trophy"
+    },
+    "NPWR01661_00": {
+        "npCommunicationId": "NPWR01661_00",
+        "trophyTitleName": "SBCG4AP Episode 5: 8-Bit is Enough",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01661_00_00B2F64A3EF3D1CDBA740FBE1CB1727FFBC02D8EF5/EE9B3C6949C7B3E1A0305534999F96B8E221D4EA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR01662_00": {
+        "npCommunicationId": "NPWR01662_00",
+        "trophyTitleName": "Max Payne 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01662_00_00DC48594DCDB3BBCB69DE719E9115B772EEDA00E4/3345FD1F0650F7476BB8E1A26C4C0211AD35DA37.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR01663_00": {
+        "npCommunicationId": "NPWR01663_00",
+        "trophyTitleName": "Hyperdimension Neptunia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01663_00_000B375D729C8F84C48380DA86CE5409125EC10ED0/08A89A855E0B3609D3337E14642C532B439E4651.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR01666_00": {
+        "npCommunicationId": "NPWR01666_00",
+        "trophyTitleName": "Dance Magic",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01666_00_0075E588EA34A07156CB707708BC7AB025B4173ABD/2E7CEDED7FB2AEBCDB3F650D5264C76B641625E1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR01667_00": {
+        "npCommunicationId": "NPWR01667_00",
+        "trophyTitleName": "Man Vs Wild",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01667_00_00D88AC6B0255A5169561911C197000B29E548E0F2/33DF115F1A0E0EE1FEA486F6FB5B34E9E2874F64.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR01670_00": {
+        "npCommunicationId": "NPWR01670_00",
+        "trophyTitleName": "Germany's next Topmodel 2011",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01670_00_00F4FA0D765AFCA60CAD4C8D88DCB404B374A8B65A/5193078CCF0676947A6CD9FAFCABBE6145600EC6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR01671_00": {
+        "npCommunicationId": "NPWR01671_00",
+        "trophyTitleName": "de Blob 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01671_00_009B1DF79F3FC554AD47B8CEA8B34E9BCDB2E51C8C/E38C487FA1D6177172CB6BA7B4D9D7CA3DA4D686.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 14,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR01672_00": {
+        "npCommunicationId": "NPWR01672_00",
+        "trophyTitleName": "Dance on Broadway™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01672_00_0028EE0D2ADEB432C008FDD5702FAE733EC06B10B6/C0AA915B5B2725ED32C487DE65338BBF12CDFD58.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR01674_00": {
+        "npCommunicationId": "NPWR01674_00",
+        "trophyTitleName": "Rango",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01674_00_00EA27783A02787273F9FA29473B7442B53E51A1B9/11579A11103E0BA137731140E99293657B9E4DCA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 13,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR01675_00": {
+        "npCommunicationId": "NPWR01675_00",
+        "trophyTitleName": "Racquet Sports",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01675_00_00F52A8CC928990BCB674DB7A6FD5437BD516DC6E0/F517CC0D248EAC8D08CBA09A2CD8C39B0B610249.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
     }
 }
