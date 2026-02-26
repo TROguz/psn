@@ -7408,5 +7408,135 @@
             "bronze": 51
         },
         "service": "trophy"
+    },
+    "NPWR01203_00": {
+        "npCommunicationId": "NPWR01203_00",
+        "trophyTitleName": "Bulletstorm",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01203_00_00AE78895F6D2004CD5C4C549287B3F3A85A2500CB/C4FC2410C39ACE1A4EE5DD0C19189BBBA2EF948D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR01205_00": {
+        "npCommunicationId": "NPWR01205_00",
+        "trophyTitleName": "テイルズ オブ グレイセス エフ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01205_00_002D0585C07F290B17C98B8D60CB5752E12FD22A62/0955187E40C0D25FAC7C65491304C3733096D561.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR01206_00": {
+        "npCommunicationId": "NPWR01206_00",
+        "trophyTitleName": "Hard Corps: Uprising",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01206_00_002439642D78557404EAF2D888F92E162CE9CCEF31/D07C7CD2822569E31B41123D717EA8DEA015542F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01207_00": {
+        "npCommunicationId": "NPWR01207_00",
+        "trophyTitleName": "Hitogata Happa",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01207_00_0014CC4857FF273004030778E018A70C215610841F/21AE2A6D87C05183D0BD71459BF152A66D6D4177.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01208_00": {
+        "npCommunicationId": "NPWR01208_00",
+        "trophyTitleName": "GundeadliGne",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01208_00_0098063A4684B8CE373BACB23CD3B5282BC2E73C78/AE6485E3BC38066935E402152E8B74DE2332E513.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR01210_00": {
+        "npCommunicationId": "NPWR01210_00",
+        "trophyTitleName": "LittleBigPlanet™2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01210_00_00F9273D8972AB08A93FF5D1D084BAD0DF086F239F/0FB28B2DF4941EB43CD54C58B557DB6945013451.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 60
+        },
+        "service": "trophy"
+    },
+    "NPWR01212_00": {
+        "npCommunicationId": "NPWR01212_00",
+        "trophyTitleName": "Dragon's Lair",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01212_00_0032AE73645FEE3CA787BFC8D64708943351950290/963CECB17A355F56A9D5F7C67FBEE43E559C75DE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR01215_00": {
+        "npCommunicationId": "NPWR01215_00",
+        "trophyTitleName": "Star Wars: The Force Unleashed II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/56FCA9FC2ED6EEB1DC131B9BE9E6E9AD72A2D089.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 49
+        },
+        "service": "trophy"
+    },
+    "NPWR01216_00": {
+        "npCommunicationId": "NPWR01216_00",
+        "trophyTitleName": "Uncharted 3: Drake's Deception™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01216_00_0061B90D1E86DA292D0AD0B17AD2B7D83B459B65FE/992461104239EA3713FC4CE9B1F90EE09CBBEAD5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 25,
+            "bronze": 78
+        },
+        "service": "trophy"
+    },
+    "NPWR01217_00": {
+        "npCommunicationId": "NPWR01217_00",
+        "trophyTitleName": "NBA 2K11",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01217_00_000DCF1FE8D67931BB6BF5E23EB0AEA74EA9A26F63/6CB63D19A2AF0CED86954ECCFFFA1DCAC3CD48F5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
     }
 }
