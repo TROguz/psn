@@ -13908,5 +13908,135 @@
             "bronze": 14
         },
         "service": "trophy"
+    },
+    "NPWR01992_00": {
+        "npCommunicationId": "NPWR01992_00",
+        "trophyTitleName": "LOLLIPOP CHAINSAW",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01992_00_001218B7A81E3BF50BD8A0E8509A81C96274585AEF/7C78A9551B9B6F5DE327126B68FDD33B2275BD59.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 15,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR01993_00": {
+        "npCommunicationId": "NPWR01993_00",
+        "trophyTitleName": "Crysis®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01993_00_00566195E8370B8A69AA03B90933EC76EEB6683C4F/708BC17440E95A3ACA0B7BB6629D2CDBA832820E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR01994_00": {
+        "npCommunicationId": "NPWR01994_00",
+        "trophyTitleName": "Disney Universe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01994_00_005CFCB072513D09D0A609271E2BAC00A8861DF725/8F2E1FC10E80788DEDEEED8C90D03B1A49B6CD4B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR02000_00": {
+        "npCommunicationId": "NPWR02000_00",
+        "trophyTitleName": "A-men",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02000_00_005FF91D918D7C27F0CE4E78C80161FC07D105A697/BBBE651CB8046D9C26DE78043B9AAD4C2F5DB55B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR02001_00": {
+        "npCommunicationId": "NPWR02001_00",
+        "trophyTitleName": "F1 2011",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02001_00_0018DDE01C20EEE2F92EABBF1337233F0EF13C1059/0539214D116E55D372C08E4FA97E98D139111524.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR02004_00": {
+        "npCommunicationId": "NPWR02004_00",
+        "trophyTitleName": "NFL Blitz",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02004_00_00010832DD4181D208012FEF418AB23AB838A7294A/D6D132F7EB68EC56F7F5A9E90FA962734917CF5D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR02008_00": {
+        "npCommunicationId": "NPWR02008_00",
+        "trophyTitleName": "天頂の囲碁",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02008_00_00EDC072810924FA9E4B4AF3C1C7D38DD4A7B9E4B3/4CA7C715B8544E6B7994311629A2489435D1471C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 1,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR02009_00": {
+        "npCommunicationId": "NPWR02009_00",
+        "trophyTitleName": "DreamWorks® Super Star Kartz™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02009_00_00ECDDECEECDA87C9EC74FEF092B1A346EDBC3416D/2B5339B0C1DE4613BC04F4B9C5CB2B18254145F0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR02011_00": {
+        "npCommunicationId": "NPWR02011_00",
+        "trophyTitleName": "Battlefield 3™ Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02011_00_00D24BBD8936123A0B7A4B1DEDC7D21B2DDAD606D9/CE1508BA3403530D5F683C9065F452B9450D9E79.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 16,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR02021_00": {
+        "npCommunicationId": "NPWR02021_00",
+        "trophyTitleName": "アイドルマスター２",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02021_00_00C2DBDEB846CD85468743FAF7E5CA27D079623A26/370BE11AD35891F54905814A338E550605CBD541.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 10,
+            "bronze": 44
+        },
+        "service": "trophy"
     }
 }
