@@ -8188,5 +8188,135 @@
             "bronze": 9
         },
         "service": "trophy"
+    },
+    "NPWR01282_00": {
+        "npCommunicationId": "NPWR01282_00",
+        "trophyTitleName": "Ricochet HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01282_00_00B1EFC9B639DBF89290D4EA913929699DF302790D/D810CE9A58A15C0B2C53E8AC60AD13D5C65E12F3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 8,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR01283_00": {
+        "npCommunicationId": "NPWR01283_00",
+        "trophyTitleName": "Mayhem 3D",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01283_00_00522E06E136A428180FB333D4ACE1FE746CC34CF8/EE290729B78B5B1D6210B145071A7E4AC7046097.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 17,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR01285_00": {
+        "npCommunicationId": "NPWR01285_00",
+        "trophyTitleName": "TIME CRISIS 4 Arcade Ver.",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01285_00_00ED1BE9E85B48F75BEB4A08F1047B2B4CDC756BE7/A945080296873ACDAF472BD10E34B1B9E9DAF1EB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR01286_00": {
+        "npCommunicationId": "NPWR01286_00",
+        "trophyTitleName": "Dragon Ball: Raging Blast 2 Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01286_00_005CEB04E83A18DE187915CA70CE086E1C7DC3630B/045F345B4B00E1E0362F4F8AEDB408CC42F6BC82.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR01287_00": {
+        "npCommunicationId": "NPWR01287_00",
+        "trophyTitleName": "Madden NFL 11",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01287_00_001E1605B2DE7FE7370DB0CFB83044F505335BD98F/18053C2CC3CBD164EF7A1687A864F5EBD7694695.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR01288_00": {
+        "npCommunicationId": "NPWR01288_00",
+        "trophyTitleName": "Harry Potter and the Deathly Hallows™ - Part 1",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01288_00_0005F2D8AE37C1588493514AAAA92D86ADB8118CD2/A66E8C9D316410AAF41C2D61372A9B9B20EA70E3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR01289_00": {
+        "npCommunicationId": "NPWR01289_00",
+        "trophyTitleName": "Homefront",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01289_00_00957BF4EEFCD2AED1F4A1D0B442D12B6BFE25DD53/D3731955EC52F76AAA437E3343B823D068B7C609.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR01291_00": {
+        "npCommunicationId": "NPWR01291_00",
+        "trophyTitleName": "TerRover",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01291_00_00AFA0BF2637AC6715AEB4B5E0E792DD9F171B91D5/075C8DD33F65122C5680847CD415885739DC28C3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR01292_00": {
+        "npCommunicationId": "NPWR01292_00",
+        "trophyTitleName": "F.E.A.R. 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01292_00_0072B7D66E381D3CF2A6BA0FDA5FE07D2AF6694A16/388B59DE7ABA9C8864725524FEEDC76E10A9E57E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR01294_00": {
+        "npCommunicationId": "NPWR01294_00",
+        "trophyTitleName": "SPACE INVADERS INFINITY GENE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01294_00_00F12E4B085D6AFD5D52ED0A0667C4E3390AE80761/10E3A17EDF488DADE9AEECBB8960504EF51CB0AB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
