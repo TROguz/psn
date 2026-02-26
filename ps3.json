@@ -24,5 +24,18 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR00036_00": {
+        "npCommunicationId": "NPWR00036_00",
+        "trophyTitleName": "SingStar®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/CEBE34904DAFC9D6AC9339A1B310E141B5BAB895.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 11,
+            "bronze": 29
+        },
+        "service": "trophy"
     }
 }
