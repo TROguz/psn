@@ -1818,5 +1818,135 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR00507_00": {
+        "npCommunicationId": "NPWR00507_00",
+        "trophyTitleName": "SONIC UNLEASHED",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00507_00_00645EFA953845673BFBBAB3E540A4B1ADF6A018A8/7A09E1EC63B2873F33A8100041D4A44FDAEE4E90.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR00508_00": {
+        "npCommunicationId": "NPWR00508_00",
+        "trophyTitleName": "龍が如く３",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00508_00_00EBA0A26F35EC33B296540A3F01DB46217AF2C302/90EA3EE54548624A5465C1D39D8032A3C29CE618.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 3,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR00510_00": {
+        "npCommunicationId": "NPWR00510_00",
+        "trophyTitleName": "Call of Juarez: Bound in Blood",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00510_00_00728B9F3AACDEEF3F502074609EE8620EB253EC4A/C6D36E311F085B42179C1D28D8B8F12A5DB04A9F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR00512_00": {
+        "npCommunicationId": "NPWR00512_00",
+        "trophyTitleName": "Wanted",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00512_00_00223815D173B4B1386DEF1A79E38FF72CC6DE4C40/859B6C148A474FD575625EE8F0943B5FFF66BCF7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR00513_00": {
+        "npCommunicationId": "NPWR00513_00",
+        "trophyTitleName": "Split/Second",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00513_00_0099004C1842A6E45590B21FC9AF269C687D0876E3/40ECA441D8C0B8745B0CEFEAB9AFC8B38EB30190.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR00514_00": {
+        "npCommunicationId": "NPWR00514_00",
+        "trophyTitleName": "Trivial Pursuit",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00514_00_00BD90B905B331E3C6C8E62E026E346CC03675ECF5/72D546A9A50B2F7CEA860FEACC0219DCE7EAC5F7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR00516_00": {
+        "npCommunicationId": "NPWR00516_00",
+        "trophyTitleName": "NCAA® Football 10",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00516_00_001C7965ECE76B90F64FED9463666329EA8E9CA739/0A34185399F1EB532786A7B42AFFDC3AD2A3C515.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR00517_00": {
+        "npCommunicationId": "NPWR00517_00",
+        "trophyTitleName": "Marvel vs. Capcom 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00517_00_00EB5FFFF12875D608AB729AB3B8169661D6C34954/655D9A171580EDFEB9AE41AD835B069D237360B0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00518_00": {
+        "npCommunicationId": "NPWR00518_00",
+        "trophyTitleName": "The Godfather™ II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00518_00_0017DD89CBAC04FE71D75DD8F39C54D5D602F4181A/8F6A80F4456B710FC9BD427D799354B9573839D2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR00519_00": {
+        "npCommunicationId": "NPWR00519_00",
+        "trophyTitleName": "WWE Legends Of WrestleMania",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00519_00_007AC5E4F77220D50D7180FE4BDB5DB39C6477AB4B/0A736CDB2798CAD0E1358F74E83AAF83A9013810.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 2
+        },
+        "service": "trophy"
     }
 }
