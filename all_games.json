@@ -12478,5 +12478,135 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR01764_00": {
+        "npCommunicationId": "NPWR01764_00",
+        "trophyTitleName": "The Penguins of Madagascar",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01764_00_00326ECFAB51F50071A7F439DD336E39F7EA310D60/6313EDF56FD0E741A2DAE71AE3E7B7CD044E3C82.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 5,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR01765_00": {
+        "npCommunicationId": "NPWR01765_00",
+        "trophyTitleName": "PooYoos - Episode 1",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01765_00_008E4F64CB1DBBC7B2494D4E091C168FF901F129C0/8456119DAC95B8FF690BE627F61945C0DDA582D0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR01767_00": {
+        "npCommunicationId": "NPWR01767_00",
+        "trophyTitleName": "Dishonored",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01767_00_0058596740E399D0102FFB8C0F8F3DFB0DD2E037C4/D2CF00A1930B4555764F96B1AD282A4A65737F7B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 64
+        },
+        "service": "trophy"
+    },
+    "NPWR01768_00": {
+        "npCommunicationId": "NPWR01768_00",
+        "trophyTitleName": "SONIC GENERATIONS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01768_00_00150EACB80020884DE8742B55304948EDCD65A8B4/3D9188FD67796A58FED6A281EBBFC34BC2C45A63.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR01769_00": {
+        "npCommunicationId": "NPWR01769_00",
+        "trophyTitleName": "テイルズ オブ エクシリア",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01769_00_005583EB9419BA49B5DB2BB19091AA32FA058D0D26/ECF5FB5B3D2EF4CAA33E500480ECD9947F372584.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR01770_00": {
+        "npCommunicationId": "NPWR01770_00",
+        "trophyTitleName": "Awesomenauts",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01770_00_0073AB4671D594D195BD3ABACB9DBF4E77A7DC9CF0/790D747D79A6D8C9E0EF6395DB7A7EA536FA70A4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01771_00": {
+        "npCommunicationId": "NPWR01771_00",
+        "trophyTitleName": "Scarygirl",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01771_00_0050817D18347178D4C194555640F58949537198D3/237DB4C86301BC27A498AC6F7F5C745C182E1C27.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01772_00": {
+        "npCommunicationId": "NPWR01772_00",
+        "trophyTitleName": "From Dust",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01772_00_00295F103E29B4C22B50108DB3D61EFFF3A60BCFE5/8C95EF722ABA5861A270A65CF2154D53E9820CAD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01773_00": {
+        "npCommunicationId": "NPWR01773_00",
+        "trophyTitleName": "Winter Stars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01773_00_00C8CF30F10B1DCED42E0DCAD4D6C4C73C5582CC60/3364ABF88E7D3E2C9FF5490CB609CBD31F345822.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR01775_00": {
+        "npCommunicationId": "NPWR01775_00",
+        "trophyTitleName": "世界最強銀星将棋 風雲龍虎雷伝",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01775_00_00F1F00A4D2B2A885989BCF4C1772777518C4F0409/BB06502D69CE5C7042F5DDB742468E92189C1CA5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
     }
 }
