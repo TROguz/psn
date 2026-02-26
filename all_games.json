@@ -15078,5 +15078,135 @@
             "bronze": 13
         },
         "service": "trophy"
+    },
+    "NPWR02238_00": {
+        "npCommunicationId": "NPWR02238_00",
+        "trophyTitleName": "アイドルマスター\nグラビアフォーユー！ VOL.8",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02238_00_0016823D7ECB51FC97BB4B3680D17CBC24CD215F5D/FE23B4C36C3DF2008B34F50F6CA086B34996FDA0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR02239_00": {
+        "npCommunicationId": "NPWR02239_00",
+        "trophyTitleName": "アイドルマスター\nグラビアフォーユー！ VOL.9",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02239_00_0003BDCFB71487ED59ED5DCA1F48BCF0D289757FB0/BB6F3B5C9762508E9E494E2C93B51B16BE646996.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR02243_00": {
+        "npCommunicationId": "NPWR02243_00",
+        "trophyTitleName": "BlazBlue: Continuum Shift EXTEND Trophy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02243_00_00D31F6ACC04CCC531E990F5FA1A14CE0317699733/DAA1EA6058F61C2A349AA42F18B06110A833581E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR02249_00": {
+        "npCommunicationId": "NPWR02249_00",
+        "trophyTitleName": "Rayman® Origins",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02249_00_0087618E269F9326F81B2561A3AB3AE49ED3914A4F/0F31B432C764B6F7028C4E4E7E12154EAED8E10B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR02253_00": {
+        "npCommunicationId": "NPWR02253_00",
+        "trophyTitleName": "Doc Clock™ : The Toasted Sandwich of Time",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02253_00_0077C944F50D92D7C79BD3E540E017BB6A0FEAD9FB/0ECD9C331F1CE0CBC0C301E0839578BE1FB39260.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR02260_00": {
+        "npCommunicationId": "NPWR02260_00",
+        "trophyTitleName": "Medieval Moves",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02260_00_0093965E0B1A21745F217E3E6AA872A9848C5AF9BE/927B33E39697350E18C21525DA971AB2DE796E76.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR02261_00": {
+        "npCommunicationId": "NPWR02261_00",
+        "trophyTitleName": "Starhawk™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02261_00_002C38BC6233E1824C139244C6A71E078764C7DCFA/0985CB470D0E10A1EF031AFF0C5453FC5D662851.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 11,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR02263_00": {
+        "npCommunicationId": "NPWR02263_00",
+        "trophyTitleName": "魔界戦記ディスガイア３ Return",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02263_00_000AFD213983C2DE0C63C9F03C1A533BEF55574B23/D3C20A501E2244E364A094EE633FB9229385A0DD.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 2,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR02265_00": {
+        "npCommunicationId": "NPWR02265_00",
+        "trophyTitleName": "Super Monkey Ball Banana Splitz",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02265_00_0060EC25E00AE3ED0F9AEEB6DD804B651457710910/AA81C095EC04D2C606EC70BA984097853016B9D1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR02268_00": {
+        "npCommunicationId": "NPWR02268_00",
+        "trophyTitleName": "Zen Pinball 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02268_00_0046455F8F10140C8281ED9F5843E7F005531E6DA5/D604DACF4D4A452060646349F8441795E76109D2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 38,
+            "bronze": 84
+        },
+        "service": "trophy"
     }
 }
