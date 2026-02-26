@@ -115,5 +115,18 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR00088_00": {
+        "npCommunicationId": "NPWR00088_00",
+        "trophyTitleName": "High Stakes on the Vegas Strip: Poker Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00088_00_00C070B5A3A5E708E2A3EBEC5C799E5DC51428D326/4FFFF5A4BB3A25F8D1BFB3437EAC5F6B8F630687.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 8
+        },
+        "service": "trophy"
     }
 }
