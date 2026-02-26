@@ -7668,5 +7668,135 @@
             "bronze": 43
         },
         "service": "trophy"
+    },
+    "NPWR01228_00": {
+        "npCommunicationId": "NPWR01228_00",
+        "trophyTitleName": "TestYourself",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01228_00_007AE78985A0263C55111732E7DF1C82AA81AABC37/B9C45A4C8C65CC757790973C5E04157FFFF148EF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01229_00": {
+        "npCommunicationId": "NPWR01229_00",
+        "trophyTitleName": "You Don't Know Jack",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/6BCB813980991099371427EB4D56A8E11FA095C9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR01230_00": {
+        "npCommunicationId": "NPWR01230_00",
+        "trophyTitleName": "Disney Sing It: Family Hits",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01230_00_004771CFAB3E118042B307A87EF624C0D8A2EDF69B/B40CB6CFC287A4AF90BCCBA513E7330603D6D668.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR01231_00": {
+        "npCommunicationId": "NPWR01231_00",
+        "trophyTitleName": "トトリのアトリエ\n～アーランドの錬金術士２～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01231_00_007E9FC59286EB2E2B5CF8EA0D5B90FF703988A37F/BB86FE59B73055D24D53A8735E82774EC8C1FB35.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 17,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01234_00": {
+        "npCommunicationId": "NPWR01234_00",
+        "trophyTitleName": "DEF JAM RAPSTAR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01234_00_0056601F21D51B5AF13E2E202C2CFDBDE39C6D2B04/6DFF3C13A46DCBE7967F6AEB369FFBC486199154.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR01235_00": {
+        "npCommunicationId": "NPWR01235_00",
+        "trophyTitleName": "Batman: Arkham City™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01235_00_006A8A9E2C087EB0CA36E1FFE81373FF9BE26CA243/2ED42C497B197861AD9BBBCDC349A4696BB4E30B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 21,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR01236_00": {
+        "npCommunicationId": "NPWR01236_00",
+        "trophyTitleName": "Superstars® V8 Racing",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01236_00_000E4A8BAC792FFF04A672EF6B00AB82F36C971536/5C938E86FC358EA1B628A00EFF52FA18E4C8EC0B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR01238_00": {
+        "npCommunicationId": "NPWR01238_00",
+        "trophyTitleName": "Cabela's® North American Adventures",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01238_00_00E2C99E433EB1D90D76661B22B3715BE38F28B94D/2237149D73879F1C45DC17575C55D9D7AE76552F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01239_00": {
+        "npCommunicationId": "NPWR01239_00",
+        "trophyTitleName": "MotoGP 10/11",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01239_00_00918F6CB20B68C1CAFFBAB47BDC5337103252D6E1/105E71A40C265F33F0C3D59FCFACF80748DB3A12.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR01240_00": {
+        "npCommunicationId": "NPWR01240_00",
+        "trophyTitleName": "LEGO® Star Wars® III: The Clone Wars™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01240_00_00B2DB3216E6C005050AF2A396FA4EFD0E3110A560/8CC210AE484896CCF607BCD9F916EFC72309EECB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 38
+        },
+        "service": "trophy"
     }
 }
