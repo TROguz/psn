@@ -2468,5 +2468,135 @@
             "bronze": 26
         },
         "service": "trophy"
+    },
+    "NPWR00581_00": {
+        "npCommunicationId": "NPWR00581_00",
+        "trophyTitleName": "NHL 2K10",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00581_00_001E17EB4739D6F48832986FC0AC742F5BB8C87D0F/E77D05F43F8D1671BFC21547505D963D42FA5147.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 13,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR00582_00": {
+        "npCommunicationId": "NPWR00582_00",
+        "trophyTitleName": "NBA 2K10",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00582_00_00A97D348908D0C91A3C60F638B43994844F5B295F/C674052D61CEE33DF652B469728CF21C26147B41.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 15,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR00584_00": {
+        "npCommunicationId": "NPWR00584_00",
+        "trophyTitleName": "Sonic's Ultimate Genesis Collection",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00584_00_00DFEA79FFA464B332221952F302E8E751167DCDD0/F02C499458CB7F0EDAD9CC223A095F2FF61CF543.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR00585_00": {
+        "npCommunicationId": "NPWR00585_00",
+        "trophyTitleName": "Streets Of Rage 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00585_00_002128D564269C9DE279182803182F56BF627B6C9F/ABE27668312B49E414BBBBCE4882A1BA04E001FF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00587_00": {
+        "npCommunicationId": "NPWR00587_00",
+        "trophyTitleName": "Sonic The Hedgehog 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00587_00_00142BC4B3A1A65DE0BA2BC5C7C65C108ED56562DB/3ACD614165F61664B1852888680BCA65C933465E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR00588_00": {
+        "npCommunicationId": "NPWR00588_00",
+        "trophyTitleName": "Sonic The Hedgehog",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00588_00_00651A1527E173680228FCBC9159AF5D0258CD67A1/987AE0F63C7ED41CACE8D30A4D7E819898306CA5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00590_00": {
+        "npCommunicationId": "NPWR00590_00",
+        "trophyTitleName": "Comix Zone",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00590_00_009B7D2D84153EF5B407426C6BBF477835446EA312/1A8661D21E947B39D03639DD8B014D33DAACF863.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00593_00": {
+        "npCommunicationId": "NPWR00593_00",
+        "trophyTitleName": "Gunstar Heroes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00593_00_007CAD33136068C308D7D18F082E0CA9B836E8BA97/4F4DAFC59D956E5E3B9CF335F18BEF034DA1B73A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR00594_00": {
+        "npCommunicationId": "NPWR00594_00",
+        "trophyTitleName": "Altered Beast",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00594_00_00B6C857C77BC001A67FECDCB17E8955B7FEAD5E0F/FB8CC3EE2A834A7D91224A5256FF5F058216F0FA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00595_00": {
+        "npCommunicationId": "NPWR00595_00",
+        "trophyTitleName": "Smash Cars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00595_00_0035D04284317130023DC543DEFDC8748760F7DF7A/CAD116A712224D3CEF41333E5D8F49AB7255D1D7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 15
+        },
+        "service": "trophy"
     }
 }
