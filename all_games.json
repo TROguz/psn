@@ -12218,5 +12218,135 @@
             "bronze": 38
         },
         "service": "trophy"
+    },
+    "NPWR01739_00": {
+        "npCommunicationId": "NPWR01739_00",
+        "trophyTitleName": "Dynasty Warriors 7",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01739_00_00347FA83D4A1B0F47071D8447F03FCB7C6A4A4AA9/231A56DF764F08F68C19587AEBD9323606896D0D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR01740_00": {
+        "npCommunicationId": "NPWR01740_00",
+        "trophyTitleName": "真·三國無雙６",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01740_00_00E67F7EDFD442175501B4928F591B2F540E5E580B/9A3FBA4B15CF6820C58296C762EB8C4B29F13E1C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR01741_00": {
+        "npCommunicationId": "NPWR01741_00",
+        "trophyTitleName": "Back to the Future - Episode 1: It's About Time",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01741_00_00435296510D095E18A994F39E8B745D1F0268DD09/879B621DAEF329BE9C8399452F55FB86D8286F0C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01742_00": {
+        "npCommunicationId": "NPWR01742_00",
+        "trophyTitleName": "Back to the Future - Episode 2: Get Tannen",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01742_00_00B49B6421BFD91425873C7B5A55BCB14B19147762/0FEFE097138AE8287654C82AF214604CD98BF422.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR01743_00": {
+        "npCommunicationId": "NPWR01743_00",
+        "trophyTitleName": "Back to the Future - Episode 3: Citizen Brown",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01743_00_0006413412D3175F564B1EEBBBFCA27CCD3AC85820/D1F8B77B07B9C297690F1DF23733FDC31E58E4F4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR01744_00": {
+        "npCommunicationId": "NPWR01744_00",
+        "trophyTitleName": "Back to the Future - Episode 4: Double Visions",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01744_00_007C810D8D43BFB58A23D1A7B1E7DD69BC09D728F9/F5ED02622CC2AABF624F81BE3315BD570484ED23.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01745_00": {
+        "npCommunicationId": "NPWR01745_00",
+        "trophyTitleName": "Back to the Future - Episode 5: OUTATIME",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01745_00_00A024CF061B0CDEB54E6C255A73CBC51AB14879E2/917B233497617DEC6F51A2A90BA705A53FED8125.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR01746_00": {
+        "npCommunicationId": "NPWR01746_00",
+        "trophyTitleName": "CLANNAD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01746_00_00C8A8B87072612D162AD25C967F054AE340F115EB/09547586CC05630B1253A739EE7ED49FEA6278C8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 15,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR01747_00": {
+        "npCommunicationId": "NPWR01747_00",
+        "trophyTitleName": "Mortal Kombat",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/4FB18AFB31BD82D62E01A3BE4A4AD68C4F5F3199.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 15,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR01748_00": {
+        "npCommunicationId": "NPWR01748_00",
+        "trophyTitleName": "Rock of Ages",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01748_00_00A3EE0B73659BC2563D505C130DC240BBF98993BA/0DF2C9E6B01A93A9C048ACD6C16BADB2AB288F8E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
