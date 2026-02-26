@@ -11698,5 +11698,135 @@
             "bronze": 18
         },
         "service": "trophy"
+    },
+    "NPWR01678_00": {
+        "npCommunicationId": "NPWR01678_00",
+        "trophyTitleName": "Ar tonelico Qoga\nKnell of Ar Ciel",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01678_00_0013AEB456AC694458BAAC125EAEA186036ADD08B9/204929548B332F6B659F04494A7ADD5D783A04C3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR01679_00": {
+        "npCommunicationId": "NPWR01679_00",
+        "trophyTitleName": "Puddle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01679_00_00C719AEE2F5D800DDF7D09588DC43B537EC1BB7C1/F58D1537772C1BA99B4223CAFF75A51DF6A356A2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR01681_00": {
+        "npCommunicationId": "NPWR01681_00",
+        "trophyTitleName": "White Knight Chronicles™ Ⅱ Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01681_00_00F1CDA51D8FE6DF841645FBD574CF95B5F0D61B87/FFBAFBEAB7406125DD3DF88D900D57D9551104CA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR01682_00": {
+        "npCommunicationId": "NPWR01682_00",
+        "trophyTitleName": "Dragon's Dogma: Dark Arisen",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01682_00_00FA72B54DE5B194D3482A04DDD058B8EA87C6E857/956FD3EA5393756995E17DE873AED3A37B8A9683.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR01683_00": {
+        "npCommunicationId": "NPWR01683_00",
+        "trophyTitleName": "DanceDanceRevolution New Moves",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01683_00_007FD09CA80FC887494B8AF12A2BBC08980388A7C6/C02E89CC8815692382914E1599CD15D430F56789.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR01684_00": {
+        "npCommunicationId": "NPWR01684_00",
+        "trophyTitleName": "TRANSFORMERS Dark of The Moon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01684_00_00C1F2EFBB815FEC7BD2F23DA1080AA7EB1AEF1442/982E5A5C8AC04FFE31531ECAF9E16E5C9CA61A72.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 14,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR01685_00": {
+        "npCommunicationId": "NPWR01685_00",
+        "trophyTitleName": "Pinballistik",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01685_00_004F334F7D416F31FCBD5666DA8A1888C34E0B4078/B55FA5E57AB205AC0B34A68F54F7B2989DEAB2BF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 6,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR01686_00": {
+        "npCommunicationId": "NPWR01686_00",
+        "trophyTitleName": "London 2012",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01686_00_00C4F8250025C5E7717EB247996FF07C33D910ED16/2649DE44446E3492F139D0EA7B3510645711414E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR01687_00": {
+        "npCommunicationId": "NPWR01687_00",
+        "trophyTitleName": "AQUAPAZZA",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01687_00_008F2D01CBF4FDC2CED495CEAC731E1C589FB23D7A/0CBF683EDAA46F52F7E65A96BD3158BC25A9BED9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR01688_00": {
+        "npCommunicationId": "NPWR01688_00",
+        "trophyTitleName": "초차원게임 넵튠",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01688_00_00F5B729762D81E020CAFAC9A79F669BEE736E0DB3/DA7C0074D9DC65DE54D337CB1FC887C8C0FA61AA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 34
+        },
+        "service": "trophy"
     }
 }
