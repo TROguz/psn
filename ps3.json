@@ -128,5 +128,18 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR00106_00": {
+        "npCommunicationId": "NPWR00106_00",
+        "trophyTitleName": "Wheel of Fortune",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00106_00_00CDA74886DC70D9D64B598C55C18BA6B531713295/5F8EFD629941FD183AABEF2E48057424E4898C52.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
     }
 }
