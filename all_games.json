@@ -7928,5 +7928,135 @@
             "bronze": 22
         },
         "service": "trophy"
+    },
+    "NPWR01256_00": {
+        "npCommunicationId": "NPWR01256_00",
+        "trophyTitleName": "Auditorium HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01256_00_0052AFD21AC333300D3B8C175CF570EDE29CAA1366/D5E3B89C54CB79412A05E127D3C4EDA6AECDC8D0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR01257_00": {
+        "npCommunicationId": "NPWR01257_00",
+        "trophyTitleName": "DJ Hero 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01257_00_0062B13057B51C0274682A2E60E088B84B4B25E6F8/E13A01DAEB0EE14782AECC35232B31445B0009F9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR01258_00": {
+        "npCommunicationId": "NPWR01258_00",
+        "trophyTitleName": "NCAA® Football 11",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01258_00_003AAE657A149BCB7FB6E0A7D85AC719CDA243907F/6DD8268BCD4A001526CDF6277A3955D9B5B94762.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 15,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR01259_00": {
+        "npCommunicationId": "NPWR01259_00",
+        "trophyTitleName": "트리니티 유니버스",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01259_00_00D56BA24AAB93D48423E2E1CEDA1B668754F6EF95/2C2672B8E5C49D5604A1FD46AC06BD3F655959B0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR01261_00": {
+        "npCommunicationId": "NPWR01261_00",
+        "trophyTitleName": "Battle vs. Chess",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01261_00_006CA021A4C4CD69F8D61CC12E3CABCE99CC495C9A/DEF1C5261D7AEDD13F8EAEA44E68F220A4850F99.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR01262_00": {
+        "npCommunicationId": "NPWR01262_00",
+        "trophyTitleName": "echochrome™ ii",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01262_00_00B833427D2AE5642F2DA0EA2403A4D8D15E32378C/BF94F2ECC1A1C67FCC2BACCCA0B315C64F2F4952.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01263_00": {
+        "npCommunicationId": "NPWR01263_00",
+        "trophyTitleName": "THE FIGHT™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01263_00_00BA3837CA47FAC67A5E7C239916B86F6749C56B05/B436E467A5B6E0147C31F70C6DBF5483281E52F4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR01264_00": {
+        "npCommunicationId": "NPWR01264_00",
+        "trophyTitleName": "UFC Personal Trainer",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01264_00_0066DCC0779867B23BD268FAC6F6DF28BFF4DA8981/0BC6C5C2CBC55D5DBE0DD48FF79B18DE65FD4F14.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR01265_00": {
+        "npCommunicationId": "NPWR01265_00",
+        "trophyTitleName": "Outland",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01265_00_00462B8E5141F4DA668DF5BC1848DA31460906F524/F4B62C2FC1575CCE70E6169F4DA3B56F500C82C4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01266_00": {
+        "npCommunicationId": "NPWR01266_00",
+        "trophyTitleName": "Shank",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01266_00_0068C697064D9FD4394A4D75FC1E56F1542FC9AC40/0032ABDC7C2DCD672FE4F830F3D9FFEF8FD95AC1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
