@@ -5458,5 +5458,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR00928_00": {
+        "npCommunicationId": "NPWR00928_00",
+        "trophyTitleName": "LOST PLANET 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00928_00_00C6CE514FE3A0B863077D8CABF27DB82EA88C526E/A8BB1BEDA41553132DD56935A9C416D5FB8F7B6A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR00929_00": {
+        "npCommunicationId": "NPWR00929_00",
+        "trophyTitleName": "The Mysteries Of Little Riddle Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00929_00_00345F5CE6BD27E78D0FCF4F9870395577B31AFF88/230101C2A8C22EEEE5FFABAC1111C47E4D69D1D9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 7,
+            "silver": 12,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR00933_00": {
+        "npCommunicationId": "NPWR00933_00",
+        "trophyTitleName": "Record of Agarest War Zero",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00933_00_00DC79287A60E205EDCB56DBCEB5C953D9AD898C49/6FBDE66EAD8B61A0F8B3A8A33A75297A658D883F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 19,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR00934_00": {
+        "npCommunicationId": "NPWR00934_00",
+        "trophyTitleName": "SBK®X Superbike World Championship",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00934_00_00AF3B42C42D8A2216B4259E9419198F275B0B6877/586C7589DF29F29317E6763EC9138E379494D10C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR00935_00": {
+        "npCommunicationId": "NPWR00935_00",
+        "trophyTitleName": "Superstars® V8 Next Challenge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00935_00_001D5919FFEC132BD2EFF219249AA709AEFD058BFC/4BC97E147718E3A557929B1D30CF2D7E79EA7144.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR00938_00": {
+        "npCommunicationId": "NPWR00938_00",
+        "trophyTitleName": "SUPER STREET FIGHTER Ⅳ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00938_00_003B5E079BBA0276C44C87789FD8AE6C4AF0510147/CDCA0FDE42D110616225600ABA82F6578FCCCD28.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR00939_00": {
+        "npCommunicationId": "NPWR00939_00",
+        "trophyTitleName": "MLB 10 The Show",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00939_00_004369EBF33D120D4CA74F16888990E5FE48D2E464/DB199AE6752784ACD2769B8B9F478D614C370254.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR00940_00": {
+        "npCommunicationId": "NPWR00940_00",
+        "trophyTitleName": "White Knight Chronicles™ Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00940_00_00CFD102F19046EE57714A04A7EF689A746F8C65F4/9EE840C56E1B82FAE8EADF5AE07E132671EF23A5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR00941_00": {
+        "npCommunicationId": "NPWR00941_00",
+        "trophyTitleName": "Ratchet & Clank: A Crack in Time",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00941_00_001A6E673174765B1E39C868147FE51FA3DF369FB2/5FECE56D5BDFBA99A44627DA4BCC3548E8076584.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 6,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR00943_00": {
+        "npCommunicationId": "NPWR00943_00",
+        "trophyTitleName": "Earthworm Jim HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00943_00_00E48024D70FFFBA29680C872159136F386BBB3947/7033250D8D14EAC0AB9A58DC4DC85E334364311A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
