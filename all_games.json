@@ -16378,5 +16378,135 @@
             "bronze": 22
         },
         "service": "trophy"
+    },
+    "NPWR02575_00": {
+        "npCommunicationId": "NPWR02575_00",
+        "trophyTitleName": "Heavy Fire: Afghanistan",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02575_00_00133C4A17C42ECEC0A0BC2C1FE2A4157A45B201BD/EFE1071EF6A3C0D3C948689754BC1E2ACAC8B595.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR02582_00": {
+        "npCommunicationId": "NPWR02582_00",
+        "trophyTitleName": "Duke Nukem Forever",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02582_00_00A9373DA563991AFD33BF7AE891BA5FED079723E1/EACCF87F2C1734903B7E61D7ABF310C60C0C9B2A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR02586_00": {
+        "npCommunicationId": "NPWR02586_00",
+        "trophyTitleName": "The Adventures of Tintin: The Secret of the Unicorn",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02586_00_00123460A47F6ED4D4F19254623A6CF26A04FBA167/FCE09235DDE01558AF8ED3DC2437F51879663F32.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR02591_00": {
+        "npCommunicationId": "NPWR02591_00",
+        "trophyTitleName": "SUPER STARDUST™ DELTA",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02591_00_005B5113708CCCB3B42F321FC8AB66E422A28EE891/1F35504E2F9A7FBCD77EDCD7A225496F2DDBFE76.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 4,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR02593_00": {
+        "npCommunicationId": "NPWR02593_00",
+        "trophyTitleName": "ModNation™ Racers: Road Trip",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02593_00_00F88F262F09C5BBF9B88048F07C2312B60CD4013D/17EBD979607A2CAB0EBB6DFC16A2DF79381FF1C3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR02595_00": {
+        "npCommunicationId": "NPWR02595_00",
+        "trophyTitleName": "忍道２　散華 トロフィーセット",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02595_00_002B2AF070849B958859B37CEE60E825320DA40A64/995EC7180150FCEF3DA6DD450332391D5B96D41F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 12,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR02608_00": {
+        "npCommunicationId": "NPWR02608_00",
+        "trophyTitleName": "Datura",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02608_00_0065FA4665BE77C83A4FCFDF4B1E53031E28A16480/4822B98B909E3434459F59948649E0C06931E337.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR02609_00": {
+        "npCommunicationId": "NPWR02609_00",
+        "trophyTitleName": "Rugby League Live 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02609_00_001FBAF98153CF3C817D5C211EE4FBA3AA10B24A59/E6DDDC3AD6E59BDCEF9C917C3453599D2C5572A7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR02615_00": {
+        "npCommunicationId": "NPWR02615_00",
+        "trophyTitleName": "LORD of APOCALYPSE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02615_00_001392BD492BE3E07F6B453AAC892B1AAE57A497FF/F12D553B225CDDAF2B4B495F67D632FE04ADD3FA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR02616_00": {
+        "npCommunicationId": "NPWR02616_00",
+        "trophyTitleName": "真かまいたちの夜　11人目の訪問者（サスペクト）",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02616_00_00C01B4A2D2B351329425E202ED49BF551EB7E8615/37E7FA77038BCDA2F4AD6B5DFEDCFBB5D112A2FD.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 1
+        },
+        "service": "trophy"
     }
 }
