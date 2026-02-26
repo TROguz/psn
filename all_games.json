@@ -15338,5 +15338,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR02300_00": {
+        "npCommunicationId": "NPWR02300_00",
+        "trophyTitleName": "Pro Evolution Soccer 2012",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02300_00_003599C5155C4A6D691E90C94F796A7CEE7A59B850/AD19A66EE132233639D897A88CE6F8951199BF9C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR02303_00": {
+        "npCommunicationId": "NPWR02303_00",
+        "trophyTitleName": "PAYDAY: The Heist",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02303_00_00D5B9654B673D8A59E1DA8CDA6096B50AEDCD156E/1A5FDDDFD26EF5CD1E10455870CE81C2A19345E9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR02312_00": {
+        "npCommunicationId": "NPWR02312_00",
+        "trophyTitleName": "LittleBigPlanet™ Karting",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02312_00_00AD8AE6C12FB21A4422F67B5647250E5502BB1A22/699FB54CBE02B5F32698BCBA235D2C66EB2CCEC9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 6,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR02314_00": {
+        "npCommunicationId": "NPWR02314_00",
+        "trophyTitleName": "Cartoon Network Punch Time Explosion XL",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02314_00_00ED2AF0F22B12C5B2C3053476EB4B94CD95A2E9CC/60C0F98D762B084E7B01FDC556E3FA7C1AEBDBDC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR02316_00": {
+        "npCommunicationId": "NPWR02316_00",
+        "trophyTitleName": "Get Up and Dance",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02316_00_00185F3E144CC0B24522B1DDDFC0B0436490A1E774/61063890014F7736B4AD019552850D970D2C5043.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 4,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR02322_00": {
+        "npCommunicationId": "NPWR02322_00",
+        "trophyTitleName": "Modern Warfare® 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02322_00_00273877B6E6490ED245096C071F4DD7514629BDB1/6496A452C06F1E1DF7C7A8C3ED50391DE82C604C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 25,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR02323_00": {
+        "npCommunicationId": "NPWR02323_00",
+        "trophyTitleName": "The Lord of the Rings: War in the North",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02323_00_0084E62FA9D291C86827AEF5AFCF4D0450361AAA00/18FFAE893807268D03E7C4443E81661D1D037858.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 13,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR02325_00": {
+        "npCommunicationId": "NPWR02325_00",
+        "trophyTitleName": "戦国BASARA3 宴",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02325_00_00DEC155DBF6D5ADE71ED2F1D4076D4E7FD41E961B/E1BFCB0127888FCB9E38FC47BD5E82480F5D328E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR02329_00": {
+        "npCommunicationId": "NPWR02329_00",
+        "trophyTitleName": "ＡＲコンバットデジＱ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02329_00_002C521581C61FEC6D7E1C7B11CE0CBA0E84BD6E23/94684F8C50BF360D1B847EFBF5501EDC4F9FD9E2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR02330_00": {
+        "npCommunicationId": "NPWR02330_00",
+        "trophyTitleName": "DREAM C CLUB ZERO PORTABLE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02330_00_00535122C7FCA8307A24390899748A4407D053539F/FFA80E8E3C2E7DD47C7006FE89DB08A7E76F71B7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 13,
+            "bronze": 38
+        },
+        "service": "trophy"
     }
 }
