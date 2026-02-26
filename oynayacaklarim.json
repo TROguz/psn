@@ -609,5 +609,18 @@
             "bronze": 34
         },
         "service": "trophy"
+    },
+    "NPWR00476_00": {
+        "npCommunicationId": "NPWR00476_00",
+        "trophyTitleName": "NAMCO MUSEUM ESSENTIALS™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00476_00_00699B7C8B6D51B3D8FD1BAC5D7602986A00A75C99/FB631E983472F248ADEA3E2677CE1BF54D735692.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
     }
 }
