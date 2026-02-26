@@ -674,5 +674,31 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR00050_00": {
+        "npCommunicationId": "NPWR00050_00",
+        "trophyTitleName": "PlayStation®Home",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00050_00_00F640216909F8C8C95B79AECEB84B54D4B2F05064/34573B2BAC22E236A60C6FEE61EE51EE4F49C1EE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR00051_00": {
+        "npCommunicationId": "NPWR00051_00",
+        "trophyTitleName": "まいにちいっしょ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00051_00_000296CA2215F2F67EFCD4A585B12B42D3C0DD1154/610E49D3C6310300E8FD211CBF77F814246F173C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 3
+        },
+        "service": "trophy"
     }
 }
