@@ -17938,5 +17938,135 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR02955_00": {
+        "npCommunicationId": "NPWR02955_00",
+        "trophyTitleName": "Beer Pong",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02955_00_00745A864ABDD15929C9FEF7E457AE1432818EF3F5/CDC7DA862F184E132443ED29733B09852C9F8CA3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR02957_00": {
+        "npCommunicationId": "NPWR02957_00",
+        "trophyTitleName": "Little Deviants™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02957_00_002905832EAFF679C1016B8599CB24E4347CA0917F/8F8C678C8FE649C4BF2D5886C3951293BD7DAED4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 8,
+            "bronze": 45
+        },
+        "service": "trophy"
+    },
+    "NPWR02958_00": {
+        "npCommunicationId": "NPWR02958_00",
+        "trophyTitleName": "Dokuro",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02958_00_002473EDAE1E247BBF647FB03B7E6B08A7B8E95D61/753FBF60C9B8D359358C349ADF93A41E3DABE4CC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR02961_00": {
+        "npCommunicationId": "NPWR02961_00",
+        "trophyTitleName": "Wheel of Fortune",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02961_00_00A00515774C69FE69D863E428B55BACD529BA02C3/1018AFC5C0FF2CB510891D78439C2C3F10D14F4C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR02962_00": {
+        "npCommunicationId": "NPWR02962_00",
+        "trophyTitleName": "Jeopardy!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02962_00_007EFCB5B2798B0C35F08F7640DCD53DB6ED7F4387/BBB6D298D708AC0092BED2731EF1E3A2355C399F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR02967_00": {
+        "npCommunicationId": "NPWR02967_00",
+        "trophyTitleName": "New Little King's Story",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02967_00_00E1C6818FDA3A0C790DAFC470D543F60692E2447B/37B075C95A12967D90F05C7EF854B530B2CE9671.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR02969_00": {
+        "npCommunicationId": "NPWR02969_00",
+        "trophyTitleName": "Le Tour de France 2012",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02969_00_001F3638305832099492646D55565569E7CBE46C08/18EB1C9BF933D26510A56616FE6E445562EB6B89.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 3,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR02970_00": {
+        "npCommunicationId": "NPWR02970_00",
+        "trophyTitleName": "Ecolibrium™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02970_00_00EA4ED16BAD96FBF11AFFA78124B2F6DB7F08CE18/A1F729144DAAB2D89E4004FD97362FB271707E86.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR02972_00": {
+        "npCommunicationId": "NPWR02972_00",
+        "trophyTitleName": "Sleeping Dogs™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02972_00_00D35D068C24861E35365B471A6969DE4F847D22A9/98B3F2F36A824EC883F7D5E15F172526E9DE4AC2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 45
+        },
+        "service": "trophy"
+    },
+    "NPWR02973_00": {
+        "npCommunicationId": "NPWR02973_00",
+        "trophyTitleName": "TEKKEN TAG TOURNAMENT 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02973_00_003EE9C564E5D15E246F65DBED414CA92D7FEDDFCC/840AC221BCDCCF821E6ECD36BF00F1E5D3D5F429.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
     }
 }
