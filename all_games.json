@@ -16118,5 +16118,135 @@
             "bronze": 12
         },
         "service": "trophy"
+    },
+    "NPWR02503_00": {
+        "npCommunicationId": "NPWR02503_00",
+        "trophyTitleName": "SSX TROPHY SET",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02503_00_005BB7130DDF85D3D9CF8063CAE9314B3ED2165AE3/3D5D028E69246B35F116E8BF6268FF5971C147D8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 19,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR02506_00": {
+        "npCommunicationId": "NPWR02506_00",
+        "trophyTitleName": "miCoach",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02506_00_005C4E47E65EAE49D9BE92BE2F551CA32104C6CA81/5908911CEB3DF4A9A6790AAF5EFA841CFB4C67FB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR02524_00": {
+        "npCommunicationId": "NPWR02524_00",
+        "trophyTitleName": "REAL STEEL",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02524_00_009819BA853AA4E8DAB78983BD3B33227DE73C3068/352295604E03EDAC6D79DAC6F79A8D1E73BE153B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR02529_00": {
+        "npCommunicationId": "NPWR02529_00",
+        "trophyTitleName": "Carnival Island",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02529_00_00810D28CDF63261237DC40C352B09D544C1A4C914/98B19B6432621FA05E994A0AE2F89705F85132FF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR02530_00": {
+        "npCommunicationId": "NPWR02530_00",
+        "trophyTitleName": "THE HOUSE OF THE DEAD 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02530_00_005B747623F62E87BDEEF46BDA6D27D34EC9ECEE40/B082E07215073EBEC738B7FD84E70F6122BCAFE6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR02532_00": {
+        "npCommunicationId": "NPWR02532_00",
+        "trophyTitleName": "Sonic Adventure 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02532_00_00A9EA0B25D873F5CC52500DBFD361D9DB00F2A594/9A3A2584034EA4943515A96866FB6126E28BBB28.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR02534_00": {
+        "npCommunicationId": "NPWR02534_00",
+        "trophyTitleName": "Sine Mora",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02534_00_0096D8D66BEAD87A558590B328D8CC35B85B5E12C3/907B92C63456040EE1528CD7698CDB188788E1B8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR02537_00": {
+        "npCommunicationId": "NPWR02537_00",
+        "trophyTitleName": "Champion Jockey: G1 Jockey & Gallop Racer",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02537_00_00441D5D4D1D205E94CD9BAF32B3A41E96B6CE793C/4859784344925C00A8C19F018611B08D6C5E25E3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 16,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR02540_00": {
+        "npCommunicationId": "NPWR02540_00",
+        "trophyTitleName": "Rocketbirds: Hardboiled Chicken",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02540_00_00A90D93CEA96C1A958890E0F58347FFC85ACB5B5E/B9BD5F961640ADC2FB0BF0FFF87A93B1582B54F7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 6,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR02541_00": {
+        "npCommunicationId": "NPWR02541_00",
+        "trophyTitleName": "NASCAR The Game: Inside Line",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02541_00_00D5263DEF68177A8FB3220C915198709645B45777/CD45D4667F5DA97EA5C7E4788784BAAA15431E7C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 15,
+            "bronze": 34
+        },
+        "service": "trophy"
     }
 }
