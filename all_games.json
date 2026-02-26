@@ -14168,5 +14168,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR02050_00": {
+        "npCommunicationId": "NPWR02050_00",
+        "trophyTitleName": "Sam & Max - Beyond Time & Space: Episode 2 - Moai Better Blues",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02050_00_0066B0FB7F49A0F8F91329E9C996BFE1C17CC7DE76/9E4ED957F26970FD0DAEF6E7B5C562A683E5AB10.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR02051_00": {
+        "npCommunicationId": "NPWR02051_00",
+        "trophyTitleName": "Sam & Max - Beyond Time & Space: Episode 3 - Night of the Raving Dead",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02051_00_00411B0382CE6A809091D87A53FC744ADEB4612074/8C703A7C8CEAAAC2754086F5AD02B0584A2EE142.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR02052_00": {
+        "npCommunicationId": "NPWR02052_00",
+        "trophyTitleName": "Sam & Max - Beyond Time & Space: Episode 4 - Chariots of the Dogs",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02052_00_00074DC395A43ACF84A42FB946FD2CA3A2CFEC63FA/EC525D1A8E0ABC710B555F903CDF0AEEC3F81F1E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR02053_00": {
+        "npCommunicationId": "NPWR02053_00",
+        "trophyTitleName": "Sam & Max - Beyond Time & Space: Episode 5 - What's New, Beelzebub?",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02053_00_00C1339ED287CDD8B43EFFD71CF4113BCA79AA410A/9B746BBCC9A1AED42CC45C62F86C5A8697359C51.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR02059_00": {
+        "npCommunicationId": "NPWR02059_00",
+        "trophyTitleName": "Call of Duty®: Black Ops II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02059_00_00221989F86A5F51895DB2CD91E0FC7C0FCE672A1D/BF57BB5EEF3B7675FBCEE030BFA0699D22599CD9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 77
+        },
+        "service": "trophy"
+    },
+    "NPWR02060_00": {
+        "npCommunicationId": "NPWR02060_00",
+        "trophyTitleName": "Disgaea 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02060_00_006EDDFEA53EE1A394B460E2D85D4868AA470214DC/1466369106EB28F65740A5D8379F588953A6BC65.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR02062_00": {
+        "npCommunicationId": "NPWR02062_00",
+        "trophyTitleName": "Disgaea 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02062_00_00ADC714743E8D969AC50EF6CD1AD71EF10A475C15/61183CA997C9D4EA418767DE1684E216812588DB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR02063_00": {
+        "npCommunicationId": "NPWR02063_00",
+        "trophyTitleName": "魔界戰記ＤＩＳＧＡＥＡ４",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02063_00_00115A1CAB5F8B76A6B327F4DFA390BF1F5DA8C4CF/60CA224152B05F45525B3E776B1DAC4D21CD5E44.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR02064_00": {
+        "npCommunicationId": "NPWR02064_00",
+        "trophyTitleName": "마계전기 DISGAEA4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02064_00_00F905DFBA7D90EF7892E46AC68061C51437AF2EDC/019CD226130735DD58F75F30198BD9C699AF7771.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR02066_00": {
+        "npCommunicationId": "NPWR02066_00",
+        "trophyTitleName": "The Baconing",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02066_00_0044C73C2C042C57E39DD9E758F393F92467D48488/2F5800BFB2C73F26062C9407FC60E9AE3EADAC0C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
