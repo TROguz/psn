@@ -8578,5 +8578,265 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR01321_00": {
+        "npCommunicationId": "NPWR01321_00",
+        "trophyTitleName": "FAMILY GAME NIGHT 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01321_00_00BA1C5E7914AC1F4CC06DA7DBAC0A9CE6539E937D/394AB4D24D00671F5449E1DA69514C74F561FB93.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR01322_00": {
+        "npCommunicationId": "NPWR01322_00",
+        "trophyTitleName": "Blood Drive",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01322_00_0045CD3B272C370AFB730EAA75112C0B6B396C686F/32C519CB3B37CF0DE59902C8461B194EC7E2D739.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR01323_00": {
+        "npCommunicationId": "NPWR01323_00",
+        "trophyTitleName": "Operation Flashpoint®: Red River™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01323_00_0093648F9B743EE4CDF69D1B4DE2E236AF94A70678/BE53EBDAC451310A09AD12F565F86F22C6F4AEB5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 6,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR01325_00": {
+        "npCommunicationId": "NPWR01325_00",
+        "trophyTitleName": "EA SPORTS Active 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01325_00_001D7501D98D6FE6B25A481233F9CD2A8F3E392FBE/406C7E38997CAD3D37159510171576A69EADB341.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR01326_00": {
+        "npCommunicationId": "NPWR01326_00",
+        "trophyTitleName": "Germany's Next Topmodel 2010",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01326_00_006A9C6C6246F18B26861958AE2D29AACDD171D1B5/9A768DC1490EFB33214A1AA994C4DA46AE1A567C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01327_00": {
+        "npCommunicationId": "NPWR01327_00",
+        "trophyTitleName": "Tales of Monkey Island - Chapter 1: Launch of the Screaming Narwhal",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01327_00_00AF210C810838A01395AA00E2EE5285726650296B/EE96DCE85AA4BE1BEA4AD3F7DE12E476A8DA2F4B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR01328_00": {
+        "npCommunicationId": "NPWR01328_00",
+        "trophyTitleName": "Tales of Monkey Island - Chapter 2: The Siege of Spinner Cay",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01328_00_007A85D0D56C32C0B65745C0A3A6C209563DACA0CA/2EE0D2E580DA470C630463AE8FDB4EA51CABD8AB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR01329_00": {
+        "npCommunicationId": "NPWR01329_00",
+        "trophyTitleName": "Tales of Monkey Island - Chapter 3: Lair of the Leviathan",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01329_00_00C2ABB13D0A9F768077846FDFD1B8DD4FB60ACCE7/2E95EC9B0D18CCAC8D658DD571B3459EF633A638.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR01330_00": {
+        "npCommunicationId": "NPWR01330_00",
+        "trophyTitleName": "Tales of Monkey Island - Chapter 4: The Trial and Execution of Guybrush Threepwood",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01330_00_00DAA9A4CA97B5442E9F9F3A0885C0533B14B7AC03/D0B91DB040757EC0A163489C935D4D9450BABEE9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR01331_00": {
+        "npCommunicationId": "NPWR01331_00",
+        "trophyTitleName": "Tales of Monkey Island - Episode 5: Rise of the Pirate God",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01331_00_00092AAA74172B77DFDB302F90054A54AE55F9FCDD/D0BC12F0B3322D04941D215A45E6F09BF550098F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR01333_00": {
+        "npCommunicationId": "NPWR01333_00",
+        "trophyTitleName": "Fairytale Fights™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01333_00_00800370CF4BE22A619BCD97B71FC31F715E1F02E7/B49C265F9DC3F40DD377C2F6AB5A1B8B230DBD78.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 4,
+            "silver": 3,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR01334_00": {
+        "npCommunicationId": "NPWR01334_00",
+        "trophyTitleName": "ELEMENTAL MONSTER -ONLINE CARD GAME-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01334_00_00AA6E08C4C8E38CFE06312E9A883819215F197C2E/5FE09780466E1685730575063F3F79EDA291702F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 6,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR01335_00": {
+        "npCommunicationId": "NPWR01335_00",
+        "trophyTitleName": "SHIFT 2 UNLEASHED™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01335_00_000414AECC5E1C4BE43EB78AC35B4E5F55C2F1FCA4/586FF6327882A40BDCB9C5B784E63787ADDAF4EA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 16,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR01339_00": {
+        "npCommunicationId": "NPWR01339_00",
+        "trophyTitleName": "Red Faction: Armageddon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01339_00_000B110B3FCA6A40B2A166943C3B32EA77AEF7B836/D9D5BD751717CF46CC24B00882E946447F772019.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR01340_00": {
+        "npCommunicationId": "NPWR01340_00",
+        "trophyTitleName": "PDC World Championship Darts: Pro Tour",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01340_00_0046E31359E795D3458405D8DF2F60AE17E21A8236/D0271B30142A4E6FE459D4D7D8001D7017594925.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR01341_00": {
+        "npCommunicationId": "NPWR01341_00",
+        "trophyTitleName": "Sly Minigames",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01341_00_00DEB7843DD1F6A06DEF95DCF7DFD8AD3D1DB935E1/CD7640E8933F217F27E74343350029DFDEFC383A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR01342_00": {
+        "npCommunicationId": "NPWR01342_00",
+        "trophyTitleName": "Greg Hastings Paintball 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/9C330FA9890FBB0B8038D0D253AD42441CE4C73A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR01344_00": {
+        "npCommunicationId": "NPWR01344_00",
+        "trophyTitleName": "TOKYO JUNGLE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01344_00_00A18322F7F1E8A36CB2D5CC24FCAD76E58E93646B/9F15E036D50FCDD18D4C3AEB656B9B55912C4B05.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR01345_00": {
+        "npCommunicationId": "NPWR01345_00",
+        "trophyTitleName": "Obut Pétanque",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01345_00_00916F2A1ED34B13A9EF4E398C1B55BD25421AA7A9/DC29D1E3C60116DD9A73A4510DA7254DB43B9B46.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR01346_00": {
+        "npCommunicationId": "NPWR01346_00",
+        "trophyTitleName": "NBA JAM",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01346_00_00CABA3E945673ECE909F0854B4E799E85E3639D20/37FBB7DC5DF9E6A9596CA0E26DDFD5B995154662.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
     }
 }
