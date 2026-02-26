@@ -4678,5 +4678,135 @@
             "bronze": 42
         },
         "service": "trophy"
+    },
+    "NPWR00821_00": {
+        "npCommunicationId": "NPWR00821_00",
+        "trophyTitleName": "DeathSpank",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00821_00_004E738073BA3F39C2D3C83F0048E88278CD0CE6AD/7E56218D96CB60F377F2A1667140C176643A4F1D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00822_00": {
+        "npCommunicationId": "NPWR00822_00",
+        "trophyTitleName": "Premier Manager",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00822_00_00A0FB6FF325C8488497604B8DC03253F6EDF9D1D4/6049648B3BFAC9162A1274D0D0A055C42A26F2B9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR00823_00": {
+        "npCommunicationId": "NPWR00823_00",
+        "trophyTitleName": "Operation Flashpoint®: Dragon Rising™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00823_00_00FBDE55EFADE97F2F31D9B16ADEDAF76D1FB27913/4886574F5354C341CE049C8E9E6A4AFA1FB1F77A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 19,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR00825_00": {
+        "npCommunicationId": "NPWR00825_00",
+        "trophyTitleName": "The Saboteur",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00825_00_0050737F50A8F9DD71CB79B049663B3289AF8DE0C6/7D6B5AF83F90C61C5735979A7E6B1A9CB1E5B24B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR00826_00": {
+        "npCommunicationId": "NPWR00826_00",
+        "trophyTitleName": "F1 2010™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00826_00_000E35B8DB457BCF4D7245332604E4C5B3744719AA/2ADB39001BA2BB2675BC1F21ADC01AE3E5EBC6C1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR00827_00": {
+        "npCommunicationId": "NPWR00827_00",
+        "trophyTitleName": "Disgaea 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00827_00_00DC2D10465F6ACB182CFDCE2DADE1DFD9E564B569/0B72D8301AC3CDE8A1B0DA6A06859E26D25DFC89.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR00829_00": {
+        "npCommunicationId": "NPWR00829_00",
+        "trophyTitleName": "Heavy Weapon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00829_00_00387BF70790BFA020816E3A38106C43877F598ED8/71DE7DB0B5AA346370179C1742CE07A0D6C32D19.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR00830_00": {
+        "npCommunicationId": "NPWR00830_00",
+        "trophyTitleName": "RAGE®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00830_00_00BF1A76DB265ADCA6DB4ABA10032A7C7FA8C42AE7/8E53DD313250C6EF5970AA6AF62EEA3257A1623D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 47
+        },
+        "service": "trophy"
+    },
+    "NPWR00832_00": {
+        "npCommunicationId": "NPWR00832_00",
+        "trophyTitleName": "１００円ゴミ箱\nトロフィーセット",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00832_00_005D117DAB51F683DFBC582E338ADF99041EA91BFC/81660973144168ED89541B6E83F1ACCC5942A6E1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR00837_00": {
+        "npCommunicationId": "NPWR00837_00",
+        "trophyTitleName": "Groovin' Blocks",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00837_00_0060FF7001C39FC9B88BB5E29BF76C149EC15945A6/CF4BA9655BDCD8C6BD27B4571FD1B2DB153A8DF7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
     }
 }
