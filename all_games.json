@@ -13128,5 +13128,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR01830_00": {
+        "npCommunicationId": "NPWR01830_00",
+        "trophyTitleName": "みんなのGOLF 6",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01830_00_00FD358FF9F2947535FC5C83F8C68B1ACB9E549DD5/33DB0DE90A9077945C969C13CFF08B357A8EBD76.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR01831_00": {
+        "npCommunicationId": "NPWR01831_00",
+        "trophyTitleName": "LEGO® Pirates of the Caribbean The Video Game",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01831_00_00EE862AA22064C995A47BFDAF03EFE39949A239B3/6608DD3DE48E7C669BE1F11D8A9FB36DC28E727C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR01832_00": {
+        "npCommunicationId": "NPWR01832_00",
+        "trophyTitleName": "Apples to Apples™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01832_00_0046B927CC49902CB0D0AE59EFB16FBA193B19486D/E0BFA2FCE4D9673AEAA612E3364929B22821A419.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01834_00": {
+        "npCommunicationId": "NPWR01834_00",
+        "trophyTitleName": "SBK®2011 FIM Superbike World Championship",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01834_00_009573AC884D5A7228ACA93C078130A959F8556810/98300F5CC9BA8F82C72D4A3C3946D782D071FB6C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR01835_00": {
+        "npCommunicationId": "NPWR01835_00",
+        "trophyTitleName": "Need for Speed™ The Run",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01835_00_00FD64AD95A40173CCAB15C2E5DE7CE3FCCD8F0779/A3A5DC25F5D572484BC0A72B4BC5C942693D63A6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 30,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR01838_00": {
+        "npCommunicationId": "NPWR01838_00",
+        "trophyTitleName": "Ugly Americans",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01838_00_00C1FFD43EB62D2AE5E523BB69C904ABDCCF9000E3/AEC912E20E1524D7FAA9B7514AB2B33F7B54F017.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01839_00": {
+        "npCommunicationId": "NPWR01839_00",
+        "trophyTitleName": "Shadows of the Damned™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01839_00_00594E965C2C467FB2DD73357D0266F6764B2FE261/EDBA4BACAA708610454B129E42ED9EE4F597AD23.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR01840_00": {
+        "npCommunicationId": "NPWR01840_00",
+        "trophyTitleName": "Shadows of the Damned™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01840_00_0039CA8FDD870E9777C7F0117CE31B5457B0888ECD/23442698DD8724793BF8268E4566FF53A3B657A1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR01841_00": {
+        "npCommunicationId": "NPWR01841_00",
+        "trophyTitleName": "Resistance 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01841_00_001EACAD3FF5694786D9B1817B304D47512C33D519/44A4E5D0FAAF136648D0E346FA148747A08B4139.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 53
+        },
+        "service": "trophy"
+    },
+    "NPWR01843_00": {
+        "npCommunicationId": "NPWR01843_00",
+        "trophyTitleName": "Wonder Boy in Monster Land",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01843_00_00A8377EDC3C4A6CC04E65CDEBFF36D204E20D971F/9F3092463719F24BDB31015B9C165928D89EC5AE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
     }
 }
