@@ -102,5 +102,18 @@
             "bronze": 14
         },
         "service": "trophy"
+    },
+    "NPWR00071_00": {
+        "npCommunicationId": "NPWR00071_00",
+        "trophyTitleName": "flOw trophy set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00071_00_00DA34B9187CAEB021769C92798AB5ACAF11C8E64C/233283F1AE8525F13A8DA7A79D89CE72F4EB5C76.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
