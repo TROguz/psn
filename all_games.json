@@ -13648,5 +13648,135 @@
             "bronze": 41
         },
         "service": "trophy"
+    },
+    "NPWR01887_00": {
+        "npCommunicationId": "NPWR01887_00",
+        "trophyTitleName": "Major League Baseball 2K11",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01887_00_0071D132CFEEAD662D92A6127F45F5AA1EC8486A81/D7359CFDEF5CEFE7492EE117E1FAF5DDCC726271.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR01888_00": {
+        "npCommunicationId": "NPWR01888_00",
+        "trophyTitleName": "Sacred 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01888_00_003E69DEBD60164511586D65D5B08E9AFA78C9DF08/51850867322017F5D4149EBBC0C7124AF549A146.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR01891_00": {
+        "npCommunicationId": "NPWR01891_00",
+        "trophyTitleName": "Snipers - Invisible, Silent, Deadly",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01891_00_00D8934B86318B473BBE348A46778B228761419722/5B374E82836D980DE0A32F9E80961DCEF8C04440.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR01894_00": {
+        "npCommunicationId": "NPWR01894_00",
+        "trophyTitleName": "Major League Baseball 2K11",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01894_00_0061CC711C38267F48BD7712DA942E7A504AAE5B29/D5850B47A29C9C241E2C4D2A3467996A06F2A445.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR01895_00": {
+        "npCommunicationId": "NPWR01895_00",
+        "trophyTitleName": "Move Fitness™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01895_00_00DFA1EDA869E4C0C0750991818B2270BA15A03D8A/4800698C2EC8756322D7CA374301A96FE8E8C78E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR01897_00": {
+        "npCommunicationId": "NPWR01897_00",
+        "trophyTitleName": "F1 2011™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01897_00_000FF5DC95D00D8148D45ED05854305F3E480DA772/97011818C67E6388D9B19E5878A340BE3B47B414.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR01898_00": {
+        "npCommunicationId": "NPWR01898_00",
+        "trophyTitleName": "PixelJunk™ SideScroller",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01898_00_003F7AD2FB2051F112662452E3DE2E631FFE9A21EB/613D959551C53B7D1007659560B93CAC9E145884.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR01899_00": {
+        "npCommunicationId": "NPWR01899_00",
+        "trophyTitleName": "Spider-Man™: Edge of Time",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01899_00_0058B7FDEDBCE2430421EDE386AE82D53D829988A6/425F8010C03F8DC80A3E164ED59EFC280C43E17B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR01901_00": {
+        "npCommunicationId": "NPWR01901_00",
+        "trophyTitleName": "メルルのアトリエ　～アーランドの錬金術士３～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01901_00_002483B5050D09C064072ED2E2E67B8D7448A75ED5/CB13132D3EA38D9DA15748DA01B04937A108E427.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 5,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR01902_00": {
+        "npCommunicationId": "NPWR01902_00",
+        "trophyTitleName": "激アツ!! パチゲー魂 VOL 2 「ヱヴァンゲリヲン～真実の翼～」",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01902_00_005B408238D8EDB0DD238E6AB5905F328CED0B2450/3E8C6A40ED476E7AC1201FEB45BBAE6256AB482C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 30
+        },
+        "service": "trophy"
     }
 }
