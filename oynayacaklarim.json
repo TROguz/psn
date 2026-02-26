@@ -609,5 +609,18 @@
             "bronze": 34
         },
         "service": "trophy"
+    },
+    "NPWR20181_00": {
+        "npCommunicationId": "NPWR20181_00",
+        "trophyTitleName": "Metamorphosis",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20181_00_003AA32540C3909CE778959534284F7933A74C2D05/B743D7333398AE13A16EFFA8AA7CEB63666AE8AC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
