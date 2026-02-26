@@ -3768,5 +3768,135 @@
             "bronze": 17
         },
         "service": "trophy"
+    },
+    "NPWR00717_00": {
+        "npCommunicationId": "NPWR00717_00",
+        "trophyTitleName": "ティアーズ・トゥ・ティアラ 外伝 アヴァロンの謎",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00717_00_0013579CC59BE0F1170499C573100BF74651394D71/9A573166BBA583065DD71805B2BACB262C52C312.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR00718_00": {
+        "npCommunicationId": "NPWR00718_00",
+        "trophyTitleName": "Tank Battles",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00718_00_00C49E7D20C88A5B49F25AE7BD4AACEBF0A63D75E9/F59A1079878283DFDDC612F08C55A033B997F62B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR00719_00": {
+        "npCommunicationId": "NPWR00719_00",
+        "trophyTitleName": "Greed Corp",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00719_00_000AAB88352FBE2B35E32222614536811FED131916/F21355227FB7A9D69DB816413F96E25ADE0FF542.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00720_00": {
+        "npCommunicationId": "NPWR00720_00",
+        "trophyTitleName": "Dynasty Warriors 6 Empires",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00720_00_00F47267228F3EB6BDFD64E15599756E6E22614827/EE8241493A879FA66442D487CFC71888DC63B4A9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR00721_00": {
+        "npCommunicationId": "NPWR00721_00",
+        "trophyTitleName": "G.I. JOE™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/DBF0E08C94314A7279F183E072D6F79F6319FCE2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR00722_00": {
+        "npCommunicationId": "NPWR00722_00",
+        "trophyTitleName": "BioShock 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00722_00_00B3CA5BF49FB5DB446873895120A23CE3593F3297/A74069E8C6DE9AB7848FE3D19D3A93DCAB38A112.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 18,
+            "bronze": 47
+        },
+        "service": "trophy"
+    },
+    "NPWR00723_00": {
+        "npCommunicationId": "NPWR00723_00",
+        "trophyTitleName": "The Last Guy BD ver.",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00723_00_00A6A771116955896FFA71CEB8611E52FF30F5A3A4/63F07988F3A89EDA51ED45E5B95A6280F344D1FF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR00725_00": {
+        "npCommunicationId": "NPWR00725_00",
+        "trophyTitleName": "Rock Band Country Track Pack",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00725_00_00A4A1CD48E1196054FDD9E6E15504C77E0F3332B6/053BEBF2E93D4546DBC184A018B099A46E200540.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 7,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR00726_00": {
+        "npCommunicationId": "NPWR00726_00",
+        "trophyTitleName": "Alien Breed: Impact",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00726_00_0027EF00E9395FD7E42A730F9075F4BB8C151FFACE/D50B5576B5D278B7D134B6A6E7B01BE67F4E04FD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR00727_00": {
+        "npCommunicationId": "NPWR00727_00",
+        "trophyTitleName": "Shatter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00727_00_00525293558BA56ECFF664813750DBC55FDF6175AF/F69B4899606786F3FDAEB3C10757D8DF250B99F1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 15
+        },
+        "service": "trophy"
     }
 }
