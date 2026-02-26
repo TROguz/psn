@@ -13388,5 +13388,135 @@
             "bronze": 20
         },
         "service": "trophy"
+    },
+    "NPWR01859_00": {
+        "npCommunicationId": "NPWR01859_00",
+        "trophyTitleName": "BlazeRush",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01859_00_00CFECE7984C64B9391F870DDCCD11B3127950899F/70DB281CDEF6601DCCCF98A44D005FB9A22F7853.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR01860_00": {
+        "npCommunicationId": "NPWR01860_00",
+        "trophyTitleName": "信長の野望･天道 with パワーアップキット",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01860_00_0001EE99BBD9A66F08BE74C24454F69C337E8794EA/B9E78BFCF323D38D829F3BA38A162E046DA3FA2D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 20,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR01861_00": {
+        "npCommunicationId": "NPWR01861_00",
+        "trophyTitleName": "Rotastic",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01861_00_00F6023872D699B779FF820DDACD65D755D995C6E1/3F637B123AEA195F9116BFB32AB43C1385E3DBE0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR01862_00": {
+        "npCommunicationId": "NPWR01862_00",
+        "trophyTitleName": "Harry Potter and the Deathly Hallows™ - Part 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01862_00_0020068B955EF09DFCFEFC5970CA81C032539A086F/6DA2647BEEB3BD719DD59A7A1EBF3E6F742388C6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR01863_00": {
+        "npCommunicationId": "NPWR01863_00",
+        "trophyTitleName": "Call of Juarez®: The Cartel",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01863_00_008546E849F05AA4622D14E1823848348A4F149A5F/94F748160FF774D0FC77558CCEDEB0F2F66C76B9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR01864_00": {
+        "npCommunicationId": "NPWR01864_00",
+        "trophyTitleName": "[PROTOTYPE®2]",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01864_00_0084AAF81BC1C3A65A040BE93CDD9D86C4E32227FD/D4526B2BC598D1FF9E85B6F37B5FCB366C2C9376.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 15,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR01865_00": {
+        "npCommunicationId": "NPWR01865_00",
+        "trophyTitleName": "The Cursed Crusade - Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01865_00_000E846B4B027B34FEA5D09E1D04FED55AB0745DC3/F1D33D224155833BC1B990276C74D6BEB59E3467.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR01866_00": {
+        "npCommunicationId": "NPWR01866_00",
+        "trophyTitleName": "The Cursed Crusade - Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01866_00_00B6ABC5DFD70D6A018631B877EEC8C7B643F49219/C9344DC71937CD2F32CFEFCF6037EC7F4E74FF3E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR01867_00": {
+        "npCommunicationId": "NPWR01867_00",
+        "trophyTitleName": "The Cursed Crusade - Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01867_00_009B81FB70DBDC7589B9C0A45FBA0C9E9F7C3AE773/FF46EB0939AAE49C8F846B861826F47720A302BF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR01868_00": {
+        "npCommunicationId": "NPWR01868_00",
+        "trophyTitleName": "GoldenEye 007™: Reloaded",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR01868_00_008BBBE0FD4E6D5A0D124CA063A869FA2295C2071B/79A54492F9FF66F176343964E9622C5C7DAD3D70.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
     }
 }
