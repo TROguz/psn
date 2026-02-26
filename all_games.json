@@ -14688,5 +14688,135 @@
             "bronze": 36
         },
         "service": "trophy"
+    },
+    "NPWR02153_00": {
+        "npCommunicationId": "NPWR02153_00",
+        "trophyTitleName": "Ben 10™ Galactic Racing",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02153_00_0085C5EEB64C82765DE39D606650334F3291F8DBA3/B5645E20B8666EC799D61A114DD872487F9D96A5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR02155_00": {
+        "npCommunicationId": "NPWR02155_00",
+        "trophyTitleName": "Uncharted: Golden Abyss™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02155_00_00EE889CBF6DBEE743148F4F5F0ACFE7FF6E71FCE2/59510BA7DF2599CBF10BEFDCEEC0680C51EA96F9.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR02156_00": {
+        "npCommunicationId": "NPWR02156_00",
+        "trophyTitleName": "DUNAMIS15",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02156_00_0041D8988E0FB80AE398B37BF4CDD6086808E477D3/D101BFB1DFF064AAB591E10D9606B0137C62A7C7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR02157_00": {
+        "npCommunicationId": "NPWR02157_00",
+        "trophyTitleName": "Hyperdimension Neptune mk2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02157_00_00C677629EA254306CF4E572BCC445B929F986D2EF/2121872C6CA6AA83292BC737C68282B0719CB68B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR02159_00": {
+        "npCommunicationId": "NPWR02159_00",
+        "trophyTitleName": "LEGO® Harry Potter™: Years 5-7",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02159_00_0041D5ADA131F52DABADB9D54956342B38A663F47C/25FA08B0148E7709280B3EF0375846657EC574F9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR02161_00": {
+        "npCommunicationId": "NPWR02161_00",
+        "trophyTitleName": "Cabela's® Survival: Shadows of Katmai",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02161_00_00D668AC46A20D9B8BE0ED40D47EAC962DAF906678/3811697078BB3F2437C938D117F3EA4A6EDABEE6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR02163_00": {
+        "npCommunicationId": "NPWR02163_00",
+        "trophyTitleName": "Resident Evil: Operation Raccoon City",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02163_00_00A012C3DA6C6E59ABF12BC3A7BEB33C4223DCA26D/72DBDEDBBBCAE9FAB2ED394369AD9688ED7C4CD7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 52
+        },
+        "service": "trophy"
+    },
+    "NPWR02166_00": {
+        "npCommunicationId": "NPWR02166_00",
+        "trophyTitleName": "Shoot Many Robots",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02166_00_00E6663BA973B6E10FE7566D621050EA39004B4E52/E4DE333B375CD6FAFABFD41E0440217B52C916A3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR02171_00": {
+        "npCommunicationId": "NPWR02171_00",
+        "trophyTitleName": "Family Guy: Back To The Multiverse",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02171_00_003C91EE46E8469906CAD20FDE2BFCC74EBE006DE8/67546D3B8D1C1CAB9796F703A030C247E66303E6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR02172_00": {
+        "npCommunicationId": "NPWR02172_00",
+        "trophyTitleName": "Shank 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02172_00_00F39E33E9B8F5793ADCF060F864AA579C30FC0008/F93346D2F77DD2A944610879FC8BA415E92550C9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
     }
 }
