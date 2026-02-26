@@ -15208,5 +15208,135 @@
             "bronze": 84
         },
         "service": "trophy"
+    },
+    "NPWR02269_00": {
+        "npCommunicationId": "NPWR02269_00",
+        "trophyTitleName": "Premier Manager 2012",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02269_00_0036BAEC7F31F0DD7105FB3B99E00EF05F4B3E24D6/E04C567A47AF0CD617B5BB2ABE3AA6047CDE4962.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR02283_00": {
+        "npCommunicationId": "NPWR02283_00",
+        "trophyTitleName": "WARP™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02283_00_00AE13B58AEC143026898C8CCEFB32A71AE1F399C4/EFEB707B79CD2E4BB9E299D660790E5AB7CAEE42.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 9,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR02284_00": {
+        "npCommunicationId": "NPWR02284_00",
+        "trophyTitleName": "NBA 2K12",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02284_00_0074C5AB313E11185D77EB1D247B3768F319F25F44/181D0FE93026F5A1BCC06B642537FC97AF0C7537.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR02286_00": {
+        "npCommunicationId": "NPWR02286_00",
+        "trophyTitleName": "Cabela's® Big Game Hunter 2012",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02286_00_004A2E14C0C2F6273196EAD86D062700D0F215030C/EFFC53D0051AA36B585F290137091D894FF3E469.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 16,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR02289_00": {
+        "npCommunicationId": "NPWR02289_00",
+        "trophyTitleName": "地獄の軍団",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02289_00_008DEF52D139EE27514294480DECAD31068656D2C2/BAC04F566C33E9B8AE62D0FE5AD4FAEF22A804D4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR02292_00": {
+        "npCommunicationId": "NPWR02292_00",
+        "trophyTitleName": "Oddworld: Stranger's Wrath HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02292_00_007F5AAEDCA485F40FC8AD920BF217EDD0A7007B62/E0F2089E8C45213581C0E38916605DA8A3F30027.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR02293_00": {
+        "npCommunicationId": "NPWR02293_00",
+        "trophyTitleName": "Cabela's® Adventure Camp",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02293_00_00DDDFD413FFB0BF3A70751536F6968FD9D753519B/B1C66311338F058B23C583C2EB5E4E07AF045842.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 17,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR02294_00": {
+        "npCommunicationId": "NPWR02294_00",
+        "trophyTitleName": "Pictionary",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02294_00_00C1393B1B11AF91553C3ABD541EA44DB3A6C00427/EE917FF950A23CE14A4240643B9DD6848DA5E274.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 6,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR02295_00": {
+        "npCommunicationId": "NPWR02295_00",
+        "trophyTitleName": "Marvel Super Hero Squad: Comic Combat",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02295_00_005CFA9347334593F9AEF384A4DC0211A7EB8862CE/22F21000C34A2ACE7C56FAC2CDF4FD9DBC9376E2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR02298_00": {
+        "npCommunicationId": "NPWR02298_00",
+        "trophyTitleName": "Black Knight Sword",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02298_00_00E5B4633927FAE9A9F04387C8C508B714A3DB2E69/43A4D67909BDD8BF341E013E8397DE0D46C912ED.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
