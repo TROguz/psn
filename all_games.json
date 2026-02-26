@@ -3898,5 +3898,135 @@
             "bronze": 15
         },
         "service": "trophy"
+    },
+    "NPWR00729_00": {
+        "npCommunicationId": "NPWR00729_00",
+        "trophyTitleName": "RAYSTORM HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00729_00_00B4C91C9CE48F6723428169BD675B83CC86F2F847/94E4942ADE5A4358D0838D6B63379A60CBA75CC0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00730_00": {
+        "npCommunicationId": "NPWR00730_00",
+        "trophyTitleName": "Peggle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00730_00_0023C33E7C7AE587B363A43D731022DA92D613EB41/D01FCB1F3443EA9E390541AC049F616854C878DA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR00731_00": {
+        "npCommunicationId": "NPWR00731_00",
+        "trophyTitleName": "Death Track: Resurrection",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00731_00_00D038C9A7C8EB5C0783D5B9528105247CF786261F/E37C3194E2B519EA7742B99E0965EA7F28E5BD25.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR00732_00": {
+        "npCommunicationId": "NPWR00732_00",
+        "trophyTitleName": "HISTORY™ Great Battles Medieval",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00732_00_0007EDA420BAAC13F08002AEDA95DB9D4A3E9625AB/3D17987413E4879E00D7379A19963CE92D9FD381.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 16,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR00734_00": {
+        "npCommunicationId": "NPWR00734_00",
+        "trophyTitleName": ".detuned",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00734_00_001B03C014B67025B61766F0C94EFB37F0C91CEC04/F5D3F0921CBD94B79E45797982754FFCFE7FCEB6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR00735_00": {
+        "npCommunicationId": "NPWR00735_00",
+        "trophyTitleName": "葛城ミサト報道計画",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00735_00_00E3F32AB57D6F449BF14AB0AD21502045DC51DE6D/AE8729A590FBCD98FFB7699BC3F3B2D934E02EC1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR00736_00": {
+        "npCommunicationId": "NPWR00736_00",
+        "trophyTitleName": "Madden NFL 10",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00736_00_009AC24409C64FE8B3436C37BF9EA44677B3C86119/37F53F0603201FC318B6C4DDB0DA5F6B6D9B7639.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 16,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR00737_00": {
+        "npCommunicationId": "NPWR00737_00",
+        "trophyTitleName": "Fat Princess",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00737_00_00FA3A73EE3A2DEB2B40BF284C58DE0F58460C3C3F/D823EA0FFFEE6DEF4E8010EA7905C73747197693.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR00739_00": {
+        "npCommunicationId": "NPWR00739_00",
+        "trophyTitleName": "Rock Band Metal Track Pack",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00739_00_005B8B0B5DE83FD4F354C856313AAF69267B7F35FF/C196EE8878B8064DF5A47486BBA838BA6E7E49B2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 7,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR00741_00": {
+        "npCommunicationId": "NPWR00741_00",
+        "trophyTitleName": "R.U.S.E.",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR00741_00_00CD48EAF74BB14B5B7F46A5C7F89F6637517EF267/4647DD69F5FAD3B8F5219700C88646B7D2464F5F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
     }
 }
