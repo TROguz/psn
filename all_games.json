@@ -72018,5 +72018,135 @@
             "bronze": 40
         },
         "service": "trophy"
+    },
+    "NPWR12349_00": {
+        "npCommunicationId": "NPWR12349_00",
+        "trophyTitleName": "KINGDOM HEARTS Birth by Sleep FINAL MIX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12349_00_00BCECEE8FA953782D0C59209162372CE82F683425/A942AFB59B8F51A3F0EC23EFC2DCC9BC9EADB067.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR12350_00": {
+        "npCommunicationId": "NPWR12350_00",
+        "trophyTitleName": "Gang Beasts",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12350_00_001C6CF6BB2E04A34E59C15D745B6A2A9B502BE739/7B9D5238F5D0E4354555FEE830D8F059DAEFBD82.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR12352_00": {
+        "npCommunicationId": "NPWR12352_00",
+        "trophyTitleName": "Double Dragon 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12352_00_0093C33B03B45514F0ACB374426567C60AEC4FAE50/17001E42F6DF4A6036914063CFDB69A6D67849E0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 21,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR12353_00": {
+        "npCommunicationId": "NPWR12353_00",
+        "trophyTitleName": "Deer God",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12353_00_008BF2F35368F5C238A9E0C21155403B49C6E7733E/98DD2579316971846B8055A793F34E0B4BFBE066.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR12357_00": {
+        "npCommunicationId": "NPWR12357_00",
+        "trophyTitleName": "GOD WARS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12357_00_009D91E94B443E88205ABC8A03DE8F803B2BB0804F/AB5836EB153C6AF11DE56AC983E87E50DB0B848E.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR12358_00": {
+        "npCommunicationId": "NPWR12358_00",
+        "trophyTitleName": "GOD WARS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12358_00_000484483ED87730D27B75D9E8A88BC7953ADD11D7/B111B2AAD973AFAD70BE5B18A7866F3DEF200816.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR12359_00": {
+        "npCommunicationId": "NPWR12359_00",
+        "trophyTitleName": "Hyper Light Drifter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12359_00_000F9BFC0CE5CB42A8C87855843D3CD7E83EFDD5F8/C800FBB1096185D8FA3182677BEEB652E9CE718E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 9,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR12362_00": {
+        "npCommunicationId": "NPWR12362_00",
+        "trophyTitleName": "Don't Knock Twice",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12362_00_0053C522EA726AB9B1BD8A454284E44EF7C092382A/15862A13B0A8AF8011567BADAF7881714AAEA218.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 14,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR12363_00": {
+        "npCommunicationId": "NPWR12363_00",
+        "trophyTitleName": "Baboon!®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12363_00_00CE163D5C097013AAFC7192F624CE8AC488961DB0/EB5A83334EB39F7DD2364DA35B21FE242C9DEC30.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR12368_00": {
+        "npCommunicationId": "NPWR12368_00",
+        "trophyTitleName": "Anima: Gate of Memories",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12368_00_008A731903E5148E84892028919AB6A596CE2140E7/352F25FE8E4F7DB7269F44E7179164CBA0FC9661.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
