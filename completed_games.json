@@ -1,10 +1,1102 @@
 {
-    "NPWR43165_00": {
-        "lastTrophyDate": "7 Şubat 2026",
-        "timeTaken": "Tamamlama Süresi: 7 dakika, 39 saniye"
+    "NPWR01654_00": {
+        "lastTrophyDate": "24 Ocak 2026",
+        "timeTaken": "Tamamlama Süresi: 1 hafta, 1 gün"
+    },
+    "NPWR03180_00": {
+        "lastTrophyDate": "17 Ocak 2026",
+        "timeTaken": "Tamamlama Süresi: 3 gün, 4 saat"
+    },
+    "NPWR01810_00": {
+        "lastTrophyDate": "16 Ocak 2026",
+        "timeTaken": "Tamamlama Süresi: 2 hafta, 3 gün"
+    },
+    "NPWR03073_00": {
+        "lastTrophyDate": "13 Ocak 2026",
+        "timeTaken": "Tamamlama Süresi: 6 yıl, 7 ay"
+    },
+    "NPWR26546_00": {
+        "lastTrophyDate": "10 Ocak 2026",
+        "timeTaken": "Tamamlama Süresi: 3 gün, 4 saat"
+    },
+    "NPWR13348_00": {
+        "lastTrophyDate": "5 Ocak 2026",
+        "timeTaken": "Tamamlama Süresi: 5 gün, 13 saat"
+    },
+    "NPWR03814_00": {
+        "lastTrophyDate": "29 Aralık 2025",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 23 saat"
+    },
+    "NPWR00328_00": {
+        "lastTrophyDate": "27 Aralık 2025",
+        "timeTaken": "Tamamlama Süresi: 1 hafta, 2 gün"
+    },
+    "NPWR20188_00": {
+        "lastTrophyDate": "27 Aralık 2025",
+        "timeTaken": "Tamamlama Süresi: 14 saat, 18 dakika"
+    },
+    "NPWR06685_00": {
+        "lastTrophyDate": "25 Aralık 2025",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 3 saat"
+    },
+    "NPWR38194_00": {
+        "lastTrophyDate": "22 Aralık 2025",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 21 saat"
+    },
+    "NPWR01359_00": {
+        "lastTrophyDate": "17 Aralık 2025",
+        "timeTaken": "Tamamlama Süresi: 2 gün, 18 saat"
+    },
+    "NPWR10029_00": {
+        "lastTrophyDate": "14 Aralık 2025",
+        "timeTaken": "Tamamlama Süresi: 2 gün, 3 saat"
+    },
+    "NPWR24058_00": {
+        "lastTrophyDate": "12 Aralık 2025",
+        "timeTaken": "Tamamlama Süresi: 4 gün, 2 saat"
+    },
+    "NPWR00867_00": {
+        "lastTrophyDate": "11 Aralık 2025",
+        "timeTaken": "Tamamlama Süresi: 1 hafta, 3 gün"
+    },
+    "NPWR21460_00": {
+        "lastTrophyDate": "8 Aralık 2025",
+        "timeTaken": "Tamamlama Süresi: 3 hafta, 5 gün"
+    },
+    "NPWR00986_00": {
+        "lastTrophyDate": "30 Kasım 2025",
+        "timeTaken": "Tamamlama Süresi: 2 gün, 20 saat"
+    },
+    "NPWR03297_00": {
+        "lastTrophyDate": "27 Kasım 2025",
+        "timeTaken": "Tamamlama Süresi: 7 yıl, 2 ay"
+    },
+    "NPWR02376_00": {
+        "lastTrophyDate": "25 Kasım 2025",
+        "timeTaken": "Tamamlama Süresi: 3 gün, 10 saat"
+    },
+    "NPWR00773_00": {
+        "lastTrophyDate": "21 Kasım 2025",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 4 saat"
+    },
+    "NPWR00482_00": {
+        "lastTrophyDate": "20 Kasım 2025",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 19 saat"
+    },
+    "NPWR05751_00": {
+        "lastTrophyDate": "18 Kasım 2025",
+        "timeTaken": "Tamamlama Süresi: 3 gün, 22 saat"
+    },
+    "NPWR00501_00": {
+        "lastTrophyDate": "17 Kasım 2025",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 22 saat"
+    },
+    "NPWR01275_00": {
+        "lastTrophyDate": "14 Kasım 2025",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 2 saat"
+    },
+    "NPWR04072_00": {
+        "lastTrophyDate": "13 Kasım 2025",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 19 saat"
+    },
+    "NPWR00331_00": {
+        "lastTrophyDate": "11 Kasım 2025",
+        "timeTaken": "Tamamlama Süresi: 3 yıl, 2 ay"
+    },
+    "NPWR04728_00": {
+        "lastTrophyDate": "9 Kasım 2025",
+        "timeTaken": "Tamamlama Süresi: 17 saat, 17 dakika"
+    },
+    "NPWR19040_00": {
+        "lastTrophyDate": "8 Kasım 2025",
+        "timeTaken": "Tamamlama Süresi: 1 saat, 30 dakika"
+    },
+    "NPWR19039_00": {
+        "lastTrophyDate": "8 Kasım 2025",
+        "timeTaken": "Tamamlama Süresi: 1 saat, 40 dakika"
+    },
+    "NPWR04656_00": {
+        "lastTrophyDate": "8 Kasım 2025",
+        "timeTaken": "Tamamlama Süresi: 1 hafta, 3 gün"
+    },
+    "NPWR04437_00": {
+        "lastTrophyDate": "8 Kasım 2025",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 30 dakika"
+    },
+    "NPWR43318_00": {
+        "lastTrophyDate": "7 Kasım 2025",
+        "timeTaken": "Tamamlama Süresi: 2 gün, 13 saat"
+    },
+    "NPWR01490_00": {
+        "lastTrophyDate": "5 Kasım 2025",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 23 saat"
+    },
+    "NPWR01341_00": {
+        "lastTrophyDate": "3 Kasım 2025",
+        "timeTaken": "Tamamlama Süresi: 12 dakika, 45 saniye"
+    },
+    "NPWR01433_00": {
+        "lastTrophyDate": "3 Kasım 2025",
+        "timeTaken": "Tamamlama Süresi: 20 saat, 34 dakika"
+    },
+    "NPWR04436_00": {
+        "lastTrophyDate": "2 Kasım 2025",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 2 saat"
+    },
+    "NPWR43316_00": {
+        "lastTrophyDate": "1 Kasım 2025",
+        "timeTaken": "Tamamlama Süresi: 1 hafta, 4 gün"
+    },
+    "NPWR00499_00": {
+        "lastTrophyDate": "29 Ekim 2025",
+        "timeTaken": "Tamamlama Süresi: 2 gün, 11 saat"
+    },
+    "NPWR04671_00": {
+        "lastTrophyDate": "27 Ekim 2025",
+        "timeTaken": "Tamamlama Süresi: 3 gün, 16 saat"
+    },
+    "NPWR06542_00": {
+        "lastTrophyDate": "23 Ekim 2025",
+        "timeTaken": "Tamamlama Süresi: 1 ay, 1 hafta"
+    },
+    "NPWR04435_00": {
+        "lastTrophyDate": "23 Ekim 2025",
+        "timeTaken": "Tamamlama Süresi: 9 saat, 24 dakika"
+    },
+    "NPWR01435_00": {
+        "lastTrophyDate": "22 Ekim 2025",
+        "timeTaken": "Tamamlama Süresi: 19 saat, 16 dakika"
+    },
+    "NPWR05049_00": {
+        "lastTrophyDate": "21 Ekim 2025",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 7 saat"
+    },
+    "NPWR00703_00": {
+        "lastTrophyDate": "20 Ekim 2025",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 11 saat"
+    },
+    "NPWR24771_00": {
+        "lastTrophyDate": "20 Ekim 2025",
+        "timeTaken": "Tamamlama Süresi: 3 gün, 15 saat"
+    },
+    "NPWR00512_00": {
+        "lastTrophyDate": "18 Ekim 2025",
+        "timeTaken": "Tamamlama Süresi: 3 gün, 3 saat"
+    },
+    "NPWR20004_00": {
+        "lastTrophyDate": "15 Ekim 2025",
+        "timeTaken": "Tamamlama Süresi: 2 hafta, 4 gün"
+    },
+    "NPWR00817_00": {
+        "lastTrophyDate": "15 Ekim 2025",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 15 saat"
+    },
+    "NPWR03936_00": {
+        "lastTrophyDate": "13 Ekim 2025",
+        "timeTaken": "Tamamlama Süresi: 2 gün, 3 saat"
+    },
+    "NPWR03983_00": {
+        "lastTrophyDate": "13 Ekim 2025",
+        "timeTaken": "Tamamlama Süresi: 3 gün, 10 saat"
+    },
+    "NPWR02751_00": {
+        "lastTrophyDate": "9 Ekim 2025",
+        "timeTaken": "Tamamlama Süresi: 11 saat, 47 dakika"
+    },
+    "NPWR05703_00": {
+        "lastTrophyDate": "8 Ekim 2025",
+        "timeTaken": "Tamamlama Süresi: 11 saat, 47 dakika"
+    },
+    "NPWR05342_00": {
+        "lastTrophyDate": "7 Ekim 2025",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 3 saat"
+    },
+    "NPWR04418_00": {
+        "lastTrophyDate": "6 Ekim 2025",
+        "timeTaken": "Tamamlama Süresi: 14 saat, 32 dakika"
+    },
+    "NPWR00715_00": {
+        "lastTrophyDate": "5 Ekim 2025",
+        "timeTaken": "Tamamlama Süresi: 20 saat, 1 dakika"
+    },
+    "NPWR11244_00": {
+        "lastTrophyDate": "4 Ekim 2025",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 12 saat"
+    },
+    "NPWR34041_00": {
+        "lastTrophyDate": "3 Ekim 2025",
+        "timeTaken": "Tamamlama Süresi: 6 saat, 32 dakika"
+    },
+    "NPWR03959_00": {
+        "lastTrophyDate": "3 Ekim 2025",
+        "timeTaken": "Tamamlama Süresi: 1 saat, 52 dakika"
+    },
+    "NPWR05863_00": {
+        "lastTrophyDate": "2 Ekim 2025",
+        "timeTaken": "Tamamlama Süresi: 6 saat, 57 dakika"
+    },
+    "NPWR00714_00": {
+        "lastTrophyDate": "2 Ekim 2025",
+        "timeTaken": "Tamamlama Süresi: 5 saat"
+    },
+    "NPWR00621_00": {
+        "lastTrophyDate": "2 Ekim 2025",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 12 saat"
+    },
+    "NPWR02081_00": {
+        "lastTrophyDate": "30 Eylül 2025",
+        "timeTaken": "Tamamlama Süresi: 3 saat, 37 dakika"
+    },
+    "NPWR04612_00": {
+        "lastTrophyDate": "30 Eylül 2025",
+        "timeTaken": "Tamamlama Süresi: 11 saat, 50 dakika"
+    },
+    "NPWR02044_00": {
+        "lastTrophyDate": "29 Eylül 2025",
+        "timeTaken": "Tamamlama Süresi: 3 saat, 7 dakika"
+    },
+    "NPWR00805_00": {
+        "lastTrophyDate": "29 Eylül 2025",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 8 saat"
+    },
+    "NPWR02108_00": {
+        "lastTrophyDate": "26 Eylül 2025",
+        "timeTaken": "Tamamlama Süresi: 5 saat, 13 dakika"
+    },
+    "NPWR01785_00": {
+        "lastTrophyDate": "26 Eylül 2025",
+        "timeTaken": "Tamamlama Süresi: 2 gün, 6 saat"
+    },
+    "NPWR01745_00": {
+        "lastTrophyDate": "25 Eylül 2025",
+        "timeTaken": "Tamamlama Süresi: 2 saat, 14 dakika"
+    },
+    "NPWR01744_00": {
+        "lastTrophyDate": "25 Eylül 2025",
+        "timeTaken": "Tamamlama Süresi: 1 saat, 47 dakika"
+    },
+    "NPWR01743_00": {
+        "lastTrophyDate": "25 Eylül 2025",
+        "timeTaken": "Tamamlama Süresi: 1 saat, 35 dakika"
+    },
+    "NPWR01742_00": {
+        "lastTrophyDate": "25 Eylül 2025",
+        "timeTaken": "Tamamlama Süresi: 1 saat, 41 dakika"
+    },
+    "NPWR01741_00": {
+        "lastTrophyDate": "25 Eylül 2025",
+        "timeTaken": "Tamamlama Süresi: 2 saat, 31 dakika"
+    },
+    "NPWR01539_00": {
+        "lastTrophyDate": "24 Eylül 2025",
+        "timeTaken": "Tamamlama Süresi: 2 saat, 24 dakika"
+    },
+    "NPWR03885_00": {
+        "lastTrophyDate": "24 Eylül 2025",
+        "timeTaken": "Tamamlama Süresi: 9 yıl, 3 ay"
+    },
+    "NPWR03961_00": {
+        "lastTrophyDate": "22 Eylül 2025",
+        "timeTaken": "Tamamlama Süresi: 6 gün, 23 saat"
+    },
+    "NPWR03108_00": {
+        "lastTrophyDate": "22 Eylül 2025",
+        "timeTaken": "Tamamlama Süresi: 1 hafta, 9 saat"
+    },
+    "NPWR01143_00": {
+        "lastTrophyDate": "14 Eylül 2025",
+        "timeTaken": "Tamamlama Süresi: 1 hafta, 2 gün"
+    },
+    "NPWR04720_00": {
+        "lastTrophyDate": "12 Eylül 2025",
+        "timeTaken": "Tamamlama Süresi: 5 gün, 13 saat"
+    },
+    "NPWR01440_00": {
+        "lastTrophyDate": "11 Eylül 2025",
+        "timeTaken": "Tamamlama Süresi: 5 saat, 32 dakika"
+    },
+    "NPWR03522_00": {
+        "lastTrophyDate": "11 Eylül 2025",
+        "timeTaken": "Tamamlama Süresi: 2 yıl, 6 ay"
+    },
+    "NPWR01795_00": {
+        "lastTrophyDate": "10 Eylül 2025",
+        "timeTaken": "Tamamlama Süresi: 8 ay, 3 hafta"
+    },
+    "NPWR01993_00": {
+        "lastTrophyDate": "9 Eylül 2025",
+        "timeTaken": "Tamamlama Süresi: 20 saat, 16 dakika"
+    },
+    "NPWR02872_00": {
+        "lastTrophyDate": "8 Eylül 2025",
+        "timeTaken": "Tamamlama Süresi: 13 saat, 48 dakika"
+    },
+    "NPWR04980_00": {
+        "lastTrophyDate": "7 Eylül 2025",
+        "timeTaken": "Tamamlama Süresi: 3 saat, 38 dakika"
+    },
+    "NPWR08771_00": {
+        "lastTrophyDate": "6 Eylül 2025",
+        "timeTaken": "Tamamlama Süresi: 2 gün, 1 saat"
+    },
+    "NPWR37986_00": {
+        "lastTrophyDate": "6 Eylül 2025",
+        "timeTaken": "Tamamlama Süresi: 3 saat, 22 dakika"
+    },
+    "NPWR38514_00": {
+        "lastTrophyDate": "4 Eylül 2025",
+        "timeTaken": "Tamamlama Süresi: 2 gün, 6 saat"
+    },
+    "NPWR06875_00": {
+        "lastTrophyDate": "2 Eylül 2025",
+        "timeTaken": "Tamamlama Süresi: 11 saat, 1 dakika"
+    },
+    "NPWR24577_00": {
+        "lastTrophyDate": "31 Ağustos 2025",
+        "timeTaken": "Tamamlama Süresi: 3 gün, 11 saat"
+    },
+    "NPWR08609_00": {
+        "lastTrophyDate": "29 Ağustos 2025",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 16 saat"
+    },
+    "NPWR13830_00": {
+        "lastTrophyDate": "26 Ağustos 2025",
+        "timeTaken": "Tamamlama Süresi: 10 saat, 8 dakika"
+    },
+    "NPWR00132_00": {
+        "lastTrophyDate": "25 Ağustos 2025",
+        "timeTaken": "Tamamlama Süresi: 2 hafta, 1 gün"
+    },
+    "NPWR06254_00": {
+        "lastTrophyDate": "19 Ağustos 2025",
+        "timeTaken": "Tamamlama Süresi: 3 gün, 9 saat"
+    },
+    "NPWR04533_00": {
+        "lastTrophyDate": "13 Ağustos 2025",
+        "timeTaken": "Tamamlama Süresi: 22 saat, 53 dakika"
+    },
+    "NPWR20684_00": {
+        "lastTrophyDate": "12 Ağustos 2025",
+        "timeTaken": "Tamamlama Süresi: 2 saniye"
+    },
+    "NPWR19232_00": {
+        "lastTrophyDate": "12 Ağustos 2025",
+        "timeTaken": "Tamamlama Süresi: 3 gün, 19 saat"
+    },
+    "NPWR04948_00": {
+        "lastTrophyDate": "8 Ağustos 2025",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 1 saat"
+    },
+    "NPWR33639_00": {
+        "lastTrophyDate": "7 Ağustos 2025",
+        "timeTaken": "Tamamlama Süresi: 11 dakika, 53 saniye"
+    },
+    "NPWR41113_00": {
+        "lastTrophyDate": "7 Ağustos 2025",
+        "timeTaken": "Tamamlama Süresi: 6 gün, 6 saat"
+    },
+    "NPWR07081_00": {
+        "lastTrophyDate": "7 Ağustos 2025",
+        "timeTaken": "Tamamlama Süresi: 22 saat, 32 dakika"
+    },
+    "NPWR08304_00": {
+        "lastTrophyDate": "30 Temmuz 2025",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 44 dakika"
+    },
+    "NPWR08661_00": {
+        "lastTrophyDate": "28 Temmuz 2025",
+        "timeTaken": "Tamamlama Süresi: 1 hafta, 2 gün"
+    },
+    "NPWR01813_00": {
+        "lastTrophyDate": "27 Temmuz 2025",
+        "timeTaken": "Tamamlama Süresi: 1 hafta, 3 gün"
+    },
+    "NPWR03602_00": {
+        "lastTrophyDate": "17 Temmuz 2025",
+        "timeTaken": "Tamamlama Süresi: 3 gün, 4 saat"
+    },
+    "NPWR18041_00": {
+        "lastTrophyDate": "11 Temmuz 2025",
+        "timeTaken": "Tamamlama Süresi: 3 gün, 5 saat"
+    },
+    "NPWR22835_00": {
+        "lastTrophyDate": "7 Temmuz 2025",
+        "timeTaken": "Tamamlama Süresi: 3 saat, 36 dakika"
+    },
+    "NPWR19405_00": {
+        "lastTrophyDate": "6 Temmuz 2025",
+        "timeTaken": "Tamamlama Süresi: 7 saat, 48 dakika"
+    },
+    "NPWR24587_00": {
+        "lastTrophyDate": "5 Temmuz 2025",
+        "timeTaken": "Tamamlama Süresi: 2 dakika, 25 saniye"
+    },
+    "NPWR17593_00": {
+        "lastTrophyDate": "5 Temmuz 2025",
+        "timeTaken": "Tamamlama Süresi: 1 hafta, 5 gün"
+    },
+    "NPWR01139_00": {
+        "lastTrophyDate": "28 Haziran 2025",
+        "timeTaken": "Tamamlama Süresi: 1 yıl, 7 ay"
+    },
+    "NPWR09049_00": {
+        "lastTrophyDate": "22 Haziran 2025",
+        "timeTaken": "Tamamlama Süresi: 6 yıl, 8 ay"
+    },
+    "NPWR29622_00": {
+        "lastTrophyDate": "22 Haziran 2025",
+        "timeTaken": "Tamamlama Süresi: 11 dakika, 4 saniye"
+    },
+    "NPWR27243_00": {
+        "lastTrophyDate": "22 Haziran 2025",
+        "timeTaken": "Tamamlama Süresi: 3 gün, 17 saat"
+    },
+    "NPWR36103_00": {
+        "lastTrophyDate": "17 Haziran 2025",
+        "timeTaken": "Tamamlama Süresi: 2 gün, 8 saat"
+    },
+    "NPWR14715_00": {
+        "lastTrophyDate": "13 Haziran 2025",
+        "timeTaken": "Tamamlama Süresi: 23 dakika, 16 saniye"
+    },
+    "NPWR11881_00": {
+        "lastTrophyDate": "12 Haziran 2025",
+        "timeTaken": "Tamamlama Süresi: 35 dakika, 38 saniye"
+    },
+    "NPWR06616_00": {
+        "lastTrophyDate": "12 Haziran 2025",
+        "timeTaken": "Tamamlama Süresi: 18 saat, 42 dakika"
+    },
+    "NPWR36610_00": {
+        "lastTrophyDate": "10 Haziran 2025",
+        "timeTaken": "Tamamlama Süresi: 1 saat, 29 dakika"
+    },
+    "NPWR36611_00": {
+        "lastTrophyDate": "10 Haziran 2025",
+        "timeTaken": "Tamamlama Süresi: 2 saat, 57 dakika"
+    },
+    "NPWR23631_00": {
+        "lastTrophyDate": "10 Haziran 2025",
+        "timeTaken": "Tamamlama Süresi: 1 dakika, 38 saniye"
+    },
+    "NPWR18921_00": {
+        "lastTrophyDate": "10 Haziran 2025",
+        "timeTaken": "Tamamlama Süresi: 3 gün, 12 saat"
+    },
+    "NPWR11619_00": {
+        "lastTrophyDate": "6 Haziran 2025",
+        "timeTaken": "Tamamlama Süresi: 3 gün, 14 saat"
+    },
+    "NPWR14916_00": {
+        "lastTrophyDate": "1 Haziran 2025",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 8 saat"
+    },
+    "NPWR09124_00": {
+        "lastTrophyDate": "31 Mayıs 2025",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 14 saat"
+    },
+    "NPWR02824_00": {
+        "lastTrophyDate": "30 Mayıs 2025",
+        "timeTaken": "Tamamlama Süresi: 1 ay, 2 hafta"
+    },
+    "NPWR17473_00": {
+        "lastTrophyDate": "28 Mayıs 2025",
+        "timeTaken": "Tamamlama Süresi: 3 saat, 44 dakika"
+    },
+    "NPWR28277_00": {
+        "lastTrophyDate": "27 Mayıs 2025",
+        "timeTaken": "Tamamlama Süresi: 27 dakika, 45 saniye"
+    },
+    "NPWR26925_00": {
+        "lastTrophyDate": "27 Mayıs 2025",
+        "timeTaken": "Tamamlama Süresi: 42 dakika, 14 saniye"
+    },
+    "NPWR05335_00": {
+        "lastTrophyDate": "26 Mayıs 2025",
+        "timeTaken": "Tamamlama Süresi: 4 gün, 3 saat"
+    },
+    "NPWR05424_00": {
+        "lastTrophyDate": "21 Mayıs 2025",
+        "timeTaken": "Tamamlama Süresi: 1 hafta, 22 saat"
+    },
+    "NPWR21939_00": {
+        "lastTrophyDate": "12 Mayıs 2025",
+        "timeTaken": "Tamamlama Süresi: 2 saat, 51 dakika"
+    },
+    "NPWR21735_00": {
+        "lastTrophyDate": "12 Mayıs 2025",
+        "timeTaken": "Tamamlama Süresi: 9 saat, 59 dakika"
+    },
+    "NPWR20842_00": {
+        "lastTrophyDate": "11 Mayıs 2025",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 15 saat"
+    },
+    "NPWR28517_00": {
+        "lastTrophyDate": "8 Mayıs 2025",
+        "timeTaken": "Tamamlama Süresi: 3 gün, 13 saat"
+    },
+    "NPWR42542_00": {
+        "lastTrophyDate": "3 Mayıs 2025",
+        "timeTaken": "Tamamlama Süresi: 16 saat, 23 dakika"
+    },
+    "NPWR43078_00": {
+        "lastTrophyDate": "1 Mayıs 2025",
+        "timeTaken": "Tamamlama Süresi: 7 saat, 35 dakika"
+    },
+    "NPWR32053_00": {
+        "lastTrophyDate": "1 Mayıs 2025",
+        "timeTaken": "Tamamlama Süresi: 23 saat, 1 dakika"
+    },
+    "NPWR10664_00": {
+        "lastTrophyDate": "28 Nisan 2025",
+        "timeTaken": "Tamamlama Süresi: 5 yıl, 11 ay"
+    },
+    "NPWR11453_00": {
+        "lastTrophyDate": "23 Nisan 2025",
+        "timeTaken": "Tamamlama Süresi: 1 hafta, 2 gün"
+    },
+    "NPWR24467_00": {
+        "lastTrophyDate": "12 Nisan 2025",
+        "timeTaken": "Tamamlama Süresi: 5 saat, 26 dakika"
+    },
+    "NPWR16283_00": {
+        "lastTrophyDate": "12 Nisan 2025",
+        "timeTaken": "Tamamlama Süresi: 8 dakika, 26 saniye"
+    },
+    "NPWR16080_00": {
+        "lastTrophyDate": "12 Nisan 2025",
+        "timeTaken": "Tamamlama Süresi: 10 dakika, 27 saniye"
+    },
+    "NPWR16079_00": {
+        "lastTrophyDate": "11 Nisan 2025",
+        "timeTaken": "Tamamlama Süresi: 18 dakika, 54 saniye"
+    },
+    "NPWR17130_00": {
+        "lastTrophyDate": "11 Nisan 2025",
+        "timeTaken": "Tamamlama Süresi: 4 yıl, 3 ay"
+    },
+    "NPWR21924_00": {
+        "lastTrophyDate": "4 Nisan 2025",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 20 saat"
+    },
+    "NPWR41125_00": {
+        "lastTrophyDate": "2 Nisan 2025",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 10 saat"
+    },
+    "NPWR05458_00": {
+        "lastTrophyDate": "30 Mart 2025",
+        "timeTaken": "Tamamlama Süresi: 3 gün, 21 saat"
+    },
+    "NPWR23617_00": {
+        "lastTrophyDate": "26 Mart 2025",
+        "timeTaken": "Tamamlama Süresi: 11 saat, 20 dakika"
+    },
+    "NPWR09412_00": {
+        "lastTrophyDate": "24 Mart 2025",
+        "timeTaken": "Tamamlama Süresi: 10 ay, 2 gün"
+    },
+    "NPWR24748_00": {
+        "lastTrophyDate": "17 Mart 2025",
+        "timeTaken": "Tamamlama Süresi: Birkaç saniyede"
+    },
+    "NPWR18248_00": {
+        "lastTrophyDate": "17 Mart 2025",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 5 saat"
+    },
+    "NPWR21937_00": {
+        "lastTrophyDate": "3 Mart 2025",
+        "timeTaken": "Tamamlama Süresi: 6 saat, 40 dakika"
+    },
+    "NPWR20127_00": {
+        "lastTrophyDate": "3 Mart 2025",
+        "timeTaken": "Tamamlama Süresi: 10 saat, 40 dakika"
+    },
+    "NPWR20652_00": {
+        "lastTrophyDate": "1 Mart 2025",
+        "timeTaken": "Tamamlama Süresi: 2 hafta, 5 gün"
+    },
+    "NPWR21647_00": {
+        "lastTrophyDate": "20 Şubat 2025",
+        "timeTaken": "Tamamlama Süresi: 1 dakika, 50 saniye"
+    },
+    "NPWR06221_00": {
+        "lastTrophyDate": "20 Şubat 2025",
+        "timeTaken": "Tamamlama Süresi: 8 ay, 1 hafta"
+    },
+    "NPWR16713_00": {
+        "lastTrophyDate": "8 Şubat 2025",
+        "timeTaken": "Tamamlama Süresi: 2 gün, 17 saat"
+    },
+    "NPWR26589_00": {
+        "lastTrophyDate": "4 Şubat 2025",
+        "timeTaken": "Tamamlama Süresi: 6 saat, 49 dakika"
+    },
+    "NPWR13408_00": {
+        "lastTrophyDate": "4 Şubat 2025",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 20 saat"
+    },
+    "NPWR09801_00": {
+        "lastTrophyDate": "2 Şubat 2025",
+        "timeTaken": "Tamamlama Süresi: 6 yıl, 6 ay"
+    },
+    "NPWR09799_00": {
+        "lastTrophyDate": "31 Ocak 2025",
+        "timeTaken": "Tamamlama Süresi: 6 yıl, 5 ay"
+    },
+    "NPWR28818_00": {
+        "lastTrophyDate": "23 Ocak 2025",
+        "timeTaken": "Tamamlama Süresi: 5 saat, 2 dakika"
+    },
+    "NPWR35340_00": {
+        "lastTrophyDate": "23 Ocak 2025",
+        "timeTaken": "Tamamlama Süresi: 7 saat, 30 dakika"
+    },
+    "NPWR28815_00": {
+        "lastTrophyDate": "22 Ocak 2025",
+        "timeTaken": "Tamamlama Süresi: 2 saat, 39 dakika"
+    },
+    "NPWR19406_00": {
+        "lastTrophyDate": "21 Ocak 2025",
+        "timeTaken": "Tamamlama Süresi: 4 saat, 18 dakika"
+    },
+    "NPWR23900_00": {
+        "lastTrophyDate": "20 Ocak 2025",
+        "timeTaken": "Tamamlama Süresi: 1 saat, 50 dakika"
+    },
+    "NPWR08899_00": {
+        "lastTrophyDate": "19 Ocak 2025",
+        "timeTaken": "Tamamlama Süresi: 3 ay, 2 hafta"
+    },
+    "NPWR31616_00": {
+        "lastTrophyDate": "15 Ocak 2025",
+        "timeTaken": "Tamamlama Süresi: 1 saat, 6 dakika"
+    },
+    "NPWR25556_00": {
+        "lastTrophyDate": "15 Ocak 2025",
+        "timeTaken": "Tamamlama Süresi: 1 saat, 45 dakika"
+    },
+    "NPWR16037_00": {
+        "lastTrophyDate": "15 Ocak 2025",
+        "timeTaken": "Tamamlama Süresi: 2 saat, 58 dakika"
+    },
+    "NPWR39610_00": {
+        "lastTrophyDate": "14 Ocak 2025",
+        "timeTaken": "Tamamlama Süresi: 2 saat, 36 dakika"
+    },
+    "NPWR13354_00": {
+        "lastTrophyDate": "13 Ocak 2025",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 13 saat"
+    },
+    "NPWR25089_00": {
+        "lastTrophyDate": "5 Ocak 2025",
+        "timeTaken": "Tamamlama Süresi: 1 saat, 15 dakika"
+    },
+    "NPWR27065_00": {
+        "lastTrophyDate": "5 Ocak 2025",
+        "timeTaken": "Tamamlama Süresi: 1 saat, 17 dakika"
+    },
+    "NPWR08538_00": {
+        "lastTrophyDate": "3 Ocak 2025",
+        "timeTaken": "Tamamlama Süresi: 6 yıl, 2 ay"
+    },
+    "NPWR30123_00": {
+        "lastTrophyDate": "15 Aralık 2024",
+        "timeTaken": "Tamamlama Süresi: 13 saat, 11 dakika"
+    },
+    "NPWR38331_00": {
+        "lastTrophyDate": "11 Aralık 2024",
+        "timeTaken": "Tamamlama Süresi: 5 ay, 3 gün"
+    },
+    "NPWR37258_00": {
+        "lastTrophyDate": "11 Aralık 2024",
+        "timeTaken": "Tamamlama Süresi: 1 hafta, 2 gün"
+    },
+    "NPWR19950_00": {
+        "lastTrophyDate": "7 Aralık 2024",
+        "timeTaken": "Tamamlama Süresi: 4 dakika, 54 saniye"
+    },
+    "NPWR20284_00": {
+        "lastTrophyDate": "7 Aralık 2024",
+        "timeTaken": "Tamamlama Süresi: 5 gün, 19 saat"
+    },
+    "NPWR30829_00": {
+        "lastTrophyDate": "25 Kasım 2024",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 7 saat"
+    },
+    "NPWR22820_00": {
+        "lastTrophyDate": "24 Kasım 2024",
+        "timeTaken": "Tamamlama Süresi: 12 saat, 12 dakika"
+    },
+    "NPWR30097_00": {
+        "lastTrophyDate": "22 Kasım 2024",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 1 saat"
+    },
+    "NPWR14842_00": {
+        "lastTrophyDate": "20 Kasım 2024",
+        "timeTaken": "Tamamlama Süresi: 4 gün, 3 saat"
+    },
+    "NPWR25088_00": {
+        "lastTrophyDate": "19 Kasım 2024",
+        "timeTaken": "Tamamlama Süresi: 1 yıl, 1 hafta"
+    },
+    "NPWR27755_00": {
+        "lastTrophyDate": "17 Kasım 2024",
+        "timeTaken": "Tamamlama Süresi: 10 saat, 30 dakika"
+    },
+    "NPWR22459_00": {
+        "lastTrophyDate": "15 Kasım 2024",
+        "timeTaken": "Tamamlama Süresi: 2 saat, 52 dakika"
+    },
+    "NPWR13387_00": {
+        "lastTrophyDate": "15 Kasım 2024",
+        "timeTaken": "Tamamlama Süresi: 4 gün, 14 saat"
+    },
+    "NPWR23353_00": {
+        "lastTrophyDate": "13 Kasım 2024",
+        "timeTaken": "Tamamlama Süresi: 1 hafta, 4 gün"
+    },
+    "NPWR20783_00": {
+        "lastTrophyDate": "5 Kasım 2024",
+        "timeTaken": "Tamamlama Süresi: 1 hafta, 3 gün"
+    },
+    "NPWR13368_00": {
+        "lastTrophyDate": "24 Ekim 2024",
+        "timeTaken": "Tamamlama Süresi: 5 yıl, 1 ay"
+    },
+    "NPWR13087_00": {
+        "lastTrophyDate": "21 Ekim 2024",
+        "timeTaken": "Tamamlama Süresi: 4 saat, 29 dakika"
+    },
+    "NPWR18273_00": {
+        "lastTrophyDate": "19 Ekim 2024",
+        "timeTaken": "Tamamlama Süresi: 2 gün, 51 dakika"
+    },
+    "NPWR13463_00": {
+        "lastTrophyDate": "16 Ekim 2024",
+        "timeTaken": "Tamamlama Süresi: 4 gün, 4 saat"
+    },
+    "NPWR34236_00": {
+        "lastTrophyDate": "13 Ekim 2024",
+        "timeTaken": "Tamamlama Süresi: 2 gün, 25 dakika"
+    },
+    "NPWR32197_00": {
+        "lastTrophyDate": "11 Ekim 2024",
+        "timeTaken": "Tamamlama Süresi: 4 gün, 13 saat"
+    },
+    "NPWR07290_00": {
+        "lastTrophyDate": "5 Ekim 2024",
+        "timeTaken": "Tamamlama Süresi: 2 gün, 4 saat"
+    },
+    "NPWR22764_00": {
+        "lastTrophyDate": "29 Eylül 2024",
+        "timeTaken": "Tamamlama Süresi: 4 gün, 10 saat"
+    },
+    "NPWR34661_00": {
+        "lastTrophyDate": "5 Eylül 2024",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 19 saat"
+    },
+    "NPWR27652_00": {
+        "lastTrophyDate": "13 Temmuz 2024",
+        "timeTaken": "Tamamlama Süresi: 1 saat, 53 dakika"
+    },
+    "NPWR44304_00": {
+        "lastTrophyDate": "12 Temmuz 2024",
+        "timeTaken": "Tamamlama Süresi: 2 gün, 5 saat"
+    },
+    "NPWR07410_00": {
+        "lastTrophyDate": "10 Temmuz 2024",
+        "timeTaken": "Tamamlama Süresi: 1 hafta, 2 gün"
+    },
+    "NPWR24551_00": {
+        "lastTrophyDate": "1 Temmuz 2024",
+        "timeTaken": "Tamamlama Süresi: 1 saat, 34 dakika"
+    },
+    "NPWR42543_00": {
+        "lastTrophyDate": "30 Haziran 2024",
+        "timeTaken": "Tamamlama Süresi: 3 gün, 15 saat"
+    },
+    "NPWR07466_00": {
+        "lastTrophyDate": "28 Haziran 2024",
+        "timeTaken": "Tamamlama Süresi: 5 ay, 3 hafta"
+    },
+    "NPWR06418_00": {
+        "lastTrophyDate": "22 Haziran 2024",
+        "timeTaken": "Tamamlama Süresi: 5 yıl, 8 ay"
+    },
+    "NPWR27818_00": {
+        "lastTrophyDate": "12 Haziran 2024",
+        "timeTaken": "Tamamlama Süresi: 2 gün, 3 saat"
+    },
+    "NPWR16443_00": {
+        "lastTrophyDate": "9 Haziran 2024",
+        "timeTaken": "Tamamlama Süresi: 1 hafta, 5 gün"
+    },
+    "NPWR07028_00": {
+        "lastTrophyDate": "26 Mayıs 2024",
+        "timeTaken": "Tamamlama Süresi: 5 yıl, 10 ay"
+    },
+    "NPWR16977_00": {
+        "lastTrophyDate": "25 Mayıs 2024",
+        "timeTaken": "Tamamlama Süresi: 2 hafta, 6 gün"
+    },
+    "NPWR11510_00": {
+        "lastTrophyDate": "20 Mayıs 2024",
+        "timeTaken": "Tamamlama Süresi: 5 gün, 5 saat"
+    },
+    "NPWR22784_00": {
+        "lastTrophyDate": "14 Mayıs 2024",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 5 saat"
+    },
+    "NPWR22363_00": {
+        "lastTrophyDate": "13 Mayıs 2024",
+        "timeTaken": "Tamamlama Süresi: 2 gün, 2 dakika"
+    },
+    "NPWR26085_00": {
+        "lastTrophyDate": "11 Mayıs 2024",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 21 saat"
+    },
+    "NPWR17627_00": {
+        "lastTrophyDate": "9 Mayıs 2024",
+        "timeTaken": "Tamamlama Süresi: 2 hafta, 4 gün"
+    },
+    "NPWR24244_00": {
+        "lastTrophyDate": "20 Nisan 2024",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 23 saat"
+    },
+    "NPWR05740_00": {
+        "lastTrophyDate": "23 Şubat 2024",
+        "timeTaken": "Tamamlama Süresi: 2 hafta, 7 saat"
+    },
+    "NPWR26105_00": {
+        "lastTrophyDate": "18 Ocak 2024",
+        "timeTaken": "Tamamlama Süresi: 1 saat, 39 dakika"
+    },
+    "NPWR08193_00": {
+        "lastTrophyDate": "8 Ocak 2024",
+        "timeTaken": "Tamamlama Süresi: 1 ay, 1 hafta"
+    },
+    "NPWR11704_00": {
+        "lastTrophyDate": "31 Aralık 2023",
+        "timeTaken": "Tamamlama Süresi: 5 yıl, 5 gün"
+    },
+    "NPWR28309_00": {
+        "lastTrophyDate": "31 Aralık 2023",
+        "timeTaken": "Tamamlama Süresi: 11 saat, 29 dakika"
+    },
+    "NPWR03907_00": {
+        "lastTrophyDate": "27 Aralık 2023",
+        "timeTaken": "Tamamlama Süresi: 1 hafta, 3 gün"
+    },
+    "NPWR10705_00": {
+        "lastTrophyDate": "16 Aralık 2023",
+        "timeTaken": "Tamamlama Süresi: 3 hafta, 5 gün"
+    },
+    "NPWR09798_00": {
+        "lastTrophyDate": "8 Aralık 2023",
+        "timeTaken": "Tamamlama Süresi: 5 yıl, 4 ay"
+    },
+    "NPWR28184_00": {
+        "lastTrophyDate": "6 Aralık 2023",
+        "timeTaken": "Tamamlama Süresi: 4 hafta, 1 gün"
+    },
+    "NPWR38739_00": {
+        "lastTrophyDate": "3 Aralık 2023",
+        "timeTaken": "Tamamlama Süresi: 5 gün, 6 saat"
     },
     "NPWR29496_00": {
-        "lastTrophyDate": "6 Şubat 2026",
-        "timeTaken": "Tamamlama Süresi: 6 dakika, 54 saniye"
+        "lastTrophyDate": "28 Kasım 2023",
+        "timeTaken": "Tamamlama Süresi: 2 dakika, 21 saniye"
+    },
+    "NPWR40887_00": {
+        "lastTrophyDate": "25 Kasım 2023",
+        "timeTaken": "Tamamlama Süresi: 6 gün, 4 saat"
+    },
+    "NPWR07942_00": {
+        "lastTrophyDate": "18 Kasım 2023",
+        "timeTaken": "Tamamlama Süresi: 2 hafta, 1 gün"
+    },
+    "NPWR16077_00": {
+        "lastTrophyDate": "18 Kasım 2023",
+        "timeTaken": "Tamamlama Süresi: 26 dakika, 48 saniye"
+    },
+    "NPWR40886_00": {
+        "lastTrophyDate": "11 Kasım 2023",
+        "timeTaken": "Tamamlama Süresi: 53 dakika, 24 saniye"
+    },
+    "NPWR15278_00": {
+        "lastTrophyDate": "11 Kasım 2023",
+        "timeTaken": "Tamamlama Süresi: 22 dakika, 35 saniye"
+    },
+    "NPWR25205_00": {
+        "lastTrophyDate": "11 Kasım 2023",
+        "timeTaken": "Tamamlama Süresi: 8 dakika, 27 saniye"
+    },
+    "NPWR18896_00": {
+        "lastTrophyDate": "10 Kasım 2023",
+        "timeTaken": "Tamamlama Süresi: 45 dakika, 36 saniye"
+    },
+    "NPWR09618_00": {
+        "lastTrophyDate": "9 Kasım 2023",
+        "timeTaken": "Tamamlama Süresi: 13 saat, 46 dakika"
+    },
+    "NPWR17710_00": {
+        "lastTrophyDate": "9 Kasım 2023",
+        "timeTaken": "Tamamlama Süresi: 1 saat, 30 dakika"
+    },
+    "NPWR18703_00": {
+        "lastTrophyDate": "8 Kasım 2023",
+        "timeTaken": "Tamamlama Süresi: 8 saat, 27 dakika"
+    },
+    "NPWR20051_00": {
+        "lastTrophyDate": "8 Kasım 2023",
+        "timeTaken": "Tamamlama Süresi: 20 dakika, 17 saniye"
+    },
+    "NPWR23302_00": {
+        "lastTrophyDate": "7 Kasım 2023",
+        "timeTaken": "Tamamlama Süresi: 8 saat, 5 dakika"
+    },
+    "NPWR21056_00": {
+        "lastTrophyDate": "6 Kasım 2023",
+        "timeTaken": "Tamamlama Süresi: 13 saat, 34 dakika"
+    },
+    "NPWR16941_00": {
+        "lastTrophyDate": "5 Kasım 2023",
+        "timeTaken": "Tamamlama Süresi: 3 saat, 51 dakika"
+    },
+    "NPWR08266_00": {
+        "lastTrophyDate": "2 Kasım 2023",
+        "timeTaken": "Tamamlama Süresi: 1 hafta, 4 gün"
+    },
+    "NPWR19393_00": {
+        "lastTrophyDate": "20 Ekim 2023",
+        "timeTaken": "Tamamlama Süresi: 13 saat, 37 dakika"
+    },
+    "NPWR07875_00": {
+        "lastTrophyDate": "8 Eylül 2019",
+        "timeTaken": "Tamamlama Süresi: 2 ay, 2 hafta"
+    },
+    "NPWR13872_00": {
+        "lastTrophyDate": "17 Temmuz 2019",
+        "timeTaken": "Tamamlama Süresi: 1 hafta, 6 gün"
+    },
+    "NPWR08177_00": {
+        "lastTrophyDate": "20 Haziran 2019",
+        "timeTaken": "Tamamlama Süresi: 3 ay, 22 saat"
+    },
+    "NPWR12518_00": {
+        "lastTrophyDate": "4 Haziran 2019",
+        "timeTaken": "Tamamlama Süresi: 5 gün, 5 saat"
+    },
+    "NPWR13159_00": {
+        "lastTrophyDate": "28 Mart 2019",
+        "timeTaken": "Tamamlama Süresi: 6 gün, 14 saat"
+    },
+    "NPWR11556_00": {
+        "lastTrophyDate": "21 Mart 2019",
+        "timeTaken": "Tamamlama Süresi: 8 ay, 5 gün"
+    },
+    "NPWR11068_00": {
+        "lastTrophyDate": "10 Mart 2019",
+        "timeTaken": "Tamamlama Süresi: 4 gün, 18 saat"
+    },
+    "NPWR10746_00": {
+        "lastTrophyDate": "16 Şubat 2019",
+        "timeTaken": "Tamamlama Süresi: 2 gün, 20 saat"
+    },
+    "NPWR06764_00": {
+        "lastTrophyDate": "14 Şubat 2019",
+        "timeTaken": "Tamamlama Süresi: 3 gün, 7 saat"
+    },
+    "NPWR08865_00": {
+        "lastTrophyDate": "10 Şubat 2019",
+        "timeTaken": "Tamamlama Süresi: 5 gün, 1 saat"
+    },
+    "NPWR09304_00": {
+        "lastTrophyDate": "4 Şubat 2019",
+        "timeTaken": "Tamamlama Süresi: 3 hafta, 21 saat"
+    },
+    "NPWR12300_00": {
+        "lastTrophyDate": "14 Ocak 2019",
+        "timeTaken": "Tamamlama Süresi: 2 gün, 8 saat"
+    },
+    "NPWR06302_00": {
+        "lastTrophyDate": "11 Ocak 2019",
+        "timeTaken": "Tamamlama Süresi: 5 ay, 1 hafta"
+    },
+    "NPWR09391_00": {
+        "lastTrophyDate": "31 Aralık 2018",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 7 saat"
+    },
+    "NPWR10075_00": {
+        "lastTrophyDate": "29 Aralık 2018",
+        "timeTaken": "Tamamlama Süresi: 6 gün, 20 saat"
+    },
+    "NPWR08268_00": {
+        "lastTrophyDate": "26 Aralık 2018",
+        "timeTaken": "Tamamlama Süresi: 3 ay, 3 hafta"
+    },
+    "NPWR09127_00": {
+        "lastTrophyDate": "22 Aralık 2018",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 16 dakika"
+    },
+    "NPWR05881_00": {
+        "lastTrophyDate": "18 Aralık 2018",
+        "timeTaken": "Tamamlama Süresi: 4 gün, 19 saat"
+    },
+    "NPWR09735_00": {
+        "lastTrophyDate": "5 Aralık 2018",
+        "timeTaken": "Tamamlama Süresi: 13 saat, 56 dakika"
+    },
+    "NPWR06163_00": {
+        "lastTrophyDate": "3 Aralık 2018",
+        "timeTaken": "Tamamlama Süresi: 8 saat, 2 dakika"
+    },
+    "NPWR13054_00": {
+        "lastTrophyDate": "3 Aralık 2018",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 56 dakika"
+    },
+    "NPWR14714_00": {
+        "lastTrophyDate": "2 Aralık 2018",
+        "timeTaken": "Tamamlama Süresi: 7 saat, 4 dakika"
+    },
+    "NPWR14817_00": {
+        "lastTrophyDate": "1 Aralık 2018",
+        "timeTaken": "Tamamlama Süresi: 49 dakika, 58 saniye"
+    },
+    "NPWR13664_00": {
+        "lastTrophyDate": "29 Kasım 2018",
+        "timeTaken": "Tamamlama Süresi: 5 saat, 15 dakika"
+    },
+    "NPWR08648_00": {
+        "lastTrophyDate": "22 Kasım 2018",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 7 saat"
+    },
+    "NPWR11249_00": {
+        "lastTrophyDate": "19 Kasım 2018",
+        "timeTaken": "Tamamlama Süresi: 1 gün, 8 saat"
+    },
+    "NPWR11234_00": {
+        "lastTrophyDate": "19 Kasım 2018",
+        "timeTaken": "Tamamlama Süresi: 1 ay, 2 hafta"
+    },
+    "NPWR14855_00": {
+        "lastTrophyDate": "12 Kasım 2018",
+        "timeTaken": "Tamamlama Süresi: 28 saniye"
+    },
+    "NPWR08188_00": {
+        "lastTrophyDate": "24 Ekim 2018",
+        "timeTaken": "Tamamlama Süresi: 3 hafta, 14 saat"
+    },
+    "NPWR10893_00": {
+        "lastTrophyDate": "11 Ekim 2018",
+        "timeTaken": "Tamamlama Süresi: 1 hafta, 4 gün"
+    },
+    "NPWR09982_00": {
+        "lastTrophyDate": "4 Ekim 2018",
+        "timeTaken": "Tamamlama Süresi: 3 gün, 7 saat"
+    },
+    "NPWR11880_00": {
+        "lastTrophyDate": "23 Eylül 2018",
+        "timeTaken": "Tamamlama Süresi: 1 ay, 2 hafta"
     }
 }
