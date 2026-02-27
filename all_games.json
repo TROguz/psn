@@ -36138,5 +36138,135 @@
             "bronze": 9
         },
         "service": "trophy"
+    },
+    "NPWR06740_00": {
+        "npCommunicationId": "NPWR06740_00",
+        "trophyTitleName": "Borderlands: The Pre-Sequel",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06740_00_00F36D11FB356C888BA5EAADAD199990002DAA9504/9520607E2F2948CB69B8692B56042997B1C0F6FD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 47
+        },
+        "service": "trophy"
+    },
+    "NPWR06741_00": {
+        "npCommunicationId": "NPWR06741_00",
+        "trophyTitleName": "Futuridium EP Deluxe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06741_00_007088297843D79963BFB7F5413D4631D69EFACE5B/27841D0C7201B0D9F8101C82B0CCAC12169F1F1B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR06751_00": {
+        "npCommunicationId": "NPWR06751_00",
+        "trophyTitleName": "DYNASTY WARRIORS: GUNDAM Reborn",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06751_00_0066ACBADDA3BCD308B11294E97CC5E279537E4B58/6BA4C319758503B89EB335612E7BB6CB7D98612D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR06752_00": {
+        "npCommunicationId": "NPWR06752_00",
+        "trophyTitleName": "ROBOTICS;NOTES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06752_00_00510A2E41ED815DDEED01695AE130A589B7C3A6FF/762360A3B8DF833783320F632E3EBEE7B124C89B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR06754_00": {
+        "npCommunicationId": "NPWR06754_00",
+        "trophyTitleName": "MOBILE SUIT GUNDAM SIDE STORIES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06754_00_008ECAB744420C51F2F56F59BFBF23187E3B1B45C3/8330D080C2824D871E74960201099E7B0A70C2C6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 6,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR06755_00": {
+        "npCommunicationId": "NPWR06755_00",
+        "trophyTitleName": "OlliOlli2: Welcome to Olliwood",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06755_00_0040CE9A99C0D3BF0BB62EFAFF0F494F6BCE4F605C/82DF653FAB190EDAF2AF9B9C071B4FD90CD455A9.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR06757_00": {
+        "npCommunicationId": "NPWR06757_00",
+        "trophyTitleName": "Disney Infinity [2.0]",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06757_00_006A64EA9498587B27F2B5AA157E5C085777109BC8/1CF1D65C441596571A8B6CA7CFE67A26DC9058A2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR06758_00": {
+        "npCommunicationId": "NPWR06758_00",
+        "trophyTitleName": "Disney Infinity [2.0]",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06758_00_005B1FD280A5761751389E4E04646C68B7DC96F9B9/EF1175B4CD5266A87256155B9053B6A6129661E3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR06760_00": {
+        "npCommunicationId": "NPWR06760_00",
+        "trophyTitleName": "NBA 2K15",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06760_00_00CD2CCA11CBCE681235711E441DA65306861377F0/9B0D32E7E2499C88153E618F09340B28317769D9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR06764_00": {
+        "npCommunicationId": "NPWR06764_00",
+        "trophyTitleName": "Teslagrad",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06764_00_0056FF148A50D8C24D29DA01DBA9558C86CF7C429D/B4A72D8A5BAF8610F14765CF71EB536A30A8A9A1.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 24
+        },
+        "service": "trophy"
     }
 }
