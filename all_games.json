@@ -52128,5 +52128,135 @@
             "bronze": 16
         },
         "service": "trophy"
+    },
+    "NPWR09521_00": {
+        "npCommunicationId": "NPWR09521_00",
+        "trophyTitleName": "WORLD OF FINAL FANTASY",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09521_00_00E76DEFE2D538AFA5F7C6A4B6A2B9027CF1457E11/1C4494AFFF3286A50914C0A42941328138433285.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR09522_00": {
+        "npCommunicationId": "NPWR09522_00",
+        "trophyTitleName": "Rock Band 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09522_00_00ACB5F31BF97A5D618DCC457113CA7E547F3D1F47/7F7DD7AFDB677A4E4F5632C7E89CD6227E95BDD5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 49
+        },
+        "service": "trophy"
+    },
+    "NPWR09524_00": {
+        "npCommunicationId": "NPWR09524_00",
+        "trophyTitleName": "Mantis Burn Racing",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09524_00_00B07C3F10D3DDB6BE47D63B81F153AF7AD3E3DCF6/3179476705A8333306345C75046146290E325FD5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR09525_00": {
+        "npCommunicationId": "NPWR09525_00",
+        "trophyTitleName": "HEAVY RAIN™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09525_00_0005417BA4AB41365C5AFCEC91D1ED8BBAADE14172/36F1E604FD920D1E7C83AC39AB965DD1E711C696.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 4,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR09528_00": {
+        "npCommunicationId": "NPWR09528_00",
+        "trophyTitleName": "Life Goes On: Done to Death",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09528_00_00B6F4521C88E671898F0C2CBCEF5D972E964296B0/DC0452AF74469B53F6A63D2AB662ECD3EF44D871.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 5,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR09530_00": {
+        "npCommunicationId": "NPWR09530_00",
+        "trophyTitleName": "Galak-Z: The Dimensional",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09530_00_00EB92674ED78E24ACAEEECC076E7572CE3D88E6A3/5B66687F910E92358484A1B6F3FFC3C2D688D445.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09534_00": {
+        "npCommunicationId": "NPWR09534_00",
+        "trophyTitleName": "Ascendant",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09534_00_005B5E69D700A00B2D767E076093D552CC781841F5/A292E4089DD671251A1597A28C675EDECBAF5166.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR09539_00": {
+        "npCommunicationId": "NPWR09539_00",
+        "trophyTitleName": "Shantae and the Pirate's Curse",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09539_00_005AF1805A46E07EE4E748373C9FC6EDBB1F726A06/D92A603DC59754AEDE365F90489564CD57B1A6AC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 4,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR09541_00": {
+        "npCommunicationId": "NPWR09541_00",
+        "trophyTitleName": "恋愛（ラブ）リベンジ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09541_00_006CE61C58828E8757AB3D55F610F3EA8DCE2136A4/4FEC15233342CF80426DEA94C96F3FEA3366714E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR09544_00": {
+        "npCommunicationId": "NPWR09544_00",
+        "trophyTitleName": "Gunscape",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09544_00_00FFDDF763543DABE3AAF58FA7E484A0536505A0E8/6A11A14EDBDE0EF5BB39A0E85CA4F5E2F882B29A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 28
+        },
+        "service": "trophy"
     }
 }
