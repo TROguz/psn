@@ -83198,5 +83198,135 @@
             "bronze": 3
         },
         "service": "trophy"
+    },
+    "NPWR13779_00": {
+        "npCommunicationId": "NPWR13779_00",
+        "trophyTitleName": "Cursed Castilla (Maldita Castilla EX)",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13779_00_00AF636BC25E3F6B8154F53149A0D24779F5F706DC/61D3C5A3EF88DC20904F0C6CC508D12DEBECBDE7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR13780_00": {
+        "npCommunicationId": "NPWR13780_00",
+        "trophyTitleName": "Professional Farmer: American Dream",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13780_00_0066C31364534F366248B4E6F353C8AB8109388AFA/162D639E106A2E91493AF0D2F48A8C9E4C224D00.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR13781_00": {
+        "npCommunicationId": "NPWR13781_00",
+        "trophyTitleName": "Wonder Boy: The Dragon's Trap",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13781_00_0083C29B850EC483062CE2975C1B243D75ED32D3CE/A50EEB8C17E1146CC8EFEAC19510804949315A96.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR13784_00": {
+        "npCommunicationId": "NPWR13784_00",
+        "trophyTitleName": "Demons Age",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13784_00_00A4BF7C15F8D0EBB27FA4680902E555F6AEA6C2E4/4B3DDA7F83644D038660E55E9F7663FEC8C4C9D1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR13786_00": {
+        "npCommunicationId": "NPWR13786_00",
+        "trophyTitleName": "Aer Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13786_00_008A83CF84D121A461788E8F2DF65AF611DB457DD7/5A6C8676A69B7B79F3B51576A92B8A491B6D5B20.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 14,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13787_00": {
+        "npCommunicationId": "NPWR13787_00",
+        "trophyTitleName": "Lunar Stone: Origin of Blood",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13787_00_00B49C66051C50B942C9A5C62021B5A45D00F6664A/8D4E4E93213A666C0173023C7BF7E4398BEAF9F1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13788_00": {
+        "npCommunicationId": "NPWR13788_00",
+        "trophyTitleName": "Jagged Alliance Rage",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13788_00_0068B196CCC790C9621CCE66AA712F8B570F367336/82AADEC652784BCE3B14F693BC6E5C4CE71105D3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR13790_00": {
+        "npCommunicationId": "NPWR13790_00",
+        "trophyTitleName": "Dead Hungry",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13790_00_001316D55CC81C4A2AE5755769AC9706C8281147D9/5AD60B545BDDE7CE20676F793A661DC174C56BB9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR13792_00": {
+        "npCommunicationId": "NPWR13792_00",
+        "trophyTitleName": "Albert&Otto",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13792_00_008EB38E622466615701110364E7A1AE5FA8254135/42A4511BF76E289E492BD47AF2A1D27D0152CCB4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR13795_00": {
+        "npCommunicationId": "NPWR13795_00",
+        "trophyTitleName": "Derelict Fleet",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13795_00_000FF47A3140F008ADFBD8100A85FBDA99CC884494/97ED3B82C825A0B5F57458564FAB3634ED5B5247.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 10,
+            "bronze": 0
+        },
+        "service": "trophy"
     }
 }
