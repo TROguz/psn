@@ -51218,5 +51218,135 @@
             "bronze": 21
         },
         "service": "trophy"
+    },
+    "NPWR09383_00": {
+        "npCommunicationId": "NPWR09383_00",
+        "trophyTitleName": "やはりゲームでも俺の青春ラブコメはまちがっている。続",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09383_00_00BA13E492454023205E08E950CEEA9D6A4ECC8AA9/498806B0AAA96E869C2BA93AB0F659BA4FDC2C78.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09384_00": {
+        "npCommunicationId": "NPWR09384_00",
+        "trophyTitleName": "LOS 40 PRINCIPALES: KARAOKE PARTY VOL 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09384_00_00EB5BA1FB8225B56F95DD451F2D037F8C50ED6921/E75BDC699B7355E7E3046F02FBF8BBAFBCB6AC1C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 1,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR09385_00": {
+        "npCommunicationId": "NPWR09385_00",
+        "trophyTitleName": "Los 40 Principales: Karaoke Party Vol.2 ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09385_00_00CA2702A9AC74DE2228D4B4F28F01FEE75BEAA24C/9BD62D100EE4A60B14BA0B89F92694ACC3739292.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 1,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR09386_00": {
+        "npCommunicationId": "NPWR09386_00",
+        "trophyTitleName": "Action Henk",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09386_00_00C7F2EED95AC7ADA4F925B4C026822FC6B7C11A7F/A0040A21C04512CFDAB54A030B797D7453487896.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR09388_00": {
+        "npCommunicationId": "NPWR09388_00",
+        "trophyTitleName": "Alienation™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09388_00_00866B1B566A1E960E8577E8D7B7CBF0C6627A8934/5BCC4DF1FD3319A12D88B68D83D4FC24907BB249.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR09391_00": {
+        "npCommunicationId": "NPWR09391_00",
+        "trophyTitleName": "Day of the Tentacle Remastered",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09391_00_003C2CA9BF7AB9FE5A27EBAB622C334E4B0F1C538C/85C838A213DF9C6317481A84E17C58D4373B2405.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 53
+        },
+        "service": "trophy"
+    },
+    "NPWR09394_00": {
+        "npCommunicationId": "NPWR09394_00",
+        "trophyTitleName": "薔薇に隠されしヴェリテ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09394_00_00C8F2FB752818A17ED36709C78CB02F0AD334F6C2/7CA3BAC26D9C3F188D8DEA8C704EFD76E80DBAB2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR09395_00": {
+        "npCommunicationId": "NPWR09395_00",
+        "trophyTitleName": "Tom Clancy’s Ghost Recon® Wildlands",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09395_00_00295539F071D1213181651287E5EB5BDFD034B090/FCBB713945AE2615D022E25B665D52A51B88F520.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR09396_00": {
+        "npCommunicationId": "NPWR09396_00",
+        "trophyTitleName": "DRIVECLUB™ BIKES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09396_00_00AFB3E3CF2A94F925D08FD57339777E0C718944CA/01FFE688D37B172E84AEFA2248B408CE4908B929.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 16,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR09399_00": {
+        "npCommunicationId": "NPWR09399_00",
+        "trophyTitleName": "Earth Defense Force 2: Invaders from Planet Space",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09399_00_008EA9EA61D273FD3A26D21F79B57C3ABEFD96A690/45E10013039E057BBCAB54024B7593F02C532904.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 58
+        },
+        "service": "trophy"
     }
 }
