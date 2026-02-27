@@ -54858,5 +54858,135 @@
             "bronze": 6
         },
         "service": "trophy"
+    },
+    "NPWR09965_00": {
+        "npCommunicationId": "NPWR09965_00",
+        "trophyTitleName": "ARCADE GAME SERIES: Ms. PAC-MAN",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09965_00_0098564427CF86F90C1DB77E908AB26E32CB5EF4F2/4A5D9AA025741C3F0CD8FABC0D05956969500F93.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR09966_00": {
+        "npCommunicationId": "NPWR09966_00",
+        "trophyTitleName": "鏡界の白雪",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09966_00_0036F4C5875D3FFFFA597C54D21FFF644621F57C46/31D7BE31095B9F12420567EB13D4E35FD2D4B531.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR09967_00": {
+        "npCommunicationId": "NPWR09967_00",
+        "trophyTitleName": "電撃文庫 FIGHTING CLIMAX IGNITION",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09967_00_000BCB050547A918879DE5642AD45716CBEC45724F/4C9000940D663A7544B36341408E5BECB0800B8E.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR09968_00": {
+        "npCommunicationId": "NPWR09968_00",
+        "trophyTitleName": "MotoGP™15 Compact",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09968_00_00CB50AE6D601B1D61D2F9BA8AEB8D590421E006A2/0BB9B4C510CA3A7B6BE136A48EFA92A437B17DF0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09969_00": {
+        "npCommunicationId": "NPWR09969_00",
+        "trophyTitleName": "MotoGP™15 Compact",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09969_00_0047C2E60184F8DC9ACD5516902C86FFFB91134DE5/7E4FFA7F376440D999E4AC9D4D3A6607D38C6822.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09970_00": {
+        "npCommunicationId": "NPWR09970_00",
+        "trophyTitleName": "Funk of Titans",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09970_00_00AFCF2DD360ABC885D16633F6BEC60505E1B028F4/E924D55ED0EC94CFD745C07AB20CA77D3A2344F6.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 4,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR09973_00": {
+        "npCommunicationId": "NPWR09973_00",
+        "trophyTitleName": "Wand of Fortune R",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09973_00_0057611C3090D3E49A242380E4BCB9AB4D02D232A0/C6C6014E6C6AF38819F569904965B8410D1F20FE.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR09975_00": {
+        "npCommunicationId": "NPWR09975_00",
+        "trophyTitleName": "Ｃｌｏｖｅｒ　Ｄａｙ’ｓ　～Ｍａｋｉｎｇ　ｆｏｒ　Ｈａｐｐｉｎｅｓｓ．～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09975_00_001BE6C3A35EA3F2AA395DEAE88BC18C1956D6CE8A/1DF6E0ED78D965E94CEA001B46F5AD18B5495DC2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 5,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR09978_00": {
+        "npCommunicationId": "NPWR09978_00",
+        "trophyTitleName": "Letter Quest Remastered",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09978_00_00F847068FD8C8B78D5EE6240A7CC0647CFBC269D1/B94DD1D5C0EB1C4D4C6F3929C143280611EC28A3.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09979_00": {
+        "npCommunicationId": "NPWR09979_00",
+        "trophyTitleName": "アイドルマスター プラチナスターズ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09979_00_0087295E5C881B8AA44EAEDC6CDF0E46ABA27FF802/72569A8A73D38C74D8AC85ACD2655BBE67B71CCC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 51
+        },
+        "service": "trophy"
     }
 }
