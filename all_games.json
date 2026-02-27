@@ -31328,5 +31328,135 @@
             "bronze": 28
         },
         "service": "trophy"
+    },
+    "NPWR05677_00": {
+        "npCommunicationId": "NPWR05677_00",
+        "trophyTitleName": "Rayman® Legends",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05677_00_00BD77F5447CA0F051AE625519D68CE384A1BE9744/73A00B61317AC0F094B943B666B61CB816F6506E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR05679_00": {
+        "npCommunicationId": "NPWR05679_00",
+        "trophyTitleName": "Rozen Maiden -Wechseln sie welt ab-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05679_00_00F758F6DF5668FA4C83EEFB6C7D1A2B5FF807A314/5151D2B30EED77E973FCC1D0F1B67EB5F1F089E2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR05680_00": {
+        "npCommunicationId": "NPWR05680_00",
+        "trophyTitleName": "Rozen Maiden -Wechseln sie welt ab-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05680_00_00FFA892C099ADEB7B89B9257DB4ECC34F7D1D616A/0765932978AF39555A7E60A1B8284758A190069C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR05695_00": {
+        "npCommunicationId": "NPWR05695_00",
+        "trophyTitleName": "俺に働けって言われても 乙 HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05695_00_00680DC6FA516236928807A45BF25FFDEDA8E6CC6E/1CD6B47B58BEE2BA971F403BF4DE17CE717E7866.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR05696_00": {
+        "npCommunicationId": "NPWR05696_00",
+        "trophyTitleName": "アルカナハート３ LOVEMAX!!!!!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05696_00_00FE5ACD8EE68A45F913E4013C02D56B82C14AA7C2/B7AD3CE78BA122FCF96B5E2B4683770F391DD0EC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR05697_00": {
+        "npCommunicationId": "NPWR05697_00",
+        "trophyTitleName": "Stick It To the Man",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05697_00_000BA60FF7BD50FA7EBE96159EEAF89540951952DC/A19F72706BBFB62E35ACB2354B4D9F5E30D8C3A6.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR05698_00": {
+        "npCommunicationId": "NPWR05698_00",
+        "trophyTitleName": "Stick It To the Man",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05698_00_00C4B1A5241BD8DC2E6FB90D93E1F5C9FEDAD4D401/4C4D9969E836BCD58032FBD508ACF715D48EF2EA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR05703_00": {
+        "npCommunicationId": "NPWR05703_00",
+        "trophyTitleName": "The Wolf Among Us",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05703_00_008FEEF7C3FD50BF2A545B6375C964962DECB4A8C8/95BB0140699FD5D9F5D2A06D6AC7115C5451853C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR05706_00": {
+        "npCommunicationId": "NPWR05706_00",
+        "trophyTitleName": "Minecraft: PlayStation®4 Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05706_00_003C44BDCCF6EB21301F194F8CEF00BD1F4DC538D0/82D9739A2BD62B99475DD8B0E1ABE8C33C7A58D1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 36,
+            "bronze": 79
+        },
+        "service": "trophy"
+    },
+    "NPWR05711_00": {
+        "npCommunicationId": "NPWR05711_00",
+        "trophyTitleName": "Sniper Elite 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05711_00_0046C1CC8023367C8E1B9FAE56F4B1BDAB05E22205/15E59FE6134147A6999EDA726A83C997E0470914.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 15,
+            "bronze": 53
+        },
+        "service": "trophy"
     }
 }
