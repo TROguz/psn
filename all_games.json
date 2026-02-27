@@ -44458,5 +44458,135 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR08326_00": {
+        "npCommunicationId": "NPWR08326_00",
+        "trophyTitleName": "CHAOS;CHILD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08326_00_008CF661FFAB052300B75ACCB86E17DFF2A5BF9E72/2EBED04EAED26B20B87B7ED537DBE7845D2A8789.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR08329_00": {
+        "npCommunicationId": "NPWR08329_00",
+        "trophyTitleName": "Tiny Troopers Joint Ops",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08329_00_00D617637999A06521DDEB1477CFCF724199DD55E5/5382D487C71D808AEDAF87E9CCE5AB8450CBC1BD.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 4,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR08331_00": {
+        "npCommunicationId": "NPWR08331_00",
+        "trophyTitleName": "Madden NFL 16",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08331_00_00A3CF2D3369944B1E099CAFAA63CD624AB05A10BF/CEC375F05513884A0DB5112F42BFFB74153A4B94.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 22,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR08332_00": {
+        "npCommunicationId": "NPWR08332_00",
+        "trophyTitleName": "The Bridge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08332_00_00EE28FCC55657E135965A56814EDC96D1CCE89673/11A54954660AE21491FC764F4C8E02D94A346FB8.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR08334_00": {
+        "npCommunicationId": "NPWR08334_00",
+        "trophyTitleName": "Rayman® Legends",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08334_00_00AF72466675A02D9753301C351868740BE25CA22D/333518E75BCE3F08F6B0D6CD2F43811242AD37C2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR08335_00": {
+        "npCommunicationId": "NPWR08335_00",
+        "trophyTitleName": "不思議のクロニクル\n振リ返リマセン勝ツマデハ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08335_00_006049BB984D3E1D045EA39C151D711F898432B99F/97DBB600249A6DD586FE1E6B17F8B2AAA5AAB5E3.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR08338_00": {
+        "npCommunicationId": "NPWR08338_00",
+        "trophyTitleName": "Arcade Archives CRAZY CLIMBER2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08338_00_00819017C5A63F0182BDF158EB87A0BA301767FB02/11DC4029401AE2C2981A8132DA87CEC453B997BE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08339_00": {
+        "npCommunicationId": "NPWR08339_00",
+        "trophyTitleName": "Arcade Archives Buta san",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08339_00_0021F7B41301DFA4243783F458F088E1075BF73A71/9BFA425F8B44E943336EDB03D67B6DF48C9149F6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08340_00": {
+        "npCommunicationId": "NPWR08340_00",
+        "trophyTitleName": "Arcade Archives A-JAX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08340_00_006D6997E7757C8BE78B3A874A02E16A0B90A4A1F3/A6958E7618EBCBE236B10EC08F7AC452D3F085E6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08341_00": {
+        "npCommunicationId": "NPWR08341_00",
+        "trophyTitleName": "Arcade Archives GRADIUS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08341_00_00BEC5768D28D8360844BCA90B798BD0B05C21B7EE/F634551CCBFD58B6EEE5BA0E0D44023078294502.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
