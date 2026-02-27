@@ -25218,5 +25218,135 @@
             "bronze": 32
         },
         "service": "trophy"
+    },
+    "NPWR04375_00": {
+        "npCommunicationId": "NPWR04375_00",
+        "trophyTitleName": "Soul Sacrifice™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04375_00_002B8B965264007A41480B1275C522927C8085822A/831F488A630F8A0EBA5EB162467F6D29C8037F30.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR04377_00": {
+        "npCommunicationId": "NPWR04377_00",
+        "trophyTitleName": "Realms of Ancient War",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04377_00_00C04D2E3641870E5BBE5A1FB4532E7660DAD61AFB/FCD6C4A4018F2FCC8DFB91F81681B342FF301573.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR04380_00": {
+        "npCommunicationId": "NPWR04380_00",
+        "trophyTitleName": "Atelier Totori\nThe Adventurer of Arland",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04380_00_007BB583E347915B5AA88D17A906B9B3E64CFAABA9/25B0260CADC3792B3D9C2C41119A7F243030CFE8.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 17,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR04382_00": {
+        "npCommunicationId": "NPWR04382_00",
+        "trophyTitleName": "Tales of Xillia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04382_00_00B3173DD861377248E3324E7904663805E340E4E9/EF1AE3AAA501BC940175B717F2635FF48CCB6DA4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR04386_00": {
+        "npCommunicationId": "NPWR04386_00",
+        "trophyTitleName": "這いよれ！ニャル子さん",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04386_00_0011BE7885FAC351E2543DDAC02021792664B34EBF/EE7EBCBEE5BFFC179331D1E267E796FB2419B6A8.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR04387_00": {
+        "npCommunicationId": "NPWR04387_00",
+        "trophyTitleName": "メルルのアトリエ Ｐｌｕｓ\n～アーランドの錬金術士３～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04387_00_005C93757813EA7FE4B476A59C2D4F8FBF44CDB23C/669F25D04286642819C935626C5B6BEBBFA37AFF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR04388_00": {
+        "npCommunicationId": "NPWR04388_00",
+        "trophyTitleName": "STEINS;GATE 線形拘束のフェノグラム",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04388_00_00FD94A9375F9DB7F8C0B9905CB076D6665C9FAB27/D1793C005A2D3CEF53CB3A37F2B96ABBF3BA0CEB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR04399_00": {
+        "npCommunicationId": "NPWR04399_00",
+        "trophyTitleName": "LEGO® Legends of Chima™ ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04399_00_00DCFE71935BF728A2AF5ECDAC2487B862B0E5AFA4/EADE6D5E3B5A7D628DB00431DA36C625927915E4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 5,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR04400_00": {
+        "npCommunicationId": "NPWR04400_00",
+        "trophyTitleName": "LEGO® MARVEL Super Heroes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04400_00_006799B72F1B81F15005FDA029C67F0D7DD852BC28/3976AB528C863074ECC0797AF69E37CBA7A98070.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 4,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR04402_00": {
+        "npCommunicationId": "NPWR04402_00",
+        "trophyTitleName": "Skylanders SWAP Force",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04402_00_00E2F5D3AF2F3A25DC3D35FB73C92B3D284FAA19EC/C4AFFB4DC23D30162D367D3AAF6FD5553C83D639.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 4,
+            "bronze": 30
+        },
+        "service": "trophy"
     }
 }
