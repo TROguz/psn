@@ -38998,5 +38998,135 @@
             "bronze": 24
         },
         "service": "trophy"
+    },
+    "NPWR07343_00": {
+        "npCommunicationId": "NPWR07343_00",
+        "trophyTitleName": "Nom Nom Galaxy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07343_00_00E688457D7E7B1E2D18653B33733E975CA93E6D79/63630223E8039D1BB071F3E4CF2F8F13F203373A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 14,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR07347_00": {
+        "npCommunicationId": "NPWR07347_00",
+        "trophyTitleName": "Scram Kitty DX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07347_00_0034E00C1A29C40F61E44AD8EB1EB0444271145B57/7D0AC1D633935A8BD0A4E8337F41D1CC6FEFF9D3.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR07350_00": {
+        "npCommunicationId": "NPWR07350_00",
+        "trophyTitleName": "Sleeping Dogs: Definitive Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07350_00_00BE2CE852388770FF0FCB51398476E370C5741F5C/5BC284A71FF9357832E20F3B4ACF095D448B549E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 45
+        },
+        "service": "trophy"
+    },
+    "NPWR07351_00": {
+        "npCommunicationId": "NPWR07351_00",
+        "trophyTitleName": "Pro Evolution Soccer 2015",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07351_00_00364848DED62A9FE59A37EBDFAF2CA740566C1021/0C247C153764F0C0C4864DE2D130AC8BFF6E2153.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR07354_00": {
+        "npCommunicationId": "NPWR07354_00",
+        "trophyTitleName": "Pro Evolution Soccer 2015",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07354_00_00118E2DE4EF1F17F382D2A26B66F96C7226CDD1D1/2EBFFBBD135F199B67B3FDEB03043D18766D8087.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR07359_00": {
+        "npCommunicationId": "NPWR07359_00",
+        "trophyTitleName": "Saints Row: Gat out of Hell",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07359_00_00D81C60AF3F54A09A19CB75BB60FFAA66014025A6/65E22CAEB5B616DDD31E566BC5E5040CED23E8B5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR07362_00": {
+        "npCommunicationId": "NPWR07362_00",
+        "trophyTitleName": "Saints Row: Gat out of Hell",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07362_00_00B6D7067AA86E8AAC336F28722FDE677716A1F054/D40B8537E93835E16CEDD72BB503FD7FB37ADA53.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR07367_00": {
+        "npCommunicationId": "NPWR07367_00",
+        "trophyTitleName": "WORLD SOCCER Winning Eleven 2015",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07367_00_00D07BB1A9976BCE1786E690EF525F6D142206EFA1/7C9963CC3252D46622D762CFF1CECD28BE79113D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR07368_00": {
+        "npCommunicationId": "NPWR07368_00",
+        "trophyTitleName": "Tetris® Ultimate\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07368_00_00F60B8737DE03A12424C7ECE3B7B4568F710DC7E4/0FEC86C7A7C7A08E7DEFF9019AE27D0D01FBE9D8.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR07369_00": {
+        "npCommunicationId": "NPWR07369_00",
+        "trophyTitleName": "戦国無双 Chronicle ３",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07369_00_00347A0DEF95B7708D18CAA46D5118EDC1CC80D372/7EC1654C6EC744BF379565A8BC82C9078604AC40.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
     }
 }
