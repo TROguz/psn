@@ -35228,5 +35228,135 @@
             "bronze": 17
         },
         "service": "trophy"
+    },
+    "NPWR06542_00": {
+        "npCommunicationId": "NPWR06542_00",
+        "trophyTitleName": "GRID Autosport",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06542_00_008543ECD7DADEF3515D1E43206B6FBFC66602AE93/6A3E638AFB6E51737D4E0B0D271A34157FB924FD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR06545_00": {
+        "npCommunicationId": "NPWR06545_00",
+        "trophyTitleName": "Secret Ponchos",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06545_00_00C417404CA0880E20D18EA240C76A6DDEF525CF48/4A5965C66ECECA18E971CC4BA7188DD7806E8B48.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR06549_00": {
+        "npCommunicationId": "NPWR06549_00",
+        "trophyTitleName": "ニコリのパズル4 カックロ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06549_00_00A7FC88286CA47E06482DC8F427A844460908C635/F6A76BD6DF9207C4C6F604822D0402221319F085.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR06550_00": {
+        "npCommunicationId": "NPWR06550_00",
+        "trophyTitleName": "ニコリのパズル4 スリザーリンク",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06550_00_00AB3F992859C6DA92C0E819A224CD667F1B1D8BF0/99F325E1C81E790A3444DFF46827D64A18794892.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR06551_00": {
+        "npCommunicationId": "NPWR06551_00",
+        "trophyTitleName": "ニコリのパズル4 ぬりかべ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06551_00_00FB4836ADB6179E6E364EBC7BE2E377510ED34957/2863937216BC32DF15072351EC70D17B90795BD5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR06552_00": {
+        "npCommunicationId": "NPWR06552_00",
+        "trophyTitleName": "ニコリのパズル4 へやわけ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06552_00_00C062FDFAF22117B05AA07902D4CF5F36DC278102/1FA848066B5A3E8096D7F80977FDCF733D5EAE83.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR06553_00": {
+        "npCommunicationId": "NPWR06553_00",
+        "trophyTitleName": "ニコリのパズル4 美術館",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06553_00_002B6E30D1B0A4C6C3E713BCFC6DA0C4C7E6E9A45F/11BBB16D10DB59FEA6E8FCEEA9846EDE9F9B543A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR06554_00": {
+        "npCommunicationId": "NPWR06554_00",
+        "trophyTitleName": "ニコリのパズル4 ましゅ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06554_00_00B06A569E76537436D3C682371619DA6B0DB64A0F/DE4D1759741E1363B6BC4A9D3EA0266D5A8D641C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR06555_00": {
+        "npCommunicationId": "NPWR06555_00",
+        "trophyTitleName": "ニコリのパズル4 ひとりにしてくれ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06555_00_00E4EFE02E0441A11A4CDA536DA87B52B5C098D06D/BAD5CA8D4579E138740C70D113C5A3A0F946B13E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR06556_00": {
+        "npCommunicationId": "NPWR06556_00",
+        "trophyTitleName": "ニコリのパズル4 橋をかけろ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06556_00_00CA6731E00543686A19A8F595E2936B09B32380B8/35D2E722021EC2CECB0EAADE31404A8B2AECDA1F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
     }
 }
