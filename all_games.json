@@ -75398,5 +75398,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR12749_00": {
+        "npCommunicationId": "NPWR12749_00",
+        "trophyTitleName": "Drive Girls",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12749_00_00CBB4734FDA79BE8F970F292D7DA0E305D76AB228/C3886A2ABB9B62C862614CA994E40B54E5354DC8.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR12754_00": {
+        "npCommunicationId": "NPWR12754_00",
+        "trophyTitleName": "SculptrVR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12754_00_0015EF3945E98D22B6C8705E178BBD3AC004B736C4/9F2EE97FD2E4805456C3AE325CCE614DCF5FF57F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR12755_00": {
+        "npCommunicationId": "NPWR12755_00",
+        "trophyTitleName": "State Of Mind",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12755_00_0079EA0729984CBAC883AAC98F5F4BE487A6F06678/25F04851363FA84B3EBB227CEA12FF6C727439C7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 22,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR12756_00": {
+        "npCommunicationId": "NPWR12756_00",
+        "trophyTitleName": "Shadow Tactics",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12756_00_00E037087DF5644133FC72BAAD2990F6AC3E1A012B/34368FC72444D02CAF188D1325C74DEAD3C49285.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR12758_00": {
+        "npCommunicationId": "NPWR12758_00",
+        "trophyTitleName": "DARK ECLIPSE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12758_00_00F2EFD1FF3FB4D6B8C59521088A2A3CF04BFB50EF/E56F5336076F08F614AE06560C854951AC248566.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR12760_00": {
+        "npCommunicationId": "NPWR12760_00",
+        "trophyTitleName": "イースVIII -Lacrimosa of DANA-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12760_00_00328EACD21F8C87B058CCB9B3423A6EC9B3201174/FC03D044375267812810F13743EFAF4ABBB38CD3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 11,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR12762_00": {
+        "npCommunicationId": "NPWR12762_00",
+        "trophyTitleName": "Nurse Love Addiction",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12762_00_00563E2F54C86D9B48AB215BCEED79BE80C01EBB23/CEEDA6F7126EDEBE10BF276D05B8A7BF627BD0E4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 5,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR12764_00": {
+        "npCommunicationId": "NPWR12764_00",
+        "trophyTitleName": "追放選挙",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12764_00_00881446272C196B6C49CEB3305CCECC6621F4A7A3/4C99AA3B3B99A0D03AA5B2E10EB4D717FDAFEFEB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 28,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12765_00": {
+        "npCommunicationId": "NPWR12765_00",
+        "trophyTitleName": "Late Shift",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12765_00_00D7E62B6C42386C003BDC816D485A05CAAD5E2172/903CB0957B8A6114EF1F5CE7A02116B3A6F92EA0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 14,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR12766_00": {
+        "npCommunicationId": "NPWR12766_00",
+        "trophyTitleName": "Windjammers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12766_00_0043852ACD60FD42D4177C1881DF751BA465C05924/8EE06A631F20F6CC46FEBD66CC2859FAEEF79B79.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 12
+        },
+        "service": "trophy"
     }
 }
