@@ -74098,5 +74098,135 @@
             "bronze": 0
         },
         "service": "trophy"
+    },
+    "NPWR12593_00": {
+        "npCommunicationId": "NPWR12593_00",
+        "trophyTitleName": "Grim Legends: The Forsaken Bride",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12593_00_003B71DC25B09DCCCC707753F5189AF9A49EF52242/0CAD5D6B258C1F55DE696D431F7EA2F6B65D43CC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR12595_00": {
+        "npCommunicationId": "NPWR12595_00",
+        "trophyTitleName": "ISLAND",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12595_00_00E97CF045DCEAF911C6F4CFEDE4B788DD6BB14081/2F3A372A4231FBC38C3C870D7E8DDBCB9C025127.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 3,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR12597_00": {
+        "npCommunicationId": "NPWR12597_00",
+        "trophyTitleName": "The Caligula Effect",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12597_00_0030C8026115ED1F34BFA652FFCB445AFAFA77DCAD/685733625A8E4B7B314451AFABDD6A9F57CB34F7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 1,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR12600_00": {
+        "npCommunicationId": "NPWR12600_00",
+        "trophyTitleName": "CloverIsland",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12600_00_00610A859D6EA0A96AE6ED61790DE3B4239C564352/DEB99E2845DE0FFF9CAC713710CBDD9A48A2B00B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR12602_00": {
+        "npCommunicationId": "NPWR12602_00",
+        "trophyTitleName": "薄桜鬼 真改 風華伝",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12602_00_00C83C71583F1B43C83777FD921AF766331D9B53E0/5222620B1AF9D389FE12F52E380A8BACA75E2237.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR12603_00": {
+        "npCommunicationId": "NPWR12603_00",
+        "trophyTitleName": "AKIBA'S BEAT",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12603_00_000EA3E62AABAB0B0D54D515FD97F7590D051D9360/E7441403E91B33F434D65BDBFD4198FC189D52AD.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR12604_00": {
+        "npCommunicationId": "NPWR12604_00",
+        "trophyTitleName": "Koi",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12604_00_0052F67C089FDC0057E86269AAD0123CBC206CF830/4CCFC95DF672E5ED606BF3F0F9DF09DCF9691D8B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR12605_00": {
+        "npCommunicationId": "NPWR12605_00",
+        "trophyTitleName": "The Legend of Dark Witch\n-Chronicle 2D ACT-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12605_00_0024476E664D89B7AEFE53B36A6ABB66E024FDC115/44A28DC28EE2EFA29DFB0FCB9579DF93E3143B5A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR12606_00": {
+        "npCommunicationId": "NPWR12606_00",
+        "trophyTitleName": "Fairune",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12606_00_00B0ADCAFBF3C66994E3165A23F20EAB0921C3368B/8CB3A8F6B8D25614547E3772553CB179C6F41F02.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR12607_00": {
+        "npCommunicationId": "NPWR12607_00",
+        "trophyTitleName": "Get Even",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12607_00_000AB051504F81D1860E60295E5CC5242165C70490/2A5BF9DE0D4C7764FCF6E7FF48F6B4032A771DAB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 28
+        },
+        "service": "trophy"
     }
 }
