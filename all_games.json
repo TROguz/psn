@@ -46928,5 +46928,135 @@
             "bronze": 34
         },
         "service": "trophy"
+    },
+    "NPWR08727_00": {
+        "npCommunicationId": "NPWR08727_00",
+        "trophyTitleName": "Dishonored® Definitive Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08727_00_001AC0FAFC3C048CCE9CFC90E641453DDD52680000/C1DF53A1E75FD8846A6A3473EF48097F81A53FDA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 64
+        },
+        "service": "trophy"
+    },
+    "NPWR08730_00": {
+        "npCommunicationId": "NPWR08730_00",
+        "trophyTitleName": "Siren",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08730_00_00137B78D5E5A66003FBD35157D718D7B6FB184016/E3193454A5D9EECB6E396F3EFFD17EF5BB996A72.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08735_00": {
+        "npCommunicationId": "NPWR08735_00",
+        "trophyTitleName": "Tearaway® Unfolded",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08735_00_00C861F97DAC00F836A3A218EDF2CD11F6DBAFA7FF/9A08895BB75FC7B5A15FA040EEA066BFBCC8EE6E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR08736_00": {
+        "npCommunicationId": "NPWR08736_00",
+        "trophyTitleName": "RISK URBAN ASSAULT",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08736_00_0017C6C46FAB15C05ADC496595E1B0F3A696AEF62F/F9EDCB7D92F1056E5B4BC81EF1483B31DC4E096B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR08737_00": {
+        "npCommunicationId": "NPWR08737_00",
+        "trophyTitleName": "RISK URBAN ASSAULT",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08737_00_001ED8256094CBC0EDA411D7AB33B65396A8C0777F/20710B29FC4124BB5675C27EFA02750FFD3F2806.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR08741_00": {
+        "npCommunicationId": "NPWR08741_00",
+        "trophyTitleName": "Homefront®: The Revolution",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08741_00_0085A8C346E2A47CBD363F21085824CD7310A983AF/1ADFA2C1513562C6B26938F4FC6D055729A71151.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 58
+        },
+        "service": "trophy"
+    },
+    "NPWR08749_00": {
+        "npCommunicationId": "NPWR08749_00",
+        "trophyTitleName": "Beach Buggy Racing",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08749_00_00F1B0B3B98902566B915346928B3F29D49EFE5822/0666F290E2DE6E857947CB1D3462BD30C5BF6537.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR08750_00": {
+        "npCommunicationId": "NPWR08750_00",
+        "trophyTitleName": "Moe Chronicle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08750_00_000E902B229D03593F71D6DD63163BD6D28F340995/34ABD463D48C6CEAD50C9986988E1E516FCF3667.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR08756_00": {
+        "npCommunicationId": "NPWR08756_00",
+        "trophyTitleName": "Type:Rider",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08756_00_00FFB2F51470B25BFC6EBCCE3280B812994986B2E8/D6D3BC212DA32C3BD3DD1DAE7B4C6225BEE2EE6B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08757_00": {
+        "npCommunicationId": "NPWR08757_00",
+        "trophyTitleName": "MXGP2 - The Official Motocross Videogame",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08757_00_004B50E5E6B6C383F9C34BF11F5D2C9985BAC5280A/1BC35E741E5800622D4560A2F5AE173498D4D792.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 14,
+            "bronze": 24
+        },
+        "service": "trophy"
     }
 }
