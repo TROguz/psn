@@ -92558,5 +92558,135 @@
             "bronze": 15
         },
         "service": "trophy"
+    },
+    "NPWR14975_00": {
+        "npCommunicationId": "NPWR14975_00",
+        "trophyTitleName": "Cities: Skylines",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14975_00_005BCE80F64368759DAF2CA21823E78A947DC7C958/4480C91970867CB562F23441430C87727B4D1EF5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 34,
+            "bronze": 76
+        },
+        "service": "trophy"
+    },
+    "NPWR14978_00": {
+        "npCommunicationId": "NPWR14978_00",
+        "trophyTitleName": "Midnight Deluxe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14978_00_00256FFB9BCE66BCFAD6A57CA5CD29290AD4AC37F9/92D09B9FFE384F622811E53DEF86383DDB3633A5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 2,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14979_00": {
+        "npCommunicationId": "NPWR14979_00",
+        "trophyTitleName": "Celeste",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14979_00_0098C9DD8EF168B68C83B9DB7AB7B41B24FC7F820A/DCF08B64B35675B0E9F58170C202767243085720.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 20,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR14980_00": {
+        "npCommunicationId": "NPWR14980_00",
+        "trophyTitleName": "EA SPORTS™ NHL® 19",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14980_00_00672D49C64B3C2C0C672CDD5C5B3719322027BB95/61B3E9A00E4F22788EEC974E4634A39988BFBE06.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR14982_00": {
+        "npCommunicationId": "NPWR14982_00",
+        "trophyTitleName": "Mobile Suit Gundam Battle Operation 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14982_00_0032DB0FAE11B3AACCD785EEDDDD7A4C9D6822086A/417A1D8A61294BAE010B9D8FD9AC51D5E0186A4C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR14985_00": {
+        "npCommunicationId": "NPWR14985_00",
+        "trophyTitleName": "Full Metal Panic! Fight! Who Dares Wins",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14985_00_009FECF58A3DDB141C6758A39947E085DBEE244FE3/9E2EC06E9B565CEE47D42AF6A479B437D6D9ACFB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 4,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR14986_00": {
+        "npCommunicationId": "NPWR14986_00",
+        "trophyTitleName": "Full Metal Panic! Fight! Who Dares Wins",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14986_00_0076B3600AADBEC0D096D9451669CBE6699212996A/F54A95B711ADBAA22DDCA456237D107C320778F2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 4,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR14987_00": {
+        "npCommunicationId": "NPWR14987_00",
+        "trophyTitleName": "Earthlock",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14987_00_00F5366DC5A7A98B475E4ACA0948D7F07E40854184/B814178F7B7559E779973D42E58B1697CAA4545C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR14990_00": {
+        "npCommunicationId": "NPWR14990_00",
+        "trophyTitleName": "Midnight Deluxe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14990_00_00FD270A9CCD8DCAD4C6669AFEBB01D496FA40067C/208D0E21B1E4A4C2EE250A2FDFB1ECE543FF4E3C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 2,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14991_00": {
+        "npCommunicationId": "NPWR14991_00",
+        "trophyTitleName": "Table of Tales: The Crooked Crown",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14991_00_002BC06BD8A199BBD53FA8A12A6C3E367CD48E26B3/97ADB41ABA4F306A9C94C5E64937824F4A83C6B9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 16
+        },
+        "service": "trophy"
     }
 }
