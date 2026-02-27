@@ -41988,5 +41988,135 @@
             "bronze": 21
         },
         "service": "trophy"
+    },
+    "NPWR07935_00": {
+        "npCommunicationId": "NPWR07935_00",
+        "trophyTitleName": "Paperbound",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07935_00_007F857EDB0528C1C9B1BC06702EFC16A6A2DA8E0E/51FF3007415C237B1B0DCD440BB1D257B1E51366.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR07936_00": {
+        "npCommunicationId": "NPWR07936_00",
+        "trophyTitleName": "東京新世録 オペレーションバベル",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07936_00_0077E559803874B4B4966861C7C72199176006C7D8/E4F70A7A7A6A8B117C73F8E3A6179857E3933BFF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 6,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR07939_00": {
+        "npCommunicationId": "NPWR07939_00",
+        "trophyTitleName": "Secret Ponchos",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07939_00_009C9110432FDF3CE6EFE52F83EC429277F3E12494/36BC9EE30DCFCF3AFDB34BB1CD7D894C507FE0B2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR07940_00": {
+        "npCommunicationId": "NPWR07940_00",
+        "trophyTitleName": "AirMech Arena",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07940_00_009145600843258CF85D60EE260A78212A31806843/74CE87C53FB0804E1BAAC5CFD43CB7ED1056DC44.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR07942_00": {
+        "npCommunicationId": "NPWR07942_00",
+        "trophyTitleName": "Ratchet & Clank™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07942_00_006F781DB9EE3B1A96EB9472B006DA21899A916D8F/0A529D9F4EA9446B6946C0CDC64C5DD853DC79D8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR07947_00": {
+        "npCommunicationId": "NPWR07947_00",
+        "trophyTitleName": "百花繚乱エリクシル～Record of Torenia Revival～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07947_00_00547D1B57984CBAF0E1C7450D2212904480FD07A2/72D6E721E4E4565E811FF18196844C79DB6D6EB0.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 3,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR07948_00": {
+        "npCommunicationId": "NPWR07948_00",
+        "trophyTitleName": "토귀전 극",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07948_00_00735C168B30AD4EF4D08B734E0835B94C012FA727/624A887BD469FC25A23D32B4B2109D45A51E650A.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR07949_00": {
+        "npCommunicationId": "NPWR07949_00",
+        "trophyTitleName": "讨鬼传 极",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07949_00_00D3CF9C529A78C0EC2BA8A663B1C5BF7FD03A3C74/191DF6D9091A88918DDF46824087FDBAC57541DF.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR07958_00": {
+        "npCommunicationId": "NPWR07958_00",
+        "trophyTitleName": "TRANSFORMERS: Devastation",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07958_00_00F74F2F56462E59B5C52D6CC87222990C5ABCACD0/DACB5B3F8E0325F9B0CC0BC6A58248FB4E8FF3A9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 22,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR07959_00": {
+        "npCommunicationId": "NPWR07959_00",
+        "trophyTitleName": "風雨来記3トロフィーセット",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07959_00_00D86C72E9D9AD58DD68A5584FFD6309A1D6E8DF22/F9CB6B457BE79F12401A54578D990444D44499A1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
