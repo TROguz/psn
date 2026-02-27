@@ -68378,5 +68378,135 @@
             "bronze": 15
         },
         "service": "trophy"
+    },
+    "NPWR11893_00": {
+        "npCommunicationId": "NPWR11893_00",
+        "trophyTitleName": "√Letter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11893_00_008CF2508A8B0A46F16E052C09AAA55443884A6AAD/330A06DC5322B7C48915B33B4DE74A155F0B8161.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11895_00": {
+        "npCommunicationId": "NPWR11895_00",
+        "trophyTitleName": "Magnet Knight",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11895_00_00D8B69545ABF963EB48E9FE1DB739E509B47DB6D0/AB2E00251EB3C5748301529D0803BF209F2FFBB5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR11897_00": {
+        "npCommunicationId": "NPWR11897_00",
+        "trophyTitleName": "RWBY: Grimm Eclipse",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11897_00_00D4EC4328A52D8A662C58A848E79867655031AD4D/DF485BBE965DB73162792D49BF31F095BE99D7C9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR11898_00": {
+        "npCommunicationId": "NPWR11898_00",
+        "trophyTitleName": "Nubla 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11898_00_00D4E77B553B6012DC05B241BFD5280B4C12C74FCF/DF59D39681AD1C257E784CB58E04A888794B9E09.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 3,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR11899_00": {
+        "npCommunicationId": "NPWR11899_00",
+        "trophyTitleName": "Gunjack",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11899_00_0041D4F7F2660E6BBAD0923933C3999E6CD436009E/DDE78C4C43ED7D83ACEB526DBA9E940C4578AA19.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11901_00": {
+        "npCommunicationId": "NPWR11901_00",
+        "trophyTitleName": "Steredenn",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11901_00_002734700BBA78AF2E4125FC355F86029FF8910355/5B693FE8009DC8ED343F913382F506A228C7524D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR11902_00": {
+        "npCommunicationId": "NPWR11902_00",
+        "trophyTitleName": "God Eater 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11902_00_0077E95816E45B05089A256D51C7782E2F49D5D720/85B7599CB0F973CD5EF3FAD056A97668263D69ED.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR11903_00": {
+        "npCommunicationId": "NPWR11903_00",
+        "trophyTitleName": "KHOLAT -ディアトロフ峠の惨劇-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11903_00_0008015BE79DD63F281195DC191188E8199583B4BF/0ED26FBF882108B039F875F7A789EC0EFA2D5D72.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR11904_00": {
+        "npCommunicationId": "NPWR11904_00",
+        "trophyTitleName": "StarryNights -Helix-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11904_00_00A28D2F3E85739274C1836766964C37838A6212FA/A3BEFD761EC09C8F039E66B6CC44F5C9BC4AAACA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11905_00": {
+        "npCommunicationId": "NPWR11905_00",
+        "trophyTitleName": "Manual Samuel",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11905_00_00BA522E5D64DB24A05EB3D3A58293BF60CE79B165/22F7ED6EE54C6A840205B90801F8F73B4F786961.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 14,
+            "bronze": 15
+        },
+        "service": "trophy"
     }
 }
