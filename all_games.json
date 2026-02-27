@@ -33798,5 +33798,135 @@
             "bronze": 38
         },
         "service": "trophy"
+    },
+    "NPWR06211_00": {
+        "npCommunicationId": "NPWR06211_00",
+        "trophyTitleName": "King Oddball",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06211_00_009B8833E90B7CAC0B39BE3324B33A9C8059539419/18EDA355FACFD10EDD66029A03D0FFB8CCE50429.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR06214_00": {
+        "npCommunicationId": "NPWR06214_00",
+        "trophyTitleName": "MotoGP™14",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06214_00_00E1C45ACE9E7333EB47B83DB327B202C91FDB4E17/D5A89CB23188B1358720F271F0EFD90947429CD3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR06215_00": {
+        "npCommunicationId": "NPWR06215_00",
+        "trophyTitleName": "Super Exploding Zoo!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06215_00_0085D917A22511DFF741344B3273FA7319260DE964/CAECAE0C451C0CC03D498611D7A8488E95415ADC.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR06216_00": {
+        "npCommunicationId": "NPWR06216_00",
+        "trophyTitleName": "MotoGP™14",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06216_00_008E3678552D2FD98C260E9C2A3FBC85DFA10800A8/038237BFD7A459A4A5449C0F55D45E0F5EC0EC4C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR06217_00": {
+        "npCommunicationId": "NPWR06217_00",
+        "trophyTitleName": "MotoGP™14",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06217_00_001A141A6BB958309A8B24DE1FC3476FEFC8302FAF/4AA7EF169F1B4F997CF2BD6DB5A8B73AC4DEDFB5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR06218_00": {
+        "npCommunicationId": "NPWR06218_00",
+        "trophyTitleName": "Towerfall Ascension Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06218_00_002AB7ACA21C7E869D2B3D00FC737BBA63ABB970EA/337E126E90661C2D1FFF17BCDDBEB1B1EE9A8273.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR06221_00": {
+        "npCommunicationId": "NPWR06221_00",
+        "trophyTitleName": "Grand Theft Auto V",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06221_00_00943B71B23B3A5D98EB6CA419684E0F0A07FA8707/A3E52C438318CCEC6346EB2A31DBF31164A95A25.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 59
+        },
+        "service": "trophy"
+    },
+    "NPWR06223_00": {
+        "npCommunicationId": "NPWR06223_00",
+        "trophyTitleName": "Sportsfriends",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06223_00_00FA424541C78E1634592157E927E6E0F0BE944F41/E79C3CC55A09F0A04E8478B28E131EAF5C1E5186.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR06224_00": {
+        "npCommunicationId": "NPWR06224_00",
+        "trophyTitleName": "페어리 펜서 F",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06224_00_0031A6A97135F1B7BE69151013035BDA2A2521193D/88BFA3B779903EFFE825421BF640ADC8E62B685F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR06231_00": {
+        "npCommunicationId": "NPWR06231_00",
+        "trophyTitleName": "Arcana Heart 3 LOVE MAX!!!!!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06231_00_005E33FB9AF703187A3BA755F06C65FD463CD0B2DD/768720E551F679474E152C884442D06F9FB8DA80.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 48
+        },
+        "service": "trophy"
     }
 }
