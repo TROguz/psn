@@ -49138,5 +49138,135 @@
             "bronze": 1
         },
         "service": "trophy"
+    },
+    "NPWR09065_00": {
+        "npCommunicationId": "NPWR09065_00",
+        "trophyTitleName": "なないろリンカネーション",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09065_00_0027289600A1230C022C3AD8194A2E112553CEBF02/A1FE8A382C296E9B381678352E75EDD12CCEE9FB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 4,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR09067_00": {
+        "npCommunicationId": "NPWR09067_00",
+        "trophyTitleName": "Amazing Discoveries In Outer Space",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09067_00_00BAC11CB10E1905E80E406740448F3A271A46BF9B/CECFA339812843FC7BB943C1EB9C34931D55E492.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR09071_00": {
+        "npCommunicationId": "NPWR09071_00",
+        "trophyTitleName": "GRAVITY RUSH™ 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09071_00_008990718F2B1BA12B2C7E4978E9FBF50BB12B4805/6E699293D267403A8A1A36A69E07F3438D2B2DA9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR09072_00": {
+        "npCommunicationId": "NPWR09072_00",
+        "trophyTitleName": "THE KING OF FIGHTERS XIV",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09072_00_009E568465A85D6CCB6F46861C8C9C1774BAE352DB/533A5768A1D6A1CEB9FF55B8239D9CCDF9A5F54F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR09073_00": {
+        "npCommunicationId": "NPWR09073_00",
+        "trophyTitleName": "Gem Legends",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09073_00_000A13F25A7862F263B03673390C771CF8F5D0E693/6E9D0E264707759E847BC1260025CA28A37CD05A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09074_00": {
+        "npCommunicationId": "NPWR09074_00",
+        "trophyTitleName": "ガンダムコンクエストV",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09074_00_002176880827BD4F87FF9AC76F2F531FF9832B1185/FEEDF0CA6B5A70AB2FE66725684686C2706B4841.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09075_00": {
+        "npCommunicationId": "NPWR09075_00",
+        "trophyTitleName": "BAD APPLE WARS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09075_00_00E947D4B8D42B51A5AA5D9C9AD403783E142DD450/D331A1F06D371512EDD5E48C921FB53DDFF7AB85.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR09077_00": {
+        "npCommunicationId": "NPWR09077_00",
+        "trophyTitleName": "Overlord FOE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09077_00_000AA823C6B9F33242898446218BD387957A50CDA6/28966974CE95353422DBEE64C5D4CEE9FE3DAECE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR09078_00": {
+        "npCommunicationId": "NPWR09078_00",
+        "trophyTitleName": "魔界戰記DISGAEA５",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09078_00_00EA5F12CCD98CA851F3CC1599CF51837974BADEB7/BAADF8AF03847F019472789C14BD0DCD0B8B7324.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR09089_00": {
+        "npCommunicationId": "NPWR09089_00",
+        "trophyTitleName": "VVVVVV",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09089_00_007B73559CCCAD2B5754C57236788895CC7FB3362F/C4B3ED221556E1C460148F6F8DE1D8D61B490C34.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
     }
 }
