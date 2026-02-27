@@ -82288,5 +82288,135 @@
             "bronze": 20
         },
         "service": "trophy"
+    },
+    "NPWR13674_00": {
+        "npCommunicationId": "NPWR13674_00",
+        "trophyTitleName": "Danganronpa V3: Killing Harmony",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13674_00_0066A25E1A93E0A9E6FBD9C08DCF7BAFB96C0A45A7/018B39E2834B5E678B3EFD55FE22A1D150B54DFA.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR13676_00": {
+        "npCommunicationId": "NPWR13676_00",
+        "trophyTitleName": "ACA NEOGEO SUPER SIDEKICKS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13676_00_00E4CF839D253CB0DB3864AAC8D450C2505FE642FF/066F1927C586A89B09693A89D19367CB49E58964.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR13678_00": {
+        "npCommunicationId": "NPWR13678_00",
+        "trophyTitleName": "Super Blackjack Battle 2 Turbo Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13678_00_005299A64FE615CE41D3856030FBE669A640D5787D/ADCC3362820964808C20460E5C2B8809BB3ECD07.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 22,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13680_00": {
+        "npCommunicationId": "NPWR13680_00",
+        "trophyTitleName": "Code：Realize ～白銀の奇跡～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13680_00_00594E51D19F07947BC2B7B9C9CC4C1982C5468DA3/C13C39BD8F9E8C2A9E9FFC7F0F8F7B2A8D399C62.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR13681_00": {
+        "npCommunicationId": "NPWR13681_00",
+        "trophyTitleName": "ルフランの地下迷宮と魔女ノ旅団",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13681_00_00A4F44C1C0BBABBF3C1BE05E03C8E47C3832D71F1/DC9DA09CE8F7B07D3CB14FDB6E101EFCDB13BA22.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 53
+        },
+        "service": "trophy"
+    },
+    "NPWR13682_00": {
+        "npCommunicationId": "NPWR13682_00",
+        "trophyTitleName": "Code：Realize ～白銀の奇跡～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13682_00_006F07317FE7C001B1B6E2B6003BD10B5E3E56D9F0/A7474E7651F778F57CAA376F2BF5FC4F44DD170E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR13683_00": {
+        "npCommunicationId": "NPWR13683_00",
+        "trophyTitleName": "3D Mini Golf Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13683_00_00D9B55B0C6023B8F50117360A4BA5A71C3FEC2C08/10B610703E71F790860F3552DDF7FC77358F9B94.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR13686_00": {
+        "npCommunicationId": "NPWR13686_00",
+        "trophyTitleName": "Obduction",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13686_00_006759E512793CCE52CE228A505D86AE5C9C2A3E62/86C6FB9C1FCBCF8F18D908999F514F45C62B0A82.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 1,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR13687_00": {
+        "npCommunicationId": "NPWR13687_00",
+        "trophyTitleName": "The Mummy Demastered",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13687_00_0056623A091E5808831A35C8CE67AA8E22727631A9/A7AAE93415A7976794378A4C4FFB8F47DA20D777.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR13688_00": {
+        "npCommunicationId": "NPWR13688_00",
+        "trophyTitleName": "人気声優のつくりかた",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13688_00_00B146000D592CE18C6C62936B5CE000C471852B03/EB91A1D4BEAC1356DD46738071B4D07FBB758806.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 2,
+            "bronze": 0
+        },
+        "service": "trophy"
     }
 }
