@@ -66038,5 +66038,135 @@
             "bronze": 6
         },
         "service": "trophy"
+    },
+    "NPWR11591_00": {
+        "npCommunicationId": "NPWR11591_00",
+        "trophyTitleName": "Korix",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11591_00_00E20D2ECFFB9C98F911B63F31D772647604666AD4/234D85112DE85BF238441C05DA5D8DFFDA421548.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR11592_00": {
+        "npCommunicationId": "NPWR11592_00",
+        "trophyTitleName": "Winkings Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11592_00_00A23C4AB1AD3D61EF8CA80AFC3B6B71F8AF713320/5826988F81885EE11EB4E31AAF71673879681EED.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 15,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR11594_00": {
+        "npCommunicationId": "NPWR11594_00",
+        "trophyTitleName": "Darkest Dungeon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11594_00_002956A58F38BBF315A433C12A2D97098963A82D35/F8D70845A18AFC6005443A7F493A72D54BBF1F66.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR11595_00": {
+        "npCommunicationId": "NPWR11595_00",
+        "trophyTitleName": "Call of Duty®: WWII",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11595_00_00F101528D668EF21B72E363608FEB3858F77AD165/31356DA924E250168437704E9D2978C6B9AEF54F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 22,
+            "bronze": 66
+        },
+        "service": "trophy"
+    },
+    "NPWR11596_00": {
+        "npCommunicationId": "NPWR11596_00",
+        "trophyTitleName": "Siegecraft Commander",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11596_00_00BE43EBD06E74682505F82CC485CDDBB52C102DB3/CB3198FE4C7AD32DDF0D74084C99E114BA6479D5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR11597_00": {
+        "npCommunicationId": "NPWR11597_00",
+        "trophyTitleName": "THE LEGEND OF HEROES: TRAILS OF COLD STEEL II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11597_00_00CA65F5DF4ACCA81DB94A2FC7ED68B4DFAA552081/BDD052471743ED77CE2167B28AA7FCD1B9E6BE95.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR11599_00": {
+        "npCommunicationId": "NPWR11599_00",
+        "trophyTitleName": "The Onion Knights\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11599_00_0093AA88C50F7F3D1C5485FEE36D57065451604E3C/4E5C7BA076846786838934EE9F0355561FD90030.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR11600_00": {
+        "npCommunicationId": "NPWR11600_00",
+        "trophyTitleName": "SONIC FORCES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11600_00_0034B28756434970DC73A42C48945E0686BB41C601/73C512E32FA858876377C084F701EF74A74CC719.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR11601_00": {
+        "npCommunicationId": "NPWR11601_00",
+        "trophyTitleName": "Arcade Archives Ark Area",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11601_00_0028291FBDA631A8494419956875F883BEF426C821/8F9AD785C34EA3D3AA60995FF103D5B1389A46A6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR11602_00": {
+        "npCommunicationId": "NPWR11602_00",
+        "trophyTitleName": "Arcade Archives Atomic Robo-Kid",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11602_00_00793F153EDFBF08262A218C5043BF6EC8F2407A73/E972392AA536ABBA4F8EEA7E71ECBF0E7AC4D12E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
     }
 }
