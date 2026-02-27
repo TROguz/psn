@@ -43808,5 +43808,135 @@
             "bronze": 35
         },
         "service": "trophy"
+    },
+    "NPWR08227_00": {
+        "npCommunicationId": "NPWR08227_00",
+        "trophyTitleName": "真・三國無雙７ Empires",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08227_00_00985292A340D6A29A22652F516819DA0934DFE08C/56BA6089D2C022F1D73DCE92A3DAA5F823712938.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR08228_00": {
+        "npCommunicationId": "NPWR08228_00",
+        "trophyTitleName": "DYNASTY WARRIORS 8 Empires",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08228_00_0082B1FE22FF25960996186DFE96AB33544691D89D/A7B18E353BF3BEE6773D4AC41EBFDE48A2FBC524.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR08230_00": {
+        "npCommunicationId": "NPWR08230_00",
+        "trophyTitleName": "パルフェ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08230_00_0072AC70668835D25B1BEF52E73C99F9AA753686AF/4595D6976799EB5EFD4D2FAF0702B036CB745FAD.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR08231_00": {
+        "npCommunicationId": "NPWR08231_00",
+        "trophyTitleName": "Nights of Azure",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08231_00_00F49F099175E25DF6BF8CBCB9627A9CD82021B8B6/A5D33A92B8516B641499B90A6824FD3EEC11EED4.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR08234_00": {
+        "npCommunicationId": "NPWR08234_00",
+        "trophyTitleName": "Adventure Time: Finn and Jake Investigations",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08234_00_00218AC4C9637E7714883B81868A78EDA744B18D8F/8C61322EE36244A1A61D8D1A91C28DCFF5435257.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 17,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR08236_00": {
+        "npCommunicationId": "NPWR08236_00",
+        "trophyTitleName": "噬神者２　狂怒解放",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08236_00_00256E9D3D117B7D1C2570445A0BEBEAF97CE3B5AC/677837ADF8E439FECC0D1B08FBA6F7F31FEB2C84.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR08242_00": {
+        "npCommunicationId": "NPWR08242_00",
+        "trophyTitleName": "学園ヘヴン BOY'S LOVE SCRAMBLE! ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08242_00_00EAB4392F6F231A57D5B7CD72838578792C1F1C07/02310AC6A28D55D5ACA6F59ED480AC4F17F266EE.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR08243_00": {
+        "npCommunicationId": "NPWR08243_00",
+        "trophyTitleName": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08243_00_0046C39336C207670ABA698A3DC265C52DE035962A/380C67C458A13260A9499D8F711064C0E642248B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR08249_00": {
+        "npCommunicationId": "NPWR08249_00",
+        "trophyTitleName": "BRAWL",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08249_00_00B8BC663232CD2EDC88AE86445E3E66D55F50D559/C64A1E037044A01261A238E9501F8E0D4A5E30B0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR08250_00": {
+        "npCommunicationId": "NPWR08250_00",
+        "trophyTitleName": "동경신세록 Operation Abyss",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08250_00_00E08A9ACB8F9E338B1FF9A3F3C6F5F442B888539E/7B3D770967961834FB0B9A63594B8A77B44923B2.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 28
+        },
+        "service": "trophy"
     }
 }
