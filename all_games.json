@@ -85408,5 +85408,135 @@
             "bronze": 12
         },
         "service": "trophy"
+    },
+    "NPWR14093_00": {
+        "npCommunicationId": "NPWR14093_00",
+        "trophyTitleName": "となりに彼女のいる幸せ ～Two Farce～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14093_00_00F0E96CD8A48679DE36CB2C818C132B4DE3AF09A9/4946D4450CEDEB1EB0A2C0D816735D5C3FDDCFAC.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR14101_00": {
+        "npCommunicationId": "NPWR14101_00",
+        "trophyTitleName": "DEMON GAZE II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14101_00_00E4F7E77D3B35D4DD21D5A0E6EF89265293B5A12C/502233CC85225DE08B0BBE3A15C422294F199930.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR14103_00": {
+        "npCommunicationId": "NPWR14103_00",
+        "trophyTitleName": "Dead Ahead: Zombie Warfare",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14103_00_00801B37C6DAD4D3845D1D0D8A2B9AB076B6DC42D9/8734A56DAD65640074559F6FB54F12F312D0CE1C.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14105_00": {
+        "npCommunicationId": "NPWR14105_00",
+        "trophyTitleName": "DEMON GAZE II Global Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14105_00_00B8ED57642186294243EEF6B11F3463AE962122BC/8E537DDE05DCE56308C8A67D17EB8980F5DF04A3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR14106_00": {
+        "npCommunicationId": "NPWR14106_00",
+        "trophyTitleName": "Mini-Mech Mayhem",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14106_00_002378413F32FD587282D303DA0B78C5D354BD127B/67C416E8B0F18B333EE239A6CAA8F9E2B2D82F36.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 4,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR14109_00": {
+        "npCommunicationId": "NPWR14109_00",
+        "trophyTitleName": "Mecho Tales",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14109_00_00CC2F6D2F403D85679C158ADC520E81A6DF75A0EE/5177D74F4D5683810F6D751C4937AA48D13FDDB6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14110_00": {
+        "npCommunicationId": "NPWR14110_00",
+        "trophyTitleName": "Mecho Tales",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14110_00_002705969AFBDC62A6EE02E14A4AFA90948C4E834D/99CCC5B944EFED96B631E2B50E93A82BF0B81BAC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14111_00": {
+        "npCommunicationId": "NPWR14111_00",
+        "trophyTitleName": "エフェメラル -FANTASY ON DARK-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14111_00_00BE6F818A77AA4A174F546682B581654D10553ED5/A856EAE84CA58BF978221AD37E5DA89B72F60A2E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 4,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR14112_00": {
+        "npCommunicationId": "NPWR14112_00",
+        "trophyTitleName": "PixelJunk Monsters 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14112_00_0059D53886D56FA99FF1CE715136AADE99C5B9B935/65B0C605E4001065A2D52D55CA165AE511A63A97.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 12,
+            "silver": 2,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR14113_00": {
+        "npCommunicationId": "NPWR14113_00",
+        "trophyTitleName": "Aquatic Adventure's trophy set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14113_00_00077152F096F1F7FFFC9B0B0F749D7745ACE7EAD9/C826B0B0D93D579725436683219241F62506F540.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 11,
+            "bronze": 3
+        },
+        "service": "trophy"
     }
 }
