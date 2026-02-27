@@ -71368,5 +71368,135 @@
             "bronze": 13
         },
         "service": "trophy"
+    },
+    "NPWR12262_00": {
+        "npCommunicationId": "NPWR12262_00",
+        "trophyTitleName": "Shadowgate",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12262_00_00289200E92AB8C28DF02FCE204773CC6BE906E7E5/6C101E2D990F71391C7CB14CA5EB6662CE91C8C1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 56
+        },
+        "service": "trophy"
+    },
+    "NPWR12263_00": {
+        "npCommunicationId": "NPWR12263_00",
+        "trophyTitleName": "RBI Baseball 17",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12263_00_004F872BA43564B873C8444EAC9FD02E5D6F9AD9B7/A31943CFC2A2CBCE2F3661FA2D24FE74079A43D5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR12265_00": {
+        "npCommunicationId": "NPWR12265_00",
+        "trophyTitleName": "Siralim 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12265_00_008B61CA7C38284A18A8F84A003ECB42AA0B86EE04/44E19F22933511142D35377B0D4E92750694666E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR12266_00": {
+        "npCommunicationId": "NPWR12266_00",
+        "trophyTitleName": "Earthlock: Festival of Magic",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12266_00_00B35F239A405F29E902CF4916C63587AB57B1F28D/8AAAF934C9344BE582B1D8E1FE2342552FFBD169.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR12270_00": {
+        "npCommunicationId": "NPWR12270_00",
+        "trophyTitleName": "DJMAX RESPECT",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12270_00_00518EB21CC2790A4C1C4080DE4A5DC44D3AF90974/56A36C7DF813CB741291DD49BE0A4FF53E3758E4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 17,
+            "silver": 27,
+            "bronze": 83
+        },
+        "service": "trophy"
+    },
+    "NPWR12273_00": {
+        "npCommunicationId": "NPWR12273_00",
+        "trophyTitleName": "VOLUME VR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12273_00_00A8204E5A6EB6281376D1FA01EA9797B41ADABCD9/E2FE2390E13C3B1EE09A3113884BDC137A579787.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR12275_00": {
+        "npCommunicationId": "NPWR12275_00",
+        "trophyTitleName": "Fortnite",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12275_00_00832C145FFFB98F0E046033939DDF80F4379651B5/835174B51A4CE2BF6FE090F33BDAE01D523943F0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR12276_00": {
+        "npCommunicationId": "NPWR12276_00",
+        "trophyTitleName": "Super Mega Baseball 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12276_00_0047A4FDA72EB53C3F9601C6344C8034C8CB786625/1D1B3AA423C43977B9998984C34FC338D1A64B7B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR12278_00": {
+        "npCommunicationId": "NPWR12278_00",
+        "trophyTitleName": "Neptune Flux",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12278_00_006ECECFD3D98FE3C57F59C8C52A7E8B3A31A7A92A/6C0167EA929910FACF22BB063D6D2785E599D04C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR12279_00": {
+        "npCommunicationId": "NPWR12279_00",
+        "trophyTitleName": "Plutobi: The Dwarf Planet Tales",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12279_00_0084931871E5BE6172BB521C2B0167D11D0B41A339/0A60ECB3D1AB2D5A1E4D93E6FA5F97250091DC1E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 12
+        },
+        "service": "trophy"
     }
 }
