@@ -21448,5 +21448,135 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR03640_00": {
+        "npCommunicationId": "NPWR03640_00",
+        "trophyTitleName": "Big Sky Infinity™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03640_00_00D34D6E06AB415D1C8257289F627070466A7AB306/7F9AB8ACDA4328F9F18F14565354E61DBF27D3E8.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR03641_00": {
+        "npCommunicationId": "NPWR03641_00",
+        "trophyTitleName": "Pro Foosball",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03641_00_0074E1549D20D0DEF1C28487EA103D7DC6096FDDC8/1B75C069B8CB3C04047536134296ACE2AB1E39BF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 5,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR03642_00": {
+        "npCommunicationId": "NPWR03642_00",
+        "trophyTitleName": "Disney Epic Mickey 2: The Power of Two",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03642_00_00F5CB24CFE6E28BC7789DB3BBB843CCBC879E8B4D/F740BB6736DCF70C52255CF9E9825BC7B4BA897D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR03643_00": {
+        "npCommunicationId": "NPWR03643_00",
+        "trophyTitleName": "Ys セルセタの樹海",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03643_00_005189BAF715816CDCCF22BDC443A539078FD35C17/6DF93FDC804BE513AD7A17AFB509742A708F3DAD.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR03649_00": {
+        "npCommunicationId": "NPWR03649_00",
+        "trophyTitleName": "OKAMI HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03649_00_00FBBBB14A011FDC75F2A012108844AB41CF68379D/36F68F3503DF5939292DF8F7C0F0F0849E2E36FC.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR03650_00": {
+        "npCommunicationId": "NPWR03650_00",
+        "trophyTitleName": "Wonderbook™: Book of Spells",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03650_00_00127B11C52E4B4AD550BA53D4AB3488245BD9120B/E5FDE90E19EE2C0C220968F63D77217703E95B41.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR03652_00": {
+        "npCommunicationId": "NPWR03652_00",
+        "trophyTitleName": "Legasista",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03652_00_006EC2601BCB3ECED06F313DD238D5C5CCC6028C64/7BA1C8CA352C2940A96128D172D3CBB0BC9AEC8F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 11,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR03654_00": {
+        "npCommunicationId": "NPWR03654_00",
+        "trophyTitleName": "Magic 2014",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03654_00_004606FDFAC711171A24270680DD66C24D8A0D65E9/29C05B8C2AA221ED9B544C510E7145C3054FD7C9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR03657_00": {
+        "npCommunicationId": "NPWR03657_00",
+        "trophyTitleName": "Skylanders Giants",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03657_00_009A2ACA1565FFC46579CF745D07CEFCB1CE61931D/178A28BB35C68168C80A80429421495442330AE3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR03658_00": {
+        "npCommunicationId": "NPWR03658_00",
+        "trophyTitleName": "ネクレボ FP技能検定試験２級",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03658_00_000804E867DF13D78665B5D91D3A8729E835A45D89/EB6C1D251A530E44881C510634E0D890B6793456.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
     }
 }
