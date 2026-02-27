@@ -46018,5 +46018,135 @@
             "bronze": 12
         },
         "service": "trophy"
+    },
+    "NPWR08583_00": {
+        "npCommunicationId": "NPWR08583_00",
+        "trophyTitleName": "The Fall Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08583_00_00774BF4D6CADC87364E7DC810A95E350C63231232/43ACA535D7E8D1448A0478A325B8F05A311EB4B6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR08584_00": {
+        "npCommunicationId": "NPWR08584_00",
+        "trophyTitleName": "Tales of Zestiria",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08584_00_00482A039D5A75444D439049B6506F5E4C6B4D4AF0/96489C480B0C0A1EA6BB8460D78E429B69141992.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR08588_00": {
+        "npCommunicationId": "NPWR08588_00",
+        "trophyTitleName": "Primal™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08588_00_008F90D63FCDB140F7B4E6087116E570DBE446CD94/7BD5A2A67D5DA3135F9393EFF4114CEB749D254A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 6,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR08589_00": {
+        "npCommunicationId": "NPWR08589_00",
+        "trophyTitleName": "Twisted Metal: Black™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08589_00_00FF89EDFF0E86A3E5FB9AFDED796CD6B0EBFCC968/8F072E793C9A18531B10593CC74BB574C4D1337E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR08590_00": {
+        "npCommunicationId": "NPWR08590_00",
+        "trophyTitleName": "Omega Quintet",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08590_00_00473CA0BE3D3BF5448E906C159046F82829D43EC9/89FEFFD434ECE5F6E2F8E9356D6D3B07AE7D5ECE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR08591_00": {
+        "npCommunicationId": "NPWR08591_00",
+        "trophyTitleName": "Tropico 5",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08591_00_006A692FB7C4108D41FEB1538B35CC27509B10B0E6/1E23F1B95C379030CCF96DA2105CE35FB4119E6F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 21,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR08593_00": {
+        "npCommunicationId": "NPWR08593_00",
+        "trophyTitleName": "That's You!™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08593_00_007F1CCB56798CE9719EEB2AADFF00BE23A6EE9592/D38CDC3B34BF653D08A0508C85E0C8C6E27424FA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR08594_00": {
+        "npCommunicationId": "NPWR08594_00",
+        "trophyTitleName": "Slender: The Arrival",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08594_00_0089827DF105AE969C12DBEA31624DA23599D2666A/27BDF3792A435513480849801E5285ACF12BA749.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR08596_00": {
+        "npCommunicationId": "NPWR08596_00",
+        "trophyTitleName": "Omega Quintet",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08596_00_0014C708DA6894D62B88DFE3BED2AAB5F01B65D325/2C38E454D4ED302EEDA7A693A85FE304D7F90E06.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR08597_00": {
+        "npCommunicationId": "NPWR08597_00",
+        "trophyTitleName": "EA SPORTS™ NHL® 16",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08597_00_003408213765838ECD553EDD3FDD991ECFAF25F933/2051D574A4D028F605F44C26EEBE14ADC984976A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 12,
+            "bronze": 36
+        },
+        "service": "trophy"
     }
 }
