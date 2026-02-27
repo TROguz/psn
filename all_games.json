@@ -41208,5 +41208,135 @@
             "bronze": 49
         },
         "service": "trophy"
+    },
+    "NPWR07791_00": {
+        "npCommunicationId": "NPWR07791_00",
+        "trophyTitleName": "グリザイアの楽園 -LE EDEN DE LA GRISAIA-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07791_00_00B7975F357B2E13D73D588D9EAD112AE358D27CF3/91EFDF172F7EC2BC691F119F4B3266BAFB20E6EE.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 11,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR07792_00": {
+        "npCommunicationId": "NPWR07792_00",
+        "trophyTitleName": "ひとつ飛ばし恋愛Ｖ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07792_00_00F9C8099E964A90DB0CCEF451E6EB8E8AD2B75DEB/7C979201D5FB1D9589CDA28F10299E3E5778B300.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR07793_00": {
+        "npCommunicationId": "NPWR07793_00",
+        "trophyTitleName": "In Space We Brawl",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07793_00_00514309A8FB140C151B80689A5241257A1B38203A/8B30772BC64E1FE63ADF1E2EBF3C279A8E8292F3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR07794_00": {
+        "npCommunicationId": "NPWR07794_00",
+        "trophyTitleName": "In Space We Brawl",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07794_00_001EB3ECC413F536B8B358F0FDF534801954796234/33BAE66ECE8A088F4A9E11E834DD53204DBA4513.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR07797_00": {
+        "npCommunicationId": "NPWR07797_00",
+        "trophyTitleName": "Sparkle 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07797_00_00973F45EFE68380F7202AB73658794668C692A316/60A29BF38681520484D008B38394D939D4215F64.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR07801_00": {
+        "npCommunicationId": "NPWR07801_00",
+        "trophyTitleName": "Chariot",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07801_00_00309A826A5CE0855A6AF8E5100E02667F842C24B6/7E09F4B63659FE63A31C628560B35F7E2305D862.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 19,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR07804_00": {
+        "npCommunicationId": "NPWR07804_00",
+        "trophyTitleName": "第３次スーパーロボット大戦Ｚ　天獄篇",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07804_00_0018B8A92CE6C4823BB58E1C574DC5CBFA127A9E98/A00A070264BB7B7EEACC78E296166D7B6AA0CBE6.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR07806_00": {
+        "npCommunicationId": "NPWR07806_00",
+        "trophyTitleName": "Wizardry Labyrinth of Lost Souls",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07806_00_00303D3196C1D9156D10EE2F70A76F187CDC066BCD/83DE7DC82F47BE3DEAE84FA6E33AA82BEC075A74.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR07807_00": {
+        "npCommunicationId": "NPWR07807_00",
+        "trophyTitleName": "Wizardry 囚われし亡霊の街　Scenario1",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07807_00_000C9A836B34E68ED11A8D711FE193D5A11712126D/2709B853C61B36B42AA4AC7ED7ECFF1C1416FCBB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR07810_00": {
+        "npCommunicationId": "NPWR07810_00",
+        "trophyTitleName": "Mortal Kombat X Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07810_00_0054969164A03E16BAADD6EB211B468C189A8ED02D/1C92481E3F14B72FE8ECBC4706B36FABA921AB5E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 67
+        },
+        "service": "trophy"
     }
 }
