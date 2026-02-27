@@ -73448,5 +73448,135 @@
             "bronze": 39
         },
         "service": "trophy"
+    },
+    "NPWR12530_00": {
+        "npCommunicationId": "NPWR12530_00",
+        "trophyTitleName": "無雙☆群星大會串",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12530_00_002DAD8A9A1ED22393D715671DF18EE65A7E412CB4/2A3616B0301FE0F6DD107EC9EE082C1A3C96CB6A.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 2,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR12532_00": {
+        "npCommunicationId": "NPWR12532_00",
+        "trophyTitleName": "ACA NEOGEO BIG TOURNAMENT GOLF",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12532_00_009BA357AB5247E1C8906E7F2C6AC3F27C81448902/95E2FF6D0DA1BBD1E3A920F82434DF0E0DC8C39F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12533_00": {
+        "npCommunicationId": "NPWR12533_00",
+        "trophyTitleName": "「戦極姫７～戦雲貫く紅蓮の遺志～」トロフィーセット",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12533_00_0031AAA71FA957D4CCC2B611612A067FF3FE9B4E50/472FC489EB83742FC59FD83440232BD113D2622C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 19,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR12534_00": {
+        "npCommunicationId": "NPWR12534_00",
+        "trophyTitleName": "DEMON GAZE II Global Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12534_00_00EDF5F53ED2F0EDCD8964F0A38994C89990EB5B81/36637676C36E671E66965D34518F199D79A595BE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR12535_00": {
+        "npCommunicationId": "NPWR12535_00",
+        "trophyTitleName": "Enigmatis: The Ghosts of Maple Creek",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12535_00_0027BC22C0AF57C759F969108CCA2597C0BE90DABC/12EE53B7F4D48BCDB6BE5B199F54761A4276EBBB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR12537_00": {
+        "npCommunicationId": "NPWR12537_00",
+        "trophyTitleName": "NeuroVoider",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12537_00_00B44CBC477AB647EF64FC9A5B4636E6E3AFEDE85C/FB878773F466ECF91DCD2C41D3A183A35CA70599.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 7,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR12538_00": {
+        "npCommunicationId": "NPWR12538_00",
+        "trophyTitleName": "Steredenn",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12538_00_007DD498A60A0D4C006D60C5A67BCFCCD6C4447CC1/0EBB8BE618C05B6FD1E78D8CC7A0D1CA87B5F604.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR12540_00": {
+        "npCommunicationId": "NPWR12540_00",
+        "trophyTitleName": "Kona",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12540_00_00764A430B66DB6E764EDECFA6A45E14F008EAF9AE/CD17A2486EA46DE5FC6D9F2EF216D97C4A3ACAC5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR12541_00": {
+        "npCommunicationId": "NPWR12541_00",
+        "trophyTitleName": "The Silver Case HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12541_00_0011B970E1AEE6246B4A40C36B1EE2C9369108182E/DADA2E599AFA52F45EFD228FF9D3116FE3948F55.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR12542_00": {
+        "npCommunicationId": "NPWR12542_00",
+        "trophyTitleName": "Ultrawings",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12542_00_00C0EFFE907F7A504D79069296B01FF0193BA2375E/9EBE556618A8A1BB167B017B638D546D2E1E4870.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
     }
 }
