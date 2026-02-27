@@ -44848,5 +44848,135 @@
             "bronze": 9
         },
         "service": "trophy"
+    },
+    "NPWR08377_00": {
+        "npCommunicationId": "NPWR08377_00",
+        "trophyTitleName": "Bloxiq Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08377_00_004F0FF69A34C75819A2CD53F7CA24AEE9C284E1C8/C6582362D5D33F032D5713F1A6DB5217200BB29C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR08378_00": {
+        "npCommunicationId": "NPWR08378_00",
+        "trophyTitleName": "SUPER STREET FIGHTER Ⅳ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08378_00_0018F3FCEA5B3F3FDC387F653A5D776DAD5D3A9A38/EF5C5E46D72E40CC2F4575DA10B994517C360A32.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR08380_00": {
+        "npCommunicationId": "NPWR08380_00",
+        "trophyTitleName": "Chariot",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08380_00_00F953BD0641880336F975800BE79D5B9F692D232D/AFEC341761E94AFD7C287C6B670BE1369B95D81F.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 22,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR08383_00": {
+        "npCommunicationId": "NPWR08383_00",
+        "trophyTitleName": "Rollercoaster Dreams",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08383_00_00BA1D52AA3C794BC09413027AC1DA4F09A59101E4/98692ED7CAE32F46C8235598895CD4A0EDDC5DC6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR08384_00": {
+        "npCommunicationId": "NPWR08384_00",
+        "trophyTitleName": "南瓜冒险家",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08384_00_004129FF9902FBD4043DB81458C3AD8B50D74D089C/B273FC08B2865B08515ADB21EC3D114383A79182.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR08385_00": {
+        "npCommunicationId": "NPWR08385_00",
+        "trophyTitleName": "ToHeart2ダンジョントラベラーズ トロフィー",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08385_00_00FA7731A6AD4F96A6BA315E67AE03FA027DD8526C/5F2860DEC174C0C8B71DEBD2768AE551DFBDC253.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 16,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR08388_00": {
+        "npCommunicationId": "NPWR08388_00",
+        "trophyTitleName": "Shovel Knight: Treasure Trove",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08388_00_00401FC091E5E04B06523C97EEA97D8B9A67D88665/B75CB0AABDEFE660D53C5B70FE470A96EC528D66.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR08392_00": {
+        "npCommunicationId": "NPWR08392_00",
+        "trophyTitleName": "Adventure Time: Finn and Jake Investigations",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08392_00_00DBAB9CA082B5A725B4B7D80A6AB5BB59CD6A8931/31EEE7E1C9637F30C77BA99C1C2774DB5BE2A661.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 17,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR08402_00": {
+        "npCommunicationId": "NPWR08402_00",
+        "trophyTitleName": "Weird Park: The Final Show",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08402_00_00C0D586892B1E6655A467A5105515B3D9971219ED/133BFEA9B3457A8CBB039D0255A7C169F54B33A6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08403_00": {
+        "npCommunicationId": "NPWR08403_00",
+        "trophyTitleName": "Cosmophony",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08403_00_00BBE79CC4E4A4DA363885B64C062889B394DC3115/D0E65346BFFB7BCB692A51BA90F8772D201C30A3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
