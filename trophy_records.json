@@ -99,7 +99,8 @@
             "earnedDateTime": "2026-02-07T13:50:07Z",
             "trophyRare": 3,
             "trophyEarnedRate": "95.5",
-            "gameName": "LASSO CATCH"
+            "gameName": "LASSO CATCH",
+            "global_index": 126
         },
         {
             "trophyId": 1,
@@ -113,7 +114,8 @@
             "earnedDateTime": "2026-02-07T13:42:28Z",
             "trophyRare": 3,
             "trophyEarnedRate": "100.0",
-            "gameName": "LASSO CATCH"
+            "gameName": "LASSO CATCH",
+            "global_index": 116
         },
         {
             "trophyId": 2,
@@ -127,7 +129,8 @@
             "earnedDateTime": "2026-02-07T13:44:32Z",
             "trophyRare": 3,
             "trophyEarnedRate": "99.5",
-            "gameName": "LASSO CATCH"
+            "gameName": "LASSO CATCH",
+            "global_index": 118
         },
         {
             "trophyId": 3,
@@ -141,7 +144,8 @@
             "earnedDateTime": "2026-02-07T13:45:25Z",
             "trophyRare": 3,
             "trophyEarnedRate": "98.4",
-            "gameName": "LASSO CATCH"
+            "gameName": "LASSO CATCH",
+            "global_index": 120
         },
         {
             "trophyId": 4,
@@ -155,7 +159,8 @@
             "earnedDateTime": "2026-02-07T13:45:56Z",
             "trophyRare": 3,
             "trophyEarnedRate": "99.0",
-            "gameName": "LASSO CATCH"
+            "gameName": "LASSO CATCH",
+            "global_index": 122
         },
         {
             "trophyId": 5,
@@ -169,7 +174,8 @@
             "earnedDateTime": "2026-02-07T13:47:06Z",
             "trophyRare": 3,
             "trophyEarnedRate": "97.7",
-            "gameName": "LASSO CATCH"
+            "gameName": "LASSO CATCH",
+            "global_index": 124
         },
         {
             "trophyId": 6,
@@ -183,7 +189,8 @@
             "earnedDateTime": "2026-02-07T13:49:45Z",
             "trophyRare": 3,
             "trophyEarnedRate": "95.9",
-            "gameName": "LASSO CATCH"
+            "gameName": "LASSO CATCH",
+            "global_index": 125
         },
         {
             "trophyId": 7,
@@ -197,7 +204,8 @@
             "earnedDateTime": "2026-02-07T13:42:40Z",
             "trophyRare": 3,
             "trophyEarnedRate": "99.9",
-            "gameName": "LASSO CATCH"
+            "gameName": "LASSO CATCH",
+            "global_index": 117
         },
         {
             "trophyId": 8,
@@ -211,7 +219,8 @@
             "earnedDateTime": "2026-02-07T13:50:07Z",
             "trophyRare": 3,
             "trophyEarnedRate": "96.4",
-            "gameName": "LASSO CATCH"
+            "gameName": "LASSO CATCH",
+            "global_index": 127
         },
         {
             "trophyId": 9,
@@ -225,7 +234,8 @@
             "earnedDateTime": "2026-02-07T13:44:52Z",
             "trophyRare": 3,
             "trophyEarnedRate": "99.2",
-            "gameName": "LASSO CATCH"
+            "gameName": "LASSO CATCH",
+            "global_index": 119
         },
         {
             "trophyId": 10,
@@ -239,7 +249,8 @@
             "earnedDateTime": "2026-02-07T13:45:52Z",
             "trophyRare": 3,
             "trophyEarnedRate": "98.7",
-            "gameName": "LASSO CATCH"
+            "gameName": "LASSO CATCH",
+            "global_index": 121
         },
         {
             "trophyId": 11,
@@ -253,7 +264,8 @@
             "earnedDateTime": "2026-02-07T13:46:47Z",
             "trophyRare": 3,
             "trophyEarnedRate": "98.3",
-            "gameName": "LASSO CATCH"
+            "gameName": "LASSO CATCH",
+            "global_index": 123
         }
     ],
     "NPWR47982_00": [
@@ -269,7 +281,8 @@
             "earnedDateTime": "2026-02-07T13:37:56Z",
             "trophyRare": 3,
             "trophyEarnedRate": "86.6",
-            "gameName": "Bubbelsche Deluxe"
+            "gameName": "Bubbelsche Deluxe",
+            "global_index": 114
         },
         {
             "trophyId": 4,
@@ -283,7 +296,8 @@
             "earnedDateTime": "2026-02-07T13:35:12Z",
             "trophyRare": 3,
             "trophyEarnedRate": "84.4",
-            "gameName": "Bubbelsche Deluxe"
+            "gameName": "Bubbelsche Deluxe",
+            "global_index": 113
         },
         {
             "trophyId": 7,
@@ -297,7 +311,8 @@
             "earnedDateTime": "2026-02-07T13:38:42Z",
             "trophyRare": 3,
             "trophyEarnedRate": "78.5",
-            "gameName": "Bubbelsche Deluxe"
+            "gameName": "Bubbelsche Deluxe",
+            "global_index": 115
         }
     ],
     "NPWR29496_00": [
@@ -313,7 +328,8 @@
             "earnedDateTime": "2026-02-06T14:36:22Z",
             "trophyRare": 3,
             "trophyEarnedRate": "94.9",
-            "gameName": "The Voices Stories Trophies"
+            "gameName": "The Voices Stories Trophies",
+            "global_index": 111
         },
         {
             "trophyId": 1,
@@ -327,7 +343,8 @@
             "earnedDateTime": "2026-02-06T14:29:28Z",
             "trophyRare": 3,
             "trophyEarnedRate": "98.9",
-            "gameName": "The Voices Stories Trophies"
+            "gameName": "The Voices Stories Trophies",
+            "global_index": 101
         },
         {
             "trophyId": 2,
@@ -341,7 +358,8 @@
             "earnedDateTime": "2026-02-06T14:34:35Z",
             "trophyRare": 3,
             "trophyEarnedRate": "97.5",
-            "gameName": "The Voices Stories Trophies"
+            "gameName": "The Voices Stories Trophies",
+            "global_index": 104
         },
         {
             "trophyId": 3,
@@ -355,7 +373,8 @@
             "earnedDateTime": "2026-02-06T14:35:11Z",
             "trophyRare": 3,
             "trophyEarnedRate": "96.1",
-            "gameName": "The Voices Stories Trophies"
+            "gameName": "The Voices Stories Trophies",
+            "global_index": 106
         },
         {
             "trophyId": 4,
@@ -369,7 +388,8 @@
             "earnedDateTime": "2026-02-06T14:35:30Z",
             "trophyRare": 3,
             "trophyEarnedRate": "96.4",
-            "gameName": "The Voices Stories Trophies"
+            "gameName": "The Voices Stories Trophies",
+            "global_index": 108
         },
         {
             "trophyId": 5,
@@ -383,7 +403,8 @@
             "earnedDateTime": "2026-02-06T14:36:07Z",
             "trophyRare": 3,
             "trophyEarnedRate": "96.3",
-            "gameName": "The Voices Stories Trophies"
+            "gameName": "The Voices Stories Trophies",
+            "global_index": 110
         },
         {
             "trophyId": 6,
@@ -397,7 +418,8 @@
             "earnedDateTime": "2026-02-06T14:31:11Z",
             "trophyRare": 3,
             "trophyEarnedRate": "97.0",
-            "gameName": "The Voices Stories Trophies"
+            "gameName": "The Voices Stories Trophies",
+            "global_index": 103
         },
         {
             "trophyId": 7,
@@ -411,7 +433,8 @@
             "earnedDateTime": "2026-02-06T14:35:01Z",
             "trophyRare": 3,
             "trophyEarnedRate": "95.6",
-            "gameName": "The Voices Stories Trophies"
+            "gameName": "The Voices Stories Trophies",
+            "global_index": 105
         },
         {
             "trophyId": 8,
@@ -425,7 +448,8 @@
             "earnedDateTime": "2026-02-06T14:35:22Z",
             "trophyRare": 3,
             "trophyEarnedRate": "95.2",
-            "gameName": "The Voices Stories Trophies"
+            "gameName": "The Voices Stories Trophies",
+            "global_index": 107
         },
         {
             "trophyId": 9,
@@ -439,7 +463,8 @@
             "earnedDateTime": "2026-02-06T14:35:56Z",
             "trophyRare": 3,
             "trophyEarnedRate": "95.2",
-            "gameName": "The Voices Stories Trophies"
+            "gameName": "The Voices Stories Trophies",
+            "global_index": 109
         },
         {
             "trophyId": 10,
@@ -453,7 +478,8 @@
             "earnedDateTime": "2026-02-06T14:36:22Z",
             "trophyRare": 3,
             "trophyEarnedRate": "95.2",
-            "gameName": "The Voices Stories Trophies"
+            "gameName": "The Voices Stories Trophies",
+            "global_index": 112
         },
         {
             "trophyId": 11,
@@ -467,7 +493,8 @@
             "earnedDateTime": "2026-02-06T14:29:28Z",
             "trophyRare": 3,
             "trophyEarnedRate": "99.5",
-            "gameName": "The Voices Stories Trophies"
+            "gameName": "The Voices Stories Trophies",
+            "global_index": 102
         }
     ],
     "NPWR35451_00": [
@@ -483,7 +510,8 @@
             "earnedDateTime": "2026-02-06T14:17:24Z",
             "trophyRare": 3,
             "trophyEarnedRate": "98.7",
-            "gameName": "Round Invaders Rush 2"
+            "gameName": "Round Invaders Rush 2",
+            "global_index": 83
         },
         {
             "trophyId": 3,
@@ -497,7 +525,8 @@
             "earnedDateTime": "2026-02-06T14:17:58Z",
             "trophyRare": 3,
             "trophyEarnedRate": "98.5",
-            "gameName": "Round Invaders Rush 2"
+            "gameName": "Round Invaders Rush 2",
+            "global_index": 88
         },
         {
             "trophyId": 4,
@@ -511,7 +540,8 @@
             "earnedDateTime": "2026-02-06T14:19:24Z",
             "trophyRare": 3,
             "trophyEarnedRate": "97.5",
-            "gameName": "Round Invaders Rush 2"
+            "gameName": "Round Invaders Rush 2",
+            "global_index": 92
         },
         {
             "trophyId": 5,
@@ -525,7 +555,8 @@
             "earnedDateTime": "2026-02-06T14:19:55Z",
             "trophyRare": 3,
             "trophyEarnedRate": "96.3",
-            "gameName": "Round Invaders Rush 2"
+            "gameName": "Round Invaders Rush 2",
+            "global_index": 93
         },
         {
             "trophyId": 6,
@@ -539,7 +570,8 @@
             "earnedDateTime": "2026-02-06T14:20:08Z",
             "trophyRare": 3,
             "trophyEarnedRate": "95.1",
-            "gameName": "Round Invaders Rush 2"
+            "gameName": "Round Invaders Rush 2",
+            "global_index": 95
         },
         {
             "trophyId": 7,
@@ -553,7 +585,8 @@
             "earnedDateTime": "2026-02-06T14:22:23Z",
             "trophyRare": 3,
             "trophyEarnedRate": "92.1",
-            "gameName": "Round Invaders Rush 2"
+            "gameName": "Round Invaders Rush 2",
+            "global_index": 97
         },
         {
             "trophyId": 8,
@@ -567,7 +600,8 @@
             "earnedDateTime": "2026-02-06T14:22:54Z",
             "trophyRare": 3,
             "trophyEarnedRate": "91.0",
-            "gameName": "Round Invaders Rush 2"
+            "gameName": "Round Invaders Rush 2",
+            "global_index": 99
         },
         {
             "trophyId": 9,
@@ -581,7 +615,8 @@
             "earnedDateTime": "2026-02-06T14:17:53Z",
             "trophyRare": 3,
             "trophyEarnedRate": "98.5",
-            "gameName": "Round Invaders Rush 2"
+            "gameName": "Round Invaders Rush 2",
+            "global_index": 86
         },
         {
             "trophyId": 10,
@@ -595,7 +630,8 @@
             "earnedDateTime": "2026-02-06T14:18:05Z",
             "trophyRare": 3,
             "trophyEarnedRate": "98.3",
-            "gameName": "Round Invaders Rush 2"
+            "gameName": "Round Invaders Rush 2",
+            "global_index": 90
         },
         {
             "trophyId": 11,
@@ -609,7 +645,8 @@
             "earnedDateTime": "2026-02-06T14:19:10Z",
             "trophyRare": 3,
             "trophyEarnedRate": "98.0",
-            "gameName": "Round Invaders Rush 2"
+            "gameName": "Round Invaders Rush 2",
+            "global_index": 91
         },
         {
             "trophyId": 13,
@@ -623,7 +660,8 @@
             "earnedDateTime": "2026-02-06T14:17:21Z",
             "trophyRare": 3,
             "trophyEarnedRate": "98.8",
-            "gameName": "Round Invaders Rush 2"
+            "gameName": "Round Invaders Rush 2",
+            "global_index": 79
         },
         {
             "trophyId": 14,
@@ -637,7 +675,8 @@
             "earnedDateTime": "2026-02-06T14:17:25Z",
             "trophyRare": 3,
             "trophyEarnedRate": "98.5",
-            "gameName": "Round Invaders Rush 2"
+            "gameName": "Round Invaders Rush 2",
+            "global_index": 84
         },
         {
             "trophyId": 15,
@@ -651,7 +690,8 @@
             "earnedDateTime": "2026-02-06T14:17:23Z",
             "trophyRare": 3,
             "trophyEarnedRate": "98.6",
-            "gameName": "Round Invaders Rush 2"
+            "gameName": "Round Invaders Rush 2",
+            "global_index": 81
         },
         {
             "trophyId": 16,
@@ -665,7 +705,8 @@
             "earnedDateTime": "2026-02-06T14:17:25Z",
             "trophyRare": 3,
             "trophyEarnedRate": "98.6",
-            "gameName": "Round Invaders Rush 2"
+            "gameName": "Round Invaders Rush 2",
+            "global_index": 85
         },
         {
             "trophyId": 17,
@@ -679,7 +720,8 @@
             "earnedDateTime": "2026-02-06T14:17:23Z",
             "trophyRare": 3,
             "trophyEarnedRate": "98.7",
-            "gameName": "Round Invaders Rush 2"
+            "gameName": "Round Invaders Rush 2",
+            "global_index": 82
         },
         {
             "trophyId": 18,
@@ -693,7 +735,8 @@
             "earnedDateTime": "2026-02-06T14:17:59Z",
             "trophyRare": 3,
             "trophyEarnedRate": "98.3",
-            "gameName": "Round Invaders Rush 2"
+            "gameName": "Round Invaders Rush 2",
+            "global_index": 89
         },
         {
             "trophyId": 19,
@@ -707,7 +750,8 @@
             "earnedDateTime": "2026-02-06T14:17:55Z",
             "trophyRare": 3,
             "trophyEarnedRate": "98.4",
-            "gameName": "Round Invaders Rush 2"
+            "gameName": "Round Invaders Rush 2",
+            "global_index": 87
         },
         {
             "trophyId": 22,
@@ -721,7 +765,8 @@
             "earnedDateTime": "2026-02-06T14:22:04Z",
             "trophyRare": 3,
             "trophyEarnedRate": "93.4",
-            "gameName": "Round Invaders Rush 2"
+            "gameName": "Round Invaders Rush 2",
+            "global_index": 96
         },
         {
             "trophyId": 23,
@@ -735,7 +780,8 @@
             "earnedDateTime": "2026-02-06T14:19:55Z",
             "trophyRare": 3,
             "trophyEarnedRate": "97.7",
-            "gameName": "Round Invaders Rush 2"
+            "gameName": "Round Invaders Rush 2",
+            "global_index": 94
         },
         {
             "trophyId": 24,
@@ -749,7 +795,8 @@
             "earnedDateTime": "2026-02-06T14:17:21Z",
             "trophyRare": 3,
             "trophyEarnedRate": "92.9",
-            "gameName": "Round Invaders Rush 2"
+            "gameName": "Round Invaders Rush 2",
+            "global_index": 80
         },
         {
             "trophyId": 25,
@@ -763,7 +810,8 @@
             "earnedDateTime": "2026-02-06T14:17:19Z",
             "trophyRare": 3,
             "trophyEarnedRate": "98.3",
-            "gameName": "Round Invaders Rush 2"
+            "gameName": "Round Invaders Rush 2",
+            "global_index": 78
         },
         {
             "trophyId": 26,
@@ -777,7 +825,8 @@
             "earnedDateTime": "2026-02-06T14:24:50Z",
             "trophyRare": 3,
             "trophyEarnedRate": "85.6",
-            "gameName": "Round Invaders Rush 2"
+            "gameName": "Round Invaders Rush 2",
+            "global_index": 100
         },
         {
             "trophyId": 27,
@@ -791,7 +840,8 @@
             "earnedDateTime": "2026-02-06T14:22:38Z",
             "trophyRare": 3,
             "trophyEarnedRate": "95.9",
-            "gameName": "Round Invaders Rush 2"
+            "gameName": "Round Invaders Rush 2",
+            "global_index": 98
         }
     ],
     "NPWR19393_00": [
@@ -807,7 +857,8 @@
             "earnedDateTime": "2026-02-06T14:07:10Z",
             "trophyRare": 3,
             "trophyEarnedRate": "99.1",
-            "gameName": "FoxyLand"
+            "gameName": "FoxyLand",
+            "global_index": 75
         },
         {
             "trophyId": 3,
@@ -821,7 +872,8 @@
             "earnedDateTime": "2026-02-06T14:07:09Z",
             "trophyRare": 3,
             "trophyEarnedRate": "99.1",
-            "gameName": "FoxyLand"
+            "gameName": "FoxyLand",
+            "global_index": 74
         },
         {
             "trophyId": 6,
@@ -835,7 +887,8 @@
             "earnedDateTime": "2026-02-06T14:12:26Z",
             "trophyRare": 3,
             "trophyEarnedRate": "84.1",
-            "gameName": "FoxyLand"
+            "gameName": "FoxyLand",
+            "global_index": 77
         },
         {
             "trophyId": 10,
@@ -849,7 +902,8 @@
             "earnedDateTime": "2026-02-06T14:08:47Z",
             "trophyRare": 3,
             "trophyEarnedRate": "97.6",
-            "gameName": "FoxyLand"
+            "gameName": "FoxyLand",
+            "global_index": 76
         }
     ],
     "NPWR33005_00": [
@@ -865,7 +919,8 @@
             "earnedDateTime": "2026-02-06T12:28:12Z",
             "trophyRare": 3,
             "trophyEarnedRate": "72.9",
-            "gameName": "Lady in a Leotard With a Gun trophy set"
+            "gameName": "Lady in a Leotard With a Gun trophy set",
+            "global_index": 70
         },
         {
             "trophyId": 2,
@@ -879,7 +934,8 @@
             "earnedDateTime": "2026-02-06T12:46:51Z",
             "trophyRare": 3,
             "trophyEarnedRate": "76.8",
-            "gameName": "Lady in a Leotard With a Gun trophy set"
+            "gameName": "Lady in a Leotard With a Gun trophy set",
+            "global_index": 71
         },
         {
             "trophyId": 4,
@@ -893,7 +949,8 @@
             "earnedDateTime": "2026-02-06T13:01:55Z",
             "trophyRare": 3,
             "trophyEarnedRate": "87.1",
-            "gameName": "Lady in a Leotard With a Gun trophy set"
+            "gameName": "Lady in a Leotard With a Gun trophy set",
+            "global_index": 72
         },
         {
             "trophyId": 5,
@@ -907,7 +964,8 @@
             "earnedDateTime": "2026-02-06T13:16:38Z",
             "trophyRare": 3,
             "trophyEarnedRate": "81.3",
-            "gameName": "Lady in a Leotard With a Gun trophy set"
+            "gameName": "Lady in a Leotard With a Gun trophy set",
+            "global_index": 73
         }
     ],
     "NPWR27074_00": [
@@ -923,7 +981,8 @@
             "earnedDateTime": "2026-02-06T11:54:06Z",
             "trophyRare": 3,
             "trophyEarnedRate": "83.5",
-            "gameName": "Lady in a Leotard With a Gun trophy set"
+            "gameName": "Lady in a Leotard With a Gun trophy set",
+            "global_index": 67
         },
         {
             "trophyId": 4,
@@ -937,7 +996,8 @@
             "earnedDateTime": "2026-02-06T12:02:36Z",
             "trophyRare": 3,
             "trophyEarnedRate": "93.7",
-            "gameName": "Lady in a Leotard With a Gun trophy set"
+            "gameName": "Lady in a Leotard With a Gun trophy set",
+            "global_index": 68
         },
         {
             "trophyId": 5,
@@ -951,7 +1011,8 @@
             "earnedDateTime": "2026-02-06T12:21:34Z",
             "trophyRare": 3,
             "trophyEarnedRate": "88.7",
-            "gameName": "Lady in a Leotard With a Gun trophy set"
+            "gameName": "Lady in a Leotard With a Gun trophy set",
+            "global_index": 69
         }
     ],
     "NPWR42963_00": [
@@ -967,7 +1028,8 @@
             "earnedDateTime": "2026-02-04T02:13:56Z",
             "trophyRare": 3,
             "trophyEarnedRate": "93.1",
-            "gameName": "Vampire Survivors"
+            "gameName": "Vampire Survivors",
+            "global_index": 61
         },
         {
             "trophyId": 107,
@@ -981,7 +1043,8 @@
             "earnedDateTime": "2026-02-04T02:27:49Z",
             "trophyRare": 3,
             "trophyEarnedRate": "92.1",
-            "gameName": "Vampire Survivors"
+            "gameName": "Vampire Survivors",
+            "global_index": 62
         },
         {
             "trophyId": 108,
@@ -995,7 +1058,8 @@
             "earnedDateTime": "2026-02-06T10:11:23Z",
             "trophyRare": 3,
             "trophyEarnedRate": "89.5",
-            "gameName": "Vampire Survivors"
+            "gameName": "Vampire Survivors",
+            "global_index": 63
         },
         {
             "trophyId": 110,
@@ -1009,7 +1073,8 @@
             "earnedDateTime": "2026-02-06T11:11:30Z",
             "trophyRare": 3,
             "trophyEarnedRate": "89.6",
-            "gameName": "Vampire Survivors"
+            "gameName": "Vampire Survivors",
+            "global_index": 66
         },
         {
             "trophyId": 121,
@@ -1023,7 +1088,8 @@
             "earnedDateTime": "2026-02-06T10:11:23Z",
             "trophyRare": 3,
             "trophyEarnedRate": "77.9",
-            "gameName": "Vampire Survivors"
+            "gameName": "Vampire Survivors",
+            "global_index": 64
         },
         {
             "trophyId": 123,
@@ -1037,7 +1103,8 @@
             "earnedDateTime": "2026-02-06T10:11:23Z",
             "trophyRare": 3,
             "trophyEarnedRate": "76.7",
-            "gameName": "Vampire Survivors"
+            "gameName": "Vampire Survivors",
+            "global_index": 65
         }
     ],
     "NPWR33408_00": [
@@ -1053,7 +1120,8 @@
             "earnedDateTime": "2026-01-10T23:01:47Z",
             "trophyRare": 1,
             "trophyEarnedRate": "14.1",
-            "gameName": "The Last of Us™ Part II Remastered"
+            "gameName": "The Last of Us™ Part II Remastered",
+            "global_index": 39
         }
     ],
     "NPWR22724_00": [],
@@ -1070,7 +1138,8 @@
             "earnedDateTime": "2026-01-11T11:24:20Z",
             "trophyRare": 3,
             "trophyEarnedRate": "72.4",
-            "gameName": "God of War III Remastered"
+            "gameName": "God of War III Remastered",
+            "global_index": 40
         },
         {
             "trophyId": 2,
@@ -1084,7 +1153,8 @@
             "earnedDateTime": "2026-01-11T13:51:57Z",
             "trophyRare": 3,
             "trophyEarnedRate": "65.1",
-            "gameName": "God of War III Remastered"
+            "gameName": "God of War III Remastered",
+            "global_index": 41
         },
         {
             "trophyId": 3,
@@ -1098,7 +1168,8 @@
             "earnedDateTime": "2026-01-12T00:09:54Z",
             "trophyRare": 3,
             "trophyEarnedRate": "55.1",
-            "gameName": "God of War III Remastered"
+            "gameName": "God of War III Remastered",
+            "global_index": 43
         },
         {
             "trophyId": 4,
@@ -1112,7 +1183,8 @@
             "earnedDateTime": "2026-01-12T08:48:59Z",
             "trophyRare": 3,
             "trophyEarnedRate": "50.8",
-            "gameName": "God of War III Remastered"
+            "gameName": "God of War III Remastered",
+            "global_index": 47
         },
         {
             "trophyId": 5,
@@ -1126,7 +1198,8 @@
             "earnedDateTime": "2026-01-12T10:05:30Z",
             "trophyRare": 2,
             "trophyEarnedRate": "46.9",
-            "gameName": "God of War III Remastered"
+            "gameName": "God of War III Remastered",
+            "global_index": 48
         },
         {
             "trophyId": 6,
@@ -1140,7 +1213,8 @@
             "earnedDateTime": "2026-01-13T11:01:23Z",
             "trophyRare": 2,
             "trophyEarnedRate": "41.4",
-            "gameName": "God of War III Remastered"
+            "gameName": "God of War III Remastered",
+            "global_index": 50
         },
         {
             "trophyId": 7,
@@ -1154,7 +1228,8 @@
             "earnedDateTime": "2026-01-12T08:12:19Z",
             "trophyRare": 3,
             "trophyEarnedRate": "52.3",
-            "gameName": "God of War III Remastered"
+            "gameName": "God of War III Remastered",
+            "global_index": 46
         },
         {
             "trophyId": 8,
@@ -1168,7 +1243,8 @@
             "earnedDateTime": "2026-01-13T11:28:31Z",
             "trophyRare": 2,
             "trophyEarnedRate": "43.7",
-            "gameName": "God of War III Remastered"
+            "gameName": "God of War III Remastered",
+            "global_index": 52
         },
         {
             "trophyId": 9,
@@ -1182,7 +1258,8 @@
             "earnedDateTime": "2026-01-14T10:39:30Z",
             "trophyRare": 2,
             "trophyEarnedRate": "39.3",
-            "gameName": "God of War III Remastered"
+            "gameName": "God of War III Remastered",
+            "global_index": 56
         },
         {
             "trophyId": 10,
@@ -1196,7 +1273,8 @@
             "earnedDateTime": "2026-01-14T13:18:47Z",
             "trophyRare": 2,
             "trophyEarnedRate": "37.9",
-            "gameName": "God of War III Remastered"
+            "gameName": "God of War III Remastered",
+            "global_index": 58
         },
         {
             "trophyId": 17,
@@ -1210,7 +1288,8 @@
             "earnedDateTime": "2026-01-12T00:39:11Z",
             "trophyRare": 3,
             "trophyEarnedRate": "52.6",
-            "gameName": "God of War III Remastered"
+            "gameName": "God of War III Remastered",
+            "global_index": 44
         },
         {
             "trophyId": 18,
@@ -1224,7 +1303,8 @@
             "earnedDateTime": "2026-01-13T11:20:41Z",
             "trophyRare": 2,
             "trophyEarnedRate": "38.3",
-            "gameName": "God of War III Remastered"
+            "gameName": "God of War III Remastered",
+            "global_index": 51
         },
         {
             "trophyId": 19,
@@ -1238,7 +1318,8 @@
             "earnedDateTime": "2026-01-11T23:40:57Z",
             "trophyRare": 3,
             "trophyEarnedRate": "57.1",
-            "gameName": "God of War III Remastered"
+            "gameName": "God of War III Remastered",
+            "global_index": 42
         },
         {
             "trophyId": 20,
@@ -1252,7 +1333,8 @@
             "earnedDateTime": "2026-01-12T10:43:43Z",
             "trophyRare": 2,
             "trophyEarnedRate": "45.1",
-            "gameName": "God of War III Remastered"
+            "gameName": "God of War III Remastered",
+            "global_index": 49
         },
         {
             "trophyId": 21,
@@ -1266,7 +1348,8 @@
             "earnedDateTime": "2026-01-13T11:47:51Z",
             "trophyRare": 2,
             "trophyEarnedRate": "43.3",
-            "gameName": "God of War III Remastered"
+            "gameName": "God of War III Remastered",
+            "global_index": 53
         },
         {
             "trophyId": 22,
@@ -1280,7 +1363,8 @@
             "earnedDateTime": "2026-01-14T14:03:08Z",
             "trophyRare": 2,
             "trophyEarnedRate": "36.5",
-            "gameName": "God of War III Remastered"
+            "gameName": "God of War III Remastered",
+            "global_index": 59
         },
         {
             "trophyId": 23,
@@ -1294,7 +1378,8 @@
             "earnedDateTime": "2026-01-12T00:53:17Z",
             "trophyRare": 3,
             "trophyEarnedRate": "53.6",
-            "gameName": "God of War III Remastered"
+            "gameName": "God of War III Remastered",
+            "global_index": 45
         },
         {
             "trophyId": 24,
@@ -1308,7 +1393,8 @@
             "earnedDateTime": "2026-01-14T10:00:36Z",
             "trophyRare": 2,
             "trophyEarnedRate": "40.5",
-            "gameName": "God of War III Remastered"
+            "gameName": "God of War III Remastered",
+            "global_index": 55
         },
         {
             "trophyId": 25,
@@ -1322,7 +1408,8 @@
             "earnedDateTime": "2026-01-14T09:37:15Z",
             "trophyRare": 2,
             "trophyEarnedRate": "41.5",
-            "gameName": "God of War III Remastered"
+            "gameName": "God of War III Remastered",
+            "global_index": 54
         },
         {
             "trophyId": 28,
@@ -1336,7 +1423,8 @@
             "earnedDateTime": "2026-01-14T13:17:09Z",
             "trophyRare": 2,
             "trophyEarnedRate": "15.7",
-            "gameName": "God of War III Remastered"
+            "gameName": "God of War III Remastered",
+            "global_index": 57
         },
         {
             "trophyId": 30,
@@ -1350,7 +1438,8 @@
             "earnedDateTime": "2026-01-14T14:21:03Z",
             "trophyRare": 2,
             "trophyEarnedRate": "29.9",
-            "gameName": "God of War III Remastered"
+            "gameName": "God of War III Remastered",
+            "global_index": 60
         }
     ],
     "NPWR26546_00": [],
@@ -1367,7 +1456,8 @@
             "earnedDateTime": "2025-12-27T22:22:54Z",
             "trophyRare": 2,
             "trophyEarnedRate": "34.4",
-            "gameName": "Battlefield™ 1"
+            "gameName": "Battlefield™ 1",
+            "global_index": 32
         },
         {
             "trophyId": 12,
@@ -1381,7 +1471,8 @@
             "earnedDateTime": "2025-12-29T20:34:21Z",
             "trophyRare": 2,
             "trophyEarnedRate": "26.4",
-            "gameName": "Battlefield™ 1"
+            "gameName": "Battlefield™ 1",
+            "global_index": 37
         },
         {
             "trophyId": 13,
@@ -1395,7 +1486,8 @@
             "earnedDateTime": "2025-12-27T17:15:30Z",
             "trophyRare": 2,
             "trophyEarnedRate": "35.4",
-            "gameName": "Battlefield™ 1"
+            "gameName": "Battlefield™ 1",
+            "global_index": 30
         },
         {
             "trophyId": 14,
@@ -1409,7 +1501,8 @@
             "earnedDateTime": "2025-12-29T13:47:47Z",
             "trophyRare": 2,
             "trophyEarnedRate": "30.9",
-            "gameName": "Battlefield™ 1"
+            "gameName": "Battlefield™ 1",
+            "global_index": 34
         },
         {
             "trophyId": 15,
@@ -1423,7 +1516,8 @@
             "earnedDateTime": "2025-12-29T17:40:28Z",
             "trophyRare": 2,
             "trophyEarnedRate": "31.6",
-            "gameName": "Battlefield™ 1"
+            "gameName": "Battlefield™ 1",
+            "global_index": 35
         },
         {
             "trophyId": 21,
@@ -1437,7 +1531,8 @@
             "earnedDateTime": "2025-12-27T21:58:07Z",
             "trophyRare": 2,
             "trophyEarnedRate": "49.5",
-            "gameName": "Battlefield™ 1"
+            "gameName": "Battlefield™ 1",
+            "global_index": 31
         },
         {
             "trophyId": 23,
@@ -1451,7 +1546,8 @@
             "earnedDateTime": "2025-12-29T20:32:38Z",
             "trophyRare": 1,
             "trophyEarnedRate": "9.9",
-            "gameName": "Battlefield™ 1"
+            "gameName": "Battlefield™ 1",
+            "global_index": 36
         },
         {
             "trophyId": 25,
@@ -1465,7 +1561,8 @@
             "earnedDateTime": "2025-12-29T20:36:28Z",
             "trophyRare": 1,
             "trophyEarnedRate": "12.0",
-            "gameName": "Battlefield™ 1"
+            "gameName": "Battlefield™ 1",
+            "global_index": 38
         },
         {
             "trophyId": 27,
@@ -1479,7 +1576,8 @@
             "earnedDateTime": "2025-12-27T16:26:10Z",
             "trophyRare": 2,
             "trophyEarnedRate": "48.9",
-            "gameName": "Battlefield™ 1"
+            "gameName": "Battlefield™ 1",
+            "global_index": 28
         },
         {
             "trophyId": 29,
@@ -1493,7 +1591,8 @@
             "earnedDateTime": "2025-12-27T16:44:01Z",
             "trophyRare": 3,
             "trophyEarnedRate": "64.0",
-            "gameName": "Battlefield™ 1"
+            "gameName": "Battlefield™ 1",
+            "global_index": 29
         },
         {
             "trophyId": 30,
@@ -1507,7 +1606,8 @@
             "earnedDateTime": "2025-12-29T13:33:14Z",
             "trophyRare": 2,
             "trophyEarnedRate": "29.6",
-            "gameName": "Battlefield™ 1"
+            "gameName": "Battlefield™ 1",
+            "global_index": 33
         }
     ],
     "NPWR06685_00": [],
@@ -1524,7 +1624,8 @@
             "earnedDateTime": "2025-12-18T22:56:06Z",
             "trophyRare": 3,
             "trophyEarnedRate": "72.4",
-            "gameName": "SpongeBob SquarePants: The Cosmic Shake"
+            "gameName": "SpongeBob SquarePants: The Cosmic Shake",
+            "global_index": 27
         }
     ],
     "NPWR21460_00": [
@@ -1540,7 +1641,8 @@
             "earnedDateTime": "2025-11-28T13:17:47Z",
             "trophyRare": 2,
             "trophyEarnedRate": "17.3",
-            "gameName": "Need for Speed™ Hot Pursuit Remastered"
+            "gameName": "Need for Speed™ Hot Pursuit Remastered",
+            "global_index": 15
         },
         {
             "trophyId": 3,
@@ -1554,7 +1656,8 @@
             "earnedDateTime": "2025-11-28T13:17:25Z",
             "trophyRare": 3,
             "trophyEarnedRate": "57.2",
-            "gameName": "Need for Speed™ Hot Pursuit Remastered"
+            "gameName": "Need for Speed™ Hot Pursuit Remastered",
+            "global_index": 14
         },
         {
             "trophyId": 14,
@@ -1568,7 +1671,8 @@
             "earnedDateTime": "2025-12-07T09:30:41Z",
             "trophyRare": 0,
             "trophyEarnedRate": "1.5",
-            "gameName": "Need for Speed™ Hot Pursuit Remastered"
+            "gameName": "Need for Speed™ Hot Pursuit Remastered",
+            "global_index": 21
         },
         {
             "trophyId": 15,
@@ -1582,7 +1686,8 @@
             "earnedDateTime": "2025-12-07T08:37:00Z",
             "trophyRare": 0,
             "trophyEarnedRate": "0.9",
-            "gameName": "Need for Speed™ Hot Pursuit Remastered"
+            "gameName": "Need for Speed™ Hot Pursuit Remastered",
+            "global_index": 20
         },
         {
             "trophyId": 17,
@@ -1596,7 +1701,8 @@
             "earnedDateTime": "2025-12-07T09:50:56Z",
             "trophyRare": 3,
             "trophyEarnedRate": "57.7",
-            "gameName": "Need for Speed™ Hot Pursuit Remastered"
+            "gameName": "Need for Speed™ Hot Pursuit Remastered",
+            "global_index": 22
         },
         {
             "trophyId": 27,
@@ -1610,7 +1716,8 @@
             "earnedDateTime": "2025-12-07T10:30:19Z",
             "trophyRare": 0,
             "trophyEarnedRate": "1.8",
-            "gameName": "Need for Speed™ Hot Pursuit Remastered"
+            "gameName": "Need for Speed™ Hot Pursuit Remastered",
+            "global_index": 23
         },
         {
             "trophyId": 28,
@@ -1624,7 +1731,8 @@
             "earnedDateTime": "2025-12-06T23:25:39Z",
             "trophyRare": 0,
             "trophyEarnedRate": "1.5",
-            "gameName": "Need for Speed™ Hot Pursuit Remastered"
+            "gameName": "Need for Speed™ Hot Pursuit Remastered",
+            "global_index": 19
         },
         {
             "trophyId": 29,
@@ -1638,7 +1746,8 @@
             "earnedDateTime": "2025-12-06T21:45:32Z",
             "trophyRare": 0,
             "trophyEarnedRate": "0.9",
-            "gameName": "Need for Speed™ Hot Pursuit Remastered"
+            "gameName": "Need for Speed™ Hot Pursuit Remastered",
+            "global_index": 16
         },
         {
             "trophyId": 63,
@@ -1652,7 +1761,8 @@
             "earnedDateTime": "2025-12-06T22:54:47Z",
             "trophyRare": 0,
             "trophyEarnedRate": "1.1",
-            "gameName": "Need for Speed™ Hot Pursuit Remastered"
+            "gameName": "Need for Speed™ Hot Pursuit Remastered",
+            "global_index": 18
         },
         {
             "trophyId": 64,
@@ -1666,7 +1776,8 @@
             "earnedDateTime": "2025-12-06T22:20:12Z",
             "trophyRare": 0,
             "trophyEarnedRate": "1.2",
-            "gameName": "Need for Speed™ Hot Pursuit Remastered"
+            "gameName": "Need for Speed™ Hot Pursuit Remastered",
+            "global_index": 17
         }
     ],
     "NPWR13348_00": [],
@@ -1685,7 +1796,8 @@
             "earnedDateTime": "2025-09-14T15:09:59Z",
             "trophyRare": 3,
             "trophyEarnedRate": "93.0",
-            "gameName": "Halloween Puzzle"
+            "gameName": "Halloween Puzzle",
+            "global_index": 10
         },
         {
             "trophyId": 6,
@@ -1699,7 +1811,8 @@
             "earnedDateTime": "2025-09-19T12:24:46Z",
             "trophyRare": 3,
             "trophyEarnedRate": "92.9",
-            "gameName": "Halloween Puzzle"
+            "gameName": "Halloween Puzzle",
+            "global_index": 13
         },
         {
             "trophyId": 7,
@@ -1713,7 +1826,8 @@
             "earnedDateTime": "2025-09-14T15:09:18Z",
             "trophyRare": 3,
             "trophyEarnedRate": "70.9",
-            "gameName": "Halloween Puzzle"
+            "gameName": "Halloween Puzzle",
+            "global_index": 9
         },
         {
             "trophyId": 8,
@@ -1727,7 +1841,8 @@
             "earnedDateTime": "2025-09-18T12:08:46Z",
             "trophyRare": 3,
             "trophyEarnedRate": "70.9",
-            "gameName": "Halloween Puzzle"
+            "gameName": "Halloween Puzzle",
+            "global_index": 11
         },
         {
             "trophyId": 9,
@@ -1741,7 +1856,8 @@
             "earnedDateTime": "2025-09-19T08:46:16Z",
             "trophyRare": 3,
             "trophyEarnedRate": "70.9",
-            "gameName": "Halloween Puzzle"
+            "gameName": "Halloween Puzzle",
+            "global_index": 12
         }
     ],
     "NPWR34041_00": [],
@@ -1758,7 +1874,8 @@
             "earnedDateTime": "2025-09-12T19:53:17Z",
             "trophyRare": 3,
             "trophyEarnedRate": "55.6",
-            "gameName": "Uncharted: Drake’s Fortune™ Remastered"
+            "gameName": "Uncharted: Drake’s Fortune™ Remastered",
+            "global_index": 8
         }
     ],
     "NPWR47175_00": [
@@ -1775,7 +1892,8 @@
             "earnedDateTime": "2025-09-01T18:59:03Z",
             "trophyRare": 3,
             "trophyEarnedRate": "81.5",
-            "gameName": "CarX Street"
+            "gameName": "CarX Street",
+            "global_index": 7
         }
     ],
     "NPWR38514_00": [],
@@ -1794,7 +1912,8 @@
             "earnedDateTime": "2025-08-25T20:47:59Z",
             "trophyRare": 3,
             "trophyEarnedRate": "92.0",
-            "gameName": "F.I.S.T.: Forged In Shadow Torch"
+            "gameName": "F.I.S.T.: Forged In Shadow Torch",
+            "global_index": 6
         }
     ],
     "NPWR11595_00": [],
@@ -1813,7 +1932,8 @@
             "earnedDateTime": "2025-05-24T23:59:03Z",
             "trophyRare": 3,
             "trophyEarnedRate": "83.8",
-            "gameName": "Need for Speed™ Rivals"
+            "gameName": "Need for Speed™ Rivals",
+            "global_index": 2
         },
         {
             "trophyId": 6,
@@ -1827,7 +1947,8 @@
             "earnedDateTime": "2025-05-25T17:28:17Z",
             "trophyRare": 2,
             "trophyEarnedRate": "22.3",
-            "gameName": "Need for Speed™ Rivals"
+            "gameName": "Need for Speed™ Rivals",
+            "global_index": 3
         },
         {
             "trophyId": 7,
@@ -1841,7 +1962,8 @@
             "earnedDateTime": "2025-05-25T17:28:17Z",
             "trophyRare": 1,
             "trophyEarnedRate": "9.4",
-            "gameName": "Need for Speed™ Rivals"
+            "gameName": "Need for Speed™ Rivals",
+            "global_index": 4
         },
         {
             "trophyId": 11,
@@ -1855,7 +1977,8 @@
             "earnedDateTime": "2025-05-25T17:28:17Z",
             "trophyRare": 0,
             "trophyEarnedRate": "2.1",
-            "gameName": "Need for Speed™ Rivals"
+            "gameName": "Need for Speed™ Rivals",
+            "global_index": 5
         }
     ],
     "NPWR05424_00": [
@@ -1871,7 +1994,8 @@
             "earnedDateTime": "2025-05-14T20:29:04Z",
             "trophyRare": 1,
             "trophyEarnedRate": "6.7",
-            "gameName": "Battlefield 4™ Trophies"
+            "gameName": "Battlefield 4™ Trophies",
+            "global_index": 1
         }
     ]
 }
