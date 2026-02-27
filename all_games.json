@@ -70978,5 +70978,135 @@
             "bronze": 21
         },
         "service": "trophy"
+    },
+    "NPWR12214_00": {
+        "npCommunicationId": "NPWR12214_00",
+        "trophyTitleName": "空蝉の廻",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12214_00_00A5A55ABE0DF9F3381826EAB3290B0406742B30BA/914137E5F2D6D2F0C82C5115EC43B217AF3F28AF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR12215_00": {
+        "npCommunicationId": "NPWR12215_00",
+        "trophyTitleName": "Dexed",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12215_00_00A01F5937D51C5762A41630CC6EAF3AA6A0AAB014/05B4F0068099BB7BF5837B57E244F88EC75CD485.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR12216_00": {
+        "npCommunicationId": "NPWR12216_00",
+        "trophyTitleName": "Dexed",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12216_00_004E92E54450419A1EF6684FD30AE679D8E3DF5160/3D077EA8525358FC8DA73936DEA6FBEF60A23907.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR12219_00": {
+        "npCommunicationId": "NPWR12219_00",
+        "trophyTitleName": "Pillars of Eternity: Complete Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12219_00_002207479E40A772DE7F0620161084A895F714B327/F066E4FD16023D078B3D40F2C9314E3712988B08.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR12220_00": {
+        "npCommunicationId": "NPWR12220_00",
+        "trophyTitleName": "Bard's Gold",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12220_00_00AFD3ECEBA7FB5D905AD2CBB9C43317E548898E1B/6734FA2686EC4796B9C91437A84764DFB6A2F5B0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR12221_00": {
+        "npCommunicationId": "NPWR12221_00",
+        "trophyTitleName": "NBA Playgrounds",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12221_00_00B892AD540184491F51DBB6ABBB0A8BFB12022305/D20EBE36C2A3C2FADB477D7EA5256DAF66CE59D4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR12222_00": {
+        "npCommunicationId": "NPWR12222_00",
+        "trophyTitleName": "Friday the 13: The Game",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12222_00_00B2D8C14E9FA8EDF1296B5F96F1980549312385EE/08D86294EE0BAFB5EDF82A473ECF599F6A491F2F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR12223_00": {
+        "npCommunicationId": "NPWR12223_00",
+        "trophyTitleName": "Tokyo Xanadu eX+",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12223_00_0012724A84E09F48BA2CC904DD8E1DBD5E819601E4/AB4348D902EB826BF01284614D906F6E5F88D0F4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR12224_00": {
+        "npCommunicationId": "NPWR12224_00",
+        "trophyTitleName": "MotoGP™17",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12224_00_00B20E9DEF30F92A30C6D301C86DE946032BB10D43/219F4ECDC53AED524C909D46014387C4BB894DCE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR12225_00": {
+        "npCommunicationId": "NPWR12225_00",
+        "trophyTitleName": "魔法氣泡™俄羅斯方塊™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12225_00_00CAF7B7F06F3AA22D5213F19B8C6A4CA9729F983B/C25348A109C10A18B38F428452D8900ADA0C5620.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 30
+        },
+        "service": "trophy"
     }
 }
