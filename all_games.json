@@ -50828,5 +50828,135 @@
             "bronze": 21
         },
         "service": "trophy"
+    },
+    "NPWR09320_00": {
+        "npCommunicationId": "NPWR09320_00",
+        "trophyTitleName": "River City Super Sports Challenge\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09320_00_00C5ED04D11185ED9204D78811C5E74C34308BB167/0B1163B618904C45E291D35BC38D4A0E64282339.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR09328_00": {
+        "npCommunicationId": "NPWR09328_00",
+        "trophyTitleName": "Exist Archive",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09328_00_002B73EC27420B946D740945807627DFF8F768DE05/95629B09E68AE8270ADD98FB84337FB6EBFD01F2.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR09330_00": {
+        "npCommunicationId": "NPWR09330_00",
+        "trophyTitleName": "Lethal League",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09330_00_005F826840FFCD91040FE186566517F474AC485CED/C4C7859638165AE0A940D9BA6761FA33D41BB4CF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR09331_00": {
+        "npCommunicationId": "NPWR09331_00",
+        "trophyTitleName": "N++",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09331_00_0017CDC218707DCB14E52CB654652DD80FA9B511A0/CF4E7F544E3C3B24F0B6D4138423384F1FA014CA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR09333_00": {
+        "npCommunicationId": "NPWR09333_00",
+        "trophyTitleName": "ぎゃる☆がん　だぶるぴーす",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09333_00_005A567E1460D1330282D2F80EF8B6F05F2873196B/30361CF782C4486F6B669C46E373804E986A9862.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 17,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR09335_00": {
+        "npCommunicationId": "NPWR09335_00",
+        "trophyTitleName": "Code: Realize ~Guardian of Rebirth~",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09335_00_0026BF558A274899C11269EA6A4A9D71CCFA6D7934/340CF074AADCA68208065B993BB8C2F891B90F60.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR09336_00": {
+        "npCommunicationId": "NPWR09336_00",
+        "trophyTitleName": "NORN9 VAR COMMONS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09336_00_00474CA4D5C59473BE38AFFF7F67810EED89C3095C/A4C69DBD7BD4AC7EF4934729478E43A000BB73DE.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR09337_00": {
+        "npCommunicationId": "NPWR09337_00",
+        "trophyTitleName": "Grand Theft Auto 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09337_00_006C7C2EBA6204302D0571C755A86872EC03F971AC/C5CED163ABF268A7BBD1A8D50C65F9F7790EDDA9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR09340_00": {
+        "npCommunicationId": "NPWR09340_00",
+        "trophyTitleName": "Farming Simulator 16",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09340_00_009A73D192E5B30BD10C5545C528F5385E80C50537/C8140301A68AABFF86365C7F1156EB7D8D30BF84.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR09341_00": {
+        "npCommunicationId": "NPWR09341_00",
+        "trophyTitleName": "Grand Theft Auto: Vice City",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09341_00_00C51E0E81BBCFBFC4754D06B2D3AC6618AB31F007/7D67ADD2FCBFE1C08F6948BB92E61DAE1A195A89.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 16
+        },
+        "service": "trophy"
     }
 }
