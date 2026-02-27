@@ -56938,5 +56938,135 @@
             "bronze": 40
         },
         "service": "trophy"
+    },
+    "NPWR10284_00": {
+        "npCommunicationId": "NPWR10284_00",
+        "trophyTitleName": "Constructor",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10284_00_0000A8DC7BB14DF9315A6F87A79C52CF65C5979596/F0B6E025EF7C1F527E4FEDB00ACFF0F8571E1F18.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR10285_00": {
+        "npCommunicationId": "NPWR10285_00",
+        "trophyTitleName": "McDroid",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10285_00_00A157985BBED2E1EFD475D6E38618A39B3AE2F629/9474A1CE2B3CD6674206BA421B3541FD2142D334.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR10287_00": {
+        "npCommunicationId": "NPWR10287_00",
+        "trophyTitleName": "Comet Crash 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10287_00_000B6F3AFE04E4C6AF793067A8BF6200A1C39D9942/C044C1BFEAA58C6E8864859DCD1C277D54DAD39F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR10288_00": {
+        "npCommunicationId": "NPWR10288_00",
+        "trophyTitleName": "Maliya",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10288_00_0093FEA3259C6BE1F15CF3005F0FFD61ED05152138/CBB9317175E0EFDDF9B953C78074A393724C27D5.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR10289_00": {
+        "npCommunicationId": "NPWR10289_00",
+        "trophyTitleName": "Stikbold!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10289_00_00453AB7FA93EB6E6F756896454053A8E2B098931D/DEFBB9D54C5BEB54505CF1BAC4C0EDAFADE63C87.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 17,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR10292_00": {
+        "npCommunicationId": "NPWR10292_00",
+        "trophyTitleName": "RAYGIGANT",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10292_00_00A3E65DC6EE887B00EF85A90705A3C404EDC85E6C/064E8DF197D5EF094BCEF40B5DBAD081B3DAC4C4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 14,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR10293_00": {
+        "npCommunicationId": "NPWR10293_00",
+        "trophyTitleName": "Saturday Morning RPG",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10293_00_00182898022EF1924D3FFE8ECA6DF381CA5129319B/30546217B8D5294D3230F52877531F353E5BF1E2.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 52
+        },
+        "service": "trophy"
+    },
+    "NPWR10294_00": {
+        "npCommunicationId": "NPWR10294_00",
+        "trophyTitleName": "Breach & Clear: Deadline",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10294_00_00AE216AA81E8BAEB6A3ED7B0E155C3D14B6F1436B/699DD60AD5BAF0FCEFBCBDBDC1FA225782536F16.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR10299_00": {
+        "npCommunicationId": "NPWR10299_00",
+        "trophyTitleName": "QURARE: Magic Library",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10299_00_008F5F6F476B0260CAB96A02F66FB152E6A41589EA/3F308A9EC166B0A708D4A30C96A55E0AC0081018.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR10301_00": {
+        "npCommunicationId": "NPWR10301_00",
+        "trophyTitleName": "BLAZBLUE CENTRALFICTION Trophy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10301_00_00445CCB388A27A685035B507C944B2198A5364AAF/539CD468E06F96EA7DEABA473E74B8C6E4829D71.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 42
+        },
+        "service": "trophy"
     }
 }
