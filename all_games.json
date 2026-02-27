@@ -66948,5 +66948,135 @@
             "bronze": 5
         },
         "service": "trophy"
+    },
+    "NPWR11697_00": {
+        "npCommunicationId": "NPWR11697_00",
+        "trophyTitleName": "Valkyria Revolution",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11697_00_00FB08DA658FE58B64AE8AA838B91553FEAB7770CD/EC021C5DF945F3E8DAB413488BE8811BD47F8213.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11699_00": {
+        "npCommunicationId": "NPWR11699_00",
+        "trophyTitleName": "Wheels of Aurelia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11699_00_0097840D02B09FF17C4FDB98F7CDFC2EB7DC942800/8D21B0193074E7FC520CCA2CBB6A12E9D8041DA0.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 5,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR11700_00": {
+        "npCommunicationId": "NPWR11700_00",
+        "trophyTitleName": "Wheels of Aurelia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11700_00_00605552DEA06D30F0DCC32E33103BEE0187BEE879/7634C77322823D8B06705F17AA9954FEC2BEFB01.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 5,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR11701_00": {
+        "npCommunicationId": "NPWR11701_00",
+        "trophyTitleName": "Windjammers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11701_00_00177BB8299535846D281B1CEFC7FB6159F0AFD0EF/4E887843D90D36D2EF6E7514033663821F216AB4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR11702_00": {
+        "npCommunicationId": "NPWR11702_00",
+        "trophyTitleName": "Drawn to Death™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11702_00_002CF0A9F9908B3CA889EAA291E08F93FD4AEF06D8/18D77B9EC29C2189C73875320ECEB596D1B51EF6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR11704_00": {
+        "npCommunicationId": "NPWR11704_00",
+        "trophyTitleName": "Titanfall® 2 Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11704_00_006AEA3EDF64F169FCF333D910CB5B73C24AA31AED/5AF0E041C25452EAF5B8BF4A41DCD93AB77AB303.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR11708_00": {
+        "npCommunicationId": "NPWR11708_00",
+        "trophyTitleName": "DYING : Reborn VR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11708_00_000EEB67B2659A55D57FED22BDD477676D8DDEDB5C/FC999A69D8392B27FD3F2A302DE21B2A1BBB3E55.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR11709_00": {
+        "npCommunicationId": "NPWR11709_00",
+        "trophyTitleName": "临终：重生试炼",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11709_00_00D90AA216749D9B4548C0152FF93AE41726F43914/85C4872B217AC55E26FD0F6B3FEE098577043A19.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 6,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR11712_00": {
+        "npCommunicationId": "NPWR11712_00",
+        "trophyTitleName": "2064: Read Only Memories",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11712_00_006F7DE3FB97E3E2CA149FCA3E4B33F6B511FFB6D1/C0AA89E6C35057D3262671F656CCBC21B7193F22.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 62
+        },
+        "service": "trophy"
+    },
+    "NPWR11714_00": {
+        "npCommunicationId": "NPWR11714_00",
+        "trophyTitleName": "虚拟现实乐园",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11714_00_00922F23FEF25E0CC2DBA54F5187DEFC46A7C4A83F/41A3896B26E3792F2FEE80D0DE0D0377C7B31BC3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 2
+        },
+        "service": "trophy"
     }
 }
