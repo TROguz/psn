@@ -32628,5 +32628,135 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR05943_00": {
+        "npCommunicationId": "NPWR05943_00",
+        "trophyTitleName": "STEINS;GATE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05943_00_00892F938B74CB06CB4B86AFCA4BA09CED02A08BC5/BF18F95C45508F33723180344B057AAC3D949C6B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR05944_00": {
+        "npCommunicationId": "NPWR05944_00",
+        "trophyTitleName": "STEINS;GATE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05944_00_006687851336B1EF9086441F02D37290AB09526B03/62DDC6A517E5E4BAD9CE343DE02C71E97FC0AFFD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR05945_00": {
+        "npCommunicationId": "NPWR05945_00",
+        "trophyTitleName": "STEINS;GATE 비익연리의 달링",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05945_00_003FE731294833F36435B886EC78E410D82FC1F7BD/4EFC58502306EAFEBF471EDF223A9533394B0686.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR05946_00": {
+        "npCommunicationId": "NPWR05946_00",
+        "trophyTitleName": "STEINS;GATE 선형구속의 페노그램",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05946_00_00189151340F8716F7D34AACBE5C518D76398E3AEA/00065B24D3E992B6452281DA21600A0EFC5B023D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR05951_00": {
+        "npCommunicationId": "NPWR05951_00",
+        "trophyTitleName": "LOST DIMENSION",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05951_00_00ACEBF2B43F84D7B0720C01A489016BD912174A37/C3A051ED41F490953A41E697219DC6044C7148C7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR05952_00": {
+        "npCommunicationId": "NPWR05952_00",
+        "trophyTitleName": "LOST DIMENSION",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05952_00_00CD586130E12E5971560752AC269F31DCF6CA1FF7/3B7D3312098630DA5CE7AD43CF81D31DF18ACCE9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR05953_00": {
+        "npCommunicationId": "NPWR05953_00",
+        "trophyTitleName": "彼女（あのコ）はオレからはなれない",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05953_00_00F0705B924429910353B8F522FCACCE1E73B8BC99/7B9A91C7F88362E274A272C9E1FA60CF5CABEAED.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR05961_00": {
+        "npCommunicationId": "NPWR05961_00",
+        "trophyTitleName": "Everybody's Golf",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05961_00_0087B1E223603949B5A1F14449276DD4DE14BB3C89/1AFADCF4DF156AC5556347839D8BADC73E816601.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR05962_00": {
+        "npCommunicationId": "NPWR05962_00",
+        "trophyTitleName": "Alien: Isolation",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05962_00_0084A0F4B91037EBE06BF89D7DAC3BBEB53229855F/4CC39843081B644ED7374FF4576EF5F4AF30D22E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR05963_00": {
+        "npCommunicationId": "NPWR05963_00",
+        "trophyTitleName": "穢翼のユースティア  Angel's blessing",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05963_00_005026A2B170ED49C7082125510FC4C2115F3C1ABE/7CB89F9EA0D08A5CB8E1974723EA7901B3A82C36.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 5,
+            "bronze": 12
+        },
+        "service": "trophy"
     }
 }
