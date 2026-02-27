@@ -31835,5 +31835,18 @@
             "bronze": 19
         },
         "service": "trophy"
+    },
+    "NPWR05786_00": {
+        "npCommunicationId": "NPWR05786_00",
+        "trophyTitleName": "Ratchet & Clank 2: Going Commando™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05786_00_00ED2CD483568496C92E7AAC29B0D7968ED621BFE3/AE3859A7B15975F9A32E274FB43AB42E8AFF0C64.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 20
+        },
+        "service": "trophy"
     }
 }
