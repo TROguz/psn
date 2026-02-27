@@ -27948,5 +27948,135 @@
             "bronze": 32
         },
         "service": "trophy"
+    },
+    "NPWR04943_00": {
+        "npCommunicationId": "NPWR04943_00",
+        "trophyTitleName": "Mahjong Royal Towers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04943_00_00079879AF7CE2F689D1F422D5018BA360CF4D5469/448CAE374E38E7D0D69F83DD6D5E46E5EB99BD7D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR04945_00": {
+        "npCommunicationId": "NPWR04945_00",
+        "trophyTitleName": "ぷよぷよテトリス",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04945_00_00B0CB67A897038E1A62E25BC7A04BEEBDAE0FE052/D321F208F28C496733D404F4F63DF35ABDBFA260.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR04946_00": {
+        "npCommunicationId": "NPWR04946_00",
+        "trophyTitleName": "Zombeer",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04946_00_00D292D82941445D9A5D53EBD7AF8FFF4A1B7AA881/52ACCD2D2832855A04958ED5DBF4E3900D82DC1D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR04948_00": {
+        "npCommunicationId": "NPWR04948_00",
+        "trophyTitleName": "Lone Survivor",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04948_00_008036BD6B5353E0A91954362FDE8C503793167CC3/59FAAA55CED6ED1606CB0AF42EFBA5994344412A.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR04952_00": {
+        "npCommunicationId": "NPWR04952_00",
+        "trophyTitleName": "AMNESIA V Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04952_00_003F700CA177B5C3476616AF02BE63756565154880/09D8EB6C34B80034F70C85C1661F8CD70F9104ED.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR04953_00": {
+        "npCommunicationId": "NPWR04953_00",
+        "trophyTitleName": "魔界戦記ディスガイア４ Return",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04953_00_0009475BB08E4D3EC0529C385D788257BDF8B27F40/12AC29D9A9DC0C8F2406479689BEE1F4F3A8A9F8.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR04979_00": {
+        "npCommunicationId": "NPWR04979_00",
+        "trophyTitleName": "Wonderbook™: Walking with Dinosaurs",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04979_00_0026AC5888B1200DAB9FEF15E41315E8AFB27C84D5/F84E31F6D131110423C962C7442B675322B4F281.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR04980_00": {
+        "npCommunicationId": "NPWR04980_00",
+        "trophyTitleName": "rain",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04980_00_00CD0923A5DE2D088C8824A83E9D9CCC405C1B4DDD/133ADE832A218FA8AE490CE59C7A800635D65053.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR04983_00": {
+        "npCommunicationId": "NPWR04983_00",
+        "trophyTitleName": "Marvel Puzzle Quest",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04983_00_00FA9FE050BC937EA711ADDCA0F9EBE4B402D29954/80CBE6545C9C37CEA69E897053E0033D72BFB374.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR04986_00": {
+        "npCommunicationId": "NPWR04986_00",
+        "trophyTitleName": "英雄＊戦姫",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04986_00_00174BF4D46ACEFA8C95AFAC3542BC461D8B637541/F6EF5A8A6D9ABFA9B848CD91894299AB760513F0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 5,
+            "bronze": 22
+        },
+        "service": "trophy"
     }
 }
