@@ -36268,5 +36268,135 @@
             "bronze": 24
         },
         "service": "trophy"
+    },
+    "NPWR06770_00": {
+        "npCommunicationId": "NPWR06770_00",
+        "trophyTitleName": "Kill Strain™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06770_00_007C3E08C3C03F83B88B9D665CBB7C89EB0AE50A5E/E9C06CFDAAB24C7F5F4873CFB72440A4C2E08353.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR06773_00": {
+        "npCommunicationId": "NPWR06773_00",
+        "trophyTitleName": "Code：Realize ～創世の姫君～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06773_00_000B16CF06F3E7AEF1D5B79C2CE9AA9BB619457DB6/001B1DC5D433D9BB84FF2019A8DDEF8CA1759D9A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR06775_00": {
+        "npCommunicationId": "NPWR06775_00",
+        "trophyTitleName": "AMNESIA LATER×CROWD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06775_00_005F4FEB7206760B768A54E77D747CE4599C3A4430/666E151F9D12747D4BE9FAD77A4D316F53451A6B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 24,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR06777_00": {
+        "npCommunicationId": "NPWR06777_00",
+        "trophyTitleName": "Lords of the Fallen",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06777_00_0060D8811D41599D74D6476CB6A1B3C6F66DE05E70/D46AB4A4D1438388F80FC1B8250AF493AB646EAE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR06778_00": {
+        "npCommunicationId": "NPWR06778_00",
+        "trophyTitleName": "The Legend of Korra",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06778_00_00C1F80837008A77E84EE9D5ADFBEBE74EFD522E39/EE50D4638A5F9B285D8F1C975BF0D0C1D20CCD39.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR06779_00": {
+        "npCommunicationId": "NPWR06779_00",
+        "trophyTitleName": "The Legend of Korra",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06779_00_00BBA2933C201DA58215C1594FCB0A0E28A05637E8/E160BB29A1B64A1C72B3CBBF5E0039E2BF9CDA1F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR06780_00": {
+        "npCommunicationId": "NPWR06780_00",
+        "trophyTitleName": "Chariot",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06780_00_007DDBC29C965291F18724A32AD6DDE475582E7068/399168FDA5F2941CFE6FB4E47EC13BE3329F272E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 22,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR06781_00": {
+        "npCommunicationId": "NPWR06781_00",
+        "trophyTitleName": "The Last Tinker: City of Colors",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06781_00_000E909B1EE352108BBF8F12F9CA04B3AE9725A4CA/7E9A1901F0FD2247ACE73C4A4F2990917D7A57FE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR06783_00": {
+        "npCommunicationId": "NPWR06783_00",
+        "trophyTitleName": "PAC-MAN and the Ghostly Adventures 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06783_00_00B268FC14038B2081771C130C2800A1B665AFF025/7355D2C958C3103D4A2F37097F619A95237A8C6F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 18,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR06784_00": {
+        "npCommunicationId": "NPWR06784_00",
+        "trophyTitleName": "Magical Beat",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06784_00_00894BCA1971979F5E7D9B2317B21047CF150759F4/649E8B34654B815EF0C35DBAB0284A0B34E403D7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 14
+        },
+        "service": "trophy"
     }
 }
