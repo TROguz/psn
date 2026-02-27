@@ -75268,5 +75268,135 @@
             "bronze": 5
         },
         "service": "trophy"
+    },
+    "NPWR12737_00": {
+        "npCommunicationId": "NPWR12737_00",
+        "trophyTitleName": "女神異聞錄５",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12737_00_00462D755AD4BCA2701295EEDB4F4C46A57F959389/85DECF6D4C42ABD45747A031B409D4F474A241F1.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR12739_00": {
+        "npCommunicationId": "NPWR12739_00",
+        "trophyTitleName": "FINAL FANTASY XV MULTIPLAYER: COMRADES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12739_00_0092BE90423B0D8FF7454CD549295DD70A6B066EC0/602D0AE64563369AF3C97A844C60FA6B054860AA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 3,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR12740_00": {
+        "npCommunicationId": "NPWR12740_00",
+        "trophyTitleName": "Elliot Quest",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12740_00_00AE722967D13091847549938F5007B06985921DA4/D8FEC92054E6147E876349C8940DB193E1A2F937.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 3,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR12741_00": {
+        "npCommunicationId": "NPWR12741_00",
+        "trophyTitleName": "Death Squared",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12741_00_00902A6373042AB367D21468CD7421BBAD8FE5FD18/7360A9C5902E58B7EC0FAAAFFC6F21BCB2A4BE2F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR12742_00": {
+        "npCommunicationId": "NPWR12742_00",
+        "trophyTitleName": "EA SPORTS™ NHL® 18",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12742_00_00126FB75B9E7061FA9E2AC8D2412CA3D54F2D7B97/DA5CEB2769283D5383FCD77062B9C4A1548417F3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR12744_00": {
+        "npCommunicationId": "NPWR12744_00",
+        "trophyTitleName": "Ancient Amuletor\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12744_00_005BABFC12D3AE790AA63A7253B4959630E00BCD9A/6FB7A1D0B8E76C5CE1E94EE7608E330C922BBFF8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR12745_00": {
+        "npCommunicationId": "NPWR12745_00",
+        "trophyTitleName": "Audio Beats",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12745_00_00288B765F475A38733B0A16C74E4D44FDB2DF185A/640A3BD54DFD79B366CF4E4CEE2C53FB28C4C395.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR12746_00": {
+        "npCommunicationId": "NPWR12746_00",
+        "trophyTitleName": "Royal Defense Invisible Threat",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12746_00_0044467D7727490FA31DF13F3135B8A239B312BE19/D4C650CEDFE0AAD5FB900685E89AB2D9F731916B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR12747_00": {
+        "npCommunicationId": "NPWR12747_00",
+        "trophyTitleName": "Royal Defense",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12747_00_00F9E59BE48B120EAEC426E19463D4445255FB3133/872C0CD8DE613C69043DE036FBDCE8425DEE9A62.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR12748_00": {
+        "npCommunicationId": "NPWR12748_00",
+        "trophyTitleName": "Royal Defense Invisible Threat",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12748_00_002ACD19E9A42F342A0CEEFB74EB70A4D485EC7D1C/37BE0D2C9D9AF5EC44F28D98DDBD60D6F0AD8B9A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
