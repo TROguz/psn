@@ -40558,5 +40558,135 @@
             "bronze": 16
         },
         "service": "trophy"
+    },
+    "NPWR07664_00": {
+        "npCommunicationId": "NPWR07664_00",
+        "trophyTitleName": "R.B.I. 15",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07664_00_0013D8BDC3E076A50D3023DD1FE2E6A27B1495A4EF/2368F1716DA8E47F215EAAD8B1CF1402EE1AB7C4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR07665_00": {
+        "npCommunicationId": "NPWR07665_00",
+        "trophyTitleName": "The Jackbox Party Pack",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07665_00_00079AC830F6FE090A8B0732DBE18AB898D123FBE6/495816AA211D2E97D69207AAA24A2F28B3BB4F68.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR07666_00": {
+        "npCommunicationId": "NPWR07666_00",
+        "trophyTitleName": "The Jackbox Party Pack",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07666_00_0092BFC83CDFA49227C5D9BFE322EF48AC9260D3F3/513C23E7A1BD2F6FD10004FB461B49523F3C2CC1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR07667_00": {
+        "npCommunicationId": "NPWR07667_00",
+        "trophyTitleName": "Q*bert: Rebooted",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07667_00_0049DFD6F89128BD883B4E892440D6DF36AF54B1E0/44988A6DD876B40585F2C38BFBE5AD64B36D7918.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR07672_00": {
+        "npCommunicationId": "NPWR07672_00",
+        "trophyTitleName": "電撃文庫 FIGHTING CLIMAX トロフィーセット",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07672_00_00B0F5E0F18EAFA5461DB0096FB58514133EDD86A6/75985F88087D68C35919E36F33D16E0AB86E9C69.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR07680_00": {
+        "npCommunicationId": "NPWR07680_00",
+        "trophyTitleName": "Schrödinger's Cat and the Raiders of the Lost Quark",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07680_00_009F486BF3E7792F95057D2D9A82B2D1E2826534C3/B11BC8045922F62D6F1A22151A09EB14A3F8D007.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR07682_00": {
+        "npCommunicationId": "NPWR07682_00",
+        "trophyTitleName": "Tad and the lost scroll",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07682_00_0033C746FD9CB1BA0B21CC256537358797741203B7/DF3746992A5152C08F2C0BDAC3859280A9C32649.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR07683_00": {
+        "npCommunicationId": "NPWR07683_00",
+        "trophyTitleName": "Knights of Valour",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07683_00_00C6F9405472B428F16555FB70C7C99D2AA90ACFD6/8DF4BB1CC9A56AFC1325B38E2C5D8B762F174CD5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR07684_00": {
+        "npCommunicationId": "NPWR07684_00",
+        "trophyTitleName": "Tad and the lost scroll",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07684_00_002529E6F186DBAA69139F9458D9A8F1C3B0A7A15D/363409ADDEE1EA1AC74B5458C073E86F9E311E0F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR07685_00": {
+        "npCommunicationId": "NPWR07685_00",
+        "trophyTitleName": "Project Root",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07685_00_00681FEDFAB0CDF55CD28937995CA24DC31093EC2A/3337B2E6C354F980E25B2C4F50B3E83BA5456495.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
     }
 }
