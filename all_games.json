@@ -64218,5 +64218,135 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR11345_00": {
+        "npCommunicationId": "NPWR11345_00",
+        "trophyTitleName": "√Letter-方根書簡-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11345_00_003C9362DB64C211F64B49745E75F000D14FCB752B/497886C076DA7B0961C2E3FF431F68E21F881333.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11346_00": {
+        "npCommunicationId": "NPWR11346_00",
+        "trophyTitleName": "Dungeon Punks",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11346_00_008A8FE1B8905F0756B80F5D3B362F22D784EE7464/8ECAB2BFD1F172A1458C8EC0620868A694CF4743.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR11347_00": {
+        "npCommunicationId": "NPWR11347_00",
+        "trophyTitleName": "TumbleSeed",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11347_00_0027CDFB4D1B249E8F078F2E711944A631A2D93725/B1C1B31E4FEF7B85E981FDEE9C8C063ABF49A6D6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR11349_00": {
+        "npCommunicationId": "NPWR11349_00",
+        "trophyTitleName": "I WANT TO BE HUMAN",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11349_00_008C368002C5FDD94D4E0979577EAC8722473572BB/0406710A14562C91B9C08408FE7C607FAA011DA6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR11350_00": {
+        "npCommunicationId": "NPWR11350_00",
+        "trophyTitleName": "Night In The Woods",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11350_00_0086E6BB2BA6ACAB9645627B17CCDA410532039BDA/53F344AD18A98A19C43EC44ED23C08E5FAA486F7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR11351_00": {
+        "npCommunicationId": "NPWR11351_00",
+        "trophyTitleName": "Feist Trophy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11351_00_00854E693F8476780AAC6784264766E83D2A8D99BD/44AEC4E69307B2E3F407A81521EBE6CEC322998A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR11352_00": {
+        "npCommunicationId": "NPWR11352_00",
+        "trophyTitleName": "アイドルデスゲームTV",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11352_00_001B43A29B8E599CB915A6D08AE43B17E64DDC3DF5/A6F4844C823F6D896C99EFB9E9AEBA731A472F70.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR11354_00": {
+        "npCommunicationId": "NPWR11354_00",
+        "trophyTitleName": "Song of the Deep™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11354_00_00E83A54E098957588CAC35FB8D7EE59F5BEA07CE0/D642D73B05FE30666AC5D9E9C2C27937D4E952CC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR11355_00": {
+        "npCommunicationId": "NPWR11355_00",
+        "trophyTitleName": "Ghost Blade HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11355_00_002624BE638E1A1CC3FEC9A1C7A373C3EDB898D8F5/B9750ADD7792363882BBF7ABFAACE263DB4CA1BD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR11356_00": {
+        "npCommunicationId": "NPWR11356_00",
+        "trophyTitleName": "まりさとアリスのトラップタワー",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11356_00_0092132259F1D762BA6489DE2814EF73A6603B7E9C/FC93334A69EEBCF73064E0BC7E93F621B271A618.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 22
+        },
+        "service": "trophy"
     }
 }
