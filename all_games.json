@@ -65258,5 +65258,135 @@
             "bronze": 4
         },
         "service": "trophy"
+    },
+    "NPWR11479_00": {
+        "npCommunicationId": "NPWR11479_00",
+        "trophyTitleName": "Let's Sing 2017",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11479_00_0020CA8036CC6ABEEC2BBA4DAA5ED37A131B870245/F94A9F34A0DE179D2C52C1A6DB9DDF8CA2ECD2D6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR11484_00": {
+        "npCommunicationId": "NPWR11484_00",
+        "trophyTitleName": "EVE: Valkyrie - Warzone™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11484_00_0004FC8BC78E3F068623246F708389BED3FA96466A/64D2A5DD917CC2103767F7FB60F7BB9DDA3C4B05.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR11485_00": {
+        "npCommunicationId": "NPWR11485_00",
+        "trophyTitleName": "Serious Sam Collection",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11485_00_00ACB0A54263CA6E68B29F2C34FB0DCA7DD631A3EE/C8EE5C410967256C3006ADC580C837BFADAC0DF7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR11487_00": {
+        "npCommunicationId": "NPWR11487_00",
+        "trophyTitleName": "The Voice, la plus belle voix",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11487_00_007A6830EFAB1F4C5812C5BBC0A65A9EB9B3065531/D8A8D7959108182CC503E2D03A2BA5AC94B6D72F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR11488_00": {
+        "npCommunicationId": "NPWR11488_00",
+        "trophyTitleName": "La Voz",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11488_00_0073EEB4FB5BBEACD4EC53FAEA66F321D5CF26FE87/7CFBB56327821D0B6C3BD804A2E909685D8A0740.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR11490_00": {
+        "npCommunicationId": "NPWR11490_00",
+        "trophyTitleName": "Active Soccer 2 DX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11490_00_00DDE1098F8EBEADA10DEF3441A143A19D9875087C/F8C47F5A3C4379A967F4A274916ADE3EC5B75099.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR11491_00": {
+        "npCommunicationId": "NPWR11491_00",
+        "trophyTitleName": "Nubla",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11491_00_00B4D12A461CC79897245CFB164D7DBCF460CE774C/A467226B144B174A8578F555D63ADD040687ABD4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 0,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11492_00": {
+        "npCommunicationId": "NPWR11492_00",
+        "trophyTitleName": "Weeping Doll",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11492_00_00475C718100D912FB4818B2BF37E20C87950C3124/F9AF4778398523FFD5223EA59A9DB1435DF80E11.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR11493_00": {
+        "npCommunicationId": "NPWR11493_00",
+        "trophyTitleName": "白と黒のアリス",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11493_00_00EE164EED62C9B2708E039DF3C391C0B2AADB2E75/14AA88B3845F380B4DD6C484869C5962FD0F1466.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR11494_00": {
+        "npCommunicationId": "NPWR11494_00",
+        "trophyTitleName": "ドラゴンクエストⅩ オンライン",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11494_00_007E654807869C9980C9B19146809FA9B61C01DBAB/172181B140D3F59ECB235CC925464CB3D97BD6D2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 20
+        },
+        "service": "trophy"
     }
 }
