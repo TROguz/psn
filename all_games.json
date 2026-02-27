@@ -72278,5 +72278,135 @@
             "bronze": 16
         },
         "service": "trophy"
+    },
+    "NPWR12386_00": {
+        "npCommunicationId": "NPWR12386_00",
+        "trophyTitleName": "Shadow Warrior 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12386_00_0095F6BF8C79A137F93A1C395BFBDDF5DCCC911333/8D7A40067E312C3DA395258BAA91073C4B4BF21A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR12387_00": {
+        "npCommunicationId": "NPWR12387_00",
+        "trophyTitleName": "Polybius",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12387_00_009A358C084FDD0E5FD4C0B7F47FB8DFD3FFFCF016/C9AC4A8EBC02461B32F067E0A69279F8233D1855.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR12388_00": {
+        "npCommunicationId": "NPWR12388_00",
+        "trophyTitleName": "ArmaGallant: Decks of Destiny",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12388_00_00A414A9A3189872372C32BE4596007AC28CE051EB/D4674B037EC9221450747A5F7ED68E0086A48BDC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR12389_00": {
+        "npCommunicationId": "NPWR12389_00",
+        "trophyTitleName": "Double Dragon 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12389_00_000FA4F54E92A575737DF80A028D68E5C341ED9D3A/94267A7174A51DBCE510EEE097CABD77B902AD87.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 21,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR12393_00": {
+        "npCommunicationId": "NPWR12393_00",
+        "trophyTitleName": "3on3 Freestyle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12393_00_001CD64D68877F544D0D0E74BD860F0481E39ABB1A/42D87FA1FCFD28A4BA61EFAC7F23C6BD4D2D7BF2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR12395_00": {
+        "npCommunicationId": "NPWR12395_00",
+        "trophyTitleName": "Unholy Heights",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12395_00_00515012C532558F086EA67C0D6B5D2DFA35F40301/385B092ABACDC48828121DB312FE53ADAC4B4FA6.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR12396_00": {
+        "npCommunicationId": "NPWR12396_00",
+        "trophyTitleName": "Ancient Amuletor\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12396_00_00246FE482B13D93BA04F3AD2CD5A4FE8EF159B073/FD5D2C203D13117CCCC93478AE083DE9CC969043.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR12397_00": {
+        "npCommunicationId": "NPWR12397_00",
+        "trophyTitleName": "Portal Knights",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12397_00_00FD327D616F672D9CD51BD8471AECC50F70F062EA/7190EC2EB3833641DEF6F7D63202F3838B822641.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR12398_00": {
+        "npCommunicationId": "NPWR12398_00",
+        "trophyTitleName": "CHAOS;CHILD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12398_00_006CC2BDE773E175F84A69835E40B3A756F80975BA/34E11F05BB705EFEF8C1E7B82AF782E7F44DAB64.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR12399_00": {
+        "npCommunicationId": "NPWR12399_00",
+        "trophyTitleName": "Override: Mech City Brawl",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12399_00_0024DF4F9ADD58D23760332DB369D87A7F8C70F215/190E761EAAA4F58BF04C2631E1DD47B1B5E61453.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 29
+        },
+        "service": "trophy"
     }
 }
