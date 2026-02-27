@@ -65908,5 +65908,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR11578_00": {
+        "npCommunicationId": "NPWR11578_00",
+        "trophyTitleName": "Joe's Diner",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11578_00_0054217A7D2E5C0BA2A1337E5BC843FAE2CA1972A1/9BD5B23058DB2F8398964986B58C0A332BAA75C4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11580_00": {
+        "npCommunicationId": "NPWR11580_00",
+        "trophyTitleName": "루프란의 지하미궁과 마녀의 여단",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11580_00_001F10AFB899894B2EAEF52AD9F865BE8170C6A794/8C8884FB823DA3B466C1EF005CF1F9ED99255AB3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 53
+        },
+        "service": "trophy"
+    },
+    "NPWR11581_00": {
+        "npCommunicationId": "NPWR11581_00",
+        "trophyTitleName": "Rez Infinite",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11581_00_0044367E3B51ED5D0B0604D249BC842D105291539F/1FEBFC2B7C6AA9889C50105F40A8ABFA00A5F02A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR11582_00": {
+        "npCommunicationId": "NPWR11582_00",
+        "trophyTitleName": "Handball 17",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11582_00_004C87B55823D2322B8186E7C6195EF5EFC63182B0/1193F2C9553E6254F2481F5FAA35DE1E10B9EADB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR11583_00": {
+        "npCommunicationId": "NPWR11583_00",
+        "trophyTitleName": "Inner Kung Fu Game",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11583_00_006B93F90114C8B0E38EC89B62DEB0F02A16FBDF8E/F3253AABF202BF8AD468DBA2A1A0D909B2B3B571.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR11585_00": {
+        "npCommunicationId": "NPWR11585_00",
+        "trophyTitleName": "アキバズビート",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11585_00_00E64A36EDEE38F799B0B7AA5B61FAC8D6FD585F45/B595E2D572E7A217962F1383B3C1856F8F5C0CA9.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR11587_00": {
+        "npCommunicationId": "NPWR11587_00",
+        "trophyTitleName": "極限凸起 萌情水晶",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11587_00_0046755DABF0666D51CE1FD0A780CADC9708755D0E/E803E84075299B67B4889FFFB3A4BAA8577156FE.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR11588_00": {
+        "npCommunicationId": "NPWR11588_00",
+        "trophyTitleName": "Black & White Bushido",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11588_00_004087983562092E401D45AFECEDA18A7C538272CB/32373B36C2766A2893C67071E01A0881D6A58E79.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 2,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR11589_00": {
+        "npCommunicationId": "NPWR11589_00",
+        "trophyTitleName": "Planar Conquest",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11589_00_004125CB2AEBCF078F6233D80C39D51BC5832F7FBB/3AB92E3822F1C6D1081FD40EB589B0B8360770AD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 64
+        },
+        "service": "trophy"
+    },
+    "NPWR11590_00": {
+        "npCommunicationId": "NPWR11590_00",
+        "trophyTitleName": "Handball 17",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11590_00_00C7B99C14521D5958D58C74D75704BF7235E9B0CD/464311E079DFD7F9E59B8315A15E5B35EF7A1321.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 6
+        },
+        "service": "trophy"
     }
 }
