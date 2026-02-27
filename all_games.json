@@ -35748,5 +35748,135 @@
             "bronze": 32
         },
         "service": "trophy"
+    },
+    "NPWR06650_00": {
+        "npCommunicationId": "NPWR06650_00",
+        "trophyTitleName": "LEGO® Ninjago™: Nindroids™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06650_00_00FCE3ABB2C312D4B5AC915B29DC4E5DE36DC9FF00/E74EAF015921D849BC58742AC0663922D7A6C8E3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR06653_00": {
+        "npCommunicationId": "NPWR06653_00",
+        "trophyTitleName": "Sparkle 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06653_00_0092E8876E5611640F5EB048B39C8265B35F66CDBA/1F34C0930751F498AE41C806C9D8C0A5339B7DEE.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR06654_00": {
+        "npCommunicationId": "NPWR06654_00",
+        "trophyTitleName": "Teenage Mutant Ninja Turtles™: Danger of the Ooze",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06654_00_00E0C174517AB64AC89001B0D13A76CFFCD1E1AFF6/E3858AEDD8A4BA31CD98FC5C7CB29393F8C96DA0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR06656_00": {
+        "npCommunicationId": "NPWR06656_00",
+        "trophyTitleName": "BinaryStar",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06656_00_004664954C64BC50257EF0B696B3C145F38E7B1545/15347BD0BFA764ED77E4B782988666DD4809A079.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR06659_00": {
+        "npCommunicationId": "NPWR06659_00",
+        "trophyTitleName": "WARRIORS OROCHI 3 Ultimate",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06659_00_00DAD410621C8D354F52378F049653DE5FCD4F768D/2B2AC597CE9DBD2AF2F45654FEA385FDCFD0B115.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR06661_00": {
+        "npCommunicationId": "NPWR06661_00",
+        "trophyTitleName": "Mahjong Gold",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06661_00_00AEC147643B28E485AF4869E6E1EAE0824A84CEE4/BDB0AAE286F73DD2367D3C1D3EE72C17E7DD614C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR06662_00": {
+        "npCommunicationId": "NPWR06662_00",
+        "trophyTitleName": "Sacra Terra: Kiss of Death",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06662_00_008737453C2D9CB43B25DED3A420B84F3488234E9C/33112B652CB2B3FECB171C9759F66EE296D962CB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR06664_00": {
+        "npCommunicationId": "NPWR06664_00",
+        "trophyTitleName": "MX vs ATV Supercross",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06664_00_00C62E3E59E1D440D78F5E1231EC4759E37574AC36/5C1D90C0CE1F0131C62B761F2041CDE20DE1E351.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR06670_00": {
+        "npCommunicationId": "NPWR06670_00",
+        "trophyTitleName": "Crimsonland",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06670_00_005A18754BA4171CA02891026EF2A03912F6987F82/7887AFCAA2B640F3A23B66D5E2E5D4A4BC60581D.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR06678_00": {
+        "npCommunicationId": "NPWR06678_00",
+        "trophyTitleName": "テイルズ オブ ゼスティリア",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06678_00_0034B3A5887B1475CB2370C09F04BA5655D638CBDB/46F1A53287F2C162F41558079FCB57DB90F3B9A8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 43
+        },
+        "service": "trophy"
     }
 }
