@@ -19628,5 +19628,135 @@
             "bronze": 5
         },
         "service": "trophy"
+    },
+    "NPWR03281_00": {
+        "npCommunicationId": "NPWR03281_00",
+        "trophyTitleName": "PlayStation® All-Stars Battle Royale",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03281_00_001C4DF083267B1BF1496A4E7FDD1D2A4D5183D9E6/A23CC53EAF8314DA3C013227A0AE3923376B1978.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 9,
+            "bronze": 45
+        },
+        "service": "trophy"
+    },
+    "NPWR03283_00": {
+        "npCommunicationId": "NPWR03283_00",
+        "trophyTitleName": "TIME TRAVELERS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03283_00_00A78909DC150D5DEEFCFD21C34299CCB559564F7E/BA2B3C0DCC1CBCAAD81F3A489F1D432FE42630FD.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 4,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR03286_00": {
+        "npCommunicationId": "NPWR03286_00",
+        "trophyTitleName": "ネクレボ 英文法 徹底特訓",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03286_00_0092FFDB627C493916AE00F5311F1536B2142A0DDC/9018903C5C024DC427115538012DEAF7CA023C66.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR03287_00": {
+        "npCommunicationId": "NPWR03287_00",
+        "trophyTitleName": "SBK™ Generations",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03287_00_00F399E70CEE6135358F8D87A35C54B88960385253/5617391BD99399C49B72B09FC9964D81BC50ABFB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR03291_00": {
+        "npCommunicationId": "NPWR03291_00",
+        "trophyTitleName": "ハローキティといっしょ！ブロッククラッシュV",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03291_00_00FC391E8A4D87272E8087F45FE2935CA64630BC5A/2E9B00828DB5B47D20280A73B46831660B837389.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 7,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR03292_00": {
+        "npCommunicationId": "NPWR03292_00",
+        "trophyTitleName": "Madagascar 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03292_00_00B97FC8F5CE6C7658E166564A017B07EBF69BD50D/A11ED62909C2AE18D060668B5730A44C1BD777DD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR03295_00": {
+        "npCommunicationId": "NPWR03295_00",
+        "trophyTitleName": "Jet Set Radio",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03295_00_00D5F955C0AFC164508FA1A69FE26BFF997CD3898A/8FEC6B59A2801E7FEF9E29543A11B3D124DD45A7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR03297_00": {
+        "npCommunicationId": "NPWR03297_00",
+        "trophyTitleName": "007™ Legends",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03297_00_00C4F2D735833AF3EDEA1B58407B479B35C782BF17/D1EA915C563946800565177600AAE228E35A010F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR03298_00": {
+        "npCommunicationId": "NPWR03298_00",
+        "trophyTitleName": "Sine Mora",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03298_00_00402CE36EB0AF46CD35E7377B8F1864F8A9ECD8F8/554824904A822FB779DC8175F4FAB2ADE9DD6152.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR03315_00": {
+        "npCommunicationId": "NPWR03315_00",
+        "trophyTitleName": "Pid",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03315_00_00BF63EF5EA9DB126EA6CE5831BD8A43F8E857CB40/48BC9BB24CE80E718ADAEEFB718F9382ECA72DF5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
     }
 }
