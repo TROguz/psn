@@ -72668,5 +72668,135 @@
             "bronze": 29
         },
         "service": "trophy"
+    },
+    "NPWR12434_00": {
+        "npCommunicationId": "NPWR12434_00",
+        "trophyTitleName": "Fat City: NYC Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12434_00_00DD3E3C5DF8FFAB4DF5819D7AEE29DEF96EFA916C/611C322AC6371E7B7F9DDD585A3BEB1F8A4D3CC9.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR12435_00": {
+        "npCommunicationId": "NPWR12435_00",
+        "trophyTitleName": "Dragon's Dogma: Dark Arisen",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12435_00_005AC70AE9A99345539CE98C9CEF4C788EB4ABA39F/63E14A41456EFB726221E1E552BB9665D8B12069.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 54
+        },
+        "service": "trophy"
+    },
+    "NPWR12436_00": {
+        "npCommunicationId": "NPWR12436_00",
+        "trophyTitleName": "Horse Racing Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12436_00_00CEC326358D55E1C8E0AE502BF32F499A0849EE00/C32756BE45AFE211F5D605E26ABEFDCF0B1DD412.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR12440_00": {
+        "npCommunicationId": "NPWR12440_00",
+        "trophyTitleName": "Super Comboman",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12440_00_00B40079FBBBF61028A6DEAC33388F4DDF25ED7EBA/0E4980824BCFCB1210CE829E8655A88FBCC30B1A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR12444_00": {
+        "npCommunicationId": "NPWR12444_00",
+        "trophyTitleName": "Fantastic Contraption",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12444_00_00050CB59C3BBDE6C4710D2C86E301A4F619142307/5DAEEBF38B154B006CB9524AA401669BD3B3D6DD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR12447_00": {
+        "npCommunicationId": "NPWR12447_00",
+        "trophyTitleName": "Fate/EXTELLA LINK",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12447_00_005252D474ED81A9B2E8B5F1674566F4049FE46A3C/00C425096EB3375B99C900722DCD6772D2492DC4.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR12450_00": {
+        "npCommunicationId": "NPWR12450_00",
+        "trophyTitleName": "Eekeemoo - Splinters of Dark Shard",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12450_00_00041E5016B8AFB2B22801EE27DB09324B8AE6BEFD/631B78A4356F533B44EB93D55D0D92A5A16F5634.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR12451_00": {
+        "npCommunicationId": "NPWR12451_00",
+        "trophyTitleName": "Eekeemoo - Splinters of Dark Shard",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12451_00_00AAAB5DB3088AE8D9787570D2D183AE4F55510426/10EE83F986781935B637CCAC0C5421A03671ADB3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR12452_00": {
+        "npCommunicationId": "NPWR12452_00",
+        "trophyTitleName": "Is It Wrong to Try to Pick Up Girls in a Dungeon? Infinite Combate",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12452_00_008F1D3E8095433515D85A2266AE5ABCC3781AF077/5EA8C5641B45CA49C5C7D08F4C67B7ED3022DF76.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 15,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR12453_00": {
+        "npCommunicationId": "NPWR12453_00",
+        "trophyTitleName": "We Are The Dwarves\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12453_00_00C20AD2259BA8B88D02A44A1F29267DF9D7802B20/CFCC42C64221155EBE5176F388DFCF102837529E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
     }
 }
