@@ -20018,5 +20018,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR03387_00": {
+        "npCommunicationId": "NPWR03387_00",
+        "trophyTitleName": "Foosball 2012",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03387_00_00456A9D2FCECCAEA1026894E4E207E7E896642BAB/B37FDBBEA1B396CDCF7DA941CF655B8676875CC2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR03395_00": {
+        "npCommunicationId": "NPWR03395_00",
+        "trophyTitleName": "Quantum Conundrum",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03395_00_00EA3BF9E8A3A490C05B61303779D64997B0DF4E48/FF81B982A1CE1FD4088D4B271122DEDF35FC3711.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR03396_00": {
+        "npCommunicationId": "NPWR03396_00",
+        "trophyTitleName": "機動戦士ガンダム　バトルオペレーション",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03396_00_00785EDC2A069256ED6D07A5B0AEF73D1458753CB3/64B92CE400C8C429BD439ABB91C1BF62462B219F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR03400_00": {
+        "npCommunicationId": "NPWR03400_00",
+        "trophyTitleName": "スーパーヒーロージェネレーション",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03400_00_00F2751982E8FF0173DDEBAB15A42C99AAD7DFEC06/43FCECCAA455890F22E5B08C1BEB16323FA459E4.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR03404_00": {
+        "npCommunicationId": "NPWR03404_00",
+        "trophyTitleName": "銀星将棋 強天怒闘風雷神",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03404_00_00E4D344DE28E864C650CF1ABE643E8A37CAF9C110/06D7176272DF7507DE28FE21DA1DEBF001C52FCB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR03406_00": {
+        "npCommunicationId": "NPWR03406_00",
+        "trophyTitleName": "実戦パチスロ必勝法！ 北斗の拳F 世紀末救世主伝説",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03406_00_00886651233F7CE7622BFC19AD4E3C40EEC6363B32/A607965EB205CD2CC6C193040AE38701F9F1ECDC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 10,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR03408_00": {
+        "npCommunicationId": "NPWR03408_00",
+        "trophyTitleName": "VALHALLA　KNIGHTS３",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03408_00_00D865453B50BD41FF8DA15A3E144ADBB6013BC0A6/6D1734FAD0ACB03773D5438A48DBFD5DB84F879B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 12,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR03410_00": {
+        "npCommunicationId": "NPWR03410_00",
+        "trophyTitleName": "Tales of Graces f",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03410_00_00DE9E4A61D10A0E7ABF64B501AA759E04B1F9DD0A/F5D1647D001E6695513F0B3EF35C0D142711EC62.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR03411_00": {
+        "npCommunicationId": "NPWR03411_00",
+        "trophyTitleName": "Blood Knights",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03411_00_006574F04412C7A263F235EDA2FE285D629FAE503A/4C84A441592C04B0B911841665FDCFBB71E9D724.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR03412_00": {
+        "npCommunicationId": "NPWR03412_00",
+        "trophyTitleName": "Rock Band Blitz",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03412_00_007B2B09998B1A0962D6689C3534E584B4E5D68975/C81DAE4A4AE1607FED426DF800FE5B74E3494FAD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 15
+        },
+        "service": "trophy"
     }
 }
