@@ -32498,5 +32498,135 @@
             "bronze": 42
         },
         "service": "trophy"
+    },
+    "NPWR05906_00": {
+        "npCommunicationId": "NPWR05906_00",
+        "trophyTitleName": "Ultratron",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05906_00_0048C858FE212798250AA493FEAFA8C4636F1BDE2F/8E39CC6111EC766DC93C9A4C79913AC9EEB783BC.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR05907_00": {
+        "npCommunicationId": "NPWR05907_00",
+        "trophyTitleName": "Batman™: Arkham Origins Blackgate - Deluxe Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05907_00_0031A619B05081F17293B59F57DA32697AB0619CEF/6B1E1CA6D249F16682FCC8B0B8444BBFC392F652.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR05912_00": {
+        "npCommunicationId": "NPWR05912_00",
+        "trophyTitleName": "Switch Galaxy Ultra",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05912_00_009085C338D3671296BF3B348C77A33C1F654114F9/C69517E4D5C6624204394C7693CDC8DFA0D0DE40.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR05915_00": {
+        "npCommunicationId": "NPWR05915_00",
+        "trophyTitleName": "The Witch and the Hundred Knight",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05915_00_0092CC9FCF3B170067E6F6C18226F0A532C18FF9BD/71078F85C757BFAB6842BED1DB1F3581C4EDC6C1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR05920_00": {
+        "npCommunicationId": "NPWR05920_00",
+        "trophyTitleName": "2014 FIFA World Cup Brazil™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05920_00_00A20B919F15C9936E80C2E5E44FBE5E1CBE66E262/B6A943195EEEE0384CA9C4B903EE548CC1B1BC6E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 1,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR05922_00": {
+        "npCommunicationId": "NPWR05922_00",
+        "trophyTitleName": "SOULCALIBUR Ⅱ HD ONLINE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05922_00_001BD67C4F22D3DFBDDF254D8C4DB20D5C375DDC18/8B0D4EC4C0F9401E7ED779431574A8E9D3FEBD01.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR05924_00": {
+        "npCommunicationId": "NPWR05924_00",
+        "trophyTitleName": "マンガ・カ・ケール",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05924_00_00B7BCEF63C76F2344A478C066A482A81B197E96E7/56BEF400EADE90B2BCF443932A6E217DBEB87AA2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 9,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR05925_00": {
+        "npCommunicationId": "NPWR05925_00",
+        "trophyTitleName": "Mahjong World Contest",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05925_00_00D426D1AAE0DC02F173B2941916E397BB5F1C5226/A32FED0EF80F1D854FBA807C53DE0A3E749817E4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR05930_00": {
+        "npCommunicationId": "NPWR05930_00",
+        "trophyTitleName": "Mahjong World Contest",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05930_00_00A4CF0D46E3A205A75079F92439E1EA655101E5C3/4EE08423CFEC0EA012D8FEA34A2BB2CF398563B8.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR05938_00": {
+        "npCommunicationId": "NPWR05938_00",
+        "trophyTitleName": "Tour de France 2014",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05938_00_0035D48AED6A2F19C97115B5B8040DB97D1068AC57/DE3415D8A850E5622F95C0104C780DB00FEC12E1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 6,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
