@@ -83588,5 +83588,135 @@
             "bronze": 14
         },
         "service": "trophy"
+    },
+    "NPWR13831_00": {
+        "npCommunicationId": "NPWR13831_00",
+        "trophyTitleName": "Oh My Godheads",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13831_00_0083668BD6085F85A0C4F379258A94887B7C9A0457/15F32D368A974CB41958AA26A01BB56F28399A2B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 2,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR13832_00": {
+        "npCommunicationId": "NPWR13832_00",
+        "trophyTitleName": "Absolver",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13832_00_00B110DAF07D6D313EBD0E75AF2F75BBC10F392105/526C86693FEF80A50D565F70D2C2DDFF026DA9AD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR13833_00": {
+        "npCommunicationId": "NPWR13833_00",
+        "trophyTitleName": "Dark Legion\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13833_00_00F82D66DDE7CEF4382975B38C0D3267A21DC32DF1/C800EA79D4BAE3E262AD9A6C9D3983A93A70511A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 4,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR13834_00": {
+        "npCommunicationId": "NPWR13834_00",
+        "trophyTitleName": "Super Hydorah",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13834_00_008F0BD1591A7C2DECFCAF5D8F32BB52C2BFBD06CC/DD565B59DB6D87146AA53444406B5F61BD4FEB9F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR13835_00": {
+        "npCommunicationId": "NPWR13835_00",
+        "trophyTitleName": "Super Hydorah",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13835_00_001FDDD08E132448D90F0B3B9BB02C80D611CEE053/D215898581335D30E87888BE3E6B31FCAFC340CB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR13836_00": {
+        "npCommunicationId": "NPWR13836_00",
+        "trophyTitleName": "Obduction",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13836_00_00387BE41B5C4DBC1D78584A7C59A478136662B2B1/92663479D6D6168929D21B56AC3E5DB377AAD279.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 1,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR13837_00": {
+        "npCommunicationId": "NPWR13837_00",
+        "trophyTitleName": "Freedom Planet",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13837_00_007A1E85FCEB60D223116239EFE542AC6F1E13853E/E1C48FB674A785463E77181CF29F8CE6B0FCAA6E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR13844_00": {
+        "npCommunicationId": "NPWR13844_00",
+        "trophyTitleName": "Digimon Story: Cyber Sleuth - Hacker's Memory",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13844_00_00EEED19117D61EFBDDE3F27C03B2F6DD8CBE396C9/992FC583D2E665AE813ADFAAE1E3E62F0E43F637.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR13846_00": {
+        "npCommunicationId": "NPWR13846_00",
+        "trophyTitleName": "Eventide 2: Sorcerer's Mirror",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13846_00_0076A4E76507A8572D628C70A1FEA94C85FCF86CEE/4A7BDF7143F39A65D6E3AC6CCFBAAA42DCF99AE8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR13847_00": {
+        "npCommunicationId": "NPWR13847_00",
+        "trophyTitleName": "The Girl and the Robot",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13847_00_000557C550B3374C84006B5FEA590ADBFF6E679FA4/B780A6FFA1B390637C004B78EA26BE1B7F6609D3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
     }
 }
