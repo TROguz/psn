@@ -81768,5 +81768,135 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR13608_00": {
+        "npCommunicationId": "NPWR13608_00",
+        "trophyTitleName": "Minecraft: Story Mode Season 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13608_00_00BB4B15F469F8BEC6D0C6380B676A59DE52EBB77C/978585DA0D9473763FF708CA7ECE745116CB3950.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR13609_00": {
+        "npCommunicationId": "NPWR13609_00",
+        "trophyTitleName": "デート・ア・ライブ 凜緒リンカーネイション HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13609_00_004E73921AC24469CE7016EE15701CD466C24F8FAC/30274986E1981F25CD702A84E621E30AC1DD1641.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR13610_00": {
+        "npCommunicationId": "NPWR13610_00",
+        "trophyTitleName": "ドラゴンクエスト(無料版)",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13610_00_00D181468E9F2E91424F352B6B5F0A67FF7E8EBB47/EE65440CE2D874F01DC7C91CD2B8B1304FE66D24.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR13613_00": {
+        "npCommunicationId": "NPWR13613_00",
+        "trophyTitleName": "FriskyBusiness trophy set\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13613_00_00ED03BABCB3D3FE26002B262ADB3F7B5F176EE5A1/DFF8F3CB899600ED8916577544FC1B0D6C3F9CB7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR13614_00": {
+        "npCommunicationId": "NPWR13614_00",
+        "trophyTitleName": "FriskyBusiness trophy set\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13614_00_002FA821CDFF09154715F46E0940B56A85783FCBF3/CAECBBB17E2C1E956774570A90F34D391BED60AF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR13615_00": {
+        "npCommunicationId": "NPWR13615_00",
+        "trophyTitleName": "INK",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13615_00_0065463D50481912B2BEAFA1C22D5FC24837D683AF/3814D1DBDECF897E025598E010E495C02D20DA64.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR13616_00": {
+        "npCommunicationId": "NPWR13616_00",
+        "trophyTitleName": "Save the Ninja Clan",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13616_00_007BFE899343ACB8F3982C16B7E9F68037903C50AE/513B88A6B22011CC0A812EA9E444E8E9100B50BF.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR13618_00": {
+        "npCommunicationId": "NPWR13618_00",
+        "trophyTitleName": "Plague Road",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13618_00_00A5AD9762F60BA7CD4ECA81F567C24F769D18E3A6/8C1183C5B4AA3EFCB7A2D75D8A5BC7E90AC32381.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR13621_00": {
+        "npCommunicationId": "NPWR13621_00",
+        "trophyTitleName": "Let's Sing 2018",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13621_00_00FF52D0453E2696FDC92D4E9F91E461A095687567/3F197DEF971B620910C52D06F2A4CEE079202D73.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR13622_00": {
+        "npCommunicationId": "NPWR13622_00",
+        "trophyTitleName": "Let's Sing 10",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13622_00_00432EEB19C66B4B00123B7B7948815B129CFDB3B5/F26A043B5987CE98409D49C6BE7BEB0FC9DB21C4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
     }
 }
