@@ -40428,5 +40428,135 @@
             "bronze": 5
         },
         "service": "trophy"
+    },
+    "NPWR07638_00": {
+        "npCommunicationId": "NPWR07638_00",
+        "trophyTitleName": "Aabs Animals",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07638_00_00F55D376106FB3EB9FE23F1B8E68FA24456077A2F/10986245A9AD93530DCC09163CC33B656C40FB55.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 1,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR07645_00": {
+        "npCommunicationId": "NPWR07645_00",
+        "trophyTitleName": "Home",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07645_00_00B7B458101206437536C20A2629B737F3F0B73FAA/947880FA9F0C7B074A0D7CE95A82828AEA55FB7E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR07649_00": {
+        "npCommunicationId": "NPWR07649_00",
+        "trophyTitleName": "MONOPOLY DEAL",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07649_00_006D3B2D69B69B133B23ECF350E3D497EF7C47B120/78AD974FA36E47BCBE37803B432914BFCA5F0751.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR07652_00": {
+        "npCommunicationId": "NPWR07652_00",
+        "trophyTitleName": "Desert Ashes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07652_00_00AB8C2C1E30F3EEF6BFF3F3F06AA1D86960C04C3D/00045440CE76207C2E8F5EEFA80EED31326C6B64.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR07653_00": {
+        "npCommunicationId": "NPWR07653_00",
+        "trophyTitleName": "Jetpack Joyride Deluxe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07653_00_0081C86E2923651906E93BD2C0E22ED02C86F27661/A3D5637B27819C922E13A15483EE5B39B114F503.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR07654_00": {
+        "npCommunicationId": "NPWR07654_00",
+        "trophyTitleName": "Superdimension Neptune Re;birth3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07654_00_000CABCFECD5CBBB1BD85FADE0823F8D69158922AD/9B85AB32785098B446E71911ADEFD04FFF81B799.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR07655_00": {
+        "npCommunicationId": "NPWR07655_00",
+        "trophyTitleName": "薄桜鬼 随想録 面影げ花",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07655_00_00B99A4108002D00C7833FF03786F3D40D0394998B/FF9A51851F1D4F693EB121DFDD17FA45FB5E0D2C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 19,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR07658_00": {
+        "npCommunicationId": "NPWR07658_00",
+        "trophyTitleName": "Phantom Breaker : Battlegrounds -Overdrive-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07658_00_00A6FC2D9DF170AF39EF03326270D5459B25FD4099/6C0CA3E45B02EC53AAA9BB4583BACD51F6C4A8C7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR07660_00": {
+        "npCommunicationId": "NPWR07660_00",
+        "trophyTitleName": "魔界戦記ディスガイア５",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07660_00_007F0C27C6047DEFCDA3E92DA984EC047B7EF9D990/831B95660FC7B8E9FAA8E1A7E59C6DD53368D024.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR07661_00": {
+        "npCommunicationId": "NPWR07661_00",
+        "trophyTitleName": "In Space We Brawl",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07661_00_00676EB7C8FB814BB10C0992B2A7A52492F968FCF6/DC7D8EBBC5AFDC0CD272C5E8CCBDCE4B88035BDE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 16
+        },
+        "service": "trophy"
     }
 }
