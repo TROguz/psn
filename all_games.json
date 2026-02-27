@@ -49008,5 +49008,135 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR09050_00": {
+        "npCommunicationId": "NPWR09050_00",
+        "trophyTitleName": "ゆのはなSpRING！",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09050_00_0080F3609FD19FCF4C31368AB2372672735BBD2061/DFFA6D2AEEEEB18FEBF45FFE9C8683597B27F4A3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR09051_00": {
+        "npCommunicationId": "NPWR09051_00",
+        "trophyTitleName": "学園K -Wonderful School Days- V Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09051_00_00F5342722F4FA1D090A824C66E8BF2FA93141F697/6B5F75DA76C45BE08F018316FB09BAE7C00C9DC9.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 7,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR09053_00": {
+        "npCommunicationId": "NPWR09053_00",
+        "trophyTitleName": "Adventures of Pip\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09053_00_0090C2AD34B61725A8AB31D52E0152E0F17AF04381/D40EE7E62102254156484E6490DBC4A12194BA0B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR09054_00": {
+        "npCommunicationId": "NPWR09054_00",
+        "trophyTitleName": "NET HIGH",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09054_00_00D1B244C23EAAE4373A2C1C56A022409C6C7297E0/DD67CBCCB10828690CD374719B928F84F6910A10.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR09056_00": {
+        "npCommunicationId": "NPWR09056_00",
+        "trophyTitleName": "Rock Band 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09056_00_008EB824CABBCCC74709090B42BFD0FA2542D0D5EB/429CBC10FADE20D45CAB9D66301807F653EAB852.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 49
+        },
+        "service": "trophy"
+    },
+    "NPWR09057_00": {
+        "npCommunicationId": "NPWR09057_00",
+        "trophyTitleName": "Shütshimi Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09057_00_005866AC81EFA26F8EF159B9880464C2C1C1C4E4FD/5307276F02DC0EC06B11F34F66589637AACBF243.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR09059_00": {
+        "npCommunicationId": "NPWR09059_00",
+        "trophyTitleName": "ナツメグ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09059_00_0051BCC2B014F6DA4AC821C1551DBE41F0BA265597/C0D424AA56B1450B4E5D22121D3D2C90348CD873.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 0,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR09061_00": {
+        "npCommunicationId": "NPWR09061_00",
+        "trophyTitleName": "RUGBY CHALLENGE 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09061_00_00362899347072B2F30791930D6A7CAEF58158849B/5578A5C3641C655BABEC35E4D2101EA067CAB3F2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR09062_00": {
+        "npCommunicationId": "NPWR09062_00",
+        "trophyTitleName": "Rugby Challenge 3 Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09062_00_00E6DE4EEE7D86DC2060016BFE79D1117AB1D892AA/0E51B08AA261DB2E3221110F1130540BF4DE2C2B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR09063_00": {
+        "npCommunicationId": "NPWR09063_00",
+        "trophyTitleName": "幻想英雄传",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09063_00_000AE714B5E8810A2CF6F1A4001E74C8D6292701B1/3D6D1CD71FA6F4559BD4239F06433D92E3915ABD.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 4,
+            "bronze": 1
+        },
+        "service": "trophy"
     }
 }
