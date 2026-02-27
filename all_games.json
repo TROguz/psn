@@ -46148,5 +46148,135 @@
             "bronze": 36
         },
         "service": "trophy"
+    },
+    "NPWR08599_00": {
+        "npCommunicationId": "NPWR08599_00",
+        "trophyTitleName": "NOBUNAGA'S AMBITION: Sphere of Influence",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08599_00_00E248FB589446599D05452C0B93500FCF80591ACB/1E43ED434E78EB947515ED62E9AB91CD03083C59.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 20,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR08600_00": {
+        "npCommunicationId": "NPWR08600_00",
+        "trophyTitleName": "猛獣使いと王子様 ～Flower ＆ Snow～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08600_00_007CCF6A7D180F90F58372D96D61660C47B7F5771B/F8D896E03326261F3B60D2A8AE81DAB659A6A8BA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 25,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR08601_00": {
+        "npCommunicationId": "NPWR08601_00",
+        "trophyTitleName": "カエル畑 ＤＥ つかまえて・夏　千木良参戦！",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08601_00_0058E205A797C290236509EFA7E71E8FAE828AD9BB/9ECCA72FBB6BBD5B0976C2E8073B1DC4315582DA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR08602_00": {
+        "npCommunicationId": "NPWR08602_00",
+        "trophyTitleName": "Toto Temple Deluxe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08602_00_00A04F01689236EDAFAE099E434667A260D4426EDE/02F7BBE1854CB9C08B89587C2B6F6B5700E164C8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08603_00": {
+        "npCommunicationId": "NPWR08603_00",
+        "trophyTitleName": "Galak-Z: The Dimensional",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08603_00_00D50C6375B16B6B7C7D6C88AE84E909DB6F659477/54814ADF848EC2E86F70A30626D0CD67C144015C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08605_00": {
+        "npCommunicationId": "NPWR08605_00",
+        "trophyTitleName": "学園ヘヴン2～DOUBLE SCRAMBLE!～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08605_00_003D6A95443BE2E5A79C82612064A579AA30FD4B8E/4F53A83F62CEF8CF1F224BBB5CBC16ABB579B04A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR08607_00": {
+        "npCommunicationId": "NPWR08607_00",
+        "trophyTitleName": "クロスアンジュ 天使と竜の輪舞tr.",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08607_00_008D7DBCFA0E06CDBB5975A1D167F6A9F4EB5E7B06/3B2E41DAA58A21DDD770C5557CD8B1D068DEA7AC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR08608_00": {
+        "npCommunicationId": "NPWR08608_00",
+        "trophyTitleName": "RAYGIGANT",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08608_00_00104D3D2FB3CD66005E5C55EA911CCD080CCEE352/473569D722AA9F918E81D60540659A097DEABC23.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 14,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR08609_00": {
+        "npCommunicationId": "NPWR08609_00",
+        "trophyTitleName": "Bastion",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08609_00_00B3B1309E47DDB4A421CC4BCCC2008BCAD994F246/6E573C428EFE7BF0E969264A806A7C30F2A4C486.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR08613_00": {
+        "npCommunicationId": "NPWR08613_00",
+        "trophyTitleName": "Risen 3: Titan Lords - Enhanced Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08613_00_00C88E03351B052A5FC8DBEA0618F5597E1E0F8C88/10B0158C8A4C11A8AD2DE570575F1B1AF1EA63A3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 42
+        },
+        "service": "trophy"
     }
 }
