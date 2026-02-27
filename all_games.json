@@ -76698,5 +76698,135 @@
             "bronze": 40
         },
         "service": "trophy"
+    },
+    "NPWR12934_00": {
+        "npCommunicationId": "NPWR12934_00",
+        "trophyTitleName": "SAMURAI WARRIORS: Spirit of Sanada",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12934_00_0019E8710030A4525786C822869348FAE6FF24CB76/0F1DD77659B04AFBC745E3FBB055A6EDB49C1635.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR12936_00": {
+        "npCommunicationId": "NPWR12936_00",
+        "trophyTitleName": "Bloons TD 5",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12936_00_00ABC859B1330A62BDFBECAC891795240BCE17A386/B52FA5E515B775CCB1CF8DC5243A5B15EB2C5A08.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR12937_00": {
+        "npCommunicationId": "NPWR12937_00",
+        "trophyTitleName": "Anna's Quest Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12937_00_002273F4807770FB0A8677E87489407B6B7660DC82/F9517DE385B2B198536675341A0ABC242476C98F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR12938_00": {
+        "npCommunicationId": "NPWR12938_00",
+        "trophyTitleName": "Broken Age",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12938_00_00DACBB119BF99FCB2750D1C7797538D6F3282918E/112F6D8BA9E84224F2597DAA325845FCA8DE51E0.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR12939_00": {
+        "npCommunicationId": "NPWR12939_00",
+        "trophyTitleName": "Sine Mora",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12939_00_00AFA1D62EAE5786AA199D1306BC6930A2568F54B9/24147AF5C25462C9BE21A9307DA5093FD619B768.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR12941_00": {
+        "npCommunicationId": "NPWR12941_00",
+        "trophyTitleName": "Let Them Come",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12941_00_008E7D7C4F00CB6DD2CEAEAC1A7B85BDF1F850821F/CA52DE52897CDFF8F52D3C7025C56C07DE10F2D0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR12942_00": {
+        "npCommunicationId": "NPWR12942_00",
+        "trophyTitleName": "Let Them Come",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12942_00_005BF0FEE2D81D80D560EA50F1D242276702AF059D/334F0B648FD25A7BA07A62275BBBB42E8915C2D5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR12943_00": {
+        "npCommunicationId": "NPWR12943_00",
+        "trophyTitleName": "嘘月シャングリラ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12943_00_008448FC844CC82415244DA60F1B3CD33DBC9D07A9/FC0A49824891F21E3DEF6693E61F8D35264E51FB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR12946_00": {
+        "npCommunicationId": "NPWR12946_00",
+        "trophyTitleName": "Happy Dungeons",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12946_00_00D4C824ACC20C454C2D928583E854A3887AA7C390/C5FEE8A4787C444457592A4FF791175F1240AD86.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR12947_00": {
+        "npCommunicationId": "NPWR12947_00",
+        "trophyTitleName": "Iron Sea Defenders",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12947_00_004080ABA023BFB4F3B7AD245ECD6B5D586B8DD372/0612B631A2FC7742153293880F0B65C2A994AAA4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
