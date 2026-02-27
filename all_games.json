@@ -87358,5 +87358,135 @@
             "bronze": 13
         },
         "service": "trophy"
+    },
+    "NPWR14310_00": {
+        "npCommunicationId": "NPWR14310_00",
+        "trophyTitleName": "Caladrius Blaze",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14310_00_00790E3C2B43038B5DF4327CD6DAA2AC39BE2EA4B4/42F99DB11A0744A44B3C0E9D647F085FC4ABEF59.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR14311_00": {
+        "npCommunicationId": "NPWR14311_00",
+        "trophyTitleName": "Tear -終わりとはじまりの雫-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14311_00_005EE5D7465C8DF561B21253472B777698B92B8CE8/FF6205F3C8E70C251BE2F5758C471F5EDE1B3169.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR14313_00": {
+        "npCommunicationId": "NPWR14313_00",
+        "trophyTitleName": "極限凸城 裝甲戰姬",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14313_00_006D6F5A6C974EC0C01DBC9465AA80059BB819D038/1ED8B5BE521BF838C2BFD3BBE0683C590116BC41.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR14314_00": {
+        "npCommunicationId": "NPWR14314_00",
+        "trophyTitleName": "Through the Woods",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14314_00_0049A3279524F7A7F5143A08B5349FEF5612D09E2B/807BB33895FF9AA35F45A261539CEB6636770893.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR14315_00": {
+        "npCommunicationId": "NPWR14315_00",
+        "trophyTitleName": "Through the Woods",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14315_00_00F6C5CCB0CAEF955F4079BCE5621AAE1728209893/CD4E119F16B0BDAB79D5E3BFDAA31DE348A24EC8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR14316_00": {
+        "npCommunicationId": "NPWR14316_00",
+        "trophyTitleName": "Beast Quest\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14316_00_00C3A6E8F46FD9FF779D596838ED7D92DCC0A96DEA/6FE29C451EEE08C9DF5044057AAAEA06BCC6397D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR14317_00": {
+        "npCommunicationId": "NPWR14317_00",
+        "trophyTitleName": "ARK Park",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14317_00_000D0412899BFA122A0C4FC41498350EEE767C1498/B94EC739A91C62A7C363D4E0247FACB78C05DEF6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR14318_00": {
+        "npCommunicationId": "NPWR14318_00",
+        "trophyTitleName": "CODE VEIN",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14318_00_00ED5C9FFA150D7D17CFE2C8930CE46713949B2361/6F3920E968F334ABE84E578FBEEC838FBA158FC2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR14324_00": {
+        "npCommunicationId": "NPWR14324_00",
+        "trophyTitleName": "Mutant Football League",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14324_00_0054D8D62EE9DC4EE991D9698BD7B1C325D8C08F1C/583754FD5CECCFE640452C206A8504863DB4D7EE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR14326_00": {
+        "npCommunicationId": "NPWR14326_00",
+        "trophyTitleName": "Citadel: Forged With Fire",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14326_00_00B85A61702CA588062C482960D69721FD9166BEB6/CD206415094B76166681410253BABF9D4A0A12BD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
     }
 }
