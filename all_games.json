@@ -57328,5 +57328,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR10340_00": {
+        "npCommunicationId": "NPWR10340_00",
+        "trophyTitleName": "Mahjong Royal Towers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10340_00_0013C6177071A9946AAF7D36C40CD16436D993D161/71F2C62EFD608C8204977173E3621F1B3E5B248F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10341_00": {
+        "npCommunicationId": "NPWR10341_00",
+        "trophyTitleName": "Mahjong World Contest",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10341_00_00123E54F5344E82C092DEF3074FD4F410154CEE5E/21A956EC653259001463F364CCDCC75FB6A51CDB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10342_00": {
+        "npCommunicationId": "NPWR10342_00",
+        "trophyTitleName": "Bunny Must Die! Chelsea and the 7devils",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10342_00_0007E27576826B5283084D534E2393BB4B94CCF727/E9FF1FA3E3CF9A85E69391CEDBB3B5169C5A326B.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR10344_00": {
+        "npCommunicationId": "NPWR10344_00",
+        "trophyTitleName": "Hard Reset Redux",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10344_00_0026CD4FE2AA3E6C722604AF9A51061807BF06BA0F/A43D19E8EA960141ECD01701D98435562C7D0933.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 12,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR10349_00": {
+        "npCommunicationId": "NPWR10349_00",
+        "trophyTitleName": "Neverending Nightmares",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10349_00_007DBF9A457E8F4130511D365D17D4D61427E215D9/7C0E681FFE075732A2BAB8CF4DA405D26A75423F.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 1,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR10352_00": {
+        "npCommunicationId": "NPWR10352_00",
+        "trophyTitleName": "Lithium",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10352_00_00368F5B0B1BF5168C6E8CE0F04077DD1F76CA9ADE/29CE9D15FDF89AA7F8B86570FCF5267AF59C0EB3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR10356_00": {
+        "npCommunicationId": "NPWR10356_00",
+        "trophyTitleName": "Farpoint",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10356_00_00B9F6272FE5876DC5296AE35E51853D95C68587F4/AC826C945A431997FDF4588CFDB8F6A940E6FB1B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 56
+        },
+        "service": "trophy"
+    },
+    "NPWR10357_00": {
+        "npCommunicationId": "NPWR10357_00",
+        "trophyTitleName": "The Walking Dead: Michonne",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10357_00_000684B04739C284B2C49F5DDE3D1EA07AF50B5A75/ED3F71EE1A266B55EBBB7C04F3F0067EB28D66E5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR10358_00": {
+        "npCommunicationId": "NPWR10358_00",
+        "trophyTitleName": "The Walking Dead: Michonne",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10358_00_00DD909E648BAF60D2BCD7D83381FDA0D3FB3D3DE8/A4A9395D69B3F83F0BDE98F02F0677B0F7DCD83F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR10362_00": {
+        "npCommunicationId": "NPWR10362_00",
+        "trophyTitleName": "Project CARS 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10362_00_00FDB24E9962B02220915CB3254B415D9B4A656552/04F54944D16C0262AFB15051004F401A1BAC730B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 34
+        },
+        "service": "trophy"
     }
 }
