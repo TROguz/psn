@@ -68508,5 +68508,135 @@
             "bronze": 15
         },
         "service": "trophy"
+    },
+    "NPWR11906_00": {
+        "npCommunicationId": "NPWR11906_00",
+        "trophyTitleName": "Hatsune Miku: Project DIVA Future Tone",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11906_00_004214644B22C6F4F211B9317C2D87B535187B432F/809296A0622E24E39565BF601B0875FD100D0070.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 4,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR11909_00": {
+        "npCommunicationId": "NPWR11909_00",
+        "trophyTitleName": "Demetrios",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11909_00_0038382130AE2088C569E89696ABC42E3CFBEBD762/79D1322F75AFABC5F27D7B9BFD500708B812CF64.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 6,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR11912_00": {
+        "npCommunicationId": "NPWR11912_00",
+        "trophyTitleName": "Gunjack",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11912_00_0062BAB72FE1DDD84B235C6514F227ED09AA11A837/B5EA2E030CC133A76CDFCF8956B342EE6149D086.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11915_00": {
+        "npCommunicationId": "NPWR11915_00",
+        "trophyTitleName": "√Letter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11915_00_007A9053A0D7C49E410A82CAE068128EB47C4CEE0F/ECBB573A02FD3957BFF4E8E4C0696A9C885CE852.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11916_00": {
+        "npCommunicationId": "NPWR11916_00",
+        "trophyTitleName": "√Letter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11916_00_005EF5A815A5A883B5F276C407797424C4E56C0794/BA0B125DB3E404E85C86D7059910746CBDC1C255.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11917_00": {
+        "npCommunicationId": "NPWR11917_00",
+        "trophyTitleName": "Motor Strike: Immortal Legends",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11917_00_007278C8BA056E8513E6E75DA1921BDBF5395CECEF/A8BD0AE800612F1C54FCC34D7737D0AE474E41C1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR11920_00": {
+        "npCommunicationId": "NPWR11920_00",
+        "trophyTitleName": "BLUE REFLECTION　",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11920_00_00159B08315EA0F046302F7B564AE0DA4C6718FDA9/2CFDE52418279267502BD5AEF897482AD81C26EF.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR11922_00": {
+        "npCommunicationId": "NPWR11922_00",
+        "trophyTitleName": "신 하야리가미2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11922_00_00CB6EB78A060C15F3CAE8395CE79FB6553D54F61C/974E2AB9003E56DEAF27E1E7E3DD2A3BE248177B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR11923_00": {
+        "npCommunicationId": "NPWR11923_00",
+        "trophyTitleName": "Rolling Bob",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11923_00_007919C58F9F00ED7088A2B4039A511EDC27EE7711/DD15E36D6E94A77CC8C32A4BCD6BF97B3B7F5A66.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR11924_00": {
+        "npCommunicationId": "NPWR11924_00",
+        "trophyTitleName": "MLB® The Show™ 17",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11924_00_00D7913240751FC97A6DBD9D2D38FC5118FE4E0DA0/843B66844610BB335B27A6BFA114FD0DD41CC139.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 5,
+            "bronze": 20
+        },
+        "service": "trophy"
     }
 }
