@@ -39128,5 +39128,135 @@
             "bronze": 40
         },
         "service": "trophy"
+    },
+    "NPWR07370_00": {
+        "npCommunicationId": "NPWR07370_00",
+        "trophyTitleName": "Escape Goat 2 Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07370_00_0045284B89A6302F9E1AF71E147C45A573694662AF/1F8EF37A24BA72B7DE4A79E0FFDB4E7C50BFCBFE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR07373_00": {
+        "npCommunicationId": "NPWR07373_00",
+        "trophyTitleName": "Pix The Cat",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07373_00_007F1691909D8288977C2C98413BEFADD8C88FBA2F/C61091D7ACFC02390C4C500625B1D7D3A24A5399.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR07375_00": {
+        "npCommunicationId": "NPWR07375_00",
+        "trophyTitleName": "THE MUPPETS MOVIE ADVENTURES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07375_00_003E32F6328E01CA995191ED7DB50894D884FE40C1/171ABCFD43A21D92CD57D61AC57BB403F4FEE2E8.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR07379_00": {
+        "npCommunicationId": "NPWR07379_00",
+        "trophyTitleName": "Don't Die, Mr. Robot!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07379_00_0062B31F63720BD59CE4DBAAD859AB92492EF88FC9/FAC4ADED818EBB1FB10F78F74C6A9137CCEE77D6.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR07382_00": {
+        "npCommunicationId": "NPWR07382_00",
+        "trophyTitleName": "Hyperdimension Neptune Re;Birth2 SISTERS GENERATION",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07382_00_00DF74B2BD7EABA813464EFF198358047CBB99D9D9/23829AC5F04347B04AB6CA7C7C8FA3933806AD2B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR07383_00": {
+        "npCommunicationId": "NPWR07383_00",
+        "trophyTitleName": "초여신신앙 느와르 격신 블랙 하트",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07383_00_00187EB37503D13CA2C78186FAE359203CEC3D41A9/8940476FC67F99D73EB057F6D96059D667014990.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR07388_00": {
+        "npCommunicationId": "NPWR07388_00",
+        "trophyTitleName": "JUJU",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07388_00_00AAC9D5EF0BF366EF88112C468CDE2D16622F4AD3/E7E9D24E233EB3031DF39216A7F942B146DC80E6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR07393_00": {
+        "npCommunicationId": "NPWR07393_00",
+        "trophyTitleName": "魔法科高校の劣等生 Out of Order",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07393_00_004960F931B5DEE625920CC141C87C506F54CDE1A8/9938D6CB29917208CFA00BB46F2FDBEA0CDAFD04.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR07394_00": {
+        "npCommunicationId": "NPWR07394_00",
+        "trophyTitleName": "Odin Sphere Leifthrasir",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07394_00_00305FAE2E02AFE7BD5A419A0B879BE5DEA9EB84CB/0C8840B7D90118828817C7B4C75BD5C0F83B141A.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 3,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR07396_00": {
+        "npCommunicationId": "NPWR07396_00",
+        "trophyTitleName": "Ender Of Fire Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07396_00_001B73E63B0E9C169D3BC696A40CFDCAC415DD5DC2/63E881D19E45B4D45518B763135222714CC26634.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
     }
 }
