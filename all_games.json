@@ -78648,5 +78648,135 @@
             "bronze": 40
         },
         "service": "trophy"
+    },
+    "NPWR13173_00": {
+        "npCommunicationId": "NPWR13173_00",
+        "trophyTitleName": "Shenmue",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13173_00_0029521C8EB34D53565A94DB5D799A05DBEC3E58AC/F949EEB1B13CF34B59D139A7C01A6B4F0F3BFE3A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 18,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR13174_00": {
+        "npCommunicationId": "NPWR13174_00",
+        "trophyTitleName": "Shenmue II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13174_00_008E27BC20B0807E2B8A44DF3955B6DB1379B3A566/F33B6A4821E1E84C54E4996CDCF2E8339E6DB535.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 14,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR13175_00": {
+        "npCommunicationId": "NPWR13175_00",
+        "trophyTitleName": "Rapala Fishing Pro Series",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13175_00_003BC711C7C1945154774A7A5AF08BAFE7A52C634E/A695D3F327AE41B36677B426B8DBDD9386D6D073.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR13176_00": {
+        "npCommunicationId": "NPWR13176_00",
+        "trophyTitleName": "추방선거",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13176_00_009F42BF4C51954DAFECA1C39E481B6A489B5A7BA4/14284F1DC8058082B75F3899FF7413D891B844FE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 28,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR13177_00": {
+        "npCommunicationId": "NPWR13177_00",
+        "trophyTitleName": "절대절망소녀 단간론파 Another Episode",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13177_00_00B32C6AEFD4E35A7B5B39F3C7EA3F1B680EEBC89B/B0929D50EC25813BA91F31D250C870C6F5B0D225.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR13179_00": {
+        "npCommunicationId": "NPWR13179_00",
+        "trophyTitleName": "Night Trap - 25th Anniversary Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13179_00_00E46A61BB291DD4185BE0F8683CA3CE7A339967B2/16B45C90878C28AB07F5C94072D1562BD3D79F7F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 6,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR13181_00": {
+        "npCommunicationId": "NPWR13181_00",
+        "trophyTitleName": "Alchemic Jousts",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13181_00_00AF9F30E16D4D75A2CB46CBC0D4D7BBCBB888D314/CB50EA8BB8E1D78DA6D829F6A078AE707A462243.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 6,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR13182_00": {
+        "npCommunicationId": "NPWR13182_00",
+        "trophyTitleName": "Still Time",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13182_00_005F1E2E76A200B96CC0247F3FA4AB082DA8EBBD6F/19B752AFF057DBBEAB6D1FA634CF5B03921E13DF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 0,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR13183_00": {
+        "npCommunicationId": "NPWR13183_00",
+        "trophyTitleName": "Still Time",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13183_00_00F2E3D05E4C56855466928E1F29A45B4DCE3FEFFD/ED992ACE2164A4B600FC8A072260A39EA97FCDC4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 0,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR13185_00": {
+        "npCommunicationId": "NPWR13185_00",
+        "trophyTitleName": "A Hole New World",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13185_00_00F42904AC3B4453EEA5160A6BC32E0BF3A4E35127/4430D53CF32FBC241893D3B48964F7F27B0EAA0E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 24
+        },
+        "service": "trophy"
     }
 }
