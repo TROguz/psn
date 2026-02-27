@@ -54988,5 +54988,135 @@
             "bronze": 51
         },
         "service": "trophy"
+    },
+    "NPWR09980_00": {
+        "npCommunicationId": "NPWR09980_00",
+        "trophyTitleName": "Dreamals",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09980_00_00B0C79E162183AEAB22D8CD69FD8A4D1ABEB862B8/0138AF35598878E2F928469D1CAD2C80F3A539D1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR09982_00": {
+        "npCommunicationId": "NPWR09982_00",
+        "trophyTitleName": "Baseball Riot",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09982_00_006C4B0B9C57C0F3A8E430D945CF0CB88192A2D834/02B20BA4B70FD38D1B4696227446E0CAAB884DB3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR09984_00": {
+        "npCommunicationId": "NPWR09984_00",
+        "trophyTitleName": "The Lost Child",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09984_00_00A4B77C8E738164EB0C689EB279565A8D9519BD9D/4CDEB4C1762D374AC727C57DF525B6C386F832CF.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR09988_00": {
+        "npCommunicationId": "NPWR09988_00",
+        "trophyTitleName": "Mafia III: Definitive Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09988_00_00EFE91B0D1C20712D5E52724C65169AC5F687BBA7/844E1EE5CD4694A8263A28FC13D84E874FBB64E2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 77
+        },
+        "service": "trophy"
+    },
+    "NPWR09989_00": {
+        "npCommunicationId": "NPWR09989_00",
+        "trophyTitleName": "勇者死す。",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09989_00_00B00878B681678ADAA064AECD16D4A077719F65FB/F8E6C1FF6BE6644385D09571A0547E00986BB7A7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 52
+        },
+        "service": "trophy"
+    },
+    "NPWR09990_00": {
+        "npCommunicationId": "NPWR09990_00",
+        "trophyTitleName": "Nubla",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09990_00_00355976D919FD8F31561826CA3F8F2B47427FF84F/B186A0C32F82E6561DBE1D2A0EE306D142B88CA0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 0,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR09991_00": {
+        "npCommunicationId": "NPWR09991_00",
+        "trophyTitleName": "ドラゴンクエストXI　過ぎ去りし時を求めて",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09991_00_000C5C17D5C594F2DBF628DF228E7241243FA5930E/97B29AB64E54C294AE2DF235E2E388E56869EBC7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR09992_00": {
+        "npCommunicationId": "NPWR09992_00",
+        "trophyTitleName": "A.W. : Phoenix Festa",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09992_00_001C380752093F88E6C4321CDEA0649C4F6857E78D/D3492D065ED01097977DBF205B8E5D57C421415D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR09993_00": {
+        "npCommunicationId": "NPWR09993_00",
+        "trophyTitleName": "デジモンワールド -next 0rder-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09993_00_00D0EF51A28B900C07CBCBAF0E6AFFE7903F53C336/10F91D52FD730EBBFB590DD5D22363DCD660BD27.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR09995_00": {
+        "npCommunicationId": "NPWR09995_00",
+        "trophyTitleName": "ルフランの地下迷宮と魔女ノ旅団",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09995_00_00B09020996712608EDDD8E42748AD620FC8665B7D/AAD3911E1D916F3BC4966156FEF67F8B4339DC94.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 53
+        },
+        "service": "trophy"
     }
 }
