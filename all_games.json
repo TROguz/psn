@@ -87878,5 +87878,135 @@
             "bronze": 50
         },
         "service": "trophy"
+    },
+    "NPWR14401_00": {
+        "npCommunicationId": "NPWR14401_00",
+        "trophyTitleName": "Lost Grimoires 2: Shard of Mystery",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14401_00_003761C2A8F1E930B7D284A37C689CBCB555CE0609/BC20A0114A55849A1B9851D92EF6CF099CAAD37F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14403_00": {
+        "npCommunicationId": "NPWR14403_00",
+        "trophyTitleName": "Charpter One",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14403_00_005CED4A9CA493A68A1C98852301F53FF337FF4E9A/A6FD490D1C3249E047A52DEEB21FEC66408DE1EF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR14404_00": {
+        "npCommunicationId": "NPWR14404_00",
+        "trophyTitleName": "Damascus Gear Operation Osaka HD Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14404_00_006FDC89FB06EC5475EADA3541ED475E857D4252BF/7E905FBED27C8995E6289B08F9BBEE69F9CE6793.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR14405_00": {
+        "npCommunicationId": "NPWR14405_00",
+        "trophyTitleName": "Unepic",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14405_00_00E0D0974F7A3466BD309ED587B64266E727FCA027/A16DEA6815B60AB56A3A0021EDE4B84469DF1AA9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 8,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR14406_00": {
+        "npCommunicationId": "NPWR14406_00",
+        "trophyTitleName": "Far from Noise",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14406_00_0014AC2ED77F949FF716199469DE39B38A9D512AD6/42F1A6453B309268D115DBB2DAE43AB81BE98D90.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR14409_00": {
+        "npCommunicationId": "NPWR14409_00",
+        "trophyTitleName": "Tesla vs Lovecraft",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14409_00_00D420305B07B27D380D8FAA1A29B3DB6D8AE2B62E/70095ED65BBC68C95D2FE1226C37EB15679E52BA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 11,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR14413_00": {
+        "npCommunicationId": "NPWR14413_00",
+        "trophyTitleName": "Roller Coaster Tycoon Joyride\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14413_00_007769AB042108F94F0622A1B30DCF28C7AEDBD8A2/D5AFA0DFF2B16D7B9E67310CE5B485F75D7BB892.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR14418_00": {
+        "npCommunicationId": "NPWR14418_00",
+        "trophyTitleName": "Blasters of The Universe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14418_00_0050A4BE744D885FA20BD0DC10397EE5741FB8E2F4/C45EBD5CADB58C96CDBD51C8285497CED6076594.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 7,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR14419_00": {
+        "npCommunicationId": "NPWR14419_00",
+        "trophyTitleName": "Blasters of The Universe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14419_00_00967C1731C4E98883C7A829148AC9CCC64B573A76/490D3D650B0DE827B9F7DD7858C8BC018D37B9D7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 7,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR14422_00": {
+        "npCommunicationId": "NPWR14422_00",
+        "trophyTitleName": "Dragon's Lair Trilogy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14422_00_00614D739D6AE6992896A9444BE49CFF213145D2A3/5A87C143782488BA201432067E8CE78F471E4EA6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
