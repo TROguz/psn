@@ -52778,5 +52778,135 @@
             "bronze": 48
         },
         "service": "trophy"
+    },
+    "NPWR09629_00": {
+        "npCommunicationId": "NPWR09629_00",
+        "trophyTitleName": "Valkyria Chronicles",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09629_00_0039CEE061C10E60128D678659084AEB5E0D995B39/3B4EF3B88E101096CBAB8A81676E353058A38643.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR09631_00": {
+        "npCommunicationId": "NPWR09631_00",
+        "trophyTitleName": "乖離性ミリオンアーサー",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09631_00_009D8A8166323FA4CFD9E3235289B5C524451DD0DC/3FDD29BD5453F4048221B8E455590AD5E39B6CC6.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR09635_00": {
+        "npCommunicationId": "NPWR09635_00",
+        "trophyTitleName": "Red Dead Revolver",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09635_00_00AC881D7E5FE936A2E85CE5485E8A495CC4EC71E6/3F980FFB2B8892D7CCFE207AC08A0924AC8E0A7E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR09638_00": {
+        "npCommunicationId": "NPWR09638_00",
+        "trophyTitleName": "STAR OCEAN Second Evolution",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09638_00_00D8182763E702761C16113B87AFDCDFB56B0835CE/4DF362174BF272A9C34639397A086A7985EBB713.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR09641_00": {
+        "npCommunicationId": "NPWR09641_00",
+        "trophyTitleName": "Puzzle Quest: Challenge of the Warlords™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09641_00_0066E4C47F620BA55441091894A75CED1834C1C79C/4B78D0E10206DB4F9F3DACE80A98FE143C8FA1EC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09642_00": {
+        "npCommunicationId": "NPWR09642_00",
+        "trophyTitleName": "Never Alone",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09642_00_0001251AA25C46EDA92A31184B216139899B1581BB/2A9AA44A0F118AA47CD3F038D7D00A28171DF14E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR09643_00": {
+        "npCommunicationId": "NPWR09643_00",
+        "trophyTitleName": "雷子",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09643_00_009783BEC11998BAE03EA14BBB04394877D43CD8A5/43AC0F71C6DA3FFAC939E13B58BFA17496CD9187.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 51
+        },
+        "service": "trophy"
+    },
+    "NPWR09647_00": {
+        "npCommunicationId": "NPWR09647_00",
+        "trophyTitleName": "実況パワフルプロ野球２０１６",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09647_00_00AE2ACB06AB364A4A6CA87737F41FCB7E483A443C/E9C177ED5C86D13CD0D6AE83C8339AFD2B5F43F9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 7,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR09648_00": {
+        "npCommunicationId": "NPWR09648_00",
+        "trophyTitleName": "実況パワフルプロ野球２０１６",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09648_00_0049BDC3E67F6E3CAEFCC88EE364B13FAC7D166021/23203913729552DE80C731B520047495DAE166E7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 7,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR09649_00": {
+        "npCommunicationId": "NPWR09649_00",
+        "trophyTitleName": "Tower of Guns: Special Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09649_00_00A07A6054EF4C55E175D33950F0B16D52FD68DA3B/6A384379B84AB4F0A63576405E26189B487AFCD4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
