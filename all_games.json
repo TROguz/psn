@@ -32238,5 +32238,135 @@
             "bronze": 9
         },
         "service": "trophy"
+    },
+    "NPWR05866_00": {
+        "npCommunicationId": "NPWR05866_00",
+        "trophyTitleName": "Pure Pool™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05866_00_000281E4A0D2DFD9B918716BB68C56D104354688D2/4051DACC41C0D9FD19E309B5A09C0EDE210BEB7E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 17,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR05868_00": {
+        "npCommunicationId": "NPWR05868_00",
+        "trophyTitleName": "Oddworld: New 'n' Tasty",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05868_00_00D3C88B69431D7CAC267C28DF92F449A75D5BB660/48C5E88A0811FF71E9C837EDC4CCC333FAFE0F6D.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR05871_00": {
+        "npCommunicationId": "NPWR05871_00",
+        "trophyTitleName": "Puddle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05871_00_00CCDA120A50DA615032562FADE97760F10B319AD8/1E7C277D25F4CAD8730C44CCA2A7D3F0FECF9B4C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR05876_00": {
+        "npCommunicationId": "NPWR05876_00",
+        "trophyTitleName": "Titan Attacks!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05876_00_003C79E4297C72883FA6084CCE53BB28928E826BD4/63B1E270AF8A5527339C4A7A9BACFDF9A873AC52.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR05877_00": {
+        "npCommunicationId": "NPWR05877_00",
+        "trophyTitleName": "ToLOVEる ダークネス バトルエクスタシー",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05877_00_003FEC82E0CF319449A925EB3F0E01E9C557B67916/00CDBBBB6720EB95D2374CFA402852A70D74155B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR05881_00": {
+        "npCommunicationId": "NPWR05881_00",
+        "trophyTitleName": "Sherlock Holmes: Crimes and Punishments",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05881_00_001C56DA3C92E605538CD0AC22673E1BDF933940D2/6B041A88F81435B9C17B52E13E98867C9723F53F.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR05884_00": {
+        "npCommunicationId": "NPWR05884_00",
+        "trophyTitleName": "War Thunder",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05884_00_00A925CF4AC189BEBD82A8908D5019579222504567/4FD0B858C944FA9C00B0CCC47F239712521F1A93.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR05887_00": {
+        "npCommunicationId": "NPWR05887_00",
+        "trophyTitleName": "LEGO® The Hobbit™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05887_00_0085E87A6679C30855470517F4ABA446396685A183/C69BF99B1E11A05FCF707CEE6B0584CF7EA0781E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR05889_00": {
+        "npCommunicationId": "NPWR05889_00",
+        "trophyTitleName": "Outlast",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05889_00_00F179BAAD82CCFF2CBF5F3518E9DCE59DCB60B46F/24F4484B9CE0A1C3BB304F84F7B4ED80FEEF3CFD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR05890_00": {
+        "npCommunicationId": "NPWR05890_00",
+        "trophyTitleName": "Child of Light",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05890_00_00C315E94ECD2216037067F1DA101E13F2A58A66B9/7E052BD6FE36061397634C53F42FE6C546DE8625.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
     }
 }
