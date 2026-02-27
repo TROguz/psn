@@ -47058,5 +47058,135 @@
             "bronze": 24
         },
         "service": "trophy"
+    },
+    "NPWR08759_00": {
+        "npCommunicationId": "NPWR08759_00",
+        "trophyTitleName": "Ape Escape™ 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08759_00_003F0D62A434075593C1A98D872FFD211C940A9085/8D7645D9A6DAB5CAED0F5D8932EF5F6D89E2B86A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR08764_00": {
+        "npCommunicationId": "NPWR08764_00",
+        "trophyTitleName": "PlanetSide 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08764_00_0092357985C9FFCA2F1BD1A8DDF59534E75E911073/FB43B3850F411D6F90AF207DB532E412BA811412.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR08765_00": {
+        "npCommunicationId": "NPWR08765_00",
+        "trophyTitleName": "Ziggurat",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08765_00_00FE66C358EABD3FCABC13C98A128EDD27B670FB6A/0CBCC016C4FF671D6351916A5B364A726E9474D6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR08767_00": {
+        "npCommunicationId": "NPWR08767_00",
+        "trophyTitleName": "メゾン・ド・魔王",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08767_00_000F917B8EDE5E2B18550FFA239CB9D392C551FCD5/DC085123827F6CA8BCF9C42EB40C7155F157D1B1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR08768_00": {
+        "npCommunicationId": "NPWR08768_00",
+        "trophyTitleName": "Pocket God vs Desert Ashes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08768_00_0076B9DC1299C038364C201A1FD65EBA5E7A0E7F30/C4A80E77DEC575357AB3A373D0A2B9824E08EF83.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR08769_00": {
+        "npCommunicationId": "NPWR08769_00",
+        "trophyTitleName": "Arcade Archives Ninja-KidⅡ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08769_00_0060802817ED2BDB8EEFD8B0CA2D74498480DBF70F/758969459F92A551475720F8F9E3754144A7872F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08771_00": {
+        "npCommunicationId": "NPWR08771_00",
+        "trophyTitleName": "Axiom Verge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08771_00_008E94ADE065E2A1802BBF772E1A4D23A030D95C5B/E53801DDCB175E10386349970723765CFCE04759.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR08774_00": {
+        "npCommunicationId": "NPWR08774_00",
+        "trophyTitleName": "Toren",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08774_00_002E7C9E0A20C75303165CAA61DB84A3B2A2731617/B7F1D8EA7926EC0E31B91B58F2FF5AC08CA8D5AA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08775_00": {
+        "npCommunicationId": "NPWR08775_00",
+        "trophyTitleName": "Hyperdimension Neptunia Re;Birth3 V GENERATION",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08775_00_00D192A2EA032D3AC8F4F041420DEF3FBFED24384E/CE250C5EA86498D96F6093DDE2D9D5D003BD2FB3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR08776_00": {
+        "npCommunicationId": "NPWR08776_00",
+        "trophyTitleName": "PlanetSide 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08776_00_0031D1A892593887211E30082D8542554D22558CC6/E5EC1F42C60B7FBAE41FC7A0F364A210E7CF7D1F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
     }
 }
