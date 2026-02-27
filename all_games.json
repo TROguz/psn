@@ -47448,5 +47448,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR08834_00": {
+        "npCommunicationId": "NPWR08834_00",
+        "trophyTitleName": "Until Dawn™: Rush of Blood",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08834_00_008EFCC023A1ACB48852FB7910DAEF738F58A7C943/131A612541D8317003F3570784DF43BBF37221A1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR08836_00": {
+        "npCommunicationId": "NPWR08836_00",
+        "trophyTitleName": "Sparkle Unleashed",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08836_00_003622F2E198C27FF56C809176F714B05EF6CEEFD7/313E62348422F17973C210D082E2A93070495F3D.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08838_00": {
+        "npCommunicationId": "NPWR08838_00",
+        "trophyTitleName": "Arc the Lad: Twilight of the Spirits™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08838_00_00D51678B620F2468A478AB5741E6347EDA6836861/B33CAC0B35B14509A41173FCD0AD0EAF663170D8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 14,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR08839_00": {
+        "npCommunicationId": "NPWR08839_00",
+        "trophyTitleName": "Fenix Furia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08839_00_009AB1E8A8EBCC2127024CBD0F1370EE5104E2EC77/BE71BD30073073118B77491A6563C188896D1DD8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 20,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR08840_00": {
+        "npCommunicationId": "NPWR08840_00",
+        "trophyTitleName": "SMITE\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08840_00_0051CD0E860D4D72B454AD4615163655D8A85F0D98/AA62B149B66408E798C4E08B311BA6CE250E5566.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 19,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR08841_00": {
+        "npCommunicationId": "NPWR08841_00",
+        "trophyTitleName": "アブナイ☆恋の捜査室～Eternal Happiness～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08841_00_00ABFFDC3A53232AD0D631343136A17007B8B21A67/E485F4F0A7E2093CD116622004EF71DBD9503EFF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08842_00": {
+        "npCommunicationId": "NPWR08842_00",
+        "trophyTitleName": "Just Dance® 2016",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08842_00_00DA89F284BD5E9770940296EF87B001F0CC0E0DEB/382D7D9463C0D6B749B19FDA62585935A6E63F96.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR08843_00": {
+        "npCommunicationId": "NPWR08843_00",
+        "trophyTitleName": "Flame Over",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08843_00_00C0619A46BE24D193049BDBDED6EE0099FE80F0E1/C8AFEDEBBBEC681EC813215D2918A98AF4648423.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR08844_00": {
+        "npCommunicationId": "NPWR08844_00",
+        "trophyTitleName": "Deus Ex: Mankind Divided",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08844_00_0088295F7494577C26534044F34472AD79985C4EC0/098FB9022493ED1AD88378FE25C8C73DD9512E6A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 15,
+            "bronze": 64
+        },
+        "service": "trophy"
+    },
+    "NPWR08845_00": {
+        "npCommunicationId": "NPWR08845_00",
+        "trophyTitleName": "Nova-111",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08845_00_0086BA52201701CB70DD36BE8F8775C123E5AC6142/564FCC1FB2237A9A50C854ECADA8C85F378E7A52.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
     }
 }
