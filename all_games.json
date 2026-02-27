@@ -82938,5 +82938,135 @@
             "bronze": 3
         },
         "service": "trophy"
+    },
+    "NPWR13751_00": {
+        "npCommunicationId": "NPWR13751_00",
+        "trophyTitleName": "SHINY",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13751_00_0015A2E5227134EC030744EE4BB74CDB4E9D3DF7A3/207D4EB9D53D11932A536E12634A507DA2D51454.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR13754_00": {
+        "npCommunicationId": "NPWR13754_00",
+        "trophyTitleName": "White Day:a labyrinth named school",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13754_00_00DB352F9F051B7F73E4BF60A157248770A4A424C6/5808BD73D5F169227E42AEDEDBF01852E6356F1B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR13755_00": {
+        "npCommunicationId": "NPWR13755_00",
+        "trophyTitleName": "White Day:a labyrinth named school",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13755_00_005B2639213AC1A9D7A0CBE519DBF2730BDD4CB15C/B929C57ED3ECE91D5230C3D717293FEF00B9B847.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR13757_00": {
+        "npCommunicationId": "NPWR13757_00",
+        "trophyTitleName": "Little Witch Academia: Chamber of Time",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13757_00_00017C2EBDD7F096B1A76270C667CB8E06A8BB9D0B/584F057A14F285921875344B28C1702F2EC18DB9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR13758_00": {
+        "npCommunicationId": "NPWR13758_00",
+        "trophyTitleName": "ペルソナ４ ダンシング・オールナイト",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13758_00_00C9B9DE641A0BF00CE3893A322F5EA93F3390CF23/42976702BD302DB603BB272B1DFFAD16ABFE0BFF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR13761_00": {
+        "npCommunicationId": "NPWR13761_00",
+        "trophyTitleName": "ACA NEOGEO SAMURAI SHODOWN II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13761_00_00A456FAED7708002412ABE4E82122E099368DE22D/C999252EB3FADBF3D9FFA125AF1C178E558CBBD4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR13762_00": {
+        "npCommunicationId": "NPWR13762_00",
+        "trophyTitleName": "ACA NEOGEO ZED BLADE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13762_00_00FF00B3CD3F928BA8B985207F39A148F3A4567588/2E29189DBA8FC8A29AF8FD1BC199179FEABC46BE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR13764_00": {
+        "npCommunicationId": "NPWR13764_00",
+        "trophyTitleName": "DRAWFIGHTERS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13764_00_008FC126F3DD86E4C0AEBDB931A229D214FED257C9/811445992E39AF5E9E05F884F75775A94B5952DE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR13766_00": {
+        "npCommunicationId": "NPWR13766_00",
+        "trophyTitleName": "Pure Farming 2018",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13766_00_00AE288425724DFDFC6F14412A0A40C3B6309DE36F/BAB56E7C1329F0FB81F930A31F6BB645FF6B00AA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR13768_00": {
+        "npCommunicationId": "NPWR13768_00",
+        "trophyTitleName": "루프란의 지하미궁과 마녀의 여단",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13768_00_008A577093EA776EF6985E8A40D7E9580DC0ADA3A9/077FBCE81D4913432D8AEF86CBB59BB36A4503BF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 53
+        },
+        "service": "trophy"
     }
 }
