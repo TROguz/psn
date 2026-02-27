@@ -62398,5 +62398,135 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR11099_00": {
+        "npCommunicationId": "NPWR11099_00",
+        "trophyTitleName": "絶対階級学園",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11099_00_00FB825BF55E3329BF38DAD8804C0D602AE7596778/9408A52A6A3DFB10A699774867AA5D71CD9B931B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 5,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR11100_00": {
+        "npCommunicationId": "NPWR11100_00",
+        "trophyTitleName": "Gal*Gun Double Peace",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11100_00_0085759094547DD028B32684E1C551863C0076776F/AA93F6B5D6482557641CD5D24CE5A83112373568.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 17,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR11102_00": {
+        "npCommunicationId": "NPWR11102_00",
+        "trophyTitleName": "Absolute Drift: Zen Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11102_00_00FE60F6D6160F7DC44DB9966F8EF2BD3728A4E663/7519077DCE6E08A676D6A633185C257CD7F7DC89.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 5,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11109_00": {
+        "npCommunicationId": "NPWR11109_00",
+        "trophyTitleName": "Solbrain Knight of Darkness",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11109_00_0097A89EEC51726F4D53A1B01BCA635C74E7E7276F/8C3AB9927814386138CDD2FA5AF7423656C9DAFA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR11110_00": {
+        "npCommunicationId": "NPWR11110_00",
+        "trophyTitleName": "Rainbow Moon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11110_00_00F463F6D25BC134415752F4B0436FD433B888FE44/5229E0D4AF8F3FA5CC1057C96D03EB240C4221E4.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR11112_00": {
+        "npCommunicationId": "NPWR11112_00",
+        "trophyTitleName": "Söldner-X 2: Final Prototype",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11112_00_008A7649D85D1E0B30AAF8DC16D59426412846F07E/8B8E4BE58E2900BF22BC3133178D11EB23011BFF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 3,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR11113_00": {
+        "npCommunicationId": "NPWR11113_00",
+        "trophyTitleName": "OlliOlli (Epic Combo Edition)",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11113_00_00FFA7158A9314C2EAA081F57FA165053B6902E7C4/EBD98D707AF43CAF2E5197BEEC34D77919DB31FF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR11116_00": {
+        "npCommunicationId": "NPWR11116_00",
+        "trophyTitleName": "ゆのはなSpRING！～Cherishing Time～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11116_00_007569497DB0F187E77981F4E04D1D6AAE67B3D77D/2A752BA89BC1072E7C5297B660655371904F5A8C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR11118_00": {
+        "npCommunicationId": "NPWR11118_00",
+        "trophyTitleName": "Tutorial Shooting Game",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11118_00_008A56FE1D5085F05CB2971BD6A76C9B33173DA5D4/A8D8835DBAF4913A635CFBF6B1FBDDC07C1784E0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR11120_00": {
+        "npCommunicationId": "NPWR11120_00",
+        "trophyTitleName": "Clicker Heroes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11120_00_00E78D35CE3291D63037383E12CD6E98AA6881CAB0/214B87A536CF130780F1D193281C10C654A9C19A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
