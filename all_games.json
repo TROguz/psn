@@ -59018,5 +59018,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR10632_00": {
+        "npCommunicationId": "NPWR10632_00",
+        "trophyTitleName": "Catlateral Damage Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10632_00_00220969259F091F109F2FBD12D4D7FB5BB842DAC6/959E362642937C13D9965A5A02B604A66298FD25.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR10634_00": {
+        "npCommunicationId": "NPWR10634_00",
+        "trophyTitleName": "Party Hard",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10634_00_00757E04E852E79A702B63E77388DECB9FE763ABE8/21281379BDFB38CEAE2640AD5C615BE3C6ED5320.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR10636_00": {
+        "npCommunicationId": "NPWR10636_00",
+        "trophyTitleName": "Dead Rising 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10636_00_00B03E301E796DD2BFC33DC37A03EE848C6B3EC9F8/BC424C1A1BC5515CD95C19E98530B4256B481A77.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 4,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR10637_00": {
+        "npCommunicationId": "NPWR10637_00",
+        "trophyTitleName": "Dead Rising 2: Off the Record",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10637_00_00DA7B5A693EC3C97CF2EBF7B018BBD127F9D1FBAC/7633427059B974920DD3A3E60855368F07620F18.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 3,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR10638_00": {
+        "npCommunicationId": "NPWR10638_00",
+        "trophyTitleName": "戦国BASARA 真田幸村伝",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10638_00_0006AA894E1580EA85B0C2554C8AC8AAADFADADB08/8765341259DF64F002AE25F2C392757916581672.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR10639_00": {
+        "npCommunicationId": "NPWR10639_00",
+        "trophyTitleName": "戦国BASARA 真田幸村伝",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10639_00_007F35CD4CB2CD2AC112039405900D02D523137B6D/89DCDEC4D8810954AA859DCCC22459B2B820F639.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR10641_00": {
+        "npCommunicationId": "NPWR10641_00",
+        "trophyTitleName": "Battle Worlds: Kronos",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10641_00_00D1E9D9C21F86670708CEB295623B09AC31FA30D8/8EF2F201137DD704EF6A8A55267B6CD0F0498FE0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 26,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR10642_00": {
+        "npCommunicationId": "NPWR10642_00",
+        "trophyTitleName": "Shadwen",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10642_00_00A88B27EB30D60884B576801AB2B007D23C678C7F/5194996D5032CE215EAE5F4B56F47C7B7861D4FC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR10644_00": {
+        "npCommunicationId": "NPWR10644_00",
+        "trophyTitleName": "Siralim",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10644_00_00E3E4F752F58B6475DE998484EFFB8040931A72D4/C16C96AD4E53C414A14A79E08156B6327F0F0181.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR10645_00": {
+        "npCommunicationId": "NPWR10645_00",
+        "trophyTitleName": "Perfect Universe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10645_00_00425EA00B6069877B115CF8F042ABF3963744353C/018A610CD4048062F70B68EE9D3A9424DA47A052.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 3
+        },
+        "service": "trophy"
     }
 }
