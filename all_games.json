@@ -47838,5 +47838,135 @@
             "bronze": 31
         },
         "service": "trophy"
+    },
+    "NPWR08901_00": {
+        "npCommunicationId": "NPWR08901_00",
+        "trophyTitleName": "薄桜鬼 真改　風ノ章",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08901_00_00F514EC2E1AD6584434BA9FF5BA97511C9AD6569E/AEE16EFCAD883E35BEAF0818F91AFD8B951DB0F5.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR08905_00": {
+        "npCommunicationId": "NPWR08905_00",
+        "trophyTitleName": "Quiplash",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08905_00_00A41B3B6FAE10FF7C1D0DEB4E75A17D9339670F8D/5A9637BCF7DE8FDEB15F08DBF607239D469EA01C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR08906_00": {
+        "npCommunicationId": "NPWR08906_00",
+        "trophyTitleName": "NBA LIVE 16",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08906_00_00A7E0521F4824954137455D7FCE6640F958943FF9/186A83600021587D51CB406881C537B6ED1AE76C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR08908_00": {
+        "npCommunicationId": "NPWR08908_00",
+        "trophyTitleName": "Frozen Free Fall: Snowball Fight",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08908_00_00E6C0FCCF2183A028548E50DE561290320A5D9929/EB722E0272F73C8738DFF02F4FF72E8CF577E98B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 8,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR08911_00": {
+        "npCommunicationId": "NPWR08911_00",
+        "trophyTitleName": "不思議の幻想郷-THE TOWER OF DESIRE-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08911_00_0074FAFA60F745B2E179E37207FF75740E6E2A5DA3/761AB7C038095B7F266D8C0CAE5598110905CA16.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR08913_00": {
+        "npCommunicationId": "NPWR08913_00",
+        "trophyTitleName": "World Hunter trophy set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08913_00_00EEC389A2D283E47D7F2C2DEBD130F6B1A7CD6C34/4A07CF49F4622996DA1E41FF853110D5E98D2920.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 6,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08915_00": {
+        "npCommunicationId": "NPWR08915_00",
+        "trophyTitleName": "十三支演義 偃月三国伝1・2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08915_00_0074FEFAC74E3A42CD4B2C1362D61E4C6FC7875715/F1F675E22393B985C7BF53851D4816A459805211.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR08916_00": {
+        "npCommunicationId": "NPWR08916_00",
+        "trophyTitleName": "The Swindle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08916_00_0031E1566BDD1FE5C1943B51177982EC205666F289/8458AF35B9BDC3737231A7554BD698F411455E4C.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR08922_00": {
+        "npCommunicationId": "NPWR08922_00",
+        "trophyTitleName": "LEGO® MARVEL's Avengers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08922_00_00F878AA919AA0207AE23589438FDAAE00BC2AFA46/11733209C15998980F541F4F745F5D18C15135B6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 61
+        },
+        "service": "trophy"
+    },
+    "NPWR08923_00": {
+        "npCommunicationId": "NPWR08923_00",
+        "trophyTitleName": "LEGO® MARVEL's Avengers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08923_00_004259505A0FDD2228002D2337E1C30C273B2E80CC/0E1280D7B7110D093E0D6037AA1AB804DAD4600C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 61
+        },
+        "service": "trophy"
     }
 }
