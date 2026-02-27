@@ -18458,5 +18458,135 @@
             "bronze": 42
         },
         "service": "trophy"
+    },
+    "NPWR03052_00": {
+        "npCommunicationId": "NPWR03052_00",
+        "trophyTitleName": "たっち、しよっ！ ～Love Application～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03052_00_00B98F0DDEC3E4309A24065A5B163A9BB68BDBC768/5957BFD46030A3AD62211DBA69B4B8BE751A26CE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR03054_00": {
+        "npCommunicationId": "NPWR03054_00",
+        "trophyTitleName": "DEMON GAZE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03054_00_002FF2D1197F78613E39D022513B84DEE08DA1C5AF/C014447A6B1EC68AFAD2F839C6EFDFA52040147A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR03056_00": {
+        "npCommunicationId": "NPWR03056_00",
+        "trophyTitleName": "Disney•Pixar Brave",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03056_00_00B0EDD1BB543B5DB38055756F8ABDBEFE46B1C82C/839D80BB0A561EFE15A9FCE7FEA5F25B440B2318.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR03058_00": {
+        "npCommunicationId": "NPWR03058_00",
+        "trophyTitleName": "Damage Inc. Pacific Squadron WWII",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03058_00_00AA2A83A7CEAB7BBDC4A1F8F219829E92B309C9A1/5252FD036DBD9D0E5E79BC1F1FE61C9E55FB2400.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR03059_00": {
+        "npCommunicationId": "NPWR03059_00",
+        "trophyTitleName": "Silent Hill: Book of Memories",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03059_00_00AF941389A4E45018F261ADEA70AC576F3936F65E/6A48E2F97B0A6EF9B2517F70C77B033643E7C962.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 12,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR03063_00": {
+        "npCommunicationId": "NPWR03063_00",
+        "trophyTitleName": "Rune Factory Oceans",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03063_00_005482882E96A2C58BDCEC17F687A391F241F26549/16910895A31750F50DAEC14C71F5EE4ED09BC95F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR03064_00": {
+        "npCommunicationId": "NPWR03064_00",
+        "trophyTitleName": "Shinobido 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03064_00_008DDA232540F8BF67A881B2C3B838BA45A3C95204/713C0976E539E15934033514B024E5CC9FE71B9A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 12,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR03067_00": {
+        "npCommunicationId": "NPWR03067_00",
+        "trophyTitleName": "Armored Core V\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03067_00_00B50140936926A72E237671CE32B82F13534C476D/35280C72D53BF80C27C0D29C2AA18BA46A4CCA4F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR03073_00": {
+        "npCommunicationId": "NPWR03073_00",
+        "trophyTitleName": "The Last of Us™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03073_00_00982ACA690865BF39A52624C65BDC9515DE4031EB/E0F3BAA831E39F5D3B948A165564E4C05C33D096.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 18,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR03074_00": {
+        "npCommunicationId": "NPWR03074_00",
+        "trophyTitleName": "Darkstalkers Resurrection",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03074_00_00E6744A79FB9EC317AC65DEC33106940EBE2967B8/A49AD150FA7409391C76BFB227C998AB1AE6B921.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
     }
 }
