@@ -58498,5 +58498,135 @@
             "bronze": 23
         },
         "service": "trophy"
+    },
+    "NPWR10541_00": {
+        "npCommunicationId": "NPWR10541_00",
+        "trophyTitleName": "R.B.I. 16",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10541_00_00FAC21C159593F4A14E1BE25249905580AC82881D/CDE6E83ED1ABB3C7C56DDB15731A6815369B4FC4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR10542_00": {
+        "npCommunicationId": "NPWR10542_00",
+        "trophyTitleName": "LASTFIGHT",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10542_00_0096911E6840B69033DDF6741F70C1DF112BFEBE2E/31FC76ED51DEB28AF3F0CEC51C3425BEFD545596.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR10545_00": {
+        "npCommunicationId": "NPWR10545_00",
+        "trophyTitleName": "Arcade Archives Soldier Girl Amazon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10545_00_004D5C0C20198A1C6325CA4C75180B12207244FC64/CA63031D9F86C46F6D910D2E40BA634D66953060.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR10546_00": {
+        "npCommunicationId": "NPWR10546_00",
+        "trophyTitleName": "Arcade Archives Kid's Horehore Daisakusen",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10546_00_002315861DEA8EEDEE8E7DB27D4A3C4C947B4109C1/48ECEF5A7CE42C6AC24678E5AD601FE26E6F8350.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR10547_00": {
+        "npCommunicationId": "NPWR10547_00",
+        "trophyTitleName": "Battle Ages",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10547_00_005DD48C66B6345DAA63A99BDE6730A093F18DD496/423B14F993C1BC33000920B4723660F44856BB55.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR10558_00": {
+        "npCommunicationId": "NPWR10558_00",
+        "trophyTitleName": "Dex",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10558_00_002C05C94D968233A90D0CD22A46E86D15CE07E826/50321027E9F02FDBDD002ECAB1011D6B0F407B9B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR10559_00": {
+        "npCommunicationId": "NPWR10559_00",
+        "trophyTitleName": "HELLDIVERS™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10559_00_00894C6D2717E722A5E55AB2A91EA270B0682A9006/3B9B6575334F7D96658EA9D04511E4B5CE15F979.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 19,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR10560_00": {
+        "npCommunicationId": "NPWR10560_00",
+        "trophyTitleName": "Claire",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10560_00_00F10F06D890EAE648950C419EF93781DD92829802/2CC4839CCC08CDE440C01CE39FF51194042553C3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 6,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR10561_00": {
+        "npCommunicationId": "NPWR10561_00",
+        "trophyTitleName": "Claire",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10561_00_00C9E1C5DDB983966BD3EE53E70EDF155D19FF7AEB/170E7A33A443D069BCF44FE72088ECB8B4996D1A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 6,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR10563_00": {
+        "npCommunicationId": "NPWR10563_00",
+        "trophyTitleName": "DEMON GAZE 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10563_00_0037DCFF30E769D380FAD4D5D7E6E88B19DA649A38/24FBBEBD7EB966E2A00DC14DC94C3B9D8AF56C11.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 35
+        },
+        "service": "trophy"
     }
 }
