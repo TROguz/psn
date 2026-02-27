@@ -19888,5 +19888,135 @@
             "bronze": 9
         },
         "service": "trophy"
+    },
+    "NPWR03350_00": {
+        "npCommunicationId": "NPWR03350_00",
+        "trophyTitleName": "アクセル・ワールド －銀翼の覚醒－",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03350_00_0034396F32A8CBF2381F2944EE2DFA69D3E7614F14/08F60764878400A6A0E7590714129F464D629776.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR03351_00": {
+        "npCommunicationId": "NPWR03351_00",
+        "trophyTitleName": "アクセル・ワールド －加速の頂点－",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03351_00_004DD7B9C5AEF4295CA5AF103CC6BD0A8E75870954/B7327DB1E06AFAC195FFB866259BF23DC14AFEEC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 5,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR03356_00": {
+        "npCommunicationId": "NPWR03356_00",
+        "trophyTitleName": "Realms of Ancient War",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03356_00_002B83FDD5761096AE4184AD0BF859BD6182680E6A/7A83ABEEAC6D1A4C9D31462EFC21D32503763CC7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR03361_00": {
+        "npCommunicationId": "NPWR03361_00",
+        "trophyTitleName": "Air Conflicts: Pacific Carriers Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03361_00_0084F461FB306A67A632C3F443768176C57D169927/C4F256B50F355D405E21938653D1D5FBB7AAE05A.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 7,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR03368_00": {
+        "npCommunicationId": "NPWR03368_00",
+        "trophyTitleName": "Guardians of Middle-earth",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03368_00_000E0D377CF48023055DB5949AEC47EB7F49759FF3/4EFB031C7E1B611EC8824F1240C4AB75B72B769E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR03370_00": {
+        "npCommunicationId": "NPWR03370_00",
+        "trophyTitleName": "Anomaly Warzone Earth",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03370_00_000AB654AF9F29CAE271EF1934CDA04C76F3DE67A3/2C868A3AF2A17E9EE036BA1DD43ECF5C923A593B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 7,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR03378_00": {
+        "npCommunicationId": "NPWR03378_00",
+        "trophyTitleName": "ROBOTICS;NOTES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03378_00_0094A35C3442299A5F5C1E51B7BC203926544CFF28/3FC15ADC343FD658CC9FCA1B75CBDF4833524912.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR03379_00": {
+        "npCommunicationId": "NPWR03379_00",
+        "trophyTitleName": "Sudoku by Nikoli V",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03379_00_0072BA2919E703A34CCCC25B4F4D4988F0C18FA4FE/DC4CAF4A3A5AFBA00F1B07D748B771DA9D0621B4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR03382_00": {
+        "npCommunicationId": "NPWR03382_00",
+        "trophyTitleName": "薄桜鬼 黎明録 名残り草",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03382_00_0069DAFCC093CAF5B95C009464B1BE18EEF9B90988/A2B79AC4584A57314D4311D059E218665012DAF0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR03386_00": {
+        "npCommunicationId": "NPWR03386_00",
+        "trophyTitleName": "ネクレボ 行政書士試験",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03386_00_004AEC5BAFAEC45A32C882E4E2F299D7C9EAB54F79/DADACDE8F28E260782019EB1C1E7F54F06F45ECD.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
