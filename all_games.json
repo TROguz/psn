@@ -51478,5 +51478,135 @@
             "bronze": 44
         },
         "service": "trophy"
+    },
+    "NPWR09415_00": {
+        "npCommunicationId": "NPWR09415_00",
+        "trophyTitleName": "Infinifactory",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09415_00_00BA9AA3EDB890968736C21014B91CC769F676F985/B44EF97DF2B79FAE1FE4B9929DCCE16FED10DD60.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 11,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR09417_00": {
+        "npCommunicationId": "NPWR09417_00",
+        "trophyTitleName": "Rugby League Live 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09417_00_00F6769747FFE50743E50014D32C10F86DC7A824E8/B82D2EB90157EB43D51E27545C91389BF0A39065.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR09420_00": {
+        "npCommunicationId": "NPWR09420_00",
+        "trophyTitleName": "STEINS;GATE 0",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09420_00_009D6AF08E0C4711EDD3B6F612737D161685322D98/03ABB8B6C12CA6F1BB8CECE9686C13E3CA5B2646.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR09421_00": {
+        "npCommunicationId": "NPWR09421_00",
+        "trophyTitleName": "Metropolis Defenders",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09421_00_00B59CD33BBC6E36D0A70E9D8A4634BEA95AE03642/120C6F869EE74BD301B2C0F33148AB14FAB970EB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR09422_00": {
+        "npCommunicationId": "NPWR09422_00",
+        "trophyTitleName": "Metropolis Defenders",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09422_00_006F07B5BE7C6AA62FFFBA379692CD2AA25E7112E1/B95E5AC0C8DB52DD8A7FF5A500BB8368F73B214F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR09423_00": {
+        "npCommunicationId": "NPWR09423_00",
+        "trophyTitleName": "Dynamite Fishing World Games",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09423_00_00016A7BE6B00EE775C99308736789AB03E12395D0/1C47B27077C798B2772C345FF237064C0CFD1C0D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09425_00": {
+        "npCommunicationId": "NPWR09425_00",
+        "trophyTitleName": "限界凸起 モエロクリスタル",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09425_00_00C67735966CF0CFC642C0550A3435F4393BD7FF59/44850D934F3E6660504368F9E7E138FDBBB77C0B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR09427_00": {
+        "npCommunicationId": "NPWR09427_00",
+        "trophyTitleName": "Battle Islands",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09427_00_00A4180C84760237CBF725077A83A3C6A07A170047/E028807B7DA051B1D63F9C23F1A041D6C748D375.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR09428_00": {
+        "npCommunicationId": "NPWR09428_00",
+        "trophyTitleName": "SA7 -Silent Ability Seven-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09428_00_009EC269D70057F4059505E53D59C939E2B4CE8377/8442571B85BA3C3C8AA2557225D97E92BE0D1013.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR09429_00": {
+        "npCommunicationId": "NPWR09429_00",
+        "trophyTitleName": "Assassin's Creed® Chronicles Trophies\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09429_00_000171C66AAA257E883EBFF56F6481E3D4791630B9/D6A3976A90018630ABB72C02499E1306FF2710C7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 10,
+            "bronze": 43
+        },
+        "service": "trophy"
     }
 }
