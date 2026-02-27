@@ -609,31 +609,5 @@
             "bronze": 34
         },
         "service": "trophy"
-    },
-    "NPWR36850_00": {
-        "npCommunicationId": "NPWR36850_00",
-        "trophyTitleName": "The Fairy's Song",
-        "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36850_00/ebfab0fe-e6cb-4aab-bf5a-e8a8a287ef4a.png",
-        "trophyTitlePlatform": "PS5",
-        "definedTrophies": {
-            "platinum": 1,
-            "gold": 10,
-            "silver": 5,
-            "bronze": 0
-        },
-        "service": "trophy2"
-    },
-    "NPWR52717_00": {
-        "npCommunicationId": "NPWR52717_00",
-        "trophyTitleName": "Slime Rancher 2",
-        "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52717_00/8c070658-1a36-4c8b-b7da-d4aa8b681121.png",
-        "trophyTitlePlatform": "PS5",
-        "definedTrophies": {
-            "platinum": 1,
-            "gold": 6,
-            "silver": 7,
-            "bronze": 14
-        },
-        "service": "trophy2"
     }
 }
