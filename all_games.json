@@ -41858,5 +41858,135 @@
             "bronze": 43
         },
         "service": "trophy"
+    },
+    "NPWR07907_00": {
+        "npCommunicationId": "NPWR07907_00",
+        "trophyTitleName": "Nutjitsu",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07907_00_00D1A0B081B857CE017C1BF0C4600512007753AD3B/6E71EDE0363B6C2E859106549FF2527081509BFD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR07911_00": {
+        "npCommunicationId": "NPWR07911_00",
+        "trophyTitleName": "Giana Sisters: Twisted Dreams - Director's Cut",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07911_00_00B455A5118B3A7E9EA1019C3056D862913215183A/116AEC35CE186A2263CC4B73F739D247F43D9956.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR07913_00": {
+        "npCommunicationId": "NPWR07913_00",
+        "trophyTitleName": "Art of Balance",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07913_00_007ECF37BE987711E9E864ACC870714541BC9FD05E/4B0D391D71DD17A309AF62914C3EF8BF7CB0EF5A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR07915_00": {
+        "npCommunicationId": "NPWR07915_00",
+        "trophyTitleName": "Gravity Rush™ Remastered",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07915_00_0014E1EC221752F30875FAC76B3E49481191C5D565/87194B5CD815A5B0A8B8B467717A3F3513C83BC1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 19,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR07916_00": {
+        "npCommunicationId": "NPWR07916_00",
+        "trophyTitleName": "Hyper Void",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07916_00_0090939503EA6C6BCDA39B150CBA5FC3473D6A1E44/7160BBD88E253ECD32CA23F511D98B3529792A3D.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR07919_00": {
+        "npCommunicationId": "NPWR07919_00",
+        "trophyTitleName": "Starry☆Sky～Spring Stories～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07919_00_00BD68B4FFD897A33FF1901894F9E248751FDCF304/1F4494BC12620B930635BC875C698C37CC62F7A6.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR07920_00": {
+        "npCommunicationId": "NPWR07920_00",
+        "trophyTitleName": "新装版クリムゾン・エンパイア",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07920_00_004ACDA99CD8144B1B4CD708F4EBBF87DB4F103C96/42F168341AB0924E97E15CB91AD63A066DD32671.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR07925_00": {
+        "npCommunicationId": "NPWR07925_00",
+        "trophyTitleName": "Looney Tunes™ Galactic Sports",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07925_00_00D95AE35DB7FD2E1FBC68BCE2CB0E49E1AE28222C/DC011F89E6F2A9206876D29B116C63594AF24501.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR07927_00": {
+        "npCommunicationId": "NPWR07927_00",
+        "trophyTitleName": "Life Is Strange™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07927_00_0091F6C8D8F5FFE16F26D650DE436250F2A8495FD2/12CADB9C1E262E05C8808CC3F8CC3F92434519D3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 59
+        },
+        "service": "trophy"
+    },
+    "NPWR07928_00": {
+        "npCommunicationId": "NPWR07928_00",
+        "trophyTitleName": "Jungle Rumble",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07928_00_0088711CFB2F008F9F93C0A50EA3AD04FD41C2D5F7/CD23A90765C7D759A1156338CDE86061C96E2B03.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
     }
 }
