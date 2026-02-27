@@ -47578,5 +47578,135 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR08852_00": {
+        "npCommunicationId": "NPWR08852_00",
+        "trophyTitleName": "Dengeki Bunko: Fighting Climax Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08852_00_00A0972CA547025A1BE0ED36E39631AA7794C086BE/0D7C0C68FDE2CBC950877485F56244D438426986.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR08854_00": {
+        "npCommunicationId": "NPWR08854_00",
+        "trophyTitleName": "Cosmophony",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08854_00_00330D0D3F4D330BEC2645F9A9D2DAFEA3F01E25ED/1C0D33EBDC4B087B4382661B6A3606A1298BEA35.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08858_00": {
+        "npCommunicationId": "NPWR08858_00",
+        "trophyTitleName": "Mighty No. 9",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08858_00_00ED3D33186437C932F3B49C37F067A9B9299EB088/B817F6D7E5D516F07EB6AA1E4C401FA655D5CED9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR08862_00": {
+        "npCommunicationId": "NPWR08862_00",
+        "trophyTitleName": "Dengeki Bunko: Fighting Climax Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08862_00_000969CEFF04D45EE58089B12B79B470239D04E949/B6ADA243C535DF4C9423856C577ED0CF180339E0.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR08864_00": {
+        "npCommunicationId": "NPWR08864_00",
+        "trophyTitleName": "HITMAN™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08864_00_00DA00E88057CEC122A65CD3F26877193A4ACF2CDF/6AB03DA6802CBDC0AFBEC9ABEC4F693138DDDBB6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 52
+        },
+        "service": "trophy"
+    },
+    "NPWR08865_00": {
+        "npCommunicationId": "NPWR08865_00",
+        "trophyTitleName": "Everybody's Gone To The Rapture",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08865_00_0008754428D32D75A3661007C5F9DC1E17129B319A/9CE48D5E7F7FFCF82201F7BE45141A61DEA44D0C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR08869_00": {
+        "npCommunicationId": "NPWR08869_00",
+        "trophyTitleName": "Mighty No. 9",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08869_00_00062388B678667F0F5E4E286D1863173613AE7B5E/63704F9F14BBF841B5B458A412364EFD6DDBEFFA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR08874_00": {
+        "npCommunicationId": "NPWR08874_00",
+        "trophyTitleName": "Kung Fu Panda: Showdown of Legendary Legends",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08874_00_0039E78B53480EE1AA5025EA9944FB10BE4BB9D722/159CDD46FACBB9AF3DB0374E3713DC60E3B0CFBE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 16,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR08876_00": {
+        "npCommunicationId": "NPWR08876_00",
+        "trophyTitleName": "Rogue Galaxy™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08876_00_005AD659F464DDD293E6FAE2F16275EE8EC1BA900C/A8A31E43D59C057B6A3524552339909EBCD5ACC6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR08877_00": {
+        "npCommunicationId": "NPWR08877_00",
+        "trophyTitleName": "Wild Arms™ 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08877_00_0005010D0EC07C96756D6665FA20FDAACCEE1610C6/CD9443A8798511BE2EA5D8BC1B71C5875BBA5C7E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 9
+        },
+        "service": "trophy"
     }
 }
