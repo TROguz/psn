@@ -73188,5 +73188,135 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR12497_00": {
+        "npCommunicationId": "NPWR12497_00",
+        "trophyTitleName": "Unearthing Mars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12497_00_00C098C14028F5448B8A684D4EBE3BF0265C423784/338402067A2FBDBDC70D3862F94A5449CA11C9A2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR12501_00": {
+        "npCommunicationId": "NPWR12501_00",
+        "trophyTitleName": "Birthdays the Beginning",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12501_00_00C19B23C530B64632ECEB4B675C256760CDF39FF0/392AFDD2E9E8B415AB0FB856F14E459C710F44A9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR12502_00": {
+        "npCommunicationId": "NPWR12502_00",
+        "trophyTitleName": "Carnival Games VR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12502_00_00CE893D0E1A38A3CAA09816901FFE76E4E5BB1FEF/70BA95AFECE0ED2A26D497E5F51D5F2627FBDED1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 7,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR12504_00": {
+        "npCommunicationId": "NPWR12504_00",
+        "trophyTitleName": "Death Squared",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12504_00_00E2089F023783B2D8890D13918A3D368E80FA3781/E6AACCAF3385CDEEBEB705DBEF750058D7137377.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR12505_00": {
+        "npCommunicationId": "NPWR12505_00",
+        "trophyTitleName": "아키바즈 비트",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12505_00_0005F172B634535F8EBD15BAB37373716771944DE1/F55F10516D8989308B775A000642ED418BFF7D1B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR12506_00": {
+        "npCommunicationId": "NPWR12506_00",
+        "trophyTitleName": "아키바즈 비트",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12506_00_004A4478E534099FF9C9A640D55AAE22FC07E437B3/CD6E08014E7299246A83FE5FC6605DA969A47A8A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR12507_00": {
+        "npCommunicationId": "NPWR12507_00",
+        "trophyTitleName": "Discovery\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12507_00_00F266D62DC0B6B2D9387B31F1C3472AA1152E44DF/EC6B692CFDEECD96C2AB72B9D2EC18740DB5835D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 0,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12509_00": {
+        "npCommunicationId": "NPWR12509_00",
+        "trophyTitleName": "乖離性ミリオンアーサーVR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12509_00_00555D119954770BD3A66A68E833B1AB785C4F378D/AE1C646B19D474203E6AB0A77670F7A6D4FFEB0A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR12510_00": {
+        "npCommunicationId": "NPWR12510_00",
+        "trophyTitleName": "Wolfenstein® II: The New Colossus",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12510_00_0073EBC5C7879B22746E4AB8B8CFC771F91ADBBFB9/A7AF5FFAAE1CD87FF16ABE0901CC6840901048B5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 62
+        },
+        "service": "trophy"
+    },
+    "NPWR12511_00": {
+        "npCommunicationId": "NPWR12511_00",
+        "trophyTitleName": "AKIBA'S BEAT",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12511_00_00C83D3CEA2AFF3F54595385FD010642E4FEA92C16/4F38DFEBC13D0028B9E1AB0C2494B584F58F85AF.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 31
+        },
+        "service": "trophy"
     }
 }
