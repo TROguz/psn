@@ -51088,5 +51088,135 @@
             "bronze": 32
         },
         "service": "trophy"
+    },
+    "NPWR09368_00": {
+        "npCommunicationId": "NPWR09368_00",
+        "trophyTitleName": "ToLOVEる ダークネス トゥループリンセス",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09368_00_00E6D2CA871D3B71998CE02DF9D991C0E1D962CA5B/F35D36BF5B4378251E4570017216FFB02BB5B0CC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR09369_00": {
+        "npCommunicationId": "NPWR09369_00",
+        "trophyTitleName": "干物妹！うまるちゃん ～干物妹！育成計画～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09369_00_00781A765515298017FE1A09A079F35817FA59D546/23B954AA109CEF5258B49DC3A2902E826715813F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR09370_00": {
+        "npCommunicationId": "NPWR09370_00",
+        "trophyTitleName": "Arcade Archives Super Dodge Ball",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09370_00_00EED842948F6D44DD5779B44F12DF6DC8342BB4EC/48FE3730F8C393B04C93C2CBBF452CC5DB05C384.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09371_00": {
+        "npCommunicationId": "NPWR09371_00",
+        "trophyTitleName": "Alien Shooter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09371_00_008B822EF04042306C32AE1BAC76829719A654EB04/F0B9D2CA15BB3816703517F7774A83B0B76206C9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09372_00": {
+        "npCommunicationId": "NPWR09372_00",
+        "trophyTitleName": "Doodle Devil",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09372_00_001C6B8F5230DAC6BCF627668751E6162059D72A83/15BAEF1EB20A70F6C5638FA0B4A4B9DFE0FA8D35.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR09373_00": {
+        "npCommunicationId": "NPWR09373_00",
+        "trophyTitleName": "Doodle God",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09373_00_00177FC831EE22B7BDBB916ADA718D894AC634772D/F200A46696F58ECB4021161404DE751A5C298737.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR09374_00": {
+        "npCommunicationId": "NPWR09374_00",
+        "trophyTitleName": "Doodle Kingdom",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09374_00_00010E035CCAB1EF3566BB50CA4242538A4DFCB2B7/5D0D2201E6DA2E4310695952F03AFFA56389B87B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09376_00": {
+        "npCommunicationId": "NPWR09376_00",
+        "trophyTitleName": "Commander Cherry's Puzzled Journey",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09376_00_00ADB7497C8ACBC3CD13E14FFC4A7848DB4D3F184A/B25D144F28CA4625796CC585879F4B95A1A0F7E7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09379_00": {
+        "npCommunicationId": "NPWR09379_00",
+        "trophyTitleName": "MX vs ATV Supercross Encore",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09379_00_00A3E5C0168196F02BE6E8DD2BE9881F628E8CC3B6/5FD2796F8253020C4BB81ADCD07A9866A3B44AEC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR09381_00": {
+        "npCommunicationId": "NPWR09381_00",
+        "trophyTitleName": "Persona 4 Dancing All Night",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09381_00_007F11624669B3AF2F51633CF881A39698C2112EE0/8644035F5773967608040B487F4D6CB38C64A8CB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 21
+        },
+        "service": "trophy"
     }
 }
