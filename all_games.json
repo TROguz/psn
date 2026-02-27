@@ -86838,5 +86838,135 @@
             "bronze": 4
         },
         "service": "trophy"
+    },
+    "NPWR14251_00": {
+        "npCommunicationId": "NPWR14251_00",
+        "trophyTitleName": "SkyTime",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14251_00_002C38608BDAFBABF4A84AABCB9D184C003B23EFD7/045C11B14D28CD60CA349CEC09391C89BD20B757.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR14252_00": {
+        "npCommunicationId": "NPWR14252_00",
+        "trophyTitleName": "Spiral Splatter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14252_00_00D11A3DB0F688CCDC11D239B75D1F11F9D25C6872/82EE50B01BC417904F06CBB794E6BCDE576AEBD3.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR14253_00": {
+        "npCommunicationId": "NPWR14253_00",
+        "trophyTitleName": "Alteric",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14253_00_00FA87C0F70BB062EA185D445DB3B10E33927AA401/FF4CEB67782B615D6618271636D6704EB16A5192.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14254_00": {
+        "npCommunicationId": "NPWR14254_00",
+        "trophyTitleName": "NORTH",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14254_00_005107D915349366378A8EA98EBD683730D21E1806/6589B79E823234BD2096550D3DE19DE48E02A054.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR14256_00": {
+        "npCommunicationId": "NPWR14256_00",
+        "trophyTitleName": "Spiral Splatter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14256_00_002848A61A2D46072A7AEEB9A2B2EB025A9E754A9A/98B6CE9F4C7562B20D261408EAC5431036DA480F.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR14257_00": {
+        "npCommunicationId": "NPWR14257_00",
+        "trophyTitleName": "Your Toy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14257_00_004F6EA254FB64D828E98C7E565C8C04728811DAB7/D7E6819FAE1BA36A39E42478F0CAA4189140587A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR14259_00": {
+        "npCommunicationId": "NPWR14259_00",
+        "trophyTitleName": "Anamorphine",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14259_00_00841217D5BE56F29CC1929BA50C92E7FC1F23F9E6/8E85D45FF292E8D0DEBC25DB19906A49A33B8A65.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR14260_00": {
+        "npCommunicationId": "NPWR14260_00",
+        "trophyTitleName": "Donut County",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14260_00_00E7C2F551F6CFBE10A4DB0438DE3BA80AD3C569B8/8BEE15ED13A59B8732B1B49150A7F63035C0A4B2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 5,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14261_00": {
+        "npCommunicationId": "NPWR14261_00",
+        "trophyTitleName": "Black Hat Cooperative",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14261_00_001C294EA4F2F9BCF5842CDD61283015B07E8DDBCF/4166582A9AF548E2E270BCA570368299CE472223.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR14262_00": {
+        "npCommunicationId": "NPWR14262_00",
+        "trophyTitleName": "Kentucky Route Zero TV Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14262_00_00305BAB036B6D372C33A92D6AF3A0DC273E93477E/C87064A8A7BC8DA3D1D5A6033E61452B29B6A3DA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 19,
+            "bronze": 0
+        },
+        "service": "trophy"
     }
 }
