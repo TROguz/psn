@@ -56548,5 +56548,135 @@
             "bronze": 17
         },
         "service": "trophy"
+    },
+    "NPWR10224_00": {
+        "npCommunicationId": "NPWR10224_00",
+        "trophyTitleName": "執事が姫を選ぶとき",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10224_00_00ED368846A5C683A598D24115CF39DFA394F1E46B/1776B6C337A0FEE441D718686B27B7B13C0AD405.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR10225_00": {
+        "npCommunicationId": "NPWR10225_00",
+        "trophyTitleName": "この世の果てで恋を唄う少女YU-NO",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10225_00_00FE39453865758CB7B07EECD641B40DC1497329EF/F0A159EB5AEDCA2E716F5D8091F900970B4628DC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR10229_00": {
+        "npCommunicationId": "NPWR10229_00",
+        "trophyTitleName": "ALBEDO: Eyes From Outer Space",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10229_00_00D3D85A39BF2361BDB56925BF049CA94C824EAB6C/CD7BA4F126022E0D01B17AD132C957EAEF5A65D4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR10232_00": {
+        "npCommunicationId": "NPWR10232_00",
+        "trophyTitleName": "Worms W.M.D",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10232_00_001A8872EDC66981C3D6B610B9386A480FB07C5365/FE56EC1CAC41C0EFCC5B0425EE31902123CD93EB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 5,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR10233_00": {
+        "npCommunicationId": "NPWR10233_00",
+        "trophyTitleName": "Republique",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10233_00_0082AC213EC8676F790B5815EE29CB6349D5167BD3/AAC0E753CA6E96C0E9698B13584931D3DABF7FBF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 6,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR10236_00": {
+        "npCommunicationId": "NPWR10236_00",
+        "trophyTitleName": "MOP: Operation Cleanup",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10236_00_00464F09DE8A9D255847B44269A74D56846A7A1A79/B87F2DE5E91BFEC089B4EC8F46012D8D18772879.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR10237_00": {
+        "npCommunicationId": "NPWR10237_00",
+        "trophyTitleName": "Survivor Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10237_00_009A056868D8D63C793D0DC97FF51CD9BD260E0EC8/9334313CABA1B961CF98D4BB91682403518850BC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10239_00": {
+        "npCommunicationId": "NPWR10239_00",
+        "trophyTitleName": "MOP: Operation Cleanup",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10239_00_00CE5130FDB265C7C9C7172AB853348C95B6EAFC1B/613B1C3280156AFC923996CBBDB8B65936FF6709.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR10242_00": {
+        "npCommunicationId": "NPWR10242_00",
+        "trophyTitleName": "GodWars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10242_00_00AAE01576B70A95064358C350B1229E540516567A/0C9E75FF033E1958F037F158DC2AE86678D09EC0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR10243_00": {
+        "npCommunicationId": "NPWR10243_00",
+        "trophyTitleName": "圣斗士星矢：勇斗之魂",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10243_00_00D6E0A99231D3096243FD1C5116CFD65CF99580F6/6E2D6B8A37939B69A5886AAB78B1DE162097227A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 41
+        },
+        "service": "trophy"
     }
 }
