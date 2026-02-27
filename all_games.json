@@ -21708,5 +21708,135 @@
             "bronze": 9
         },
         "service": "trophy"
+    },
+    "NPWR03688_00": {
+        "npCommunicationId": "NPWR03688_00",
+        "trophyTitleName": "Table Mini Golf",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03688_00_00190EAF0AE47EAD172979CAC7AD58BBC651F7F89A/64C0A4C61B24EDD0F43B220795927515ECF48D68.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR03690_00": {
+        "npCommunicationId": "NPWR03690_00",
+        "trophyTitleName": "Sports Champions™ 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03690_00_00C50BCC9AAF2D37CE16D1A3D1A4098264DD0AD8D1/837980735CED00FCCB54311B44FA91171FA6B64C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR03692_00": {
+        "npCommunicationId": "NPWR03692_00",
+        "trophyTitleName": "Pro Evolution Soccer 2013",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03692_00_009B108D3E95BEFAA60C61329229A36644ECA80609/E685E6E986B94D0733141D74BD455E9A10FADCFA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 21,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR03693_00": {
+        "npCommunicationId": "NPWR03693_00",
+        "trophyTitleName": "Schlag den Raab – Das 3. Spiel",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03693_00_006227767E911A95F41B1DAEB4FC9D5801A62484B8/D7D9D657EEB9C429764EAD31B49E32F4F292C56B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 6,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR03695_00": {
+        "npCommunicationId": "NPWR03695_00",
+        "trophyTitleName": "Cabela's® Hunting Expeditions",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03695_00_0092C6F54DCB98C3AB93C41DAEE539C42F488EC5AC/CCD532B5C076EC76E2F038065A6CFE176C141F98.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR03696_00": {
+        "npCommunicationId": "NPWR03696_00",
+        "trophyTitleName": "Zuma's Revenge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03696_00_00C42BDB22DAA585AADE74C916F64740CD7CF82BEE/D406525FF7CFC5572491EEED7AB9879B702F3B6D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR03697_00": {
+        "npCommunicationId": "NPWR03697_00",
+        "trophyTitleName": "Germinator",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03697_00_005B767E017AC636BF06EE78B4BA6DCC051F2B5E8C/0BC2FAF070D13EAC43D201BE0EABBA832E1C8FF2.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR03699_00": {
+        "npCommunicationId": "NPWR03699_00",
+        "trophyTitleName": "真・三國無双６ Empires",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03699_00_0017D8CE552C679479135D124007D740E030C4F508/6621FFA68444A5F9BF290ACD2C2CD57120D2F21C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR03702_00": {
+        "npCommunicationId": "NPWR03702_00",
+        "trophyTitleName": "Unearthed EP1 Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03702_00_009FF7C2889230F5493B5451B441C230D82A5A553F/A96BCE45EBF4BD16C2407B1D8F59215939857D5C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 4,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR03709_00": {
+        "npCommunicationId": "NPWR03709_00",
+        "trophyTitleName": "NBA 2K13",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03709_00_007A72A4AE466D155E50FAAA09C61C3FE8B88926D7/DE603A61BEC2D2FEAC43C25C805AD9B47E3924F5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 40
+        },
+        "service": "trophy"
     }
 }
