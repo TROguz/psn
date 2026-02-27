@@ -45368,5 +45368,135 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR08474_00": {
+        "npCommunicationId": "NPWR08474_00",
+        "trophyTitleName": "오오에도 블랙스미스",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08474_00_00840E47F9278F653E3979BE8F6F5D74D4632B57B8/853DD224044F60C3AF4D507F01BE7E6C81B1BE6C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 19,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR08475_00": {
+        "npCommunicationId": "NPWR08475_00",
+        "trophyTitleName": "신 하야리가미",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08475_00_00C6486A00F461B9A4A289F7A6709B9D65E3067BED/AA4E507C4B42537DF6B12DD4899F856EC1356371.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR08476_00": {
+        "npCommunicationId": "NPWR08476_00",
+        "trophyTitleName": "Rugby League Live 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08476_00_00582AD9DD6446BA78EA9313C7FB1119ADA3FBEE23/F4DA3877A9801BA5831DB48418F03683B29F5B26.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR08478_00": {
+        "npCommunicationId": "NPWR08478_00",
+        "trophyTitleName": "ArmaGallant : Decks of Destiny",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08478_00_0063D730C65CFCA0AC98C7352581E50FBBAB53E510/9D0B3EB67CB99970FC09BFC1406143154D51C48B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR08486_00": {
+        "npCommunicationId": "NPWR08486_00",
+        "trophyTitleName": "5 Star Wrestling",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08486_00_00AF498B9635E59C5AA00240947A8640F61B5EB392/B376D1812E878C06B37D3717A3EBA8E7612C7A6D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR08487_00": {
+        "npCommunicationId": "NPWR08487_00",
+        "trophyTitleName": "Super Time Force Ultra",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08487_00_00F7B8FD56DDD2F280791FA9C7C362790DB7782411/288543C302B286D01BFD52F8A0E78EC55DA27ABC.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 6,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR08488_00": {
+        "npCommunicationId": "NPWR08488_00",
+        "trophyTitleName": "PvZ Garden Warfare 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08488_00_00868CF394967626D3470FEA72B196075F7369486D/341A71EEC38A49D046360E2B28A99BEF5A1DA1C2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 53
+        },
+        "service": "trophy"
+    },
+    "NPWR08490_00": {
+        "npCommunicationId": "NPWR08490_00",
+        "trophyTitleName": "Boggle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08490_00_0075280F142E6A7D3755E2B45AB4C9E7BBB96B08A1/BBE2199A85F63E998885D8E7FB2788ACF76A1D15.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR08491_00": {
+        "npCommunicationId": "NPWR08491_00",
+        "trophyTitleName": "Middle-earth: Shadow of Mordor - Game of the Year Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08491_00_006E495D3F759EFF98B2817FBD30C8DE2D40CF5293/6F6E49E85EAAFD47346385B8CEE8A98C22F3954B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 17,
+            "bronze": 56
+        },
+        "service": "trophy"
+    },
+    "NPWR08492_00": {
+        "npCommunicationId": "NPWR08492_00",
+        "trophyTitleName": "Taco Master - Vita",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08492_00_00BE0745447263352FFC5A9B18245C8D0AA1C75AA0/944EEE61FA344E3CBB5D01EA928C432E53F1239F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 7,
+            "bronze": 21
+        },
+        "service": "trophy"
     }
 }
