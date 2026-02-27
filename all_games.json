@@ -50568,5 +50568,135 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR09279_00": {
+        "npCommunicationId": "NPWR09279_00",
+        "trophyTitleName": "Mahjong Carnival",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09279_00_0014303B32CEB73D93081943ADF980C9958841103D/6AC42F78CB437BF32EB70ABA8DE8B3D566EAA9E2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09280_00": {
+        "npCommunicationId": "NPWR09280_00",
+        "trophyTitleName": "Royal Defense",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09280_00_009D323C3A08D4056E14552A521672F79FA3B94219/2ABAD6D5A8EA608CE64F7306F31320CAC57B068E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09281_00": {
+        "npCommunicationId": "NPWR09281_00",
+        "trophyTitleName": "Royal Defense Invisible Threat",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09281_00_00322E7070456E6079D81E66B70DF5CADC0A531949/DED9786FBDB7FB43CBAABB357ED492E4F19ABB0D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09287_00": {
+        "npCommunicationId": "NPWR09287_00",
+        "trophyTitleName": "Actual Sunlight",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09287_00_001A937A37F25BBF9D5F997467FD47AB5F66E29FCD/5608CF358351CA612289F011A14D6A6F94503B91.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09289_00": {
+        "npCommunicationId": "NPWR09289_00",
+        "trophyTitleName": "Rear Pheles",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09289_00_00552183BB1DC19623B7E46C1D5BBDAF4915143533/FC7DE629676C272C6371B0D14D6CBB561F68374E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR09292_00": {
+        "npCommunicationId": "NPWR09292_00",
+        "trophyTitleName": "Knock-Knock",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09292_00_00E9E70B7AAB4DD655955B928631222ED8F481349B/C7B8F0C4A75CEA4CBD257867FFB60B567F69B839.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR09293_00": {
+        "npCommunicationId": "NPWR09293_00",
+        "trophyTitleName": "Assetto Corsa",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09293_00_00433C25543DA328EDC89F0175FE53620B8D140C8A/A59DDEB53C53532A5360E0B7E27AFA386F04A7FF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR09294_00": {
+        "npCommunicationId": "NPWR09294_00",
+        "trophyTitleName": "Red Goddess",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09294_00_00C72D1C3ADDDB2077F262BC1E48939763F35169EF/56E5E2693F8C32AC6730997233442F25C50549D5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR09296_00": {
+        "npCommunicationId": "NPWR09296_00",
+        "trophyTitleName": "OKAGE: Shadow King",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09296_00_00206C6CF8DF40806C69EE226D4010CB8407220544/DBA749A83B3E8F35214C11D2D8A442D990A93D47.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR09297_00": {
+        "npCommunicationId": "NPWR09297_00",
+        "trophyTitleName": "Don't Starve Together: Console Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09297_00_0005062ED466DF8F253F030F8720EA74A57252F6D4/051023496C9C5FBFFFDDD2C67C7AE192DD3516FA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
     }
 }
