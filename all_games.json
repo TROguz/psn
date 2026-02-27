@@ -74748,5 +74748,135 @@
             "bronze": 6
         },
         "service": "trophy"
+    },
+    "NPWR12682_00": {
+        "npCommunicationId": "NPWR12682_00",
+        "trophyTitleName": "The Legend of Dark Witch\n-Chronicle 2D ACT-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12682_00_00D6D4CBB2D947927A91103FD2ECC4579940E596EA/1132BFB2BF38747555B506B1C0A6DABC1F49E977.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR12683_00": {
+        "npCommunicationId": "NPWR12683_00",
+        "trophyTitleName": "Thea: The Awakening",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12683_00_00904CC71FE051028F2C5E977DCA2CAD79CA7D7477/E7546C5ED2A3B659F5CB1501B993514EE2B9EE36.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR12685_00": {
+        "npCommunicationId": "NPWR12685_00",
+        "trophyTitleName": "Dying： Reborn",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12685_00_008AFFCFD534EB1EFAFDA92A0179E5128C2D566726/146E47F13161EABF35F234C93A93A2B63D20AA2C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 8,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR12687_00": {
+        "npCommunicationId": "NPWR12687_00",
+        "trophyTitleName": "Racers:Dirt",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12687_00_00FC1005D5602A0EC265DD87DB5EAFD8441887B7BD/D6633536BD981D9E610A466CF07708F2DDB6E432.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR12688_00": {
+        "npCommunicationId": "NPWR12688_00",
+        "trophyTitleName": "Dungeons 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12688_00_00B5B26D1EDAA22B4BDBD5D5F3B8D4FDFE5EB6AC5B/3D10337D1A70A7140D6CF96C8D3B5277C68454EC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 54
+        },
+        "service": "trophy"
+    },
+    "NPWR12689_00": {
+        "npCommunicationId": "NPWR12689_00",
+        "trophyTitleName": "Headbutt Factory",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12689_00_00A41A41508DDFCCFB1EA36E4D7CBEE46B8BB2A5B9/01446D0A883F9D62FC4F0DAA50869F19C77376A3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR12690_00": {
+        "npCommunicationId": "NPWR12690_00",
+        "trophyTitleName": "SkyKeepers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12690_00_008C168BB6CC93CAE85B6482BD98EB9DB1AAA58F56/8F51AEFDF1CD1F5F419C0997F78F7ABC0C73A300.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR12691_00": {
+        "npCommunicationId": "NPWR12691_00",
+        "trophyTitleName": "Pixel Heroes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12691_00_00AF23E10440473041745710E37731A3E4555EB301/282588D7ACB99C0400AD0AB7617C44D5A3E401E2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR12692_00": {
+        "npCommunicationId": "NPWR12692_00",
+        "trophyTitleName": "It's Quiz Time",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12692_00_0053823C3ECEA6743BD61F4F68FBD55AC29D5F4BF4/181FC7707908FA4BC49D125824B20B6AFE79E7B6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR12693_00": {
+        "npCommunicationId": "NPWR12693_00",
+        "trophyTitleName": "Siralim 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12693_00_005A6630E489009890309B65EC183C8C633EF7424A/433789061ED799721CFC89F54482AB0E266396F4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
