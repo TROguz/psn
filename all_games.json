@@ -71498,5 +71498,135 @@
             "bronze": 12
         },
         "service": "trophy"
+    },
+    "NPWR12283_00": {
+        "npCommunicationId": "NPWR12283_00",
+        "trophyTitleName": "The Sexy Brutale",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12283_00_00E372CBEDD3BE998FE38394745298F23B4B4EFC9C/2393F2CA13AE384A4516E63CF550B7FA87F23B90.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR12284_00": {
+        "npCommunicationId": "NPWR12284_00",
+        "trophyTitleName": "Cars 3: Driven to Win",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12284_00_002851787DD9CBC74672AD0B64185A022D39DD2A68/41DD1DE29EBB024D17B3D07C02242217CAF572F8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 14,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR12285_00": {
+        "npCommunicationId": "NPWR12285_00",
+        "trophyTitleName": "Cars 3: Driven to Win",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12285_00_0034F3B5D31BF0428B52CA9C78E6982472375DCDA7/1A5EC0BC3C0B720984AB1B82856743C847E7EC6D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 14,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR12286_00": {
+        "npCommunicationId": "NPWR12286_00",
+        "trophyTitleName": "TOUHOU DOUBLE FOCUS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12286_00_0034D6BF6B821940D9F4CF1E51839E99999D896D80/D4B4FEB821FF3354A4DC1A9FDD364BB60243B3B2.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR12288_00": {
+        "npCommunicationId": "NPWR12288_00",
+        "trophyTitleName": "Her Majesty's SPIFFING",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12288_00_00B13E1E3945205243BEE408BCC03520BD9ADECEA9/86FD8AA63E946B10B3AF3549DAFD058C91A27C12.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR12289_00": {
+        "npCommunicationId": "NPWR12289_00",
+        "trophyTitleName": "Spectrum",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12289_00_00B132A2B86B79C555CDAFDFB0A9B7B17FB5C6AA01/450D5817F57213C7B6941A0A8A3E12B466B3D6A4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR12290_00": {
+        "npCommunicationId": "NPWR12290_00",
+        "trophyTitleName": "Hunter's Legacy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12290_00_00406580553D23AF46CA89DCA94655E23CDDFDFD35/A7AC6F6471FD92A945A01CCFDB0838D2139F5904.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR12292_00": {
+        "npCommunicationId": "NPWR12292_00",
+        "trophyTitleName": "3on3 Freestyle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12292_00_0082871802A3F896126E0C3786320FCBA3B4D5C8B9/D4E6D01DF8CD311EBCEFAD6CA975A0731BE27D85.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR12296_00": {
+        "npCommunicationId": "NPWR12296_00",
+        "trophyTitleName": "CHAOS;CHILD らぶchu☆chu!!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12296_00_00A91CF6B4789920BC66A7FEC80EDAD344D9FB378E/112C065A4A564B980000E03B19F79A7B29A4AE46.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR12297_00": {
+        "npCommunicationId": "NPWR12297_00",
+        "trophyTitleName": "CHAOS;CHILD らぶchu☆chu!!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12297_00_00B4C957F32A6731CAE8211E5AF8072F0FA2E24B44/6F8E9C6A734D5D3B0E72501EA44CFD5ABAC2B14B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 8
+        },
+        "service": "trophy"
     }
 }
