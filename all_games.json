@@ -91908,5 +91908,135 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR14891_00": {
+        "npCommunicationId": "NPWR14891_00",
+        "trophyTitleName": "Anarcute",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14891_00_00F6B0653299293C9E15655C34705E5417BF7405DA/5960778074C6C4D80B69F2D72B3F942B92F1653E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR14892_00": {
+        "npCommunicationId": "NPWR14892_00",
+        "trophyTitleName": "River City Melee Mach!!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14892_00_00DBA0710DCF29B9ACD3DD519DA285213985D9B621/354DD984C64EBEE5C46050BF9515D0E6B3DF2747.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR14893_00": {
+        "npCommunicationId": "NPWR14893_00",
+        "trophyTitleName": "Bulb Boy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14893_00_00F82BE6C635DC41656F8AB40CA8AB6C9EAEC371CE/EAA88DBF660831A6E4668D4761D05B42BED71300.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14894_00": {
+        "npCommunicationId": "NPWR14894_00",
+        "trophyTitleName": "Russian Subway Dogs",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14894_00_001B00EDEC80CFA35ECC1B820BC0E00C88A463445F/56D11369ACCEF179FB16482BE754FC5A8B279447.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR14895_00": {
+        "npCommunicationId": "NPWR14895_00",
+        "trophyTitleName": "Harvest Moon: Light of Hope Special Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14895_00_00C5AB42AC0EC380D77C8DBC0217288A8AD709BA61/07C304B3EBA13CB19D8EC5DD842712DE9FCB5145.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR14897_00": {
+        "npCommunicationId": "NPWR14897_00",
+        "trophyTitleName": "Russian Subway Dogs",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14897_00_003FDC03D76970C36D9FD82B9FCA450886ABA1A2A3/C9762C04DB2C327D9ADAF791A507844FE44969F1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR14900_00": {
+        "npCommunicationId": "NPWR14900_00",
+        "trophyTitleName": "Valkyria Chronicles 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14900_00_001A9DC5EFEE3B2325076136A7CA342B87B90A566D/55F23E4DDB21E693C31FD9A267C0ECD333829CEF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR14901_00": {
+        "npCommunicationId": "NPWR14901_00",
+        "trophyTitleName": "Illusion : A Tale of the Mind",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14901_00_0087A6B0AD33C9ED52D848328213E556F2BF768FD1/21DBC22646851C9B13DA64C235A7E850CA88A7DC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR14906_00": {
+        "npCommunicationId": "NPWR14906_00",
+        "trophyTitleName": "Crypt of the Serpent King",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14906_00_00AC07B6BF0D7C815E47F6F7404518D6B8B9E9B949/0208237EEC15F891B3824C56F196529D9E0CC018.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR14914_00": {
+        "npCommunicationId": "NPWR14914_00",
+        "trophyTitleName": "インフィニタ・ストラーダ 華",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14914_00_0022AF813DF2D7B3410B38A50F7A9C79D5ED58EEF0/4F2D7CB8863DE0113CC1AD1BF23B74A7DD7456D6.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
     }
 }
