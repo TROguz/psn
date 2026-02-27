@@ -51868,5 +51868,135 @@
             "bronze": 19
         },
         "service": "trophy"
+    },
+    "NPWR09485_00": {
+        "npCommunicationId": "NPWR09485_00",
+        "trophyTitleName": "The Vanishing of Ethan Carter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09485_00_007134CF7A438BF2D2E5F560A10399209DFCF5273E/CF344ACF6895FF600672EC0EDE25588449F4FDAF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR09486_00": {
+        "npCommunicationId": "NPWR09486_00",
+        "trophyTitleName": "Octodad: Dadliest Catch",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09486_00_00895CA5AE944FDB99CA50404C727054FB621201EF/A355DA6B4CDB2B32DA90BF6BDA4FE55AE41B983F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR09487_00": {
+        "npCommunicationId": "NPWR09487_00",
+        "trophyTitleName": "-KLAUS-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09487_00_00DD9DE3D86434B9309CC984532B460D1749AB491B/3D6C99692ECD35B88742AF83BE455EE376399774.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR09488_00": {
+        "npCommunicationId": "NPWR09488_00",
+        "trophyTitleName": "Megadimension Neptunia VII",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09488_00_0052DB4DDDDB655425418C63F54901901D5F1D4867/6763C4D1F9DA0E3100387E060D195846AD06A481.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR09492_00": {
+        "npCommunicationId": "NPWR09492_00",
+        "trophyTitleName": "Infinity Runner",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09492_00_00E24A590934A67416D02A8E6865B61F1F56BECA68/62D7884634DABA06E3EE37C8AC83E4BDD6719232.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR09493_00": {
+        "npCommunicationId": "NPWR09493_00",
+        "trophyTitleName": "クリミナルガールズ２　トロフィーセット",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09493_00_00DF8C887CAA6186D06FAC18DCD94C2A94E00AB958/FB4ACDF25321736DB9448A752535594DBC1DED72.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 21,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR09494_00": {
+        "npCommunicationId": "NPWR09494_00",
+        "trophyTitleName": "MasterCube",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09494_00_00B0A3FCF59BA53B51A6C05ADFE520606C676BA7B7/2110EE1BE47F2819268B5028DAEBD5D374D26F83.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR09495_00": {
+        "npCommunicationId": "NPWR09495_00",
+        "trophyTitleName": "MasterCube",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09495_00_0031C87124C50C1C3A9D7C78BC6455C14BC7EA649C/7D448C929CDA763EB2C408512AE83222ACC2F0A0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR09496_00": {
+        "npCommunicationId": "NPWR09496_00",
+        "trophyTitleName": "Assault Android Cactus Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09496_00_00A85E27143B45C41B7686F904DC960636605AEE6E/11C3F38B9C1439FE65E315FF0487CA74BD0984E6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR09497_00": {
+        "npCommunicationId": "NPWR09497_00",
+        "trophyTitleName": "Agents of Mayhem",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09497_00_00D814DC99147DB70C4B75C941116A494736D8B643/129A43F77BC2AF3FCF9031ED6208AED4CC2903BE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 4,
+            "bronze": 42
+        },
+        "service": "trophy"
     }
 }
