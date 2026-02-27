@@ -76048,5 +76048,135 @@
             "bronze": 25
         },
         "service": "trophy"
+    },
+    "NPWR12845_00": {
+        "npCommunicationId": "NPWR12845_00",
+        "trophyTitleName": "YAKUZA KIWAMI",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12845_00_0061D0EB2AAE962E4F41F1D59D8A83FF3BF2B55464/A2725F4B0F549409BE9B431F430545CD0C313F7A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR12846_00": {
+        "npCommunicationId": "NPWR12846_00",
+        "trophyTitleName": "Dying： Reborn",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12846_00_00318CFE58E44FFC8470CFE2A2C7A9DC28447882C2/935C0FB21C391173E6435D412DF0E6508F3E5932.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 6,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR12848_00": {
+        "npCommunicationId": "NPWR12848_00",
+        "trophyTitleName": "We Are The Dwarves\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12848_00_00C098CE5728A815CCBD4901176294B4F66E45233A/F5FA3CC19B387BAD90DBCE85533A36B87D0120F3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR12850_00": {
+        "npCommunicationId": "NPWR12850_00",
+        "trophyTitleName": "Dungeon Rushers trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12850_00_00BCA7F09163043D2A67F49BC2D7B13FC1A7F18319/35708AD5FD1E33EAD8CD5776D33EA64141E7A375.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR12851_00": {
+        "npCommunicationId": "NPWR12851_00",
+        "trophyTitleName": "Dungeon Rushers trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12851_00_0024904649C0762EB191BAD1C9EA9A88BBF52E4A07/A117E125EDC7FBAEE0D83D89C59F71ECC94D5BC3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR12854_00": {
+        "npCommunicationId": "NPWR12854_00",
+        "trophyTitleName": "Moonshot Galaxy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12854_00_0064A171CC0E565A1B11B474282081049E5E8CB3C2/4E70B31120E80755CAEEE5B4E01C418C1182AD81.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 11,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR12855_00": {
+        "npCommunicationId": "NPWR12855_00",
+        "trophyTitleName": "Portal of Evil: Stolen Runes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12855_00_0056094277A6311347994388A42AC42B9EBF848819/99EE593BB6514D852C75FDAF20C8714008DC2790.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR12856_00": {
+        "npCommunicationId": "NPWR12856_00",
+        "trophyTitleName": "Medieval Defenders",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12856_00_00B2AE3B9F304EF3717823C236538D7A0F11FCE3BB/5770D1D849D4CADE637AFA2882FDEE578C2ED463.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR12857_00": {
+        "npCommunicationId": "NPWR12857_00",
+        "trophyTitleName": "Portal of Evil: Stolen Runes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12857_00_00F0758A17B9F739113F651FD5F27070A4A93D81CB/DDE238141EEDE5749D4B35EF122BF2537CF92441.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR12858_00": {
+        "npCommunicationId": "NPWR12858_00",
+        "trophyTitleName": "Dying： Reborn",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12858_00_003D851B0E9174738F8357E526ABDF68B23D367DE1/44875E72CC45FC6DC510F26102FA70C26C715CA2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 6,
+            "bronze": 4
+        },
+        "service": "trophy"
     }
 }
