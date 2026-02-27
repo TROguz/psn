@@ -32758,5 +32758,109 @@
             "bronze": 12
         },
         "service": "trophy"
+    },
+    "NPWR05964_00": {
+        "npCommunicationId": "NPWR05964_00",
+        "trophyTitleName": "Contrast",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05964_00_0087BB7CCDDED05E91CD13A6023D3529947767B9E3/7B4E885E71867644572AA3CB6684750435F4B907.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR05966_00": {
+        "npCommunicationId": "NPWR05966_00",
+        "trophyTitleName": "STEINS;GATE 비익연리의 달링",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05966_00_008124AC63C1BF2B1BA3AD23ACAD1894CF44CD64FD/DB6DE80581998091863BBAFFACB7071A433889ED.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR05969_00": {
+        "npCommunicationId": "NPWR05969_00",
+        "trophyTitleName": "Tour de France 2014",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05969_00_00E628D6EC5559F6396BD1DA155885761A0F013582/2437C40CD276BDE02434390D9D84269578E82E84.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 6,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR05973_00": {
+        "npCommunicationId": "NPWR05973_00",
+        "trophyTitleName": "Ranko Tsukigime's Longest Day",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05973_00_003BAD3031A2FD2606684BE69070E5DDC3DF4D6527/2B02ED03F7E978421CA1DC66D096C979C9E87BE5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR05974_00": {
+        "npCommunicationId": "NPWR05974_00",
+        "trophyTitleName": "Diablo III: Reaper of Souls",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05974_00_00A37BA542EC46DBF8A24E0B1177E1172B4F1FB8EC/636175FE59DB1D85DE059BA7EEE8188C7B63FD7B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 19,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR05982_00": {
+        "npCommunicationId": "NPWR05982_00",
+        "trophyTitleName": "ハーレム天国だと思ったらヤンデレ地獄だった。",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05982_00_001E2A4C3E4E74EA150710ADB7639F1DE69D0B7649/CDC3B8045BC9C17F51B7ADAE2FEF5F7EF4E4914D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 21,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR05991_00": {
+        "npCommunicationId": "NPWR05991_00",
+        "trophyTitleName": "Evolve",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05991_00_008415A6B4441F6056387D26ABE46F5FF76B9397CA/47AA97B8B5A5800356BB9CA047FBEBD3022969C8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 47
+        },
+        "service": "trophy"
+    },
+    "NPWR05999_00": {
+        "npCommunicationId": "NPWR05999_00",
+        "trophyTitleName": "Entwined™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05999_00_003EFCC4C7B047DAED6F22A3E6CF41465040095474/57D6836C40EDBD8CD9ED5C21078249E4A3912A13.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
