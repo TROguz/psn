@@ -25348,5 +25348,135 @@
             "bronze": 30
         },
         "service": "trophy"
+    },
+    "NPWR04403_00": {
+        "npCommunicationId": "NPWR04403_00",
+        "trophyTitleName": "迷宮クロスブラッド ∞",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04403_00_009FABACB5FD873BCEDA644914D01059CB47FFBB73/9C8599DFCAB20D479DCB85F8F072CF045203DB27.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR04406_00": {
+        "npCommunicationId": "NPWR04406_00",
+        "trophyTitleName": "Frozen Synapse Prime",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04406_00_0041A904242BC351F798D07EBAACF914806162DEA6/8F5155731B6A26E82F0C88B5C5BE5BE58CC6CCB2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR04412_00": {
+        "npCommunicationId": "NPWR04412_00",
+        "trophyTitleName": "Battlefield 4™ Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04412_00_00FABD2BE6C8EBFB6150A5446E1FD9351B8E9A9E77/146D0B429B3FC1799F97C68AB5F70FA69ABDDD41.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 22,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR04413_00": {
+        "npCommunicationId": "NPWR04413_00",
+        "trophyTitleName": "Cloudberry Kingdom",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04413_00_00A63AF7533A3BB00793CE32536213B3E904A1D298/A62E1B3DA4A55B28DEBAA0D0372831F2A53EAB6F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR04416_00": {
+        "npCommunicationId": "NPWR04416_00",
+        "trophyTitleName": "圧倒的遊戯 ムゲンソウルズＺ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04416_00_00845B2D71499D9C4E1C376885377A0CF1F0B198D3/044533E6F96C27BD80B588FFC6A5DE6674E08A50.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR04417_00": {
+        "npCommunicationId": "NPWR04417_00",
+        "trophyTitleName": "Mars: War Logs",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04417_00_00B25C86D64454CC060454A455254A5D22BB7D1197/12FDE04996144611343F6253ACC7AABBFBDFCE10.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR04418_00": {
+        "npCommunicationId": "NPWR04418_00",
+        "trophyTitleName": "Murdered: Soul Suspect",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04418_00_008A1EEC979B4A547E95624770B69BD9608FB3644E/D7DD1187941C4DA85B30354667DC10E1907C7E6C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 2,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR04419_00": {
+        "npCommunicationId": "NPWR04419_00",
+        "trophyTitleName": "神次元アイドル　ネプテューヌPP",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04419_00_00467B193D00E0DA92056ADAAFE20E7D51CF0FD472/3FF1F9D56B1D4833DF34FED5EB3D44A68F148E72.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR04420_00": {
+        "npCommunicationId": "NPWR04420_00",
+        "trophyTitleName": "Velocity®Ultra",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04420_00_00ED1E8A1100295A523331674B8B5A70130D4B805B/95F3EC84334F7A7EEC376CE86EFEF5F5E657EB8A.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR04421_00": {
+        "npCommunicationId": "NPWR04421_00",
+        "trophyTitleName": "Coconut Dodge Revitalised",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04421_00_000C70E2FDDFABC2B2454E9AD072937F6EDDB3E859/4D30D7FA01CE006428985389813EABBD08BF0E22.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 3
+        },
+        "service": "trophy"
     }
 }
