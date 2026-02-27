@@ -57458,5 +57458,135 @@
             "bronze": 34
         },
         "service": "trophy"
+    },
+    "NPWR10363_00": {
+        "npCommunicationId": "NPWR10363_00",
+        "trophyTitleName": "Art of Fighting Anthology",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10363_00_00DE1AAFF39C9C9DFB4FB7B947DB40A14988408DFE/ADED3FB67A55EAAE086A5108C68BC1E0BC664651.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR10364_00": {
+        "npCommunicationId": "NPWR10364_00",
+        "trophyTitleName": "Masquerade: The Baubles of Doom",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10364_00_00A91C491E0228D1150D0213A5B73910AB730527DC/4343EFE99D33CB6C57463A837B87DDCDF7477A66.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR10368_00": {
+        "npCommunicationId": "NPWR10368_00",
+        "trophyTitleName": "航海王 航海无双３",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10368_00_0080CC099DE788180D0CDA6016876AC3C4A0A43008/47B24EC97191F673B43CA1C40B276CA9B643EDA6.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR10370_00": {
+        "npCommunicationId": "NPWR10370_00",
+        "trophyTitleName": "Wasteland 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10370_00_0057DEFAAB71D4CE9E8919EF9507B0309421B23B63/15145C967236C41BBED1798D9C760957C251B102.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR10372_00": {
+        "npCommunicationId": "NPWR10372_00",
+        "trophyTitleName": "EA SPORTS™ NHL® 17",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10372_00_00F5E6BB0A3CAC588BA4FA3E9F2DA25CC6B1039D50/504C63A086F6CC5B4B4C088D2E2C98A7F5C64703.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR10373_00": {
+        "npCommunicationId": "NPWR10373_00",
+        "trophyTitleName": "Buff Knight Advanced",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10373_00_005374E4E8E0D3BBFFFE49BB5F6AFE2A90F5D95441/161F60CBB533207F0A429E6BCB97FCB77DA327A6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR10382_00": {
+        "npCommunicationId": "NPWR10382_00",
+        "trophyTitleName": "Coffin Dodgers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10382_00_00D8507E59E232254ED1CEA3BC592D873E9C07D414/622DFF058695B92E59D734F2543E488667C8C2EF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR10384_00": {
+        "npCommunicationId": "NPWR10384_00",
+        "trophyTitleName": "Risk of Rain",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10384_00_006940A74AE14D511100C0EF9586EDDC0ACD2E042E/4F5DFFFC63D173E686A539CC3DE1665393F5EF84.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 6,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10388_00": {
+        "npCommunicationId": "NPWR10388_00",
+        "trophyTitleName": "Atelier Shallie Plus ~Alchemists of the Dusk Sea~",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10388_00_00F2B8B46907D0BA16B526D9EB986231DB0BD0E8CF/0BB4AB7788D65A882E692A6348A0E42768FF3DB2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR10389_00": {
+        "npCommunicationId": "NPWR10389_00",
+        "trophyTitleName": "ダンジョントラベラーズ2-2 トロフィー",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10389_00_00869928E049AC2BF1A8AA6D2DF215EC7DC2EA2B92/1C61FECB96B6DF33B37784E8E260E0EB1E70A71F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 8
+        },
+        "service": "trophy"
     }
 }
