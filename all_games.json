@@ -71888,5 +71888,135 @@
             "bronze": 49
         },
         "service": "trophy"
+    },
+    "NPWR12336_00": {
+        "npCommunicationId": "NPWR12336_00",
+        "trophyTitleName": "DiRT 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12336_00_0055E7D228D7E15726D5C0E23E5B68C601E6F5D0D4/DF3139F65038D450DC36B5A71AA829354580F451.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR12337_00": {
+        "npCommunicationId": "NPWR12337_00",
+        "trophyTitleName": "CHAOS;CHILD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12337_00_0089744A475497E6D03DCB39DB3643658DFFF96FDE/F988CEE8E57BCCE7C50C4940B9000C084E945F43.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR12338_00": {
+        "npCommunicationId": "NPWR12338_00",
+        "trophyTitleName": "Rewrite",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12338_00_00096E4D42BCACE011277FDD72A58156597623B9C0/88E2630BA7DC7E79EE134D8418BC067C81909E58.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR12340_00": {
+        "npCommunicationId": "NPWR12340_00",
+        "trophyTitleName": "大正メビウスライン帝都備忘録ハレ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12340_00_002EA0D49F7C2DFB031121FC52187DA7E32EF19204/4893F14C9EC134EFBDDFA458B3966A1DFEA35B39.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 13,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR12341_00": {
+        "npCommunicationId": "NPWR12341_00",
+        "trophyTitleName": "Kitty Powers Matchmaker Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12341_00_000413C4F2A98647C33D622CFD3A4DE8EF1A250E3E/C26FC0C7FE2F08AE5EFDA098ADA307E72911FFC4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR12342_00": {
+        "npCommunicationId": "NPWR12342_00",
+        "trophyTitleName": "Fishing Planet",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12342_00_00F2F484C676033909A108F155CFC5E300FA69CCE1/AC62D06FBFE8D6A8FDA3EF24AF3E2179F0F63EEF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR12344_00": {
+        "npCommunicationId": "NPWR12344_00",
+        "trophyTitleName": "Oceanhorn - Monster of the Uncharted Sea",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12344_00_000F2603C4E2B8CDDEF787B23CD5A65C2201DD722B/5934AA6D92E0B57883347070545281A1152068C4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR12345_00": {
+        "npCommunicationId": "NPWR12345_00",
+        "trophyTitleName": "The Flame in the Flood: Complete Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12345_00_00D9DD755CB9AD47F685904C5A2C9AC69610056E9A/A952F6B0C3BEAF0B5B6612AFA29560725F0E9B5E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 18,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR12347_00": {
+        "npCommunicationId": "NPWR12347_00",
+        "trophyTitleName": "KINGDOM HEARTS Re:Chain of Memories",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12347_00_007DF1C92648A6FA2AA9DD81F86EE69B1BDCEF4F3C/61DB2A16848C84BB777BBEFB0DE941696B9CFFD7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR12348_00": {
+        "npCommunicationId": "NPWR12348_00",
+        "trophyTitleName": "KINGDOM HEARTS II FINAL MIX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12348_00_0019187C18B0950E41B2AE7566D348F60DE8910521/8F90A87BC65EEA1A6770D40948242221A5F5E276.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 40
+        },
+        "service": "trophy"
     }
 }
