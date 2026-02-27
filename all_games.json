@@ -58238,5 +58238,135 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR10510_00": {
+        "npCommunicationId": "NPWR10510_00",
+        "trophyTitleName": "百花百狼～戦国忍法帖～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10510_00_00EAA0023F8BB15C0529FABF1B037705682CC1A516/3E6620D1C61317F55BD73F9EC935A1A5ECBE9B95.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 21,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR10512_00": {
+        "npCommunicationId": "NPWR10512_00",
+        "trophyTitleName": "Color Zen",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10512_00_00A643F47DDF353DB60E0B735C314EABE6BBC9E38D/F75E062B571601108E9CC066DF55B9FEFC5709C2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR10515_00": {
+        "npCommunicationId": "NPWR10515_00",
+        "trophyTitleName": "喧嘩番長 乙女",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10515_00_007913914DE3522562742250A72FF4AEA15509A182/80206E9C8A3CEC90E89D835CA778E1EA26A9A691.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR10517_00": {
+        "npCommunicationId": "NPWR10517_00",
+        "trophyTitleName": "Blade Ballet",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10517_00_00AAD4C6B9DBF6147A87E64F70711204A5295F72A9/6763FFCFF2809A0888A7AB166BB8D488BFDB16DB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR10518_00": {
+        "npCommunicationId": "NPWR10518_00",
+        "trophyTitleName": "英雄伝説 空の軌跡 the 3rd Evolution",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10518_00_00FD8724C2BCA6C2A346CA6906EBC0AC58B92E4BA9/F0D4DBAE796A62D23E25ACB201FDD805B9C1CD2B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 3,
+            "bronze": 45
+        },
+        "service": "trophy"
+    },
+    "NPWR10519_00": {
+        "npCommunicationId": "NPWR10519_00",
+        "trophyTitleName": "Cannon Brawl",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10519_00_00596B17A2BDC9F8AFD0255499C0694EFDD5DF5717/773D632F962EDB7C89161C8D32F086CF9D80E91F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR10520_00": {
+        "npCommunicationId": "NPWR10520_00",
+        "trophyTitleName": "《黑衣剑士　失落之歌》",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10520_00_0028D8C576939D5CF1A3187667E18D1CEBE852EF03/309563B98D1981037E78A68C1BFA804EDC433743.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 18,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR10523_00": {
+        "npCommunicationId": "NPWR10523_00",
+        "trophyTitleName": "猛獣たちとお姫様",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10523_00_00D1247FA8D1DF5B3100A661CF957A67EA5EEB70FA/08CA5BDACB5C01692F64200EB509D34F4A479EB8.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR10525_00": {
+        "npCommunicationId": "NPWR10525_00",
+        "trophyTitleName": "BOKOSUKA WARS II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10525_00_0001256B3399433848EDF70D44F0F7E4B0ACC50557/87ED330AB8DA7CE98BC52B3FFF1B4398D30769E7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR10526_00": {
+        "npCommunicationId": "NPWR10526_00",
+        "trophyTitleName": "初音ミク Project DIVA Future Tone",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10526_00_0027BA0A28B65F2E0BB0E1455C8483AFED1BF0779E/C42B1820E887DC46D6D7AF38E276267F583789A3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 4,
+            "bronze": 14
+        },
+        "service": "trophy"
     }
 }
