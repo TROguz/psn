@@ -70198,5 +70198,135 @@
             "bronze": 15
         },
         "service": "trophy"
+    },
+    "NPWR12121_00": {
+        "npCommunicationId": "NPWR12121_00",
+        "trophyTitleName": "Torment: Tides of Numenera",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12121_00_00FDF3EC8B9CAE705B4B7896DB32DF4183484A1862/96607A43F5C91FC64EFFF9EDE493557DA462F180.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 8,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR12122_00": {
+        "npCommunicationId": "NPWR12122_00",
+        "trophyTitleName": "信長の野望・大志",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12122_00_0016A1DDB0EA5EAB9440C1CECC67C7D3129FC74FD7/FE68B8F3DE6797090FB58E35A22290225FCFF072.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR12123_00": {
+        "npCommunicationId": "NPWR12123_00",
+        "trophyTitleName": "Divide",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12123_00_0032ED58903DFC615E42C426CE0FD951505E519AF9/33066655E0A2DCF002ACBBB4332D3AFCDD5368A8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR12125_00": {
+        "npCommunicationId": "NPWR12125_00",
+        "trophyTitleName": "Hand of the Gods",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12125_00_00A12E77E8F1EA81E5E5E7905A7206E2DE19A28138/D46410D19525BFB71C436830F4BCDCC9BC22EF9A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR12126_00": {
+        "npCommunicationId": "NPWR12126_00",
+        "trophyTitleName": "Monster Loves You!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12126_00_002216ABED4DBCBCE66E7A04440FBC676406FF98F5/E46615BA1BA89902CD7DD47881A205573C1AA669.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR12127_00": {
+        "npCommunicationId": "NPWR12127_00",
+        "trophyTitleName": "Starship Disco",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12127_00_00AFAF0FC48EE8179713450612227004BA32EDCFED/F03CEDEF02BD26CBE79304EEBC2D87F5E0488600.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR12128_00": {
+        "npCommunicationId": "NPWR12128_00",
+        "trophyTitleName": "Ark: Survival Evolved",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12128_00_0012880DBC94ADC820F12FC201F1A5879223A25EE0/3BFB3D7DB4D527B26388D13B567B950C95E4A0D0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 8,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR12129_00": {
+        "npCommunicationId": "NPWR12129_00",
+        "trophyTitleName": "ACA NEOGEO THE KING OF FIGHTERS '94",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12129_00_00117FE3E1DFCE5F828EBABCE3DDBD53061006C2C3/914D43265D3BFB805CD2532AC32FCEA6E8EFCD83.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12131_00": {
+        "npCommunicationId": "NPWR12131_00",
+        "trophyTitleName": "end sleep",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12131_00_00A034ED1647325D08876CF6ED8B5AED2727AD2392/DCC561332D00945258E20A169EE754A50CE8E183.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR12133_00": {
+        "npCommunicationId": "NPWR12133_00",
+        "trophyTitleName": "Mr.Pumpkin Adventure",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12133_00_0070E2373E75A0927B2CEFF95EB578AA75E4B3BAAF/5B4B35A3BB241AD7D591A2E5B9757CF50DED8A8B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
     }
 }
