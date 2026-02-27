@@ -31588,5 +31588,135 @@
             "bronze": 24
         },
         "service": "trophy"
+    },
+    "NPWR05740_00": {
+        "npCommunicationId": "NPWR05740_00",
+        "trophyTitleName": "inFAMOUS Second Son™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05740_00_0017967C4188CE8097C9F90449BD2673428F2F5C4E/084BD02D892260735318CE1DE2BB2FB1D42F22BD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR05741_00": {
+        "npCommunicationId": "NPWR05741_00",
+        "trophyTitleName": "Final Exam",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05741_00_00742FFA6C8769DDF92E7D6EBC238C062F7CBB8463/D9648F4005D446FF1B910B60AA7F8FC67D4F8A3B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR05742_00": {
+        "npCommunicationId": "NPWR05742_00",
+        "trophyTitleName": "Forest Legends: the Call of Love",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05742_00_000F542F111209189244D9C3D227E44F5B8DDB0A17/1AF274745E8913FF88B03DE9433947B426CC60DF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR05744_00": {
+        "npCommunicationId": "NPWR05744_00",
+        "trophyTitleName": "Fort Defense North Menace Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05744_00_000F9BBEDDF3924025E97791B40BC9B3545A98C1B2/3A881AA39437B1A29366BE44DFFA0284BD84111A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR05746_00": {
+        "npCommunicationId": "NPWR05746_00",
+        "trophyTitleName": "Bound by Flame",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05746_00_00929CFCE9A914EDF2E089A80EB68951D8E4B78239/083820BEEDA89FD565611E655F8D854C61EBFD12.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR05747_00": {
+        "npCommunicationId": "NPWR05747_00",
+        "trophyTitleName": "MXGP - The Official Motocross Videogame",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05747_00_005D7F8BCD756C86D93150FBFDAFD9D51012C6FDC7/55596E35A6ED532427AD94C42F0880A3CDC7A406.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR05748_00": {
+        "npCommunicationId": "NPWR05748_00",
+        "trophyTitleName": "MXGP - The Official Motocross Videogame",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05748_00_00B1AFFE7C8E7AB4E142EF4C7D11A240544219D2CF/2C05877912719317C98D72B2BFD4F9BBEC04DD25.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR05749_00": {
+        "npCommunicationId": "NPWR05749_00",
+        "trophyTitleName": "Joe Danger",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05749_00_007CF47AA3475FD6A4D8F97D921EB27A676F73690A/124047E6153141FC62B2A6F2CBACA0A9ECC72597.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR05751_00": {
+        "npCommunicationId": "NPWR05751_00",
+        "trophyTitleName": "DARK SOULS Ⅱ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05751_00_0082AC93B3AC1D083CC6DD1C5395822D9D691F759D/2DA8709CE45A84914428BAACBD211B2360FBE595.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 23,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR05754_00": {
+        "npCommunicationId": "NPWR05754_00",
+        "trophyTitleName": "Daylight Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05754_00_0027FA50AC805F31AD6BE9A1FBD4F6FF48CB767363/490FE1F8C3315A26F6F1B1C459D3A08C4F2709B8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 13
+        },
+        "service": "trophy"
     }
 }
