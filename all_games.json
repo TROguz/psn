@@ -90868,5 +90868,135 @@
             "bronze": 1
         },
         "service": "trophy"
+    },
+    "NPWR14778_00": {
+        "npCommunicationId": "NPWR14778_00",
+        "trophyTitleName": "Phantom Trigger",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14778_00_00E55DCCA527DD9076181BFB7C6F3F27F2EB834B8B/8EEF7E1E2761E469FEA56124D04FE778AF23CC56.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14779_00": {
+        "npCommunicationId": "NPWR14779_00",
+        "trophyTitleName": "Phantom Trigger",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14779_00_005548879547484FD45F892BC09AC221AB436B835D/BCF3BB574185732CA51652EE4654F48044A12392.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14780_00": {
+        "npCommunicationId": "NPWR14780_00",
+        "trophyTitleName": "絶体絶命都市4Plus -Summer Memories-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14780_00_00E95FBEEDD3981A39587EBE3703005D1A63470760/F446D28BD0D4EF5862D2E96FE35A0BFC4678CDAE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 6,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR14783_00": {
+        "npCommunicationId": "NPWR14783_00",
+        "trophyTitleName": "Apex Construct Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14783_00_00D00351A38FC1D1DC0447F671EC61F18F31FEEA8F/79DCE17408815561E0F913F49BC725A9497AC2F2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR14784_00": {
+        "npCommunicationId": "NPWR14784_00",
+        "trophyTitleName": "ACA NEOGEO METAL SLUG 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14784_00_009D29DEC0CC4EBE811F461D0BFB35DBB1388278B1/90E0DA1782558C4A21530FE9A7DDD9F013FBE66B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14786_00": {
+        "npCommunicationId": "NPWR14786_00",
+        "trophyTitleName": "Little Red Lie",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14786_00_00C2D52F73D96C985CED6F72B57BA3A1B7FC884843/DEDDBE5151F7AACE6E0A9861C8757F0967F3AC37.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14788_00": {
+        "npCommunicationId": "NPWR14788_00",
+        "trophyTitleName": "Code: Realize ～Bouquet of Rainbows～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14788_00_005E4884A743A6550D4191F4D4DB70D8CEA8092E17/051EF271B46873DDA20EE53FF5E215F0CB3CE1F3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR14789_00": {
+        "npCommunicationId": "NPWR14789_00",
+        "trophyTitleName": "Metropolis: Lux Obscura",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14789_00_008D15FA2135DD3D85A898E8A15D899069DA3C6CAC/D416518C7114EB92C78DF7A7545F4D6F82E95D64.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR14790_00": {
+        "npCommunicationId": "NPWR14790_00",
+        "trophyTitleName": "Metropolis: Lux Obscura",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14790_00_00053BE0989840B4206426FB7D080A603CEAB2FC36/1C0E73052FAE097BD64E3465850B28BF7AAFB03C.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR14793_00": {
+        "npCommunicationId": "NPWR14793_00",
+        "trophyTitleName": "The Frost trophy set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14793_00_0002D4F7B0FD03B1CF1A127B8D9B28A8A2E382CC69/3BAB1EE4D1E6192A26A7E4F3C48D169C4B6DA733.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
