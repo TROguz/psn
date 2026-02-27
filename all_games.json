@@ -63828,5 +63828,135 @@
             "bronze": 19
         },
         "service": "trophy"
+    },
+    "NPWR11294_00": {
+        "npCommunicationId": "NPWR11294_00",
+        "trophyTitleName": "Battle Garegga Rev.2016",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11294_00_00557C6B1148FECE9B59FD3B10C233FF7B73C2913E/4E75574FDF75A9AEFE3671589BE3306812BCA071.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 18,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR11295_00": {
+        "npCommunicationId": "NPWR11295_00",
+        "trophyTitleName": "Ride 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11295_00_0080E9AE135E5B9EC72AF7E461FCA0AF1798D7E71E/43D7A632045917EA1F35F8F9958A5B5BE019013A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR11296_00": {
+        "npCommunicationId": "NPWR11296_00",
+        "trophyTitleName": "YIIK: A Postmodern RPG",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11296_00_004C03F4452E2A30699BC2AD8A8B12551CF4E38163/B907BE01474992B68C616714BF235D1E36361F76.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11297_00": {
+        "npCommunicationId": "NPWR11297_00",
+        "trophyTitleName": "Tango Fiesta",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11297_00_00F3D5C72C729CE805B7DF64160AD77FEA786E56BE/9418049C86BB0A0650287E11FB0D199FD87DF1C6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR11298_00": {
+        "npCommunicationId": "NPWR11298_00",
+        "trophyTitleName": "Spellspire",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11298_00_005459A965C160AD6229012CC3A003DBB51F92FF6C/06FBE72F527C3BFB7B881DC7615E5E29133FC226.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 5,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11299_00": {
+        "npCommunicationId": "NPWR11299_00",
+        "trophyTitleName": "Dead Synchronicity",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11299_00_00467922B7748D543ADED1684B5AA09B62B2ACB07A/93E078771674D61A8272EF02A2C18494092568CD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR11300_00": {
+        "npCommunicationId": "NPWR11300_00",
+        "trophyTitleName": "SPACE OVERLORDS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11300_00_006E9861111A0A418901600621F3A599116B2AC13F/56D06733DF6B182A951525103B1F8456BD24FAF5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 14,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR11303_00": {
+        "npCommunicationId": "NPWR11303_00",
+        "trophyTitleName": "Jotun",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11303_00_002BDA874C31234B94B856F7B7DA7968D92D80A5B0/7B37DEBA8064BFF7B63573C12C1C8A674ADF784C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 19,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR11304_00": {
+        "npCommunicationId": "NPWR11304_00",
+        "trophyTitleName": "Small Radios Big Televisions",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11304_00_006AB2AEC7CAC4A3B1B9D50854B1295D8005CE5109/1476DC9B03B40923FE863F962AF4B14B4686DA5F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR11305_00": {
+        "npCommunicationId": "NPWR11305_00",
+        "trophyTitleName": "Super Comboman",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11305_00_00FA7679C36FDC8DBE05891AE8B9C809E79852BEF0/6620202D72EF1D7A349EA2B2C0D5FE05DD23A1FA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 6
+        },
+        "service": "trophy"
     }
 }
