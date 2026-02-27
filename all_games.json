@@ -23658,5 +23658,135 @@
             "bronze": 13
         },
         "service": "trophy"
+    },
+    "NPWR04096_00": {
+        "npCommunicationId": "NPWR04096_00",
+        "trophyTitleName": "Aabs Animals",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04096_00_00C580F7A9F24EE690CA11A5924C02DAA0EF455DFF/B92EBAEF6E3CF0007194B24A007EC2D7EEACC747.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 1,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR04100_00": {
+        "npCommunicationId": "NPWR04100_00",
+        "trophyTitleName": "Earth Defense Force 2017 Portable",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04100_00_00CF984955977B6FA285B46C8100B6FDC2547644A8/6FAD4BDF2F9B1DE6D44A087E5E1BDBAEC84CE89D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 60
+        },
+        "service": "trophy"
+    },
+    "NPWR04101_00": {
+        "npCommunicationId": "NPWR04101_00",
+        "trophyTitleName": "KINGDOM HEARTS Re:Chain of Memories",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04101_00_004A56585F00D8E7E3CAA85B762885485823434A8F/20CB48C709FABFD31747639B1A1DAE7D6992815F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR04102_00": {
+        "npCommunicationId": "NPWR04102_00",
+        "trophyTitleName": "KINGDOM HEARTS 358/2 Days\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04102_00_00D82C1B1FEC8BAAB25F05CDD553856264EEF23E2C/B31BA073CB786C493D51E6A01ADF5EC36303C40C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 0,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR04103_00": {
+        "npCommunicationId": "NPWR04103_00",
+        "trophyTitleName": "Chaos Code",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04103_00_0000E62D3C58D4527EB359F902BFFF3B9B5C4B9E59/8B50EB3C44C4A249BD3B5848851F0DDA1A379A9B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR04104_00": {
+        "npCommunicationId": "NPWR04104_00",
+        "trophyTitleName": "Arcania",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04104_00_0065A210479EFC42F4F3C15828F2E8B8821252B54A/19246BBEED36854CB3F38647A6A4D924C5B8F4B0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 19,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR04105_00": {
+        "npCommunicationId": "NPWR04105_00",
+        "trophyTitleName": "Rocketbirds PS Vita",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04105_00_00380AD2E8D9C8CA1D76BBFD5A5E4C27C68F056107/227CF0582A77975A2457CD1C5513CCEC2BAF45D6.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 6,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR04108_00": {
+        "npCommunicationId": "NPWR04108_00",
+        "trophyTitleName": "Zombie Driver HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04108_00_00BAB5C1A176B3C6602C08608121231DB9E151206C/87EF9FA5203695AFB2D6E5302A1198F94D21ABEF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR04110_00": {
+        "npCommunicationId": "NPWR04110_00",
+        "trophyTitleName": "The Cave",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04110_00_009C2FF71C5694153ADC4903AA9DC4AC9769B9F555/602242638714DCBF326C931EA769694C222B3027.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR04112_00": {
+        "npCommunicationId": "NPWR04112_00",
+        "trophyTitleName": "三國志12",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04112_00_00F041A59C9A2DDD58BD0BAA906873C342874576F3/F409D9ED977FA1DB4632142EE7F3EBDFCEE03341.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 26
+        },
+        "service": "trophy"
     }
 }
