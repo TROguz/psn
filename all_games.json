@@ -91388,5 +91388,135 @@
             "bronze": 48
         },
         "service": "trophy"
+    },
+    "NPWR14838_00": {
+        "npCommunicationId": "NPWR14838_00",
+        "trophyTitleName": "Timothy vs the Aliens",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14838_00_00C149EDCE87FBAFE891E26E0EB411CF6E101BAE51/F065826046B7ECD94161D2E0E1D3CC0C15A093DE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14839_00": {
+        "npCommunicationId": "NPWR14839_00",
+        "trophyTitleName": "The Swords Of Ditto",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14839_00_00B792479A14EE1F1F50C1D01BCC8D369A9C37AAE5/AF282FDBD38946DBE0D26496128BF98EF64E84E1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR14840_00": {
+        "npCommunicationId": "NPWR14840_00",
+        "trophyTitleName": "AFFECTED: The Manor Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14840_00_002CAD9160F918BDD587E96698DB70B2C53C20B6B3/FE1FC7F7193AC6BD5C47EA2DCB2D803D26D5B8EB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 1,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14841_00": {
+        "npCommunicationId": "NPWR14841_00",
+        "trophyTitleName": "Burnout Paradise Remastered",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14841_00_00D256760BC3C261A3352F9D3BA519D6B5D2FDD086/176B8F4D44492C8FCC52E2FF368557E7FEFE0559.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 80
+        },
+        "service": "trophy"
+    },
+    "NPWR14842_00": {
+        "npCommunicationId": "NPWR14842_00",
+        "trophyTitleName": "Burnout Paradise Remastered",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14842_00_007326ECF7B78940E23D1587323910E816F1620087/3EE308581E8BCB89C0C9A2613EEF060320636DB5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 80
+        },
+        "service": "trophy"
+    },
+    "NPWR14843_00": {
+        "npCommunicationId": "NPWR14843_00",
+        "trophyTitleName": "Pankapu",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14843_00_00B72C44623837BFFE6BB9C5CD7CEA1DA84DEE4073/B1565FA9D33F662AE3E65A94BB3DB049E4476551.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR14844_00": {
+        "npCommunicationId": "NPWR14844_00",
+        "trophyTitleName": "Crisis on the Planet of the Apes VR Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14844_00_00CE22DC208D168CFDEB12FE0588C4295DF5E5FF9E/BD95AD36F64EEBD49407EF2D966A5E9CA8AAB5E1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR14845_00": {
+        "npCommunicationId": "NPWR14845_00",
+        "trophyTitleName": "Illusion : A Tale of the Mind",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14845_00_000CCC3D9C7542A5C44EC81965421C4D00E47E2FD5/BB3BA7DEBE279644AC9AC337736431D4479A792A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR14846_00": {
+        "npCommunicationId": "NPWR14846_00",
+        "trophyTitleName": "TINY METAL",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14846_00_0090CC3A684FE5FC8257FD0BE0B19AB346517CF690/25C90ADE06F1133C3650A3F8203F542E45FC33FD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14847_00": {
+        "npCommunicationId": "NPWR14847_00",
+        "trophyTitleName": "Unravel Two",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14847_00_009EEE97E1D83592E74292CA6AAA1AEABCCF3CA253/1A4F5AE09B6EE30E934396CBEF96ED0BCE221CDF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 12
+        },
+        "service": "trophy"
     }
 }
