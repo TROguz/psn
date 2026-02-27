@@ -20798,5 +20798,135 @@
             "bronze": 41
         },
         "service": "trophy"
+    },
+    "NPWR03525_00": {
+        "npCommunicationId": "NPWR03525_00",
+        "trophyTitleName": "NARUTO STORM 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03525_00_003794BEA33D0A981A7155391DC360FC2CBD039B40/41864A171016BF9D076B231DE3D16D30109073B1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR03526_00": {
+        "npCommunicationId": "NPWR03526_00",
+        "trophyTitleName": "ONE PIECE: PIRATE WARRIORS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03526_00_00355C29D10829F5296FBE9BDFFB33AA03DB9B05CF/7CBBF5A66FBAC68155523A25996E2B54830F9624.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR03529_00": {
+        "npCommunicationId": "NPWR03529_00",
+        "trophyTitleName": "Ratchet & Clank™: Full Frontal Assault",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03529_00_00C8235FA05C36855A493038334B452749D23B4D8E/BA6E87245FDC6BE809323ACC139E71294A073367.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR03534_00": {
+        "npCommunicationId": "NPWR03534_00",
+        "trophyTitleName": "Dragon Age™: Inquisition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03534_00_00A5664D6372F9786AF11BCFAA5D79F6B8BE8FC984/E7442E93FAB843AFE5EFBC29BBBB8FC27350FFD4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR03537_00": {
+        "npCommunicationId": "NPWR03537_00",
+        "trophyTitleName": "ニコリのパズルV ひとりにしてくれ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03537_00_0061338C1AF4FAF7A4085B876731AFB848536735B1/E3521D2974E23423BB59CF03242D3101645D74A0.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR03538_00": {
+        "npCommunicationId": "NPWR03538_00",
+        "trophyTitleName": "ニコリのパズルV 橋をかけろ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03538_00_008F6654A3831CD504D0D215555039EF386C775242/2EEBCD958514B4C53727C3E990B6B8C84051794D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR03539_00": {
+        "npCommunicationId": "NPWR03539_00",
+        "trophyTitleName": "ニコリのパズルV 四角に切れ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03539_00_0073D5088284753B002997AD89BA92D05C3ED65543/5590815518A4A97F2E4EC280AC307D3C36CD209C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR03540_00": {
+        "npCommunicationId": "NPWR03540_00",
+        "trophyTitleName": "ニコリのパズルV ナンバーリンク",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03540_00_003BF91AC27CF16A9DACA81C1D6D60E19A6AEBF522/663D5A27AB36EC4852CE386E46B969676243831B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR03541_00": {
+        "npCommunicationId": "NPWR03541_00",
+        "trophyTitleName": "ニコリのパズルV ヤジリン",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03541_00_00163780A4A8ECD097545074F78A3021B7E01897D3/04763C9EBD51FF2B4DBF534CBB5FF8EA1BF6D768.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR03543_00": {
+        "npCommunicationId": "NPWR03543_00",
+        "trophyTitleName": "Psych Yourself",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03543_00_005BCED399BC436725BD92C1B62CF3BB05D86ADFC6/B2B83F207B28E7C35D08E57659309A3C689C92A8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 2
+        },
+        "service": "trophy"
     }
 }
