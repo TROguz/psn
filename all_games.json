@@ -52258,5 +52258,135 @@
             "bronze": 28
         },
         "service": "trophy"
+    },
+    "NPWR09545_00": {
+        "npCommunicationId": "NPWR09545_00",
+        "trophyTitleName": "ブレードアークス from シャイニングEX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09545_00_008A45DBAE021298AC20E76DEF2D906529E65E6EF3/3B248E065123F9622935F92DAF983A8E64504BA5.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR09546_00": {
+        "npCommunicationId": "NPWR09546_00",
+        "trophyTitleName": "竜翼のメロディア -Diva with the blessed dragonol-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09546_00_0061D2572497596686977053B3BC412E49336CA9B6/C40571F1C09D681A959592C89BF558728F831A2E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR09547_00": {
+        "npCommunicationId": "NPWR09547_00",
+        "trophyTitleName": "Melty Moment",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09547_00_005BD2B7BE1A746281F79FE59AE8B5AF4D37EA6A98/60650E4371840AF5056556AAABE248105D3D4B69.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 14,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR09548_00": {
+        "npCommunicationId": "NPWR09548_00",
+        "trophyTitleName": "蒼の彼方のフォーリズム",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09548_00_009FA7ED871C276DA91FF0FC742A4E512F350BC6A9/2E54CC41EEA986E60612957E791784551BF267AB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 4,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR09551_00": {
+        "npCommunicationId": "NPWR09551_00",
+        "trophyTitleName": "Krinkle Krusher Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09551_00_008E3C14A37727CA99318A75BD7EB4C0783C1452F4/F13B4315CB12E36B56BBB48CBF00B6CFB10C572B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR09552_00": {
+        "npCommunicationId": "NPWR09552_00",
+        "trophyTitleName": "LEGO® Worlds",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09552_00_000BFD9328289682108939214D651B055CD8605F8E/99CB92928DD6E8BBBDAF606E90084AB3561EB770.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 61
+        },
+        "service": "trophy"
+    },
+    "NPWR09553_00": {
+        "npCommunicationId": "NPWR09553_00",
+        "trophyTitleName": "Sébastien Loeb Rally EVO",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09553_00_003C76F0B693EDB77969572D3F7FEFFAEFB3A02D61/5C774539B9FD10E44D7A28D7294EDAC16B79F62E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR09556_00": {
+        "npCommunicationId": "NPWR09556_00",
+        "trophyTitleName": "Full Mojo Rampage",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09556_00_004512DBD19244DFA7BB51664CFD080A609C8AB082/ACE97932C3EB4F6A3CDD87BC98830C5378233007.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR09557_00": {
+        "npCommunicationId": "NPWR09557_00",
+        "trophyTitleName": "Caligula －カリギュラ－",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09557_00_00C92D328716A06212D0F2C84AEF8D5A82C793C03F/F849C06B881C2FDEBEF535AFE2FA77FB6F71CF0E.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 1,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR09559_00": {
+        "npCommunicationId": "NPWR09559_00",
+        "trophyTitleName": "Arcade Archives STARFORCE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09559_00_00C748E92FB4EB92CB1B7570A5A507A39B6BCF49E6/DDD0B1B53528A46FB9B1BAA1F7323F19055AE4B6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
     }
 }
