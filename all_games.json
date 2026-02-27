@@ -62528,5 +62528,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR11123_00": {
+        "npCommunicationId": "NPWR11123_00",
+        "trophyTitleName": "Grow Up",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11123_00_0079D5CF74E28B95FFB8B30BA6A47D9932355BF646/42EE0171184C35F5A010D31D34AA90067CB293DD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR11124_00": {
+        "npCommunicationId": "NPWR11124_00",
+        "trophyTitleName": "RETSNOM",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11124_00_0034F033600A399A40CC2EE72C2749C7A498645F97/C37B571CD3EDDF2A3B1C329C36054DB624E40B9D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR11125_00": {
+        "npCommunicationId": "NPWR11125_00",
+        "trophyTitleName": "OlliOlli2: Welcome to Olliwood (Epic Combo Edition)",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11125_00_00BF5CBDC33514E15719F8321EDDC92C3F543FD5C9/D215BAF0AB9C6C0522FF98B5BEFFA564E8C8C1A5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR11126_00": {
+        "npCommunicationId": "NPWR11126_00",
+        "trophyTitleName": "Nightmares from the Deep: The Cursed Heart",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11126_00_00402793E05E4EE2D83CE6ACE960498D7F148B50C3/6B42B8AE5C2E44FCE63B4C0591D88C41C8B60F00.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 4,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR11128_00": {
+        "npCommunicationId": "NPWR11128_00",
+        "trophyTitleName": "Black & White Bushido",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11128_00_0033C5CEF9D06350BA74602B7A4A99F3C2BBB4269A/951E2357DEEB8C024FC4EDE41204BC3A4195C4A0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 2,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR11129_00": {
+        "npCommunicationId": "NPWR11129_00",
+        "trophyTitleName": "Cartoon Network: Battle Crashers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11129_00_0062E15CEFF28EE00CEBBAFF55A2E410A3C50B4216/116C2DF177226A48D1FF587BC70297AFD32B67D6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR11130_00": {
+        "npCommunicationId": "NPWR11130_00",
+        "trophyTitleName": "Cartoon Network: Battle Crashers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11130_00_0025B307B242ADF2152A13371FDCC639712B77FA36/08DA6D1EE910A2D392FB7B8E221C19BA46C31961.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR11131_00": {
+        "npCommunicationId": "NPWR11131_00",
+        "trophyTitleName": "Energy Hook",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11131_00_009020C996BA81537C055BE79D333869DE3059CF8C/130D2B6D219AA4866732ACCC6F5EEDA9116109A2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR11135_00": {
+        "npCommunicationId": "NPWR11135_00",
+        "trophyTitleName": "Spheroids Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11135_00_0067684E32FDA93073768C5D3B41DD38D1ECCBF125/45D7EFC14123F67D1D07D0BEF6D3B54BDCEF762B.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR11137_00": {
+        "npCommunicationId": "NPWR11137_00",
+        "trophyTitleName": "COTSG_TROPHIES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11137_00_002D44872E0290D623BDFC041B99D2C86DA234A515/91C95728203A988FADC5D1A0DC0E10AD5FC8FBF4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 8
+        },
+        "service": "trophy"
     }
 }
