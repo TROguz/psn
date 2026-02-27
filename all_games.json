@@ -38868,5 +38868,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR07325_00": {
+        "npCommunicationId": "NPWR07325_00",
+        "trophyTitleName": "DRAGON BALL XENOVERSE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07325_00_00AE25591C763BB234F8A2CF277BD0B5F1A68E6545/3E5CA7E4E3FB9D00B133738650A48908A501892D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR07326_00": {
+        "npCommunicationId": "NPWR07326_00",
+        "trophyTitleName": "Baboon!®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07326_00_008CC55EA0587D94AADCDB7A6EB8C8ECFFF53E0A3F/8D3C73C56217318EAEEA9DDC970AB799060462A3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR07328_00": {
+        "npCommunicationId": "NPWR07328_00",
+        "trophyTitleName": "La Voz Vol. 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07328_00_00B6C5BB7BCC3EC52F56A1EAF629C110C7C026FD2C/2BAA75D2CD143E67CF2F910DF0A3900FB9797BF8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR07329_00": {
+        "npCommunicationId": "NPWR07329_00",
+        "trophyTitleName": "PROJECT CARS PERFECT EDITION",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07329_00_006694C3537CED0546995BE4DDD7AE9252860918B2/13C671601661D6D9567DF77A4CCB70BDA153A4BD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 6,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR07330_00": {
+        "npCommunicationId": "NPWR07330_00",
+        "trophyTitleName": "AQUA KITTY - Milk Mine Defender DX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07330_00_00CEA17FBB6805289AB8510B8076EE767FF6DE6391/306726D4ECFD824300BB7E9E05E272FC605A3630.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR07332_00": {
+        "npCommunicationId": "NPWR07332_00",
+        "trophyTitleName": "WORLD SOCCER Winning Eleven 2015",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07332_00_000B81E43217AD5BEB5322996724017E36C3463EDC/EE8C17D7D6163C7E04FD284DBC2DA1B953565C36.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR07333_00": {
+        "npCommunicationId": "NPWR07333_00",
+        "trophyTitleName": "WORLD SOCCER Winning Eleven 2015",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07333_00_003B6F251202D79615633CA47695013E1CEDDD07B6/8FAAD8C3A36F5DEC6268A2F76CBD01FF51C6E2BB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR07334_00": {
+        "npCommunicationId": "NPWR07334_00",
+        "trophyTitleName": "Pro Evolution Soccer 2015",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07334_00_00C41FB7B5216E9E29BCBA144F6CE839AA2DAC516A/0EC16D65FD5831B85FC084606681790C1121F17B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR07335_00": {
+        "npCommunicationId": "NPWR07335_00",
+        "trophyTitleName": "Pro Evolution Soccer 2015",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07335_00_003B6F4D66434F9C27A4C781250DEEA192E7523DB2/C9AC97CCA430F87759FF0D9F6EF1A6659DBCF43B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR07341_00": {
+        "npCommunicationId": "NPWR07341_00",
+        "trophyTitleName": "WORLD SOCCER Winning Eleven 2015",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07341_00_007E1FD8B3D2825215E2035A1B8AE4E9C8185BE90C/0F6606E3A83C9B73D62AEF5F41AF36E852ED59B2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 24
+        },
+        "service": "trophy"
     }
 }
