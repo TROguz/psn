@@ -77348,5 +77348,135 @@
             "bronze": 4
         },
         "service": "trophy"
+    },
+    "NPWR13011_00": {
+        "npCommunicationId": "NPWR13011_00",
+        "trophyTitleName": "Twin Robots",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13011_00_00295A4BF68FE81884EAE37BABE12A04B7624F5E9F/6D363DE46FE618D9EDC300157336516706D1DBE7.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 6,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR13012_00": {
+        "npCommunicationId": "NPWR13012_00",
+        "trophyTitleName": "League of Evil",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13012_00_002A04297BE3954D2EB364CBE5402E6176F52EE049/74819DDB4EBECA87A5FF8D4AB47469C707E08450.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR13013_00": {
+        "npCommunicationId": "NPWR13013_00",
+        "trophyTitleName": "Twin Robots",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13013_00_00FF4A72313A33B2ECE14352A248B04BA987ED8235/0A38DAA3D47EEA9846173608E7CE761A74BDC27B.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 6,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR13014_00": {
+        "npCommunicationId": "NPWR13014_00",
+        "trophyTitleName": "METAGAL",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13014_00_00E29492CA8440AFD3729D0D1031CF9978707259B2/75D6ACF32AC666DFF527796A30AB8EE9C393DD1D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13015_00": {
+        "npCommunicationId": "NPWR13015_00",
+        "trophyTitleName": "METAGAL",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13015_00_000D9A095A042C2939E45543A4616A19E1AEDB0B3C/664626872FDFBA46DFF1CA51538A3D7D26596859.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13016_00": {
+        "npCommunicationId": "NPWR13016_00",
+        "trophyTitleName": "Peasant Knight",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13016_00_00630E95A6274D645C3E2A7E357D74C36DAC24A26D/AC38F0CAA9697DEDFCA75BB84B743AAEB3BFA285.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 7,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13017_00": {
+        "npCommunicationId": "NPWR13017_00",
+        "trophyTitleName": "Peasant Knight",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13017_00_006CBCB2833F988E1BA1B46B7876C42D21D82045AD/E1B0A7B15B5CC3246B2AE5CBB7AEFB4A04EDFD48.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 7,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13018_00": {
+        "npCommunicationId": "NPWR13018_00",
+        "trophyTitleName": "Unbox Trophies\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13018_00_002F8D5B403F831D1BF967F726528DAD217AC25E51/F558F394F003874400F86891EF906E77FECB9E67.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR13020_00": {
+        "npCommunicationId": "NPWR13020_00",
+        "trophyTitleName": "Strange Brigade ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13020_00_000C738D4C6FAE74C2AC5456AABA502C2E25BCF3FD/644B52F6DE7E2AA8D68E98A5E11858D5A16C68DF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 22,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR13021_00": {
+        "npCommunicationId": "NPWR13021_00",
+        "trophyTitleName": "Tour de France 2017",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13021_00_00EAFE590A9B72680DDA92D174097A31B0C4EA4E60/499E5B90C7F3DB04128426BD1A8EB2F02FB9B5D2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 16,
+            "bronze": 8
+        },
+        "service": "trophy"
     }
 }
