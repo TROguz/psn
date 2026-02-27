@@ -622,5 +622,18 @@
             "bronze": 0
         },
         "service": "trophy2"
+    },
+    "NPWR52717_00": {
+        "npCommunicationId": "NPWR52717_00",
+        "trophyTitleName": "Slime Rancher 2",
+        "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR52717_00/8c070658-1a36-4c8b-b7da-d4aa8b681121.png",
+        "trophyTitlePlatform": "PS5",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 14
+        },
+        "service": "trophy2"
     }
 }
