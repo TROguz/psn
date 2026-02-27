@@ -79168,5 +79168,135 @@
             "bronze": 0
         },
         "service": "trophy"
+    },
+    "NPWR13241_00": {
+        "npCommunicationId": "NPWR13241_00",
+        "trophyTitleName": "Embers of Mirrim\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13241_00_00A663B98B6913A9708C83D1C67BB933E99F48B05E/A689D1FBA56930A35D40DF361585CA7D170C60AA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR13242_00": {
+        "npCommunicationId": "NPWR13242_00",
+        "trophyTitleName": "Energy Cycle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13242_00_000600D7DACCA59766CF450DAEEEBE7AA0F269C525/908A7064B707AC3CAC422F2C4E3CBCCF13243BC8.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR13243_00": {
+        "npCommunicationId": "NPWR13243_00",
+        "trophyTitleName": "SNK HEROINES Tag Team Frenzy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13243_00_00FFF84D8DC8E0CF57591C32AA3769DA5330FC67F4/3A8FA973645CE6282A47A5071800388214FBAEF0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR13244_00": {
+        "npCommunicationId": "NPWR13244_00",
+        "trophyTitleName": "Typoman: Revised",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13244_00_00C49B6D2E18045B7AA169BCFED76AF88F22B5689D/B6A07A19960755188D5CD086B2F83285F526033C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR13245_00": {
+        "npCommunicationId": "NPWR13245_00",
+        "trophyTitleName": "Dead House Saisei",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13245_00_000EACE9B6D4DB8C51B1CFA4A4410679F3AFB1F50E/0086E3BD4D44E43D3AB5804B1E84BB9981955001.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR13247_00": {
+        "npCommunicationId": "NPWR13247_00",
+        "trophyTitleName": "Wuppo",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13247_00_00F9B7E240701AA8F23E1E4515B58BA2A2B9EB750B/C028712B5B63654D11855F7CFAAB5D86C34B0291.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 6,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR13248_00": {
+        "npCommunicationId": "NPWR13248_00",
+        "trophyTitleName": "Space Hulk: Deathwing",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13248_00_0099FC3DDC11797BED7AD270B2BB33F0BFEDF1C1DC/095B28BA708878ADDA2FDFECDBFF9B446CF840B8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 14,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR13249_00": {
+        "npCommunicationId": "NPWR13249_00",
+        "trophyTitleName": "The Jackbox Party Pack 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13249_00_0063A629ECAD38AF821E4511CC9239619AD5507CD7/3F014EC97846BE62800F67ACF8511B1744434C79.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR13250_00": {
+        "npCommunicationId": "NPWR13250_00",
+        "trophyTitleName": "Future Unfolding",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13250_00_00DA8F26E2BE03E5DA3EDA1B1BE010781CB04FBCFA/59CFACB25B6739F8827BC4FA97A9C869D9DD12A1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 2,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13251_00": {
+        "npCommunicationId": "NPWR13251_00",
+        "trophyTitleName": "Omen of Sorrow Trophies Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13251_00_00649D39AABD053D73172E7C31E1ACDCA22755E0A0/84B851B931D3EFB281E2E61019ECA9B02E12466A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 30
+        },
+        "service": "trophy"
     }
 }
