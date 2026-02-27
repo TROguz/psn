@@ -22358,5 +22358,135 @@
             "bronze": 17
         },
         "service": "trophy"
+    },
+    "NPWR03814_00": {
+        "npCommunicationId": "NPWR03814_00",
+        "trophyTitleName": "Remember Me™ ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03814_00_008AADE62699FD2AD4900435179FEE0B408167E143/B2B8424A5AB2148AF7392618EFF878C1BBC40707.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 4,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR03819_00": {
+        "npCommunicationId": "NPWR03819_00",
+        "trophyTitleName": "Killzone",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03819_00_007178CE10B7B62016ACB17721D6DA362E103BDF36/0ADC45BAC60F78DE2D9A6A8EC1967FDD19E1C2C7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 53
+        },
+        "service": "trophy"
+    },
+    "NPWR03820_00": {
+        "npCommunicationId": "NPWR03820_00",
+        "trophyTitleName": "ネクレボ 社会福祉士試験",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03820_00_008BFE7A1A6A532E6B8A05A440F8B3D69D61409AF9/A1A5DBA11E6B1B684614ADFB78ED6B36E5D4F761.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR03821_00": {
+        "npCommunicationId": "NPWR03821_00",
+        "trophyTitleName": "Legends of War",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03821_00_00531F9C65C208A04970CED6E4DA3F37A86DAE9F7F/75D45E8A6D6DC645873F5124555DE76EB12ECF4F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR03824_00": {
+        "npCommunicationId": "NPWR03824_00",
+        "trophyTitleName": "龍が如く2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03824_00_0040BD372192C69C7C538A69C0A90668CB0854ACED/9B45FE634E7D5C85BF99D43C7FCE43191569CE73.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR03830_00": {
+        "npCommunicationId": "NPWR03830_00",
+        "trophyTitleName": "Heavy Fire: Shattered Spear",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03830_00_00A185E9B2BE75A74E8C8A83A1D74E4E4B2F75C250/BAB8DF2D77A29BD534D9763FB11D27343BCD39CA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR03831_00": {
+        "npCommunicationId": "NPWR03831_00",
+        "trophyTitleName": "Yu-Gi-Oh! 5D's Decade Duels Plus",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03831_00_00A33AD176151F347F96EC9E9AE0A0DCF65BD56795/3AE78DC384E835B13F14A19B7890B4AB4BEFFFBA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR03832_00": {
+        "npCommunicationId": "NPWR03832_00",
+        "trophyTitleName": "VOODOO CHRONICLES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03832_00_0042C92BB0EE5E431759591BA8D01AEFED84EE7EF5/A3094487883575A357744E2C213D5FA509F56082.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR03833_00": {
+        "npCommunicationId": "NPWR03833_00",
+        "trophyTitleName": "Fate/stay night [Realta Nua]",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03833_00_00D8F95CA752A040039A2D4230836BB0B64408618A/DAB0AEE1E854DD99975BE3B8906032DBDBBFB805.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 1,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR03836_00": {
+        "npCommunicationId": "NPWR03836_00",
+        "trophyTitleName": "BATTLE OF TILES EX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03836_00_00001D69475B889938A4D6A65EE5710886C23494C3/1FD192D382259D00E308AD70F41D34A5861D11B6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 18,
+            "bronze": 22
+        },
+        "service": "trophy"
     }
 }
