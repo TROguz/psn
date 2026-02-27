@@ -37958,5 +37958,135 @@
             "bronze": 45
         },
         "service": "trophy"
+    },
+    "NPWR07132_00": {
+        "npCommunicationId": "NPWR07132_00",
+        "trophyTitleName": "SingStar™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07132_00_0065236436DEE1324083BA521695ECA63F82BD0BA5/95D9DC0DE5443FCCF78706E06ACA9DD8B48BD001.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR07135_00": {
+        "npCommunicationId": "NPWR07135_00",
+        "trophyTitleName": "この大空に、翼をひろげて CRUISE SIGN",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07135_00_008195CA462648320787A5D7218270FAA195E133A4/9BDE25AA59A7EB44F7EAB77303F476C20CF44AE2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 6,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR07138_00": {
+        "npCommunicationId": "NPWR07138_00",
+        "trophyTitleName": "Final Horizon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07138_00_00387245C40CC8EA04291DAECFB1B543951836B319/1F56BB9A3DFA95EBF42A6BE1DFEC9EB35D57C368.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 16,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR07140_00": {
+        "npCommunicationId": "NPWR07140_00",
+        "trophyTitleName": "Stealth Inc: Ultimate Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07140_00_00A56FB08E5208A5240D79D45A2FC1212F3922A5F6/DBE7F2CEA3253D8554F6BC902E37087AF79EB015.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR07143_00": {
+        "npCommunicationId": "NPWR07143_00",
+        "trophyTitleName": "F1® 2014",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07143_00_003327BEB950DA0A600E5E8F5FA3F5ED64F29A28A7/C3B7A158FE735E1A448718AD4CE299E5B303422A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR07145_00": {
+        "npCommunicationId": "NPWR07145_00",
+        "trophyTitleName": "RISK",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07145_00_0074749579315385B8985206F0EFD1F745F43A5814/9C920C83E468EEDE29ADE7D6BB209B5AFA7B2E84.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR07146_00": {
+        "npCommunicationId": "NPWR07146_00",
+        "trophyTitleName": "Vitamin Z",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07146_00_001FD0CDDC23A499B1F3EA836D47907E9E7F9E8B60/DAFF60A171A58DEF47EA814F5940FAF0E3DE74CF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR07150_00": {
+        "npCommunicationId": "NPWR07150_00",
+        "trophyTitleName": "FREEDOM WARS™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07150_00_00C5D41F2491F8496215379DC2F8720022E9109AC0/9A517F8DAF7B0B0AA624C680AAD92D08B6499356.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR07158_00": {
+        "npCommunicationId": "NPWR07158_00",
+        "trophyTitleName": "Hardware: Rivals™ Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07158_00_00D39FD150C9A93E29B6F81B1B15C111CA9A263308/C25B16ED16F12B60F1E09F7AE4A90FCD6435286D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR07161_00": {
+        "npCommunicationId": "NPWR07161_00",
+        "trophyTitleName": "Hohokum",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07161_00_00DDCEFED2E7FBDACF600D85E65E16D739458EEAF6/E599021963E4C5E8F4401684635E6CAE5117F8A8.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
     }
 }
