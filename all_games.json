@@ -84108,5 +84108,135 @@
             "bronze": 12
         },
         "service": "trophy"
+    },
+    "NPWR13912_00": {
+        "npCommunicationId": "NPWR13912_00",
+        "trophyTitleName": "Devil May Cry 3 Special Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13912_00_0017A90697F78879CE17B4A5DF7EEB3574EDBE56AB/406EECAFCA45F9D678B99A8B66193D2E155CA207.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR13914_00": {
+        "npCommunicationId": "NPWR13914_00",
+        "trophyTitleName": "TT Isle of Man",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13914_00_005C3CA8EBD8245D2E502CEAB2E483530C9CA3201D/8225B4108DFDF91C380DA02EF1CC20681B162E42.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR13916_00": {
+        "npCommunicationId": "NPWR13916_00",
+        "trophyTitleName": "信長之野望・大志",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13916_00_00F5A3097975B793AA653CF6D03213F50BF4B3405B/33FABF47649BC5BB74CC190EBBEF50006BAA0250.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR13917_00": {
+        "npCommunicationId": "NPWR13917_00",
+        "trophyTitleName": "하코니와 컴퍼니웍스",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13917_00_00CCD1D61E3BE4FBACC1A6F0095CA4E505F5E19745/93D1A68FFC5CEC585DF4D62C10F13366A88CE70E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR13918_00": {
+        "npCommunicationId": "NPWR13918_00",
+        "trophyTitleName": "We Sing",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13918_00_007DFC69C3EAEEB131D4B72F25F7284DCA5D34899C/0199D48D3E9B30A2A6B251EAD28736B8473741D0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR13919_00": {
+        "npCommunicationId": "NPWR13919_00",
+        "trophyTitleName": "Chasm",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13919_00_00D9D2936F1479857C1F64176A69C3D2080D214186/EF16B6B47649C48DDDF438554DD904F00F712E58.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 5,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR13920_00": {
+        "npCommunicationId": "NPWR13920_00",
+        "trophyTitleName": "Morphite",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13920_00_00E303FBEDDAB903C48E416ED8E002A5F8FAD0070F/6A6810DB73D9952C5694F7BF17E7788C33E09159.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR13921_00": {
+        "npCommunicationId": "NPWR13921_00",
+        "trophyTitleName": "Detention",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13921_00_00831E8B84B8962822218BF9FA96CFDC840C617F75/4147075BBD773A822B1B619525369CD09FF2269E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR13926_00": {
+        "npCommunicationId": "NPWR13926_00",
+        "trophyTitleName": "吉原彼岸花 久遠の契り",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13926_00_00A204B161097D930F2600E345CFE39DA1E32869C3/99648AD38940106586905448F2699733F14486C6.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 4,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR13927_00": {
+        "npCommunicationId": "NPWR13927_00",
+        "trophyTitleName": "Sneaky Bears",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13927_00_0057F7C8FCF7E5915B8D52EE025230E141657661D2/D9519DC703CFF46574300D7D01E4BE012BCAFE2C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
