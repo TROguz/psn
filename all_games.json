@@ -80858,5 +80858,135 @@
             "bronze": 1
         },
         "service": "trophy"
+    },
+    "NPWR13481_00": {
+        "npCommunicationId": "NPWR13481_00",
+        "trophyTitleName": "The Girl and the Robot",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13481_00_00A48441E222F0C797955C109F363CF94AAF96FA55/1737B69ABCA6789E17EB8D18D53C137DB7BA2B02.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR13482_00": {
+        "npCommunicationId": "NPWR13482_00",
+        "trophyTitleName": "Squishies Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13482_00_006444D743769C8347F7A1E51B81267133BE86FDFF/CC5F06E6C4AFB6F1E5C1251404E4197BB97B629E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR13483_00": {
+        "npCommunicationId": "NPWR13483_00",
+        "trophyTitleName": "Ultimate Chicken Horse Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13483_00_0011245B87F530205404406339A983214E937BC20B/5487CBF4F200786BA9DF2C89836303E1385627B2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR13485_00": {
+        "npCommunicationId": "NPWR13485_00",
+        "trophyTitleName": "NARUTO TO BORUTO: SHINOBI STRIKER",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13485_00_00B87737D955360157F6A0D81ECF2E8E2CE923BEF2/FB3AF88EDFCA8A4F22EE4F150C932F04BA8C034B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR13486_00": {
+        "npCommunicationId": "NPWR13486_00",
+        "trophyTitleName": "FINAL FANTASY IX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13486_00_0073E7EF8622EA5AA6A418EA9D3C1F13A6B2D2F8C3/D21EA83DD914E3281C8EE1483AF5984C248CD3E2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 4,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR13487_00": {
+        "npCommunicationId": "NPWR13487_00",
+        "trophyTitleName": "塔亰Clanpool",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13487_00_003204B77B16DE6895042A5ACB079FE57C4A5DF465/8EB09CC9CF0C31DA0C457606D81355F9F0F9DC1E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR13489_00": {
+        "npCommunicationId": "NPWR13489_00",
+        "trophyTitleName": "SAMURAI SHODOWN V SPECIAL",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13489_00_00D07AA7C64213D27CB5528139D25ADC4C5C22AF89/150F2AC7208D17659DF1E88586F841AED79C4CED.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR13491_00": {
+        "npCommunicationId": "NPWR13491_00",
+        "trophyTitleName": "Echoes of the Fey: The Fox's Trail",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13491_00_001B0697DC1A14F1C7529B844F24F123CCE8C0B795/A065765B9160062856572F1B464269FBA6C7BEB2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR13496_00": {
+        "npCommunicationId": "NPWR13496_00",
+        "trophyTitleName": "Children of Zodiarcs",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13496_00_003B11B641D64E1E10712600EDDA4C866932130256/36A8D014D8DE18D57FE5A5C1973E0987A68F8A28.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR13497_00": {
+        "npCommunicationId": "NPWR13497_00",
+        "trophyTitleName": "Children of Zodiarcs",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13497_00_00223A3C1DEFA91C3474DEA4E7B583CE1CB11A442A/0E620D255D351E20E96E0A0DEF469E0FC56686CF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 29
+        },
+        "service": "trophy"
     }
 }
