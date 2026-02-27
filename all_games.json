@@ -42248,5 +42248,135 @@
             "bronze": 9
         },
         "service": "trophy"
+    },
+    "NPWR07974_00": {
+        "npCommunicationId": "NPWR07974_00",
+        "trophyTitleName": "アイドルマスター シンデレラガールズ\nグラビアフォーユー！ VOL.5",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07974_00_00D29E9F6573856B3B9497C527BBF7C7189732F632/0A45AF2AB5FD079F049D30B74A8F13A9E8561335.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR07975_00": {
+        "npCommunicationId": "NPWR07975_00",
+        "trophyTitleName": "アイドルマスター シンデレラガールズ\nグラビアフォーユー！ VOL.6",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07975_00_006E9DA6D9F6F817D64F4FCD8A421BE094740EFBDB/EEF957DC116AEFC0764EB9331511FAA7C078166B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR07976_00": {
+        "npCommunicationId": "NPWR07976_00",
+        "trophyTitleName": "アイドルマスター シンデレラガールズ\nグラビアフォーユー！ VOL.7",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07976_00_005C8576F6D01F3463B5E9359802D1C91AF317F146/05BCE9D1DC94FAC7820322D326A9CACC2FCE6676.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR07977_00": {
+        "npCommunicationId": "NPWR07977_00",
+        "trophyTitleName": "アイドルマスター シンデレラガールズ\nグラビアフォーユー！ VOL.8",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07977_00_00AE860ED2E110D61B6D75A7E733BC3AEFEE9CAD78/56B3616C9AA2DFAE5226C20438983E3EFE9588DF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR07978_00": {
+        "npCommunicationId": "NPWR07978_00",
+        "trophyTitleName": "アイドルマスター シンデレラガールズ\nグラビアフォーユー！ VOL.9",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07978_00_00E59BA8F88713DE76F3F5340F33D182CF23E08501/38207B0FDF48B41EE54E680D2C7B8F428713FDE7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR07979_00": {
+        "npCommunicationId": "NPWR07979_00",
+        "trophyTitleName": "MotoGP™14 Compact",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07979_00_00B9B4B16A6E410FA7A053DD5C396A88BB2D55DFF2/818AD9AD31A9DA800778253EDBE5F9175B68DFFA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR07980_00": {
+        "npCommunicationId": "NPWR07980_00",
+        "trophyTitleName": "MotoGP™14 Compact",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07980_00_006F4CF7E5C0D989AEDA3C66AFC7E5A2B4C4D5BB3B/AA8C3D17E945F7D86E74A6AD7940E4915B099E45.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR07981_00": {
+        "npCommunicationId": "NPWR07981_00",
+        "trophyTitleName": "MotoGP™14 Compact",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07981_00_00A056113C1BFFF4371431068B30A9107166C102D8/872CB4FCF01A5E7C883BBC2105580AC992EA3C0F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR07982_00": {
+        "npCommunicationId": "NPWR07982_00",
+        "trophyTitleName": "MXGP - The Official Motocross Videogame Compact",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07982_00_00647F0B1AE48A95025D507E0ED7D0024AF67109CF/042C143D10BCBFB156F4C43C704C447B90C5A119.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR07984_00": {
+        "npCommunicationId": "NPWR07984_00",
+        "trophyTitleName": "MXGP - The Official Motocross Videogame Compact",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07984_00_00F04140FF15DC58F0954AAB03B9E591989FFAC31A/1DC048663028046633EDFA7FAA20F74B349FB53E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
     }
 }
