@@ -60708,5 +60708,135 @@
             "bronze": 77
         },
         "service": "trophy"
+    },
+    "NPWR10879_00": {
+        "npCommunicationId": "NPWR10879_00",
+        "trophyTitleName": "Paladins",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10879_00_002E86A4C6ECE0EF9F60B99333B668C1BD56BAEF8A/D3FCA4DE289BD0C2FF88CA7FDAA099F236B5C8A9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR10882_00": {
+        "npCommunicationId": "NPWR10882_00",
+        "trophyTitleName": "Table Top Racing: World Tour",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10882_00_00F2FCD788E370D2F7214DF22C0E350C437ECBF284/03BE8D5FEE87176823C5BE0BE33C693CCC7B2516.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR10885_00": {
+        "npCommunicationId": "NPWR10885_00",
+        "trophyTitleName": "Jotun",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10885_00_003FEC1D0DC4D69D743B812C6BFDD9DB0B5F8388D4/91600768E592C9975C06B3922EAEB435BED174B4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 19,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR10886_00": {
+        "npCommunicationId": "NPWR10886_00",
+        "trophyTitleName": "resident evil 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10886_00_005FE6F3FB881424128E402D992EB680B761340BB5/D2F7E55DF5BE970F1AA0F48407B2E8F45506E977.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10887_00": {
+        "npCommunicationId": "NPWR10887_00",
+        "trophyTitleName": "限界凸旗 セブンパイレーツ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10887_00_008DCC331884AEE4107A27B60787B59317383E2D8E/FAF4D1AECA1CA843F8EB6C1F2A3F9F9B533D56A3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR10888_00": {
+        "npCommunicationId": "NPWR10888_00",
+        "trophyTitleName": "蘿潔與黃昏古城",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10888_00_00DC215EC5E9A40D4AAE7AAE72F79A669B13B47F70/895B7E5289D9663FA01E90A920273F46E194A86E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR10889_00": {
+        "npCommunicationId": "NPWR10889_00",
+        "trophyTitleName": "로제와 황혼의 고성",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10889_00_0088C62D7213D9C1DA0FBBBF5E68CCE4FBAD9111C3/6620078B4B70614F693A18407FF010707DF0E73A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR10890_00": {
+        "npCommunicationId": "NPWR10890_00",
+        "trophyTitleName": "Sniper Ghost Warrior 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10890_00_001AABD203A11C90B4F537D8F23F19D6764C5B0800/E037924A61E238919307F72F067F5F3B3A817027.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR10891_00": {
+        "npCommunicationId": "NPWR10891_00",
+        "trophyTitleName": "Monster Boy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10891_00_00D53318F0E66012C765283B59B029F7950B55C707/F2947B1128FFEB8BDCD1AB36CDD153EC0C6B17CF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR10892_00": {
+        "npCommunicationId": "NPWR10892_00",
+        "trophyTitleName": "Beep! Beep! Deliveries",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10892_00_000AE0505B9A72CC1CCB72DD05F2AC4AE269362358/B415CB914EA61857EC8F33088B4470BAB1C52E79.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 3
+        },
+        "service": "trophy"
     }
 }
