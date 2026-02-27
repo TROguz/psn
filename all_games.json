@@ -50438,5 +50438,135 @@
             "bronze": 44
         },
         "service": "trophy"
+    },
+    "NPWR09261_00": {
+        "npCommunicationId": "NPWR09261_00",
+        "trophyTitleName": "Yasai Ninja Trophy Pack",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09261_00_006C0EB69899E0F720647B167EE7122ABA731DB383/00A06C33208566656DF888D76132E06B09ACA6A2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR09263_00": {
+        "npCommunicationId": "NPWR09263_00",
+        "trophyTitleName": "VOLUME",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09263_00_0028DAC0D473AA101CD33C163F47E52334E2218978/AC34654F3236FAE16D4EBB24A3C290367F79EE44.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR09266_00": {
+        "npCommunicationId": "NPWR09266_00",
+        "trophyTitleName": "Electronic Super Joy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09266_00_00152C95E9411379639E8F9F84B470CDAB64C071BC/25A1181D514D4F2E4AB53226B129610CA8C63A38.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR09270_00": {
+        "npCommunicationId": "NPWR09270_00",
+        "trophyTitleName": "あまつみそらに！ 雲のはたてに",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09270_00_00A4B5ADF7DD44B765BE6619397184FBD9B6F9ACD7/C567BE55C35725307DCD7FCB6252AC14630F5273.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 7,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR09271_00": {
+        "npCommunicationId": "NPWR09271_00",
+        "trophyTitleName": "マル合格! 宅建試験 平成27年度版",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09271_00_00C3C9B50EFE12108A70B514AB4AD7519306D2E5CE/95225DF32B334890499354EF94BAEE250590E94C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR09273_00": {
+        "npCommunicationId": "NPWR09273_00",
+        "trophyTitleName": "Strike Solitaire 2\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09273_00_00C6819F44A78B060753E3D742302E8B0195294A26/A04334949523763B1BE2F8DCE5591E75DE87397A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09275_00": {
+        "npCommunicationId": "NPWR09275_00",
+        "trophyTitleName": "Pirate Solitaire",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09275_00_00A1460EBDA90078471DA6DF76D858E8F1C4E3C211/F2CCF0E378F21BE29D59327DA97B14F06CF93918.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09276_00": {
+        "npCommunicationId": "NPWR09276_00",
+        "trophyTitleName": "Super Rude Bear Resurrection",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09276_00_00E9BD790DD9531D3E70AFABDA3EB764CA0FEAEA43/824F3201800BCF7B723F37A3F903992DEF354C0F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 10,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR09277_00": {
+        "npCommunicationId": "NPWR09277_00",
+        "trophyTitleName": "Knight Solitaire",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09277_00_009F98B0A6A1E60BF056F6A61B5B84A26D0C37F113/6D56490D0D95956600C7425E709AFF046A679629.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09278_00": {
+        "npCommunicationId": "NPWR09278_00",
+        "trophyTitleName": "This War of Mine: The Little Ones",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09278_00_002EEA3E8DE2001C133969C6A38931B08C1C21E309/ECBB82F2368943DD7B1C8BD35EA57C0AEEFF8E73.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
