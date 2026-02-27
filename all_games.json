@@ -52648,5 +52648,135 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR09613_00": {
+        "npCommunicationId": "NPWR09613_00",
+        "trophyTitleName": "信長の野望･天翔記 with パワーアップキットHD version",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09613_00_00AF9EE28A4C7A234E0D9467C9F891C0540FC8170D/5022F89FC317B5E6E51863AB1CCC05F7B40EE69E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR09616_00": {
+        "npCommunicationId": "NPWR09616_00",
+        "trophyTitleName": "Agatha Christie - The ABC Murders",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09616_00_00824ACE80A9DF143F8D4658634F5AE52BECD0D7A7/78E21CF9D0A208AA719FE20C869D05FFC143E1F0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR09618_00": {
+        "npCommunicationId": "NPWR09618_00",
+        "trophyTitleName": "Kitten Squad",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09618_00_002E0C969927ABA11384BB72C67C79A3DD089012E2/A566E75A6FEA54BBF4377A7B0009E6BC4F787374.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR09621_00": {
+        "npCommunicationId": "NPWR09621_00",
+        "trophyTitleName": "In Space We Brawl",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09621_00_0043431079AAA2FE0E79494FFB4BC0F651019A8E84/CE7B4DECF3382CDD568BF1EC82E7541386F15B0E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR09622_00": {
+        "npCommunicationId": "NPWR09622_00",
+        "trophyTitleName": "Armello",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09622_00_00BD0BB481C0153005348162F9452F842EA37E6A69/A530E751A2E0A41AFDC4E407C592411FC85D0CDA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 11,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR09623_00": {
+        "npCommunicationId": "NPWR09623_00",
+        "trophyTitleName": "DRIVECLUB™ VR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09623_00_00A0BC2AA838FBE611F5F412AD5CFB74116056A556/C0786CC527055CFF6C8D04FF723EA2FCB33520D0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR09624_00": {
+        "npCommunicationId": "NPWR09624_00",
+        "trophyTitleName": "In Space We Brawl",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09624_00_0048D3A3C307BE960AF981D1EAFF335039098499BB/77581365D1F9F5F6A44DD7A1CA5FA30C9DBB1C94.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR09625_00": {
+        "npCommunicationId": "NPWR09625_00",
+        "trophyTitleName": "Fate/EXTELLA",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09625_00_001DAD4CF77719FB31C316F72E7C20B6158CBBCEB2/EEAB87F8615CE11995BCE7BACD27B90808182A03.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 3,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR09627_00": {
+        "npCommunicationId": "NPWR09627_00",
+        "trophyTitleName": "Tower of Guns: Special Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09627_00_00C7307A8110F67E6345BB483D24A3ADAA4115A484/B169D5E7CEE203EDBAB12DE3A7C72892FABE97D5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09628_00": {
+        "npCommunicationId": "NPWR09628_00",
+        "trophyTitleName": "Unepic",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09628_00_0077805A81501CC9CCDA43FB4810963845732122AC/3CD4D3F1EE265AAD9658464C9E177AFB27254DC3.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 8,
+            "bronze": 48
+        },
+        "service": "trophy"
     }
 }
