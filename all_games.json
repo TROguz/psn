@@ -69418,5 +69418,135 @@
             "bronze": 64
         },
         "service": "trophy"
+    },
+    "NPWR12011_00": {
+        "npCommunicationId": "NPWR12011_00",
+        "trophyTitleName": "FreezeME",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12011_00_0030BD70662E174612536B80BB51212374AE22DFD5/186B6602B7299EE06FF3D97EB2A9DD8EA27802D4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR12012_00": {
+        "npCommunicationId": "NPWR12012_00",
+        "trophyTitleName": "Strikers Edge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12012_00_00A0E007D2CFB837F73B8C2EFCF5CB725D3E558DC4/ACEA4117AD7F4479D7D487D985D64625D0F60484.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR12015_00": {
+        "npCommunicationId": "NPWR12015_00",
+        "trophyTitleName": "진 삼국무쌍 영걸전",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12015_00_004B19344303B9DD04FAC4D9B930A5D3247451EA20/2C7308859F37F1D282F8C9E2CAB0A1B88C77684B.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR12016_00": {
+        "npCommunicationId": "NPWR12016_00",
+        "trophyTitleName": "Fly to KUMA",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12016_00_002429C94DF24D93BD961006990F3020ECD768F3E2/2F1986BB3D794BE16A88BE1854FCC15CDC5E1515.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR12021_00": {
+        "npCommunicationId": "NPWR12021_00",
+        "trophyTitleName": "Valentino Rossi The Game Compact",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12021_00_00BF5C84C8CC120DE5E68086FB3487B837C3ED6FE6/A18FE3C54C21194F9116185256BF776CC6D751A5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR12023_00": {
+        "npCommunicationId": "NPWR12023_00",
+        "trophyTitleName": "Prey",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12023_00_00CBE2F8DECB178FEB455931C911EF865FA30E7AA4/66A30E60316331DA1D779B5113F637E53A96D7F9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 45
+        },
+        "service": "trophy"
+    },
+    "NPWR12024_00": {
+        "npCommunicationId": "NPWR12024_00",
+        "trophyTitleName": "トラベリングスターズ -Traveling Stars-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12024_00_0003A620D100655B1F95600492DF79ECA7E09F8FA9/8A16DB4D373E68D41577DE4FA10D9611322FF24C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR12030_00": {
+        "npCommunicationId": "NPWR12030_00",
+        "trophyTitleName": "Wonder Boy: The Dragon's Trap",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12030_00_006E1291718C17585A225583BB7264D6780BF4C287/5E896A141867232114FDEA3DB158380105973C17.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR12032_00": {
+        "npCommunicationId": "NPWR12032_00",
+        "trophyTitleName": "Planet 2000",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12032_00_00A3AFF514B7D48452D284B5F39AEEFE1A615D61EC/AA63DD4DACE3E312B0AC36CCF825F0C6C878FDFA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR12033_00": {
+        "npCommunicationId": "NPWR12033_00",
+        "trophyTitleName": "Fat City: NYC Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12033_00_00C5E89F9D27D7DFB0869BD92C92D9CDF9612F38F5/5CDECC547F6F784AACB9CE2A12A553BB64CB059D.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
