@@ -69288,5 +69288,18 @@
             "bronze": 1
         },
         "service": "trophy"
+    },
+    "NPWR12000_00": {
+        "npCommunicationId": "NPWR12000_00",
+        "trophyTitleName": "ACA NEOGEO KING OF THE MONSTERS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12000_00_00111E11E1CC56189D27685BD0A88AB75B87EE7CA4/F46EE2E41DFB1765E84035D2B806C9EE1A4715BA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
     }
 }
