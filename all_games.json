@@ -48878,5 +48878,135 @@
             "bronze": 38
         },
         "service": "trophy"
+    },
+    "NPWR09029_00": {
+        "npCommunicationId": "NPWR09029_00",
+        "trophyTitleName": "Submerged",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09029_00_0048B9F6B40DB37F3B5005DBE86A3B21B7D94395F0/07D82440CECEC7E827DDBA02CB358AF02598D505.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR09030_00": {
+        "npCommunicationId": "NPWR09030_00",
+        "trophyTitleName": "The Legend of Dark Witch\n-Chronicle 2D ACT-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09030_00_008891534D7B0DC8F9B40B5F0CCE0231E1580A5D11/D28F9EB60A1E5BD955D881B882367C9F498CAE80.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR09033_00": {
+        "npCommunicationId": "NPWR09033_00",
+        "trophyTitleName": "Touhou Genso Rondo",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09033_00_0014B5078A2F50B62E8F68D3DD130CA9A62DB031BD/0C74D35B695376F3F4930420AA8B91E3E6DB610F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 20,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR09038_00": {
+        "npCommunicationId": "NPWR09038_00",
+        "trophyTitleName": "Grinsia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09038_00_0061F02B3BAE56A196DC80151BC580A7E41175CDBC/6E0B2D7C199D038A4D33878575B07CCDC1222376.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR09040_00": {
+        "npCommunicationId": "NPWR09040_00",
+        "trophyTitleName": "DRIVE!DRIVE!DRIVE! TROPHIES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09040_00_0048352BFCFCB45C4660A5E4C2FE63A15D662DA60A/81567690527E193C93F00E88C8099BF38FFC9F49.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR09044_00": {
+        "npCommunicationId": "NPWR09044_00",
+        "trophyTitleName": "Ironcast",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09044_00_00C3EB045CECE8D3EC80463967D5EC4DC196807D61/1E4BEEC9A153AC933388959AB139100AFF95378F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR09046_00": {
+        "npCommunicationId": "NPWR09046_00",
+        "trophyTitleName": "城堡风暴",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09046_00_0037B10F0259F43516FD2CC3B56E22751264F55166/44FA90FA9AD125849AE33C17890597CFEC37106F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR09047_00": {
+        "npCommunicationId": "NPWR09047_00",
+        "trophyTitleName": "Pumped BMX +",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09047_00_00D2DE911A5F9DCE878B3AFC6A596D145300C24C5F/A70B70320D0C503BA1A3BB9BBAC9363D182DD9D9.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR09048_00": {
+        "npCommunicationId": "NPWR09048_00",
+        "trophyTitleName": "PNEUMA: BREATH OF LIFE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09048_00_009188BAAA5783B53E0D2882256C0FC2E272C1DA65/B1FA253CC82B13BE3FEF02154CF44374DF068488.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 8,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR09049_00": {
+        "npCommunicationId": "NPWR09049_00",
+        "trophyTitleName": "Velocibox",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09049_00_00F1A442C68F7C54EF037CC97FAC9CD002C8DDB4F1/1DD58C428AF4452C5B233D089898E4F4C221D99C.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
