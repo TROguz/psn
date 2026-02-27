@@ -34448,5 +34448,135 @@
             "bronze": 25
         },
         "service": "trophy"
+    },
+    "NPWR06361_00": {
+        "npCommunicationId": "NPWR06361_00",
+        "trophyTitleName": "1001 Spikes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06361_00_00B6060A65403A7D66A836A3AE9F06C7CA0888E545/85291813A0DD1BE063DEB281EF42FF31ED2F35A0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR06363_00": {
+        "npCommunicationId": "NPWR06363_00",
+        "trophyTitleName": "Fairy Fencer F",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06363_00_00991D62E87D7923FE569D60B784B2AF809BCE7847/CC59C7E15226E23427F5B327C8DEDC8D56B965F6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR06364_00": {
+        "npCommunicationId": "NPWR06364_00",
+        "trophyTitleName": "Cartoon Network Punch Time Explosion XL",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06364_00_007D1820E41EFE24C9E896C5B571DDF28C9F4D379F/212BC924D0CEFAE22DD835CAA153A74EDC40A012.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR06366_00": {
+        "npCommunicationId": "NPWR06366_00",
+        "trophyTitleName": "花咲くまにまに",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06366_00_0062CCAF7913058D98870317EDD8F28F5FD41B3C20/6B8605AC15F75B5E006FC079E379F31E15BE96E1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR06369_00": {
+        "npCommunicationId": "NPWR06369_00",
+        "trophyTitleName": "Octodad: Dadliest Catch",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06369_00_003DE234DA69DA54567925E3E5A48ECE56CB5A35EC/2EA473544F82CD5CBA42B38BD60DE1F068C00F67.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR06370_00": {
+        "npCommunicationId": "NPWR06370_00",
+        "trophyTitleName": "Escape Dead Island",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06370_00_00CA77E278832092654B685BA9A3625E795D0041BA/3BC0896D9D9D1660BFBD53058E8ACBABEEE43E2E.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 18,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR06377_00": {
+        "npCommunicationId": "NPWR06377_00",
+        "trophyTitleName": "魔法少女大戦 ZANBATSU",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06377_00_0070B89E0572418B79F324E962C78B061965B2EAEA/FF17395868E417C9E8BA59443CF5EA7F0128E375.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR06380_00": {
+        "npCommunicationId": "NPWR06380_00",
+        "trophyTitleName": "Constant C",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06380_00_0048270A5E77FB949D2D8C53DB67BA00824C009099/B17113601E0F487EBC4A9C495C23575DDF3C551D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 6,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR06384_00": {
+        "npCommunicationId": "NPWR06384_00",
+        "trophyTitleName": "The Evil Within",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06384_00_0071A162AC0CDAC21A8BBA7C26456E8E89ED12AB11/6640E52AE35BA9867A2576FE320E58D39288CACB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 18,
+            "bronze": 49
+        },
+        "service": "trophy"
+    },
+    "NPWR06385_00": {
+        "npCommunicationId": "NPWR06385_00",
+        "trophyTitleName": "PsychoBreak",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06385_00_006C38EE4D8D5CA7DA5F72752A42BEDA4B59DA9F70/0D76B9D478E38D8396927805BE6E42401D5EDD67.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 18,
+            "bronze": 49
+        },
+        "service": "trophy"
     }
 }
