@@ -46798,5 +46798,135 @@
             "bronze": 4
         },
         "service": "trophy"
+    },
+    "NPWR08709_00": {
+        "npCommunicationId": "NPWR08709_00",
+        "trophyTitleName": "GODZILLA",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08709_00_00C780E97C93A9DE079B038E58B1101EEDA6B0D6DA/297C5DF22435D13D13CD32DD23F7C2904600761F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR08710_00": {
+        "npCommunicationId": "NPWR08710_00",
+        "trophyTitleName": "Royal Defense",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08710_00_00D8070CBBE5D042B561D733F9CF771AD4AD9C74E2/0886CAFF7A46D73D38ED71361E179B0D2F5CA02A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08711_00": {
+        "npCommunicationId": "NPWR08711_00",
+        "trophyTitleName": "Royal Defense Invisible Threat",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08711_00_00F6724E71D292D4BE06F91737C1E0D7AC349906BD/0CEDE344951AED8B9B8296DB06875F5840E2FCD3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08712_00": {
+        "npCommunicationId": "NPWR08712_00",
+        "trophyTitleName": "ZOMBI",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08712_00_0070B0DE645DE13F512DDD419B01F5B4C1156FEA51/FC8CA5B631F66896B311DD9D7E53762A9A8101E3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR08715_00": {
+        "npCommunicationId": "NPWR08715_00",
+        "trophyTitleName": "Pixel Piracy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08715_00_0086EE96FBD1FD665ADE8BEFE933A03FBCDFEEA5EF/7FE7D4B4014DE8278BE0E379C0AE76AEA4E88FD6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08716_00": {
+        "npCommunicationId": "NPWR08716_00",
+        "trophyTitleName": "Guitar Hero Live",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08716_00_00778FDA83C56DFB0625E9C9F6B3DCD3B726AE7C94/DF19E9CB78DA524F5747CC195607528D706DAA2D.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR08719_00": {
+        "npCommunicationId": "NPWR08719_00",
+        "trophyTitleName": "Dark Cloud™ 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08719_00_00C83CB7D5950EA20CECB0550833D53CC32A981F96/3726D8E827C88AC7294330E65B6820DE99CE786F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 17,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR08720_00": {
+        "npCommunicationId": "NPWR08720_00",
+        "trophyTitleName": "東京喰種トーキョーグール ＪＡＩＬ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08720_00_005F9653AB88C13FB47624DBFB57F2B04F20B88F53/5E2832A73C255F1132FC2A459C2501855A007BD0.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR08721_00": {
+        "npCommunicationId": "NPWR08721_00",
+        "trophyTitleName": "Rollers of the Realm",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08721_00_00B0E6513505EB12309A20401BEA00A1240F445F17/0DB3CCD1EF3C027AE976A9A5F6CDF7F271EAD505.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR08725_00": {
+        "npCommunicationId": "NPWR08725_00",
+        "trophyTitleName": "FIFA 16",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08725_00_00961950B0D4B26E6E8BBBE737617BF9DBFEDE09B1/A105B9EAF0688E1BECDA8504A9C6036578265981.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 34
+        },
+        "service": "trophy"
     }
 }
