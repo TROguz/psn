@@ -61878,5 +61878,135 @@
             "bronze": 30
         },
         "service": "trophy"
+    },
+    "NPWR11038_00": {
+        "npCommunicationId": "NPWR11038_00",
+        "trophyTitleName": "Romance of the Three Kingdoms XIII\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11038_00_002567E3469E72541579C87CABC7D7C47374F07182/6D1A9D2ACD76F136CD4F94023598EC2A20AE7FDA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 18,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR11039_00": {
+        "npCommunicationId": "NPWR11039_00",
+        "trophyTitleName": "Superdimension Neptune VS Sega Hard Girls",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11039_00_0053444742074BB329AF6C83513FC3F43F16450B1E/2268D8BF0234AB0E0AD9822B8483FEC37396EA54.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR11040_00": {
+        "npCommunicationId": "NPWR11040_00",
+        "trophyTitleName": "Superdimension Neptune VS Sega Hard Girls",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11040_00_00A100E3AC38BD612FF9F685035843620C9A7FDA27/17C4E2F7F12120F1A110AEBFC04D2DCDE37F4947.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR11045_00": {
+        "npCommunicationId": "NPWR11045_00",
+        "trophyTitleName": "Pharaonic",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11045_00_00A518296EC8C6720CFDCC40418C13850F21A43B99/D6476121873CEB9720A3DF3D5D500050BBF72ABB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 9,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR11046_00": {
+        "npCommunicationId": "NPWR11046_00",
+        "trophyTitleName": "Spheroids Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11046_00_001EB7394853181EAE1770575C8E1D215972837F4B/95FF27E8AD0CEE999A92F223FC3C57BEE3F5C87B.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR11049_00": {
+        "npCommunicationId": "NPWR11049_00",
+        "trophyTitleName": "Koi",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11049_00_00AC8E9D252A23E712F692EF9DC850BA7E06095C4C/6E62ABABBC236EBFCE7BD7B2C077C0C7A8E0D5BB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR11050_00": {
+        "npCommunicationId": "NPWR11050_00",
+        "trophyTitleName": "Let's Sing 2017",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11050_00_00544DD7F96B990D0BF2D988DD6AFD1DC72A2CE3D9/88FA893B934B036DEF596961FBFE345D565F21CB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR11051_00": {
+        "npCommunicationId": "NPWR11051_00",
+        "trophyTitleName": "Moto Racer 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11051_00_003192CD881D75ACC875D67FD57942D17C7A34AF63/EDFEF9DCB6810DEEE5B11A6EA84F6F79B5403AE4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 12,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR11052_00": {
+        "npCommunicationId": "NPWR11052_00",
+        "trophyTitleName": "WWE 2K17",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11052_00_00C1F2EB2A411C97BFB3EAC48535CDC6DA4A7E0F40/817E674968281894D134EFA884B9D08425D3BF03.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR11053_00": {
+        "npCommunicationId": "NPWR11053_00",
+        "trophyTitleName": "Hue",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11053_00_00285D4F654158D520939502677D6579695BB9EE7D/3C2A38EB2F88B1B280D764C7A9A4D549BD5BDCFD.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
     }
 }
