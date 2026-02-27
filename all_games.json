@@ -88138,5 +88138,135 @@
             "bronze": 20
         },
         "service": "trophy"
+    },
+    "NPWR14443_00": {
+        "npCommunicationId": "NPWR14443_00",
+        "trophyTitleName": "NeverEnd",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14443_00_004C095591097C5B589C4A91A7287737FF6AE08988/C16832BCF0803E1A237BD29F195663945E76C148.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 9,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR14444_00": {
+        "npCommunicationId": "NPWR14444_00",
+        "trophyTitleName": "Collar×Malice -Unlimited-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14444_00_00BAC6A92243A4C6487FAF72C24D9CB9E8D12BB84A/BFEBBCFFF6BEF700B8EDCC4E9938EBF0E6B41EE2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR14447_00": {
+        "npCommunicationId": "NPWR14447_00",
+        "trophyTitleName": "Code 51 Mecha Arena",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14447_00_004F44A8F24FFEC0059B50FEEC8A72F07DC85D7DA3/462EFD8421892D30630B6C0E581071946A2C4935.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR14448_00": {
+        "npCommunicationId": "NPWR14448_00",
+        "trophyTitleName": "de Blob 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14448_00_0089880C6BCCFDBBE0C2738197D723F11BE9BFF436/CE4E7DFE3426E01E3A48A7EA9764549FF526768B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 14,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR14450_00": {
+        "npCommunicationId": "NPWR14450_00",
+        "trophyTitleName": "Little Red Lie",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14450_00_00D69876F09821BD4A8BEF4CB461E7D4404C3A829A/F26709B12C99FE5EC1FBA6DA464D163B90BE1EC2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14451_00": {
+        "npCommunicationId": "NPWR14451_00",
+        "trophyTitleName": "911 Operator",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14451_00_00D4758B2621441B824FACF62F5AEEA803F9B5F78A/B499CF1D09E10017ECEA98B323EED8C511A30A10.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR14453_00": {
+        "npCommunicationId": "NPWR14453_00",
+        "trophyTitleName": "NeverEnd",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14453_00_004BE093E592630EF649D17027B78976BC92C1E6DF/EDE5A0904616D4285ECDF2AB16F4BEC46FE45C46.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 9,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR14454_00": {
+        "npCommunicationId": "NPWR14454_00",
+        "trophyTitleName": "Just Shapes & Beats",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14454_00_00DA478397D43913ECC4BA315F0E6EBDBDC12EE638/21A50AF5CBE64D7D0153F10FCD004909085151CE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR14455_00": {
+        "npCommunicationId": "NPWR14455_00",
+        "trophyTitleName": "Space Hulk: Tactics",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14455_00_00DDDF451D1A526D6052E00104CF9EC7109C7A2B3B/22896447DD9CFB874A9692C1499EF22DC5752B29.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 18,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR14457_00": {
+        "npCommunicationId": "NPWR14457_00",
+        "trophyTitleName": "あなたの四騎姫教導譚",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14457_00_006CBD26AC284FE8963A85BE506A8580ADFA53B91E/91AF087E12302BE4A0CD38CF9AD809111E2ACDBC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 5
+        },
+        "service": "trophy"
     }
 }
