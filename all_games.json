@@ -35878,5 +35878,135 @@
             "bronze": 43
         },
         "service": "trophy"
+    },
+    "NPWR06679_00": {
+        "npCommunicationId": "NPWR06679_00",
+        "trophyTitleName": "超次元アクション ネプテューヌU",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06679_00_00AD99468B85806CD18311C4B5BEC42D4C9751CE8B/BE4D66B1E2AFB81058F2FC4E7C71FFA40F0A9C79.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 6,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR06681_00": {
+        "npCommunicationId": "NPWR06681_00",
+        "trophyTitleName": "ネクレボ 宅建試験 2015",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06681_00_004CAC998C473C2E3A84A06576F49842E821E68624/B52C7FA6ACE202B7CF2AC0DE62B9BB2D0630413B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR06683_00": {
+        "npCommunicationId": "NPWR06683_00",
+        "trophyTitleName": "FIFA 15",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06683_00_00DA2E55FEC08E054FB991DE9483680BF9C16070D9/424AB937F27D5597519A4FDFEAA3BAE6C8CB029A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR06685_00": {
+        "npCommunicationId": "NPWR06685_00",
+        "trophyTitleName": "inFAMOUS First Light™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06685_00_008A8FA00D5A8FA77F634567E1152AB21D7DDB0CC0/DE138159D4743AFFBFF47E158D079BFF9D49EDD6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 11,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR06689_00": {
+        "npCommunicationId": "NPWR06689_00",
+        "trophyTitleName": "Atelier Rorona Plus\n~The Alchemist of Arland~",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06689_00_0058B0B762CE08DEEE32FF8490E37C1781492390D0/61377C775A3CEAD7DE2F2D6AECCD147D8A6389A4.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR06693_00": {
+        "npCommunicationId": "NPWR06693_00",
+        "trophyTitleName": "Battlefield™ Hardline Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06693_00_00E0DD0B752282DE2FD2C4F62DFFE27FF5F12A2EAF/9EC676A4C641B673F265C233B0692AF8CD771D9D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 24,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR06701_00": {
+        "npCommunicationId": "NPWR06701_00",
+        "trophyTitleName": "Just Dance® 2015",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06701_00_00A636B9012B09C2AD6CFE24376EB36660E340601C/D355651C68FAB309841D59AE2621AD7FF15FC981.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR06702_00": {
+        "npCommunicationId": "NPWR06702_00",
+        "trophyTitleName": "Tales of Hearts R",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06702_00_00E0BA65118C3327252DFC5384CBE601F595F3995B/B34C08B6B1705E609B0EF299FEB6E2EACF568268.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR06708_00": {
+        "npCommunicationId": "NPWR06708_00",
+        "trophyTitleName": "Duck Dynasty",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06708_00_004044B3EA15F664A0779E7507EA61AA7702E65FE0/18DE77757128B75BCA9FFB850BDB4EDB0F025C02.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR06709_00": {
+        "npCommunicationId": "NPWR06709_00",
+        "trophyTitleName": "Duck Dynasty",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06709_00_004FD321BB9E184F68E577288410B194E2A0791D54/F64AE66B04A61876F0A310A1A7B629A77474881A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 20
+        },
+        "service": "trophy"
     }
 }
