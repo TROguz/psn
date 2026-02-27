@@ -85798,5 +85798,135 @@
             "bronze": 14
         },
         "service": "trophy"
+    },
+    "NPWR14145_00": {
+        "npCommunicationId": "NPWR14145_00",
+        "trophyTitleName": "The Inner World - The Last Wind Monk Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14145_00_00407EECA9A57418542765E27FF3D743B2360B2B87/1C782895B157972E8007121C906FE5CD01A9304F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 0,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR14146_00": {
+        "npCommunicationId": "NPWR14146_00",
+        "trophyTitleName": "The Inner World - The Last Wind Monk Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14146_00_004705698D4D93B45D894D2695A83A24F91CFFA25F/9C1FC9E91F1624CC69D76401130AFD0A988BFD48.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 0,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR14147_00": {
+        "npCommunicationId": "NPWR14147_00",
+        "trophyTitleName": "Sky Force Reloaded",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14147_00_009F6FFC206170084A9DC6CBFA9EBA5D855510176A/6DF977D65C322C24CB3F9E9F4EFD7138AF45F834.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR14148_00": {
+        "npCommunicationId": "NPWR14148_00",
+        "trophyTitleName": "Psychedelica of the Ashen Hawk",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14148_00_00D22FAA9AF32DC634349F7AAD697CCE6219DB179B/643C626B2F000A8D1311286225718CFC4D0DDA2E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 18,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR14149_00": {
+        "npCommunicationId": "NPWR14149_00",
+        "trophyTitleName": "Minit",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14149_00_00368275351660C331B17D53CA64FB8A80D635123E/705680F3BC42F1A3E239444F0A0D6A0D6D32B6B5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 14,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR14151_00": {
+        "npCommunicationId": "NPWR14151_00",
+        "trophyTitleName": "Phar Lap - Horse Racing Challenge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14151_00_00FFEDCB364997DBC4ED0991769BB1E0C05A899FD3/55DAC99A7D4B5E3CFE5C8C3F534C438590A21F3C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR14152_00": {
+        "npCommunicationId": "NPWR14152_00",
+        "trophyTitleName": "神獄塔 メアリスケルター2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14152_00_00C3B15FB4761CD3C210DE0D4A9B579DFA1C9BFC09/7479D80246D6912526D0D39CC990B04B4F6AC95B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR14153_00": {
+        "npCommunicationId": "NPWR14153_00",
+        "trophyTitleName": "Ghosts In The Toybox: Chapter 1",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14153_00_004BA705C375B41A7D394F2A2E2724A6B484BB1A5B/D2822132820EDEC54E62A2E83DB157E2D78ABA6D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR14154_00": {
+        "npCommunicationId": "NPWR14154_00",
+        "trophyTitleName": "Vesta",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14154_00_00B11902EEFCDA89212374C4529A1D142C073805E5/636BB84713C457B78127D1FFB4594A9A1C8F2554.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 4,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR14155_00": {
+        "npCommunicationId": "NPWR14155_00",
+        "trophyTitleName": "Wulverblade",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14155_00_00C2551901AA62CF49DFE13A87E709202024CD3D85/21CFCBF90C4DF128DEB6C96E1F9497112F7C6EEC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 9,
+            "bronze": 46
+        },
+        "service": "trophy"
     }
 }
