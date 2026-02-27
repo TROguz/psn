@@ -48618,5 +48618,57 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR08997_00": {
+        "npCommunicationId": "NPWR08997_00",
+        "trophyTitleName": "Fallout 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08997_00_00092F05228346B1273A8E999669D7A6EF0D6272D4/AD28FFD593E86DAD390ED190455AA6365D5CF606.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 17,
+            "bronze": 66
+        },
+        "service": "trophy"
+    },
+    "NPWR08998_00": {
+        "npCommunicationId": "NPWR08998_00",
+        "trophyTitleName": "GUNS UP!™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08998_00_00B9D95771ACE09A09E6C6AC60741D8380A8BD48C5/8D26DD06E371D290672D251C82D21FA4D384FE5A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR08999_00": {
+        "npCommunicationId": "NPWR08999_00",
+        "trophyTitleName": "Score Rush Extended",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08999_00_0058B17941C4D4C6DA11BE68ACA7C20C9D4ACBC022/CEDCEFDC1A63654ABD7193F7817CBFAE46754E41.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR09000_00": {
+        "npCommunicationId": "NPWR09000_00",
+        "trophyTitleName": "５人の恋プリンス～ヒミツの契約結婚～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09000_00_008E0F89B980F8E4EEECDE462CA19D9C91B592DA05/A7626B1A59F90FAF82DA569E56CEAA5D5CE4827E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 6
+        },
+        "service": "trophy"
     }
 }
