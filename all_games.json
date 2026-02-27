@@ -57068,5 +57068,135 @@
             "bronze": 42
         },
         "service": "trophy"
+    },
+    "NPWR10302_00": {
+        "npCommunicationId": "NPWR10302_00",
+        "trophyTitleName": "NORN9 ACT TUNE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10302_00_009D79272A73CE6CB076201E620594E9DDBB912421/1B039F4EFB2E34175CA7FD57C54DE196C2021C0A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 16,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR10303_00": {
+        "npCommunicationId": "NPWR10303_00",
+        "trophyTitleName": "The Escapists: The Walking Dead",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10303_00_0055FF7B36EB238C18D82E81FDA839B51DE3D3D3EF/F0068E6E0B26708CE867589A7B1B8D37262B4D38.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR10305_00": {
+        "npCommunicationId": "NPWR10305_00",
+        "trophyTitleName": "Wondershot",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10305_00_003A508324F56AAD801BC5BBCD612AF6EFD996FE09/EE4A153EC611627CA668D8E84061179292670DC0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10306_00": {
+        "npCommunicationId": "NPWR10306_00",
+        "trophyTitleName": "MegaTagmension Blanc + Neptune VS Zombies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10306_00_00BD6E597954703B663E8ACDA4EEC058897C77717C/80B8EE6247CC86EC7BB5041F5A2E09064D781551.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR10307_00": {
+        "npCommunicationId": "NPWR10307_00",
+        "trophyTitleName": "Firewatch",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10307_00_00A16E3C14DEBD3722FC8A3DED105F1DFBB06969F6/141C086DFBCD370A57E617F3EDE1A5B828BA82C5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 1,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR10310_00": {
+        "npCommunicationId": "NPWR10310_00",
+        "trophyTitleName": "Aegis of Earth: Protonovus Assault",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10310_00_00F4BFC55A34B0E490124A5156FBD004A7F0382821/DDE762C296819EEC4E0DC3947DC6FC090EFF6105.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR10313_00": {
+        "npCommunicationId": "NPWR10313_00",
+        "trophyTitleName": "Shiren The Wanderer",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10313_00_009A0C28E9F0D705A5A84CD7602350697BB0223AFB/BBC12B816645403C20355C27C26DEF93E8D1EB20.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR10314_00": {
+        "npCommunicationId": "NPWR10314_00",
+        "trophyTitleName": "もし、この世界に神様がいるとするならば。",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10314_00_004E65D69E902082D0C316F4A40CB321E525C19401/568FE3946A1C2524324D7ADE2BBC45A2D8E6637C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR10320_00": {
+        "npCommunicationId": "NPWR10320_00",
+        "trophyTitleName": "Sniper Elite 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10320_00_0093ACD8E65D96A57FA7D411C0856B9658B7F401F1/6E785FA012BFA6200D5C1FEA6B540653654B24C1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 65
+        },
+        "service": "trophy"
+    },
+    "NPWR10322_00": {
+        "npCommunicationId": "NPWR10322_00",
+        "trophyTitleName": "Stranger of Sword City",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10322_00_003EDECE3FE0F15B7B32FA4D4591E101D1A545CB31/B4BE8EE714F1372D0CB655FCEAFBBAA9B76CC552.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 15,
+            "bronze": 27
+        },
+        "service": "trophy"
     }
 }
