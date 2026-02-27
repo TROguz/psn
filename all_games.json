@@ -28208,5 +28208,135 @@
             "bronze": 42
         },
         "service": "trophy"
+    },
+    "NPWR05014_00": {
+        "npCommunicationId": "NPWR05014_00",
+        "trophyTitleName": "向日葵の教会と長い夏休み -extra vacation-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05014_00_00C00DD495F95D6F2172CE4A91F5FEC25C78C915A8/BEC92A51C1FF0FBC27A8DEA2B76A652CFB426BD5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR05016_00": {
+        "npCommunicationId": "NPWR05016_00",
+        "trophyTitleName": "古色迷宮輪舞曲 ～La Roue de fortune～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05016_00_00CEDF57A2DB39B4DDD64CEE23B3745FF455597E7A/293374FBA865A25868BB52BD8647FE878EA831A3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR05019_00": {
+        "npCommunicationId": "NPWR05019_00",
+        "trophyTitleName": "FINAL FANTASY X-2 HD Remaster",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05019_00_002C499B0AA99AECB0EEE06E351C301393BE6854CB/49A426D74BCE0005BE90B85A7D28C01A9751436C.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 7,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR05028_00": {
+        "npCommunicationId": "NPWR05028_00",
+        "trophyTitleName": "Disgaea D2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05028_00_00CD246340B5C87C5C60FBA69333F9E534F4559A3C/ED7880657FB271ADBBD0867D73DDBE512B93F7A3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 66
+        },
+        "service": "trophy"
+    },
+    "NPWR05031_00": {
+        "npCommunicationId": "NPWR05031_00",
+        "trophyTitleName": "Disgaea D2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05031_00_006EAE95ED4914D42312446D95CF30C8116599D203/85B43835077A9474F512844BF20E10A8F690D053.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 66
+        },
+        "service": "trophy"
+    },
+    "NPWR05038_00": {
+        "npCommunicationId": "NPWR05038_00",
+        "trophyTitleName": "銀星囲碁2 ネクストジェネレーション",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05038_00_00C25EFA6722E8CD7659964FF308761383270891A6/709BD8D6C64AC70406614DE5BB9DD959E377F81A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR05041_00": {
+        "npCommunicationId": "NPWR05041_00",
+        "trophyTitleName": "WWE 2K14",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05041_00_0066B0E98E7C039163388030DA53301533CF92784A/8ADE63ADBBFE6B54C0085F2FF48AECB17475D4A8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR05044_00": {
+        "npCommunicationId": "NPWR05044_00",
+        "trophyTitleName": "DanceStar™ Digital",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05044_00_00D0E11B24CF46F20EADA13C658A0D08F41AABF426/10922900B6EA5BE20E98B16C0EE8319A88223755.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR05045_00": {
+        "npCommunicationId": "NPWR05045_00",
+        "trophyTitleName": "Everybody Dance™ 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05045_00_005836B73D7A9348A8D6CF042D2A0CDE2EE161AB60/EE8C6CD7EF378F856D37CBF96B0C71514A3F32F0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR05046_00": {
+        "npCommunicationId": "NPWR05046_00",
+        "trophyTitleName": "PAYDAY 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05046_00_0071CA099E3FA09BD7980AD3A2B2329226D59FD847/07114B3CEB47F6F8D6FD9390510A0F6DE923201B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 32
+        },
+        "service": "trophy"
     }
 }
