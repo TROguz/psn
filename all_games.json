@@ -28078,5 +28078,83 @@
             "bronze": 22
         },
         "service": "trophy"
+    },
+    "NPWR04988_00": {
+        "npCommunicationId": "NPWR04988_00",
+        "trophyTitleName": "Atelier Meruru Plus \n: The Apprentice of Arland",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04988_00_00783551E58853CDBDA5F42E3220790A6923891F24/279291B10D5FB6BA768319B7D9FE618B558C1686.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR04989_00": {
+        "npCommunicationId": "NPWR04989_00",
+        "trophyTitleName": "うた組み５７５",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04989_00_007720D0B66B80E78E2DC35E4F501F093E52E3A7F5/6C61C140A8F7C16B07482AD018AD060C31342C3A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR04992_00": {
+        "npCommunicationId": "NPWR04992_00",
+        "trophyTitleName": "Doki-Doki Universe™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04992_00_00183622DD47CC8F48AD4D12F5D124BECCF5E063E9/DACFEE5B1916B76331AE93245F61E019915FA944.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR04993_00": {
+        "npCommunicationId": "NPWR04993_00",
+        "trophyTitleName": "Neptune Re;Birth1",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04993_00_00735C28F721D2E9D31BA6CACB0D4ED89F1F55C1C3/DE473FC603975D1CF4DF66FF0736C036A8FCCA88.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 19,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR04996_00": {
+        "npCommunicationId": "NPWR04996_00",
+        "trophyTitleName": "Z-Run",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04996_00_00140F729BC8D3F649BA4F7464548A079C6B562ECA/DBEBF36DBC68CEB7B089A64E9FBF902AF0BE80E7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR04997_00": {
+        "npCommunicationId": "NPWR04997_00",
+        "trophyTitleName": "WORLD SOCCER Winning Eleven 2014",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04997_00_0089AC5CF00B9F2358914D7F1C84CADAC75F460969/68E2920F70D2B5EB10D6C78FED9F190290303FDF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 15
+        },
+        "service": "trophy"
     }
 }
