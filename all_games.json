@@ -67858,5 +67858,135 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR11823_00": {
+        "npCommunicationId": "NPWR11823_00",
+        "trophyTitleName": "太平洋の嵐～皇国の興廃ここにあり、1942戦艦大和反攻の號砲～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11823_00_009A90D643C3412240DAE7C13B5E981F04622C8427/804D9D3DF07EC53B5DDEAD5FD398F17374A96F0B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR11829_00": {
+        "npCommunicationId": "NPWR11829_00",
+        "trophyTitleName": "Lichtspeer",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11829_00_00C470F6B88FBDDB981045FAD8001268DC6379CFF9/A7D77C0FF37BDC540E4F3DEF036E1892057121F3.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR11830_00": {
+        "npCommunicationId": "NPWR11830_00",
+        "trophyTitleName": "Digimon World: Next Order.",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11830_00_0013021CDB65C15D11080DF9C550405332FA27AC92/1BCC1F6F30D6BF27C8034EE73ADF4622C7986876.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR11832_00": {
+        "npCommunicationId": "NPWR11832_00",
+        "trophyTitleName": "Star Trek: Bridge Crew",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11832_00_0061B374D203241346A0508B938E58D56069135DA3/339939382B3E1AB07585F811B17B5F717E9C21AC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR11833_00": {
+        "npCommunicationId": "NPWR11833_00",
+        "trophyTitleName": "Blue Rider",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11833_00_004F4F6A1BC4AB5B5A28F36FD0A79F03693E996431/1031C202F45512B5EDC8A39D79F45944C5773506.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11834_00": {
+        "npCommunicationId": "NPWR11834_00",
+        "trophyTitleName": "Four Sided Fantasy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11834_00_0060C4740D301B61AD38DF64096AB5D180B15DB55A/2E4308FB40655FEC934376E7F0159ADE45459C44.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11835_00": {
+        "npCommunicationId": "NPWR11835_00",
+        "trophyTitleName": "戦国無双 ～真田丸～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11835_00_0049CA112793F7E66678E000A1BE53865D8C4E7B65/5716D68E12E4806B0BAC774F826DBA5CFB0B1D52.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR11836_00": {
+        "npCommunicationId": "NPWR11836_00",
+        "trophyTitleName": "Wand Wars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11836_00_003FE5BA6301CE470EA0C91A150C1C32E44992BE5C/E81A9FF7404D8DDF520E852995424CEA12D12F18.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR11838_00": {
+        "npCommunicationId": "NPWR11838_00",
+        "trophyTitleName": "Kido : Ride On Time",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11838_00_005823DCAD0C47C0EB6BDE517D57332B4131988688/E84EC7D94A26FADFC1E8AB294C1530203EB09543.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR11839_00": {
+        "npCommunicationId": "NPWR11839_00",
+        "trophyTitleName": "よるのないくに２ ～新月の花嫁～\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11839_00_002C7311C2CFB37ABA54D4E3B5E7E1E70AF8935D55/6B0C2F015F9A707F77C6F110F5869A77E41611EA.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 42
+        },
+        "service": "trophy"
     }
 }
