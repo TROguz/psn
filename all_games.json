@@ -79428,5 +79428,135 @@
             "bronze": 20
         },
         "service": "trophy"
+    },
+    "NPWR13280_00": {
+        "npCommunicationId": "NPWR13280_00",
+        "trophyTitleName": "CastleStorm VR Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13280_00_0036918AC7F5B80FB450685C1478F217F19549FDCB/0BAF4FECCE686F30252E5741AFC28F48960A69EC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR13281_00": {
+        "npCommunicationId": "NPWR13281_00",
+        "trophyTitleName": "DARK SOULS™: REMASTERED",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13281_00_00A03E8F7ED2727FADE2548E45F2781D32F5D048F6/B26EE8644603C33DBEB01C4E172FB4972D069B2E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 20,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR13282_00": {
+        "npCommunicationId": "NPWR13282_00",
+        "trophyTitleName": "InnerSpace",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13282_00_00FE2AB823ACCEE88BA5A068E6DDBEAB0537D1C0BF/ACDE47939371B56D0F3E767161316C800B11797E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 2,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR13283_00": {
+        "npCommunicationId": "NPWR13283_00",
+        "trophyTitleName": "Randall",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13283_00_00501CE369884F368621061871B41CEE0704AC6FEC/4C9E321C32432DA28C323F72B389F6A9C19CDD06.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR13284_00": {
+        "npCommunicationId": "NPWR13284_00",
+        "trophyTitleName": "深夜廻",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13284_00_003394C25D6CA7913F3B68FCB5D6BC0B266FD7D93F/5093F477CB65E44DF1D7DCBEB812810700DA1633.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR13285_00": {
+        "npCommunicationId": "NPWR13285_00",
+        "trophyTitleName": "深夜廻",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13285_00_008BC82D79A64E6BC9C56EB8BA3CFCD05C8311C440/EAF1D3B9B057A4622521F8562F3EC10B0FCC9CAE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR13286_00": {
+        "npCommunicationId": "NPWR13286_00",
+        "trophyTitleName": "LOST SPHEAR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13286_00_00C091A3EC72B0C5FC312F6326CEE0A8D6AC15492D/4C43F7B4DB4D1287E6B99B0BF57BD52B32B11B20.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR13287_00": {
+        "npCommunicationId": "NPWR13287_00",
+        "trophyTitleName": "Cryptark",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13287_00_00B0860F91A50CFE2C073497EDC012845506D4B3B6/B324AF18E842D6712DCB0A61F8C4F10BFCA105DD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR13288_00": {
+        "npCommunicationId": "NPWR13288_00",
+        "trophyTitleName": "Drive Girls",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13288_00_00D2287867FB20F7F12A3FB59A176885DCE8D5DDA5/75C93634480720126463990D4F838A29044EC533.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR13289_00": {
+        "npCommunicationId": "NPWR13289_00",
+        "trophyTitleName": "Action Arcade Wrestling",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13289_00_001960CF181CFC34B70FE1F8A51299D86D2CBDC9E4/709FB75E649D7CB827BCED5BFB627527F1DE363E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 3
+        },
+        "service": "trophy"
     }
 }
