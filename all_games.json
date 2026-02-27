@@ -66428,5 +66428,135 @@
             "bronze": 36
         },
         "service": "trophy"
+    },
+    "NPWR11632_00": {
+        "npCommunicationId": "NPWR11632_00",
+        "trophyTitleName": "Neverwinter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11632_00_005E4EFD25105A7BB799006909BAA2800D35DB43C3/0E23C7F6B02BB02DEE757219B50BEF66F6CC59AD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 65
+        },
+        "service": "trophy"
+    },
+    "NPWR11634_00": {
+        "npCommunicationId": "NPWR11634_00",
+        "trophyTitleName": "Kero Blaster",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11634_00_0029D3FF585DC8CA1DD3C05302E72C92D11E1DBDFB/8B55AEC97BB20FD3EFA9402C2880DD1BCE2FB574.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR11635_00": {
+        "npCommunicationId": "NPWR11635_00",
+        "trophyTitleName": "Tiny Trax",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11635_00_00A5C0166D4E50E9B95197B1FA0B54E3A1C39ECDB6/B0099E17B583F1336285CB8C796FECB60F4AE426.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR11638_00": {
+        "npCommunicationId": "NPWR11638_00",
+        "trophyTitleName": "Adventure Pop\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11638_00_00F5206515C0041184EFEAC06939B0280B1CCCBCEF/DA892449500AE1ED6E35D35A14D61D34F812FD40.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR11640_00": {
+        "npCommunicationId": "NPWR11640_00",
+        "trophyTitleName": "LifelessPlanet",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11640_00_009A6771FEF4DFBE7B6AF05B1850E1554886D9BB00/48D8027CCA7BFE7B69345D2EEC11814F117191B8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 2,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR11641_00": {
+        "npCommunicationId": "NPWR11641_00",
+        "trophyTitleName": "ねぷねぷ☆コネクト カオスチャンプル",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11641_00_0001D8270A9D34FA13D7E11726E0B534D81650F64C/E8953F7D3D3B0F441F82F1EBC33915AE55A2843B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR11643_00": {
+        "npCommunicationId": "NPWR11643_00",
+        "trophyTitleName": "NOBUNAGA'S AMBITION: SPHERE OF INFLUENCE - ASCENSION",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11643_00_00CC97BC37FA465F7FEA128B372F2DFD65D081DD66/9EA49527C9F0605EF42D43834B8096F1AE39A51B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11646_00": {
+        "npCommunicationId": "NPWR11646_00",
+        "trophyTitleName": "The Bunker",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11646_00_00EB3EE776A5CC428C6D9DEDAF500183CFE2D7D7CB/6CE61F92213EB6D9B3AB211A60EBAD134EA6D657.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 14,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11650_00": {
+        "npCommunicationId": "NPWR11650_00",
+        "trophyTitleName": "Albedo: Eyes From Outer Space",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11650_00_00C25A14A3B40FBEA23FDC559D4C3F121370C46CA9/A79A995A5C079CC3F79F4DB52BE42CD9F028B740.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR11651_00": {
+        "npCommunicationId": "NPWR11651_00",
+        "trophyTitleName": "Last Day of June",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11651_00_0037523BCEFDE08D00B35815FCB14699BD3DE51FD7/6E5736A7617D21DA39A4EF01D040D8DFC8D4EDD4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
     }
 }
