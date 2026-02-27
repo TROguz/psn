@@ -77998,5 +77998,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR13102_00": {
+        "npCommunicationId": "NPWR13102_00",
+        "trophyTitleName": "プレキャラ！大富豪",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13102_00_00E6E59404FC438D397A0BA9ECB530D9855C52A8B8/CCBBDD97699E7E04A245BD341F0E803BC3ED02D9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR13104_00": {
+        "npCommunicationId": "NPWR13104_00",
+        "trophyTitleName": "Winning Eleven 2018",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13104_00_003D74BC03D0AC04126308DFFDA3D969B71F9957F8/8E52FC0F2B2FDBC6D496F972FF89CAC9F4B2788A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR13105_00": {
+        "npCommunicationId": "NPWR13105_00",
+        "trophyTitleName": "PRO EVOLUTION SOCCER 2018",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13105_00_001FBD472E4FBC85659A4406BF6BAC8298C5FDCC01/727F58519D890758E4CB0E340EBCC78FA9A19F17.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR13106_00": {
+        "npCommunicationId": "NPWR13106_00",
+        "trophyTitleName": "PRO EVOLUTION SOCCER 2018",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13106_00_00E7AC7BB982580BE66F65608DB4C582CD475ED5F4/595D238DA0B2A0EFA54FD2961798296ABB228622.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR13107_00": {
+        "npCommunicationId": "NPWR13107_00",
+        "trophyTitleName": "ChromaGun",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13107_00_0023F19286BCCCCA3BA5D72ADB47124B1C644F427A/29E17860A9DF2D2DF97921974FF4F9B2A06ADA65.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 1,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR13108_00": {
+        "npCommunicationId": "NPWR13108_00",
+        "trophyTitleName": "GWENT: The Witcher Card Game",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13108_00_005A5429D5499527CBD7A56C8B10D00D22A6E990D2/36C451A5D37F7EA6864A5BFA736ED495D60E25B3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR13111_00": {
+        "npCommunicationId": "NPWR13111_00",
+        "trophyTitleName": "Hidden Agenda",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13111_00_00FC6DF522505DEE61C83F54A7E8F06FB28A42DAAA/12890C6FFC746042AF9CB9B79FC1DA135F6523CE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 18,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR13112_00": {
+        "npCommunicationId": "NPWR13112_00",
+        "trophyTitleName": "Active Soccer 2 DX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13112_00_0085791CF57ECFCAA13603C00534E71099CC6B5421/D1EE7ACEA4DC11B4536BF1B12E2FE091ED2D769F.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR13114_00": {
+        "npCommunicationId": "NPWR13114_00",
+        "trophyTitleName": "Active Soccer 2 DX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13114_00_00F584387C8CFFFAFACD0A7C5FF8A4467DF36A147B/18DC617C5885F129616B2D31894498B2037B06D3.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR13115_00": {
+        "npCommunicationId": "NPWR13115_00",
+        "trophyTitleName": "Drawn to Death™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13115_00_0015A95AA9FFBF749B63864DAE25626DAC1567757E/4678E52329DB4A5D146BBB239ED7486EE6C74FB1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 13
+        },
+        "service": "trophy"
     }
 }
