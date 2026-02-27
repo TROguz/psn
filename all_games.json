@@ -63178,5 +63178,135 @@
             "bronze": 54
         },
         "service": "trophy"
+    },
+    "NPWR11213_00": {
+        "npCommunicationId": "NPWR11213_00",
+        "trophyTitleName": "Volgarr the Viking",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11213_00_007F15C37128F3B789B0B1551E13382127089CBF34/AEB4A7074DDC749624211CB9AF455C87FDA6B0DC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 5,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11214_00": {
+        "npCommunicationId": "NPWR11214_00",
+        "trophyTitleName": "Volgarr the Viking",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11214_00_00D6905D9EB2603C1C4FBB94F5323A362BEC3CCCCE/CA6765E580F0385F5D7DD64C22AC450C5D895552.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 5,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11216_00": {
+        "npCommunicationId": "NPWR11216_00",
+        "trophyTitleName": "下天の華 with 夢灯り 愛蔵版",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11216_00_002A1186EFF5A067715115771A0D8C73587631D719/B8E753937003ABEE81F3F39A04B3C9766203F187.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 6,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR11217_00": {
+        "npCommunicationId": "NPWR11217_00",
+        "trophyTitleName": "DangunFeveron",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11217_00_006965CEBABA02FC50BF3509C317E24A5A4EC2A855/063B1FC0D35C1FB1867A7E928FFDBC7F0E52DFD4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR11222_00": {
+        "npCommunicationId": "NPWR11222_00",
+        "trophyTitleName": "レコラヴ Gold Beach",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11222_00_00318C2F06380ED94FF207CB01034736194F6850D9/CB65A67861763A9F98999061FF202E4CAF55C870.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR11223_00": {
+        "npCommunicationId": "NPWR11223_00",
+        "trophyTitleName": "レコラヴ Blue Ocean",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11223_00_0010D50ECA55DCF24B99CFD15AAD8CAB88CFA03C6A/A6857D00A803658F414C939BA2212ADBA3E9FEE3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR11224_00": {
+        "npCommunicationId": "NPWR11224_00",
+        "trophyTitleName": "VOLUME",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11224_00_00624D7BF54F01E50B19FCF027F37CF246E2CC3DB4/3B99F65ADA5A219122B650D9FB5B73F774C29CFA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11225_00": {
+        "npCommunicationId": "NPWR11225_00",
+        "trophyTitleName": "魔壞神兆力昂",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11225_00_00BB9F0D69C4651A2A0090BB41FCD39116BB526F0E/AE6858BD882907AFEC699098BCE1FA7EA2143BE0.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR11227_00": {
+        "npCommunicationId": "NPWR11227_00",
+        "trophyTitleName": "Invector",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11227_00_0011D175FFCD4C340E9B0C8F98E9058632201759DC/9E73BC2731D4A1B7915C5FE8529CD4F1AE6EE1E0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR11230_00": {
+        "npCommunicationId": "NPWR11230_00",
+        "trophyTitleName": "古き良き時代の冒険譚",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11230_00_00C3FB812DEB4848FE7E98041BA10C982C9DE38BE1/CE2A2B6D63F03BF142B5A96844A3B37D2A92C713.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 11,
+            "bronze": 0
+        },
+        "service": "trophy"
     }
 }
