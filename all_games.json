@@ -53558,5 +53558,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR09754_00": {
+        "npCommunicationId": "NPWR09754_00",
+        "trophyTitleName": "Battle Trivia Knockout",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09754_00_0036E005CFF35CE671B4D690D85B051037D35A7656/3439995313D402216EB555D366A7D137299AD570.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR09755_00": {
+        "npCommunicationId": "NPWR09755_00",
+        "trophyTitleName": "MLB® The Show™ 16",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09755_00_00E5B439068F59FD3D0CD23E04C0A4967DB2B2CB0D/6EECE2F947CDFD5FF5F8ECC2A162F83C549EB258.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 5,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR09757_00": {
+        "npCommunicationId": "NPWR09757_00",
+        "trophyTitleName": "GOD EATER OFF SHOT ＜アリサ編＞",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09757_00_00B03F6902ED2989249D93EFB53942173E7CC2D30A/FD7EA5AD048EE1171AE00969BAA8588AD70CABC7.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09758_00": {
+        "npCommunicationId": "NPWR09758_00",
+        "trophyTitleName": "GOD EATER OFF SHOT ＜ソーマ編＞",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09758_00_001C87DA0C4F25B038834B610E54F6E573F73A84E3/1AF5E4130E91ED0D03A0A27FB8BB20A7D10F7F8F.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09759_00": {
+        "npCommunicationId": "NPWR09759_00",
+        "trophyTitleName": "GOD EATER OFF SHOT ＜シオ編＞",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09759_00_00E2CE9B3ABFB55E787B06A7A127D0D27B1105E77D/207D3DABE021B1D66BA1696AB73F29EE32160A52.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09760_00": {
+        "npCommunicationId": "NPWR09760_00",
+        "trophyTitleName": "GOD EATER OFF SHOT ＜コウタ編＞",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09760_00_0045D4CD1746262BC4A805405D421FAAF66FC4B09E/11C4424DF48ABCD78285FAC2063CCA0CF29A6F19.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09761_00": {
+        "npCommunicationId": "NPWR09761_00",
+        "trophyTitleName": "GOD EATER OFF SHOT ＜サクヤ編＞",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09761_00_00DA9DBF04693FB1495A28B94902E76C8FB22633D4/BD397CE4C61E8EB1D822982DEF7AFE9A21AEDFF1.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09768_00": {
+        "npCommunicationId": "NPWR09768_00",
+        "trophyTitleName": "The Jackbox Party Pack 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09768_00_00A05D0A55373E6500EA869FE1486B01C37ADCA246/5284753234FEA96A8D55C0A700D06DC467EA0667.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR09771_00": {
+        "npCommunicationId": "NPWR09771_00",
+        "trophyTitleName": "Handball 16",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09771_00_000328F528DFD3FBA336B144F602CE790EA326383C/0F8FD81043F3CEF1600F01D276E1DBA8BD54E1C5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR09772_00": {
+        "npCommunicationId": "NPWR09772_00",
+        "trophyTitleName": "MLB® The Show™ 16",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09772_00_00596C3C5AF106D0F5EF753F6D028C5CDA54D12E42/193D1F7E2897C176D1D5C68DD7125D3EF76CAFA3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 5,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
