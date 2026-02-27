@@ -55638,5 +55638,135 @@
             "bronze": 14
         },
         "service": "trophy"
+    },
+    "NPWR10064_00": {
+        "npCommunicationId": "NPWR10064_00",
+        "trophyTitleName": "恋愛リベンジ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10064_00_0094D0BCF9017767A005F3BE2D3297A3994C94C519/60F18359DAD38A57B50E2F238D09EF6E65809783.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR10066_00": {
+        "npCommunicationId": "NPWR10066_00",
+        "trophyTitleName": "Enter The Gungeon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10066_00_0016F031077D3137B2465E51CA9AD043607772E7CC/3895B0E00916D8C49265181DA5A71864018FF70C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR10071_00": {
+        "npCommunicationId": "NPWR10071_00",
+        "trophyTitleName": "マブラヴ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10071_00_001C558AD180042B0B16075B6498CB0B282C868165/A0DEB7FFACC7488726FE5710B03A78F78D84CE4E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR10075_00": {
+        "npCommunicationId": "NPWR10075_00",
+        "trophyTitleName": "Sherlock Holmes: The Devil's Daughter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10075_00_004192F9DC2D02D1CE9F3547E17A8A3562AAE492EF/FEB804F8AF35668B704A0E078CDF7F0BDC83184D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR10076_00": {
+        "npCommunicationId": "NPWR10076_00",
+        "trophyTitleName": "The Technomancer",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10076_00_00A89D9A12D308E3C0B32C6E7C0A12D7F76917707F/9EAF5CE44D20CB44118E8AAFD5B4204A30A0D65B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR10077_00": {
+        "npCommunicationId": "NPWR10077_00",
+        "trophyTitleName": "爆破小超人",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10077_00_0085A43C0010BE1B9294BD2F9C48A199FC52C9F9BA/7C1997940AE688E99FF53BFD2925878433B5EB09.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR10081_00": {
+        "npCommunicationId": "NPWR10081_00",
+        "trophyTitleName": "人中之龍　極",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10081_00_005F6E5A0F20AE0E5C84DD4F073CF79359BDBBCC24/4F318428090EBB0FD19383661EAF4BCF200B1334.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR10086_00": {
+        "npCommunicationId": "NPWR10086_00",
+        "trophyTitleName": "マブラヴ オルタネイティヴ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10086_00_000F67E8A0C95BE9896557BC60BBB832EDB823CCDF/91C482848A8CF1F851971067A031C1C618CAF085.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR10087_00": {
+        "npCommunicationId": "NPWR10087_00",
+        "trophyTitleName": "DiRT Rally",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10087_00_003EF6C2C6B64081C26E36DE758B4E0736AAA45706/097EAD1956BDA61BD9C5302FAF5489E9C6A4BCEA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR10088_00": {
+        "npCommunicationId": "NPWR10088_00",
+        "trophyTitleName": "Code：Realize ～祝福の未来～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10088_00_00B0BEA5398B4104361E3AD1B532556FA31AE8997C/FD1EF2C99747CB02794FD964DCA239606852EF94.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 17
+        },
+        "service": "trophy"
     }
 }
