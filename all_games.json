@@ -86968,5 +86968,135 @@
             "bronze": 0
         },
         "service": "trophy"
+    },
+    "NPWR14267_00": {
+        "npCommunicationId": "NPWR14267_00",
+        "trophyTitleName": "GALTIA V Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14267_00_00A4A9EA98DE55AA07E647D128DD2419D45C6BACC6/020A40068CFD786D6902703311328AC2E06F6774.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 1,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14269_00": {
+        "npCommunicationId": "NPWR14269_00",
+        "trophyTitleName": "CoolPaintr Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14269_00_003238648BFF6F863613A47E7D84CE98958A0402B1/F5EFA472142F7D6496C6800E0C556E1A1197211C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 5,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR14273_00": {
+        "npCommunicationId": "NPWR14273_00",
+        "trophyTitleName": "One More Dungeon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14273_00_00892A7C770CD901ED5D12DE2C2C66C307E1D44DE0/03111B6D9852BCD35D7C444D9BE27A61B372B1DD.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR14274_00": {
+        "npCommunicationId": "NPWR14274_00",
+        "trophyTitleName": "One More Dungeon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14274_00_009910EAB9F59F5C4C256C39CF69B3A2FDD86B048C/39222DE09D38EAE89E93F431AC87EF11D0C497A2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR14275_00": {
+        "npCommunicationId": "NPWR14275_00",
+        "trophyTitleName": "Flight of Light Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14275_00_00088A938748432C223C5D4AC4419FDD50DE837334/8EBA7EDB65A58F1ECDE54196EDE8967C04C8419B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14276_00": {
+        "npCommunicationId": "NPWR14276_00",
+        "trophyTitleName": "慟哭そして…",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14276_00_0003B7EE92B639F448528D170DFB1C435DD2288D07/ADB09492C34CCC76C8659CE807A74F77933886ED.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 6,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR14277_00": {
+        "npCommunicationId": "NPWR14277_00",
+        "trophyTitleName": "大正×対称アリス HEADS & TAILS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14277_00_00EB14BD6A2F1609D5BEDBB8E5D52C207BC80A281C/D6F379090C8384E5493811C0D0A32B031EDF5E47.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14278_00": {
+        "npCommunicationId": "NPWR14278_00",
+        "trophyTitleName": "慟哭そして…",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14278_00_002D9469AB3D66E607C8BF981B3F7A89ABDE9657AA/FE8FEFACCC360B3200A7636C15DDDDE799B88848.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 6,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR14279_00": {
+        "npCommunicationId": "NPWR14279_00",
+        "trophyTitleName": "Battle of the Bulge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14279_00_0070FE405334736F0DF2E65B09E2C5E8006493FDCB/405CDB454B65D1760F5AF27269E849967F161C57.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 19,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR14280_00": {
+        "npCommunicationId": "NPWR14280_00",
+        "trophyTitleName": "金色のコルダ２ｆｆ　フォルテッシモ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14280_00_0032EA5FE1515CA7B70D7BFBB4FB4D3DB28D1C316E/25E9A5126A510215075605E6A877459B5EDDD927.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 17
+        },
+        "service": "trophy"
     }
 }
