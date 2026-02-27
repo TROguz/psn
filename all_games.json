@@ -63568,5 +63568,135 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR11262_00": {
+        "npCommunicationId": "NPWR11262_00",
+        "trophyTitleName": "Anthem",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11262_00_0070E51C3CA594EB2E7139094E9A47175C695DFBB0/8916095F6CBEA64912910E7193A862601B78DB07.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR11263_00": {
+        "npCommunicationId": "NPWR11263_00",
+        "trophyTitleName": "Overcooked",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11263_00_00BA1B9DDA3C3C2D18F3B1EAB4A4BBADB1D5561726/8725FC55D9F148A31C544CA5D9675A308FA0BE90.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11264_00": {
+        "npCommunicationId": "NPWR11264_00",
+        "trophyTitleName": "Star Hammer: The Vanguard Prophecy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11264_00_00C33B775ED5D7C5ED1256E396F860CB090167E8DB/F3AF3F3BACE49BABE36CA55093D74B7E94CAB14F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 15,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR11265_00": {
+        "npCommunicationId": "NPWR11265_00",
+        "trophyTitleName": "Brut@l\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11265_00_009DFA16D5B220FF3B6B08B74BB13FA27CAF65F9DA/2503E04B456D5FD2FA94595269C1EFE3F848F486.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR11268_00": {
+        "npCommunicationId": "NPWR11268_00",
+        "trophyTitleName": "Nebulous",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11268_00_00B0E281A137527D4F1344ADDFA6A661D5C73376E7/16F45AA68C6361133F2AC5E7347D54F9A701496E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR11269_00": {
+        "npCommunicationId": "NPWR11269_00",
+        "trophyTitleName": "Atelier Firis ~The Alchemist and the Mysterious Journey~",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11269_00_0008DDC37E800F00AADBE5B75F7F5984E725A10E17/16C7433708DF457BF40ACEDDB9649D77BE7656B4.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR11271_00": {
+        "npCommunicationId": "NPWR11271_00",
+        "trophyTitleName": "In Between Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11271_00_005DC5E761088C143D24BB166DB2B97B1EA86DE8A8/9253485DE65D4E08799D0375CC2928B338AF8319.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR11272_00": {
+        "npCommunicationId": "NPWR11272_00",
+        "trophyTitleName": "In Between Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11272_00_00E4D1635DA6FB07AB93BD5C90FD2854D6C7C7C269/0AC8B9880BF056DD7AB9A346114620A4B78F1449.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR11274_00": {
+        "npCommunicationId": "NPWR11274_00",
+        "trophyTitleName": "Dead Effect 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11274_00_0082ED0F10A3C9EB6A9B921D26FCF4F80E6F2DC70A/5CCA69946C38645FCD927C960BB867359DAA2E4D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 60
+        },
+        "service": "trophy"
+    },
+    "NPWR11275_00": {
+        "npCommunicationId": "NPWR11275_00",
+        "trophyTitleName": "Binaries",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11275_00_008F92FB114C01CCEDAFEBFFF33F10FC935CDADD33/07A4752453B717AEB1A7BADF1E4E8BF7CC9EB46F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
