@@ -91258,5 +91258,135 @@
             "bronze": 5
         },
         "service": "trophy"
+    },
+    "NPWR14823_00": {
+        "npCommunicationId": "NPWR14823_00",
+        "trophyTitleName": "Warlock's Tower",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14823_00_00AC8076D7A3B52C117C44FC4CC4F59011BDBAE419/2CFA2A6F572610F6B25E747154457CC372DD0BFB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR14824_00": {
+        "npCommunicationId": "NPWR14824_00",
+        "trophyTitleName": "Warlock's Tower",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14824_00_003D02C73932B7D53E1D9834CB44296963C83CAF93/7C24C76433C4CD86C13F254B1AA6420646A8328E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR14825_00": {
+        "npCommunicationId": "NPWR14825_00",
+        "trophyTitleName": "Warlock's Tower",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14825_00_004C10F9B0D706872E91ED504872F2D25B0FC61DF4/0DC218BD51F1F35C76A064E014B49ECFAB387369.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR14827_00": {
+        "npCommunicationId": "NPWR14827_00",
+        "trophyTitleName": "A Room Where Art Conceals",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14827_00_00E8429718D38E329DDFECBC36F80B19152A33AECE/F5499628E6803B514E8C9177F064E4D0F623EAC4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR14830_00": {
+        "npCommunicationId": "NPWR14830_00",
+        "trophyTitleName": "The Onion Knights\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14830_00_008EDD23F31E2DEE2E0AE0182255F019665FC0E049/69EE080B0C2DC4135DF1EA66D928003057E283DF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR14831_00": {
+        "npCommunicationId": "NPWR14831_00",
+        "trophyTitleName": "Kingdom New Lands",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14831_00_003958D869D3F0680C79518D93CFC24C7B15A1F1E1/088E944C35E390F16021BC9CB6E0D0DFCBEADA6E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR14832_00": {
+        "npCommunicationId": "NPWR14832_00",
+        "trophyTitleName": "The Raven",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14832_00_008090167202666962851C4271CAE41DF78F86B828/0E533E532EC8A9CACB9C958EC9CCEB430C012A76.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR14833_00": {
+        "npCommunicationId": "NPWR14833_00",
+        "trophyTitleName": "RentoTrophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14833_00_00C64F84DB6A48F77685BF5CF220CA602C03529A71/13A438B3719EBD67F461E4934C10BA9A006955B2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR14834_00": {
+        "npCommunicationId": "NPWR14834_00",
+        "trophyTitleName": "CLANNAD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14834_00_00931CD788B106F8FB741DB5201F66935EC1E2D62D/E56DE3B2E6B7ABDDFEA9E1FB409C35F5B91415EC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 15,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14836_00": {
+        "npCommunicationId": "NPWR14836_00",
+        "trophyTitleName": "キャサリン・フルボディ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14836_00_00F5D6595A33CBEEBAD28EB5CC1B34B105B0BE9E62/AC99C072EE5607EDD84DE017D26FF6D573443F94.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 48
+        },
+        "service": "trophy"
     }
 }
