@@ -57198,5 +57198,135 @@
             "bronze": 27
         },
         "service": "trophy"
+    },
+    "NPWR10323_00": {
+        "npCommunicationId": "NPWR10323_00",
+        "trophyTitleName": "Tetrobot and Co.",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10323_00_0058F2FDDBBAF5C5246E3A8AECD04EB15242FFF271/FF578FF019CC8A8D0D1CA6FE0DA760C1D309AE56.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR10324_00": {
+        "npCommunicationId": "NPWR10324_00",
+        "trophyTitleName": "Runner2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10324_00_002792B68A4660F3A107605E62857656874567BAFC/1F930B7E9F5633DD3D4B11F6A8735DF6E77BFEA6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR10326_00": {
+        "npCommunicationId": "NPWR10326_00",
+        "trophyTitleName": "크리미널 걸즈2 트로피세트",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10326_00_00F5E27FD57BD6908410DDD944258FAD3D66F9627A/E0B0370302F80E409CCC170F84BA4CD5F9E6F9E6.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 21,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR10328_00": {
+        "npCommunicationId": "NPWR10328_00",
+        "trophyTitleName": "Hitman GO: Definitive Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10328_00_0052D50FD46ED07458C0550CAC3B6552B3703E90DE/3C29D90F9202F08D75D0DE6A5A46472E2ED280AA.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 3,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR10329_00": {
+        "npCommunicationId": "NPWR10329_00",
+        "trophyTitleName": "Brick Breaker",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10329_00_001EA848718CDF48602174B9956E85FEC05DC574E1/4D3CB97658AE0AB7DEB7F09EB69D769DAF6EEE6A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR10330_00": {
+        "npCommunicationId": "NPWR10330_00",
+        "trophyTitleName": "うたわれるもの 二人の白皇",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10330_00_000D5E47E59040943750D0813739DB7D7E481F5C0C/4B7719284069838D0C2F23BAA767B12464775B06.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 4,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR10335_00": {
+        "npCommunicationId": "NPWR10335_00",
+        "trophyTitleName": "AdVenture Capitalist",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10335_00_005C98DA4C63CDABFC0F0710BF3E19302C59D6D566/203BA9F1F3751F63236302A3426EDE2C2E77B78D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR10336_00": {
+        "npCommunicationId": "NPWR10336_00",
+        "trophyTitleName": "DIABOLIK LOVERS LUNATIC PARADE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10336_00_009343B83F21EAB0B3EA24732DAD2A0D08BD73C6AB/58236BE11C1C2CF5100A5730C6D59740E5AC61E3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 24,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR10338_00": {
+        "npCommunicationId": "NPWR10338_00",
+        "trophyTitleName": "Mahjong Carnival",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10338_00_001D087A7479B4013FF884383A6EBAF2ABA88950E5/507779101565E355B6FBA70C5524FA1C746F5C26.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR10339_00": {
+        "npCommunicationId": "NPWR10339_00",
+        "trophyTitleName": "Mahjong Gold",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10339_00_002DF0077296B12FA60EA40DF8235FF65A22B2FAC9/8259412D9787A2AD26BF0B1737CD94AC4ADEEB67.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
