@@ -54208,5 +54208,135 @@
             "bronze": 4
         },
         "service": "trophy"
+    },
+    "NPWR09852_00": {
+        "npCommunicationId": "NPWR09852_00",
+        "trophyTitleName": "Dino Dini's Kick Off Revival",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09852_00_00F255DD2E62EAFF7BAE9412E0B3DEFB804B9F3739/10BE09C09164DB007F332CF17A435A821BB1B6DB.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR09854_00": {
+        "npCommunicationId": "NPWR09854_00",
+        "trophyTitleName": "INFERNO CLIMBER: REBORN",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09854_00_009E0CCF41343805C19B732E80AF058023B09A92B6/DCD54EAA5E518FDDDD055F826F1877747CAF00C6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR09855_00": {
+        "npCommunicationId": "NPWR09855_00",
+        "trophyTitleName": "Pocket God vs Desert Ashes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09855_00_00CC9F29D5FEED22A175B79FDE4C5E876A7E7A9AEF/7E1321739F5A85E31BE405C89FBE6C1EA36FA219.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR09856_00": {
+        "npCommunicationId": "NPWR09856_00",
+        "trophyTitleName": "この青空に約束を―",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09856_00_00101D0532461A0BEA9883A0C35710928A7AE316FA/C601046B24B1CFD24940C33FA48C954B546BF88A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 7,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR09859_00": {
+        "npCommunicationId": "NPWR09859_00",
+        "trophyTitleName": "Super Star Wars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09859_00_00AF9D0F16F03703A248E85EC153064796FF032A9A/4B37D9D9C3AD7AAF800F6AEA7305787AE0304ACD.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09861_00": {
+        "npCommunicationId": "NPWR09861_00",
+        "trophyTitleName": "Full Mojo Rampage",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09861_00_0085C2C2362282148A46244AEE7CC0D85EA138653F/E24912089D56F9792EF726D6F05F581408F7074A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR09862_00": {
+        "npCommunicationId": "NPWR09862_00",
+        "trophyTitleName": "Vampyr",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09862_00_00FC81FA414C9E0FE5C3A4E507686C60D825FF9172/5472DBF543D139228055098E14B20D74E8B36CB0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 17,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR09866_00": {
+        "npCommunicationId": "NPWR09866_00",
+        "trophyTitleName": "終わりのセラフ　運命の始まり",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09866_00_000B7AC7E51ECCBB34EED7C7B3B2ABD60A516EB2DD/03D8F3C0DA79CDBC207FBF4E533D147C62077AF9.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR09867_00": {
+        "npCommunicationId": "NPWR09867_00",
+        "trophyTitleName": "ヴァルプルガの詩",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09867_00_005E6BB1BA592DE270339FC007CFA86E6A71468219/961A4AD8970A21E65F41D2B7F0D955AF5A786C29.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 11,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR09870_00": {
+        "npCommunicationId": "NPWR09870_00",
+        "trophyTitleName": "Assassin's Creed® Chronicles: Trilogy Pack Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09870_00_00AF8E05CD256D72DE4EFE90C7FF18EE16239DE6B4/E1964BF9E48F96FD2D40E5FA649176AFFB56274C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 10,
+            "bronze": 43
+        },
+        "service": "trophy"
     }
 }
