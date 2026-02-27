@@ -90088,5 +90088,135 @@
             "bronze": 0
         },
         "service": "trophy"
+    },
+    "NPWR14679_00": {
+        "npCommunicationId": "NPWR14679_00",
+        "trophyTitleName": "カルマルカ＊サークル",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14679_00_005B9D4D8A024E14DDB85D7F721E97DDCC0276525C/17D77EF6C9B9EF23F981155F0D37CF777AEBE70C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 7,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR14681_00": {
+        "npCommunicationId": "NPWR14681_00",
+        "trophyTitleName": "ACA NEOGEO REAL BOUT FATAL FURY 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14681_00_0034D5F9C99924F909E289AF0C84B81DE0A5812ECF/D072D7A2FCD67E181E6E1F9FE31448D8B84A7217.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14682_00": {
+        "npCommunicationId": "NPWR14682_00",
+        "trophyTitleName": "Premium Pool Arena",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14682_00_000AFC9F67D51EA782327D7DAC695445A0E4B38A46/5E2F9B277E4416C5926E52D234E046D71C887321.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR14683_00": {
+        "npCommunicationId": "NPWR14683_00",
+        "trophyTitleName": "Lunch Truck Tycoon 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14683_00_00FEE7F63EDA3232C4EBDCF1972F0E921CF0C75EAA/6FE65E5B433FA8299C57893AB434B527D8969FAC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR14684_00": {
+        "npCommunicationId": "NPWR14684_00",
+        "trophyTitleName": "Where Are My Friends?",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14684_00_000B4B16BAC5F6D3BED6C16AEA2281EC11A82E299D/6650534A2C3345A71745BBE0E71F6A8A50B6D51A.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR14685_00": {
+        "npCommunicationId": "NPWR14685_00",
+        "trophyTitleName": "Birdcakes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14685_00_00B66BBCDB237086CCEBC2013DA5B9121BD7F7751C/B217E8B529BD581FF8AB3A27374A2BF91C1C1CD1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 0,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR14689_00": {
+        "npCommunicationId": "NPWR14689_00",
+        "trophyTitleName": "CRYSTAR\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14689_00_00AF62D766703ABE498EDF49B43B0771F83FA334BD/9F44BB4F65AA506452430AFC5150155B215DBD8C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR14690_00": {
+        "npCommunicationId": "NPWR14690_00",
+        "trophyTitleName": "Darkest Dungeon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14690_00_0005DF56019F399976773F17F60CEE835FCBE22610/92C44D7B75DB6C4DB49C13A9E5228031ABF443F4.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR14691_00": {
+        "npCommunicationId": "NPWR14691_00",
+        "trophyTitleName": "Gnomes Garden: New home",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14691_00_0005608874462671B13A5E5051C13C2AD1D737C833/142BDD793B4E79E5D68273853401671F274ABBB1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14692_00": {
+        "npCommunicationId": "NPWR14692_00",
+        "trophyTitleName": "Gungrave VR Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14692_00_008F0C1EF69079F0EBE35E2EDF4D964DB3B0D0D0EE/DAA085ECBFA570544BD7BD97D435C518D9E68018.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
     }
 }
