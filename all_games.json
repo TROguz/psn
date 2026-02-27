@@ -33018,5 +33018,18 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR05245_00": {
+        "npCommunicationId": "NPWR05245_00",
+        "trophyTitleName": "Super Motherload",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05245_00_00C4B60722E6186461718361140CB1AA1C8DF8DEBA/354C2DBED6569B9D895645BDC501CB095E6F40C8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
     }
 }
