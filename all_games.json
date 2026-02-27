@@ -66298,5 +66298,135 @@
             "bronze": 5
         },
         "service": "trophy"
+    },
+    "NPWR11615_00": {
+        "npCommunicationId": "NPWR11615_00",
+        "trophyTitleName": "3on3 Freestyle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11615_00_002E46A00C5BC037A3C19EC9757A412EC020E67583/DD59254E8B4C8D0B037DC9499AA55628680EA61C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR11617_00": {
+        "npCommunicationId": "NPWR11617_00",
+        "trophyTitleName": "METAL MAX Xeno",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11617_00_009AE9BDF2735259BB0F2D98CB136EB6EF3D4C422C/E637D90F42B34F7185AAD04256839FA3E8C23160.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR11618_00": {
+        "npCommunicationId": "NPWR11618_00",
+        "trophyTitleName": "Nine parchments\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11618_00_007E4A93C314DEBE045B7C9E5B22C4D0E0E0AC3870/1FEE3A3BE7B4C3A8F355469B1FBAD0FAE5F6E3EB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR11619_00": {
+        "npCommunicationId": "NPWR11619_00",
+        "trophyTitleName": "Need for Speed™ Payback",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11619_00_00C9019FFB34CD1FEBE6CCDCA91FC664AB4561C053/26EDFCCDE962840728E58CBA3736C35ACC82CA26.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 47
+        },
+        "service": "trophy"
+    },
+    "NPWR11622_00": {
+        "npCommunicationId": "NPWR11622_00",
+        "trophyTitleName": "ROCKETSROCKETSROCKETS ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11622_00_00DD2F1BC2A6A7BC0B0174D8CFA52FAA386A5463EE/D7036A977D0873EC5463839C63E437AC027614FF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR11624_00": {
+        "npCommunicationId": "NPWR11624_00",
+        "trophyTitleName": "THE IDOLM@STER CINDERELLA GIRLS VIEWING REVOLUTION",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11624_00_004AF2CD46F4FD1703F46AF43F95A5F9EDB0A0CF1C/28067C6B4D9BE411A56E606EC52B4BEA3087E38A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR11628_00": {
+        "npCommunicationId": "NPWR11628_00",
+        "trophyTitleName": "NARUTO: Ultimate Ninja STORM",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11628_00_00284EBB26D0D5AE8103147D3DA3BC184A884F1D0F/2381643C05631D622509AE0C4E1EF75388EF0B01.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 11,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR11629_00": {
+        "npCommunicationId": "NPWR11629_00",
+        "trophyTitleName": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11629_00_008804AD8953D495F63FAB9F791C3A32308F7212D1/D34FF296EA42DF62CC7E06AFF00A40D6E44FCD51.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 4,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR11630_00": {
+        "npCommunicationId": "NPWR11630_00",
+        "trophyTitleName": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11630_00_008C7596AE88E1BF57530D84F5E92CC6E1FCC36637/897E955D54A9104A19A4410D7CF640322ED47062.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR11631_00": {
+        "npCommunicationId": "NPWR11631_00",
+        "trophyTitleName": "Monster Hunter: World",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11631_00_00AF96CD661F7ECAC2E9F9DBADC3A1C0C2BBB04299/67E948C61D595CD07C289191E47DAE647C0E7811.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
     }
 }
