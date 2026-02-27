@@ -83068,5 +83068,135 @@
             "bronze": 53
         },
         "service": "trophy"
+    },
+    "NPWR13769_00": {
+        "npCommunicationId": "NPWR13769_00",
+        "trophyTitleName": "放逐選舉",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13769_00_009F40AE96DF6EC100377F05A1109090D83AE13599/B226C9913B5914E5085C09971A099B6969504F4B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 28,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR13770_00": {
+        "npCommunicationId": "NPWR13770_00",
+        "trophyTitleName": "深夜迴",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13770_00_0096826F57E57A193B826563E2847B146012BC0B25/BEAAA3702B73AB4E0973C3C641B3688B09424B2D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR13771_00": {
+        "npCommunicationId": "NPWR13771_00",
+        "trophyTitleName": "Dead Hungry",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13771_00_009E64F2942E9EC2540C2743FA462EAA597F059273/06437278A222D764070031D54C038FB1560CFE94.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR13772_00": {
+        "npCommunicationId": "NPWR13772_00",
+        "trophyTitleName": "Super Hydorah",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13772_00_00FD7245BB5FBB1A96C0E765042D6CF8C65A230EF7/06B84EE0517DE06646A7ACBE533F8C3730DECCF4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR13773_00": {
+        "npCommunicationId": "NPWR13773_00",
+        "trophyTitleName": "Outcast - Second Contact",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13773_00_00CAD550075C60BD272E1F6111288752BF54E84405/708169275BCC2A36E68F1BA2EAC7F24F6AD3F950.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR13774_00": {
+        "npCommunicationId": "NPWR13774_00",
+        "trophyTitleName": "The Count Lucanor",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13774_00_00F82B9DE92D2CAB9D6CDF8BBD42F68C3876111780/81A7AE59995F25FD36379C224E9962B992A1C7B6.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR13775_00": {
+        "npCommunicationId": "NPWR13775_00",
+        "trophyTitleName": "The Count Lucanor",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13775_00_00D89A47ED8422B7C422B21ECB4D4CDC5188E2347E/DB29F2D3B07A4B68B497F239AD450FB6CCB6881B.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR13776_00": {
+        "npCommunicationId": "NPWR13776_00",
+        "trophyTitleName": "The Count Lucanor",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13776_00_002E46F8C6E7568DD51EF3ED1AA91D00D64293F422/A8F60B9807A60F02B7A2D65809E0ECAF67601EDE.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR13777_00": {
+        "npCommunicationId": "NPWR13777_00",
+        "trophyTitleName": "Licky The Lucky Lizard Lives Again",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13777_00_00109D69AA1CF84507F02EFC8CE11CE87403DF696D/81ED8CE2D05CA7BF7E1C9A8172387405581508BB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR13778_00": {
+        "npCommunicationId": "NPWR13778_00",
+        "trophyTitleName": "Spacejacked",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13778_00_00429CEBB2F470084075008C08794915A71C52B3EA/D48E9C22976801A85E2D5531A0EC346C898A4576.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 17,
+            "bronze": 3
+        },
+        "service": "trophy"
     }
 }
