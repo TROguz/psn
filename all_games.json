@@ -87618,5 +87618,135 @@
             "bronze": 14
         },
         "service": "trophy"
+    },
+    "NPWR14345_00": {
+        "npCommunicationId": "NPWR14345_00",
+        "trophyTitleName": "VARIABLE BARRICADE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14345_00_003589ACED88A992902B92BE5FB6C779281C2D5DF6/4A4C2984A5BECB190A6331F66DA26AB51D79B30E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR14350_00": {
+        "npCommunicationId": "NPWR14350_00",
+        "trophyTitleName": "The Crew® 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14350_00_00D20733C8935EA45337EA5EA6BA2EA842F5F8CE52/0DBB044737B80AE1928BBF53ABE894057DD0AA1E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR14353_00": {
+        "npCommunicationId": "NPWR14353_00",
+        "trophyTitleName": "Volgarr the Viking",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14353_00_00E054FAFDEE88391DBCA32CCE79111B26EFD7A511/D46C1258E7E44626C5B5675F68D494D0428B0286.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 5,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14356_00": {
+        "npCommunicationId": "NPWR14356_00",
+        "trophyTitleName": "Granblue Fantasy: Relink",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14356_00_0027037A56F160864137E4C7340FE5DBE38B49F76B/067B4FED4B91393112288C52CF2A1BC43E91D527.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR14359_00": {
+        "npCommunicationId": "NPWR14359_00",
+        "trophyTitleName": "DIABOLIK LOVERS GRAND EDITION",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14359_00_00E30C94D3159D5ABEAEEE7AB8637F9D2DFDA354D4/7A8111735517D3424296FA9F9294FC5C8165AAA6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 24,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR14361_00": {
+        "npCommunicationId": "NPWR14361_00",
+        "trophyTitleName": "Assassin's Creed® Rogue Remastered",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14361_00_000574A3EB0C079E24BA5715F624FE63E1032EF662/508DE9FD9BDF741DC311D6C44F902BF100D9D901.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR14366_00": {
+        "npCommunicationId": "NPWR14366_00",
+        "trophyTitleName": "Nidhogg 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14366_00_0071D51807C3D027D8C329E66A238DB4DFAAE2C797/51E16C4CC115B96FCFDF498E879FEAE8869394F0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 6,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14368_00": {
+        "npCommunicationId": "NPWR14368_00",
+        "trophyTitleName": "Carly and the Reaperman",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14368_00_007E55E644B0C99A5AD87A80CB4303806B4F62C497/95C8C3255A2BAE652E8DED07F027D54ED5D4EA9F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 15,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR14374_00": {
+        "npCommunicationId": "NPWR14374_00",
+        "trophyTitleName": "Haimrik",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14374_00_006CF914310EFC62156DFA9C3185F95EF9A2BBD260/F35F5878AEFBB76D1B0D0E48FA92863CFED9D805.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR14376_00": {
+        "npCommunicationId": "NPWR14376_00",
+        "trophyTitleName": "Déraciné™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14376_00_00816433537791C8CD4382B087120558697812879C/EFFCBFF97FFC2E99B945813B20BE9E7A673A4E69.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 0
+        },
+        "service": "trophy"
     }
 }
