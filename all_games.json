@@ -34188,5 +34188,135 @@
             "bronze": 35
         },
         "service": "trophy"
+    },
+    "NPWR06283_00": {
+        "npCommunicationId": "NPWR06283_00",
+        "trophyTitleName": "ルートダブル -Before Crime * After Days- Xtend edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06283_00_0072226460DBD2CB80427EFA20078049E78A66B03E/110DBE881AAC29662D5FDE325579AF3301849B2D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR06289_00": {
+        "npCommunicationId": "NPWR06289_00",
+        "trophyTitleName": "Infinita Strada",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06289_00_00504DCF050C7032EB92C9637CB03D284D57679739/39434B7F917F673D62A106DD3BF2013F71B5948D.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR06294_00": {
+        "npCommunicationId": "NPWR06294_00",
+        "trophyTitleName": "R.B.I. Baseball 14",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06294_00_00EE9C8BDE1EE4FEBD76CB8C8EF715BF488C786FFF/D9DA2FDDDC2911608C0712BBB9584B2C234FE0F1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR06300_00": {
+        "npCommunicationId": "NPWR06300_00",
+        "trophyTitleName": "Minutes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06300_00_001F20D766FD66D8E6418738BF98898C2F4855A396/4253E639A3EDCB449904B11829348F51B78C674E.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR06301_00": {
+        "npCommunicationId": "NPWR06301_00",
+        "trophyTitleName": "R.B.I. Baseball 14",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06301_00_0059EA39E54DA9732B5B8243F73BC06BCEC01F1C3E/2B1D0026ADA38404E384EF08C01D25449B4C0457.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR06302_00": {
+        "npCommunicationId": "NPWR06302_00",
+        "trophyTitleName": "Beyond: Two Souls™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06302_00_000FD67BBE3B3A789A3FCBB8271D46A9D7B8A1F32B/C583904ACC3E3BF5734BECBACE7FBC7BDC256F1C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR06306_00": {
+        "npCommunicationId": "NPWR06306_00",
+        "trophyTitleName": "Pier Solar and the Great Architects",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06306_00_00557584D25D6234F00E4B6122290065914ECBBA7D/05EF84E4D469D6875F0FC780F32379B8CF31FA20.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR06308_00": {
+        "npCommunicationId": "NPWR06308_00",
+        "trophyTitleName": "Mugen Souls Z",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06308_00_00E4F8D4E8FF83C4122A47C94163AF1A0F78014902/A76EC4428DC1E14D34CDC4DCF422D3A5CFFD87D5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR06310_00": {
+        "npCommunicationId": "NPWR06310_00",
+        "trophyTitleName": "Metropolis Defenders",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06310_00_003ADDA9FB7E43B9778CED21A450FC916B162A8B53/8DCA010999CAE6C879965202D688F0FB40144F8B.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR06314_00": {
+        "npCommunicationId": "NPWR06314_00",
+        "trophyTitleName": "Jimmie Johnson's Anything With An Engine",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06314_00_007748CEEB7F3CC9B2805F7AAB5422FBA45B46F924/C6B0A44079059485A42F68CAB5A1E2949976187E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 8
+        },
+        "service": "trophy"
     }
 }
