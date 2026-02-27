@@ -33408,5 +33408,135 @@
             "bronze": 46
         },
         "service": "trophy"
+    },
+    "NPWR06112_00": {
+        "npCommunicationId": "NPWR06112_00",
+        "trophyTitleName": "UNDER NIGHT IN-BIRTH Exe:Late Trophy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06112_00_001E5516D7F27021955774EB0881F1B6974E95818E/BDEA14C6F89AB9998CDC67D74502DC6D055A1EE8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 3,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR06119_00": {
+        "npCommunicationId": "NPWR06119_00",
+        "trophyTitleName": "この歌が終わったら",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06119_00_00A329E536D68A66651E28D1EA19F03EB6FCFF7FF1/748E523AEED7F6220A46183044F47A3EBA5810F6.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR06120_00": {
+        "npCommunicationId": "NPWR06120_00",
+        "trophyTitleName": "THE どこでもギャル麻雀",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06120_00_0084D1891EB2754D61708BB815F282F0D5CBF9B93E/FE474A4EEFDD6BBAE4397FCA6CB9EF1B7BBC5EBD.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR06121_00": {
+        "npCommunicationId": "NPWR06121_00",
+        "trophyTitleName": "雷電IV OverKill",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06121_00_00FB421B625C14C6B186F433D9DA658AEB090CE879/62100937B2A942BF53178BA3AB35C9B60A6855E4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 4,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR06122_00": {
+        "npCommunicationId": "NPWR06122_00",
+        "trophyTitleName": "カラドリウス ブレイズ\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06122_00_00EDF8425FAB06486D765FDA9A2262FA7F86508E79/201B71DD9AC5D2A81B844CE16C3C5D34421068F0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR06130_00": {
+        "npCommunicationId": "NPWR06130_00",
+        "trophyTitleName": "マブラヴ photonflowers*",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06130_00_0094F0C8B19E80C0D58D447FD85F8C230AA0E88730/D1A0060CDEB7CF4E1B34EB823B5F3994896398DA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR06135_00": {
+        "npCommunicationId": "NPWR06135_00",
+        "trophyTitleName": "Risen 3 - Titan Lords",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06135_00_0074FADA3D605388EED44CC824FCCCC31C0E254441/B431A7A19A4FE85FD25A9C4EAAF9BFD8BD4BBC07.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR06136_00": {
+        "npCommunicationId": "NPWR06136_00",
+        "trophyTitleName": "Gravity Crash™ ULTRA",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06136_00_00E10022752FB19522978A54B285E5B1D8EA10C775/FB4B2CB6BF7DD220327B08B978E1A3CF46CD2CC0.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR06140_00": {
+        "npCommunicationId": "NPWR06140_00",
+        "trophyTitleName": "Tales from the Borderlands",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06140_00_00AA7E4622341120E7806749042E7BC68DACE3DC25/F280C58F6A2293ACEA9E746B515CEBE15E54C325.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR06141_00": {
+        "npCommunicationId": "NPWR06141_00",
+        "trophyTitleName": "PixelJunk™ Shooter Ultimate",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06141_00_0034480BEDFCF723A91639D9D6A3313165062DEFF1/BA38001CA77C86C546153CFF17106188A4081FAB.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
