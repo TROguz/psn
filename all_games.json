@@ -69938,5 +69938,135 @@
             "bronze": 16
         },
         "service": "trophy"
+    },
+    "NPWR12084_00": {
+        "npCommunicationId": "NPWR12084_00",
+        "trophyTitleName": "東方紅舞闘V",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12084_00_009DA6E89557A1CED5A035312078961FBF4538144D/D9D615296864670B951BC1A66EDE25EAF3E58033.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR12085_00": {
+        "npCommunicationId": "NPWR12085_00",
+        "trophyTitleName": "東方紅舞闘V",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12085_00_00676E1B8C85C4693AB73058B4B38E4F6E622E4304/FE2E69E842206814BA4F089B89E94122DB97FAD1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR12087_00": {
+        "npCommunicationId": "NPWR12087_00",
+        "trophyTitleName": "Chronicles of Teddy : Harmony of Exidus",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12087_00_0027047A07FE1812B267D0BBE6988752ED2A14A7A5/1D15B7455CCC1B514706EDF1A0D9B0CFA4C9F128.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR12089_00": {
+        "npCommunicationId": "NPWR12089_00",
+        "trophyTitleName": "Clockwork Tales: Of Glass and Ink",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12089_00_00073A0EBCA1F8D63589859AD9978EDCB60603703B/638FCC8C7ED9F1BBE44BC7719A5219881E94C372.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR12090_00": {
+        "npCommunicationId": "NPWR12090_00",
+        "trophyTitleName": "Vikings: Wolves of Midgard Trophies\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12090_00_00A86E62C70B0EB1D278C88C02F78F528CA50BFC0E/86C519A18E94C8E127E4CDF2A698030D0EC3E307.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR12091_00": {
+        "npCommunicationId": "NPWR12091_00",
+        "trophyTitleName": "Knee Deep",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12091_00_003A11A081CF05209A6EFF4410915DB4AF221238D8/3B511775ED43FEC1BD14A37A88BE8156C3E78837.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR12092_00": {
+        "npCommunicationId": "NPWR12092_00",
+        "trophyTitleName": "Time Machine VR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12092_00_0024289F03E2E13264F364AF0E8F5DAB8586B4F937/A000D2362B53143C557DC3CAEAFF7471F8211F5F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR12094_00": {
+        "npCommunicationId": "NPWR12094_00",
+        "trophyTitleName": "魔女と百騎兵２",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12094_00_008D89A2079D4C62866CADEBE0F4FA9ADEDBBD5EC3/B9567190E5C065C38DAFE251D06E29D3BAFFC0FB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR12095_00": {
+        "npCommunicationId": "NPWR12095_00",
+        "trophyTitleName": "Nurse Love Addiction",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12095_00_00A32812F76EB2CB1D34E845C3A5F742F8342422A4/F118F71108D3230196ADCC909B1D82F25DDC5FD0.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 5,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR12096_00": {
+        "npCommunicationId": "NPWR12096_00",
+        "trophyTitleName": "蒼の彼方のフォーリズム HD EDITION",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12096_00_00BD2950B9BEC866EA66F0D5727B77B6ECD845A493/8AFD71C395032F95E5359DCE1EA552D0A1563B0E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 4,
+            "bronze": 33
+        },
+        "service": "trophy"
     }
 }
