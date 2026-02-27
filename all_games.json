@@ -43028,5 +43028,135 @@
             "bronze": 29
         },
         "service": "trophy"
+    },
+    "NPWR08097_00": {
+        "npCommunicationId": "NPWR08097_00",
+        "trophyTitleName": "Winning Post 8 2015",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08097_00_00B874155F3ACB6786ACD0BBB704C175B3F06E4C22/663FA7F25442D5D8BE00E534175DDB60737FB15C.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR08100_00": {
+        "npCommunicationId": "NPWR08100_00",
+        "trophyTitleName": "Shantae: Risky's Revenge - Director's Cut",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08100_00_00422715703580DB3F6635FB32F5CC46A6C34F7326/9E70FFCCAE5EC380D0D44C805D758B6F1D0ECD86.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR08102_00": {
+        "npCommunicationId": "NPWR08102_00",
+        "trophyTitleName": "Alien: Isolation",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08102_00_00890060D2929A11B534D16A03054634A69E5A0BFC/7AB9C3FC5150D81E73488F2D9090CA85438CA566.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR08103_00": {
+        "npCommunicationId": "NPWR08103_00",
+        "trophyTitleName": "Abyss Odyssey",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08103_00_00954245A7069E3DBFEF6C16A6A77E7E34CE0154A7/6A5149197B87ECBCCC759A474D3FEC62A88CAFBC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR08106_00": {
+        "npCommunicationId": "NPWR08106_00",
+        "trophyTitleName": "Giana Sisters: Twisted Dreams - Director's Cut",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08106_00_00702DBC3A1AB4C5DC8DF989E24420F0F6B77E134A/6EFBC1A6169046B1C0A86368B53C5AD0F1FBD3CE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR08110_00": {
+        "npCommunicationId": "NPWR08110_00",
+        "trophyTitleName": "Sayonara UmiharaKawase +",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08110_00_0079C1AC5CF57098E11038498ABB9B9F5CF7EAA32B/3FC32C3BD2B6EF5AC9CDBD0EF25F4788517A8262.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR08114_00": {
+        "npCommunicationId": "NPWR08114_00",
+        "trophyTitleName": "大図書館の羊飼い -Library Party-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08114_00_00F2DC537944BAB43C00FC4D41AB0889B56F4B63DA/BE90DBF08E459692F1BA6D897C799FCF141CE99C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR08121_00": {
+        "npCommunicationId": "NPWR08121_00",
+        "trophyTitleName": "Prismatic Solid Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08121_00_008896ABF34D7FC4B65476EB078740618DD412361D/22DCC07B63842C05E158BD8FA4C87BC4B69153E8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR08129_00": {
+        "npCommunicationId": "NPWR08129_00",
+        "trophyTitleName": "King Oddball",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08129_00_00A8F381128A7FB91A67EFDDBA438019492A18ED18/205622796EA6AC307EAE654D2832C4D63A4652CD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR08130_00": {
+        "npCommunicationId": "NPWR08130_00",
+        "trophyTitleName": "GUNS UP!™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08130_00_00492266DBDE9B2A8426F97CEECC56DDA95D58D31A/2D49CEA4DEA1437B6D7CE0BEF34FC9326A6F5E7A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 13
+        },
+        "service": "trophy"
     }
 }
