@@ -29768,5 +29768,135 @@
             "bronze": 38
         },
         "service": "trophy"
+    },
+    "NPWR05342_00": {
+        "npCommunicationId": "NPWR05342_00",
+        "trophyTitleName": "The Wolf Among Us",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05342_00_0023E500CEE87DED517B6B7F512687941891D076E0/1D65FE3292BC9649D892F30D290DA4CF7CE894EF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR05348_00": {
+        "npCommunicationId": "NPWR05348_00",
+        "trophyTitleName": "Awesomenauts Assemble!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05348_00_005CBCE512CA39DF32B08FC0FA2F4B10A2A7355A03/03593D9C22D4E99F96696E5A524EA3FFB22E9F52.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR05351_00": {
+        "npCommunicationId": "NPWR05351_00",
+        "trophyTitleName": "Tutorial Shooting Game",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05351_00_0093D37693D62FFCCC48AB7962D4D8D06CAF8806D4/3606091C028E5870FC1BAB3F9A32E0EED68B3E4E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR05356_00": {
+        "npCommunicationId": "NPWR05356_00",
+        "trophyTitleName": "Pinball Arcade",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05356_00_004934698B100525CF27470AE38DF0402A55D7D0A6/6CAB95C5EF0D76001E456A85378DEB1FC7A83C55.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 91,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR05357_00": {
+        "npCommunicationId": "NPWR05357_00",
+        "trophyTitleName": "NBA LIVE 14",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05357_00_0061CF13DF9F76109ADEA35252E59328CE9C602026/A0236DB34F53F090E68B66F8B6947F2B0C8C5439.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR05359_00": {
+        "npCommunicationId": "NPWR05359_00",
+        "trophyTitleName": "Madden NFL 25",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05359_00_00D9A02A6023281F5A9BF4323951BFEAAA01AF9296/50883D1578E27ACE1D054DE6A15BF6484FF4471D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR05360_00": {
+        "npCommunicationId": "NPWR05360_00",
+        "trophyTitleName": "Escape Plan",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05360_00_000FFD92C6C1BC36EA30BB2C17B209268B9F8F39AF/0FB50E22DCDD3E99008BE7BB85F3212397AE18CD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR05367_00": {
+        "npCommunicationId": "NPWR05367_00",
+        "trophyTitleName": "Tutorial Shooting Game",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05367_00_00BD51BE39A5927F6B16E9F9A5339CD3331ECDEE41/BD8061B31386D4A142E8DA8225591044273306C7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR05377_00": {
+        "npCommunicationId": "NPWR05377_00",
+        "trophyTitleName": "The Amazing Spider-Man",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05377_00_00E7E9DC740B889B75A55A9C3B2C4696CCB96A3763/0B444D21D39D9625E5508AC032803F8DD1D2C0DF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR05379_00": {
+        "npCommunicationId": "NPWR05379_00",
+        "trophyTitleName": "Indoor Sports World",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05379_00_0076CEB5BCCCCD0CFE01FDE892901976B1B9562821/23D044224A06FB92A3258C95B86D058A27C637B9.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
