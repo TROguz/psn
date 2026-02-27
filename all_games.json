@@ -45498,5 +45498,135 @@
             "bronze": 21
         },
         "service": "trophy"
+    },
+    "NPWR08493_00": {
+        "npCommunicationId": "NPWR08493_00",
+        "trophyTitleName": "Goes!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08493_00_00B49704504938FE471B0EF534FC92992B5B3F747B/967BA67CBF1ABC259FDE578B057E980AD7A5B3BE.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 14,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR08495_00": {
+        "npCommunicationId": "NPWR08495_00",
+        "trophyTitleName": "Hatoful Boyfriend",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08495_00_00967D6CF7F78F35B1D318684E7280C4F43BAD2FE9/5DFB1A04E80027B2534385952FEE8C3ABF77D13A.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR08496_00": {
+        "npCommunicationId": "NPWR08496_00",
+        "trophyTitleName": "Tower of Guns",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08496_00_008815FF7B0168FF9080C3BC1B97B798BB66A965C3/19F7418B5DD51BF69685B7ACB6465DB1E0F2FC23.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08498_00": {
+        "npCommunicationId": "NPWR08498_00",
+        "trophyTitleName": "Dead Island Retro Revenge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08498_00_006857D27B1AB8BFE81DCA50388C6B51D6F24551B1/6B62411DE794DEBC6533A0ABC011760A64D6AD4E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR08501_00": {
+        "npCommunicationId": "NPWR08501_00",
+        "trophyTitleName": "EA SPORTS™ UFC® 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08501_00_00E9B118022FF6389B778A5845EFA6A1A6BD8BBD35/F5BEA2E02DE0DFF4F84A568AE6D8FA6AB5F9660B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR08502_00": {
+        "npCommunicationId": "NPWR08502_00",
+        "trophyTitleName": "Marvel Puzzle Quest",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08502_00_0035C85519B0BBD69AB1979EE200D7A881622C159C/BE55CE3B05F64AD39165E14C3E5F927AC65CFBCD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08503_00": {
+        "npCommunicationId": "NPWR08503_00",
+        "trophyTitleName": "NHL® Legacy Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08503_00_00E58D1ACEA7C9053E6AC3EBB8B5AF68D46CBD5E82/B5199121C910F2292B1CE21DB4D4BABDE67DD28A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 13,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR08504_00": {
+        "npCommunicationId": "NPWR08504_00",
+        "trophyTitleName": "人狼ゲーム",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08504_00_00925DE08B989E9E222E0D9F2506A07B248E41FF7C/B41F0839B6E6E6AE67BE5BB3EBC13A3FD3F61FFD.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08506_00": {
+        "npCommunicationId": "NPWR08506_00",
+        "trophyTitleName": "Space Hulk",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08506_00_0047DEB346CEF6BC487515C03A5C91483C50AAFD38/7E8D983E3036E8E5CDD995CD7C5F5B04ECCDC4EE.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR08509_00": {
+        "npCommunicationId": "NPWR08509_00",
+        "trophyTitleName": "POSSESSION MAGENTA",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08509_00_006CB08A96F688E4521CC6CE5182CCEE09938E508D/BC64F71E9216DC16AFC518CB26CA20EE1AA0278E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 19,
+            "bronze": 1
+        },
+        "service": "trophy"
     }
 }
