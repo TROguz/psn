@@ -75918,5 +75918,135 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR12816_00": {
+        "npCommunicationId": "NPWR12816_00",
+        "trophyTitleName": "Deemo The Last Recital",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12816_00_008252DA9F85298A18C13CD1A831E9E549F759F8DC/B7F6B5933C62254DC79AD8C64C52EB03C9B4B3E1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR12817_00": {
+        "npCommunicationId": "NPWR12817_00",
+        "trophyTitleName": "1000 Top Rated Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12817_00_000CBC80EF1F7ED9D934B5A4E95071D2ACBACDA741/50430E97FBA93236FB5DC0EED0D950D47139C2FA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 14,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR12818_00": {
+        "npCommunicationId": "NPWR12818_00",
+        "trophyTitleName": "Neighborhorde",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12818_00_004A94521F463F77CD7D1CEE94CFA2866FBC50E764/47EF8317F967D1951D377221CF08BFE0A6B4953A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR12820_00": {
+        "npCommunicationId": "NPWR12820_00",
+        "trophyTitleName": "Infinite Minigolf",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12820_00_00BB5B0C83907B698E0612EA25007EC803DCDFBFBB/4F55C9EBE99093E79D69B47EC284B1B2E31A0122.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR12829_00": {
+        "npCommunicationId": "NPWR12829_00",
+        "trophyTitleName": "Claybook",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12829_00_001D2301F2A93DDA8C7E9F084FACC8C7E957504E56/E4439DE9D63A543468D7C4872B0750FD52543EDA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR12833_00": {
+        "npCommunicationId": "NPWR12833_00",
+        "trophyTitleName": "What Remains of Edith Finch",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12833_00_005E5C413835BE83BAE808E52E666628866CEE5B67/3F64F19F7042297B1DA8E034C03AC1CCF7A4926F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR12834_00": {
+        "npCommunicationId": "NPWR12834_00",
+        "trophyTitleName": "Hyper Attraction Sky Games",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12834_00_008793DFD37311EC8619528AFC40357B5866F6D86C/EF6816CFB37717B9378DA9468A98CC10C7791D2C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR12841_00": {
+        "npCommunicationId": "NPWR12841_00",
+        "trophyTitleName": "MotoGP™18",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12841_00_00946CD38583E1A270269778588DAD4626267B59E9/8F307B8A66DD420107350F1BE591AF14135CD542.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR12843_00": {
+        "npCommunicationId": "NPWR12843_00",
+        "trophyTitleName": "마녀와 백기병2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12843_00_006CCE4561230FE1367977B850CD8F26A7500723BE/CC3404E2E7D598C3245DEE058635630754F66045.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR12844_00": {
+        "npCommunicationId": "NPWR12844_00",
+        "trophyTitleName": "イケメン戦国◆時をかける恋　新たなる出逢い",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12844_00_00B28E1A8D67BE5C5F14576AF08929C7D200FA759D/2D183B254CDF8A64A0EFDE6B8A9F73A070E7164E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 25
+        },
+        "service": "trophy"
     }
 }
