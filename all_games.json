@@ -42378,5 +42378,109 @@
             "bronze": 13
         },
         "service": "trophy"
+    },
+    "NPWR07986_00": {
+        "npCommunicationId": "NPWR07986_00",
+        "trophyTitleName": "Hyperdevotion Noire: Goddess Black Heart",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07986_00_00E4DF26E0BA5BB634545F23A44C9D8051B67934E5/B53E8E8E3CE86FE9F3F5DCADD8A7A5D42A8B715F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR07990_00": {
+        "npCommunicationId": "NPWR07990_00",
+        "trophyTitleName": "Home",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07990_00_00CA908CDA59F8FCFC65EDFFF825455EE155A551D4/553B755E335A26755CEE939C6F0F1F7C9B0DAEF5.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR07993_00": {
+        "npCommunicationId": "NPWR07993_00",
+        "trophyTitleName": "Cosmophony trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07993_00_009EC5D02547B7117F45BBCD2CA277C6AF5057E3A0/0BDFAB8C52F689554911B0DF2CB18BD5B52879ED.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR07995_00": {
+        "npCommunicationId": "NPWR07995_00",
+        "trophyTitleName": "Speakeasy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07995_00_000C25A49058FD106B8155233A94247428B3396F62/1E521AFA2768CE71B0B7F2C9738FD0AA1A32B608.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR07996_00": {
+        "npCommunicationId": "NPWR07996_00",
+        "trophyTitleName": "英雄伝説 空の軌跡 FC Evolution",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07996_00_00E2D929AA3E656BB118E7439A8C9645C014507DC3/A92B8146A080200B0DF26A7FD357C17DD6E3F60C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR07997_00": {
+        "npCommunicationId": "NPWR07997_00",
+        "trophyTitleName": "Deadman's Cross",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07997_00_00E31F5EFEA792AF2488EDEE907598849B0DD13BF5/EA0EBE991C49DF242713E18A2B592D36EDF78424.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR07998_00": {
+        "npCommunicationId": "NPWR07998_00",
+        "trophyTitleName": "DEAD OR ALIVE 5 Last Round",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07998_00_003ECAF38D33F76D2A56117F3104BD7D76F864094B/26CFCAD124C5DA7F42E8F499D1FDEE59FBFF0FED.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR07999_00": {
+        "npCommunicationId": "NPWR07999_00",
+        "trophyTitleName": "カレイドイヴ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07999_00_00E0F98FE88A6AD7EC400A648C2CCCE888A7BF7352/716290B3C1D56F2C59A871398A1E19CF66FFDBBF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 18,
+            "bronze": 12
+        },
+        "service": "trophy"
     }
 }
