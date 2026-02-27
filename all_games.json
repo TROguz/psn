@@ -86708,5 +86708,135 @@
             "bronze": 15
         },
         "service": "trophy"
+    },
+    "NPWR14236_00": {
+        "npCommunicationId": "NPWR14236_00",
+        "trophyTitleName": "Dustoff Heli Rescue 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14236_00_00FB1DA2B1DC9A9A74265128C873F9B2AB64545E66/65789E4A883E979A0E1F386FD01410E149181151.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR14240_00": {
+        "npCommunicationId": "NPWR14240_00",
+        "trophyTitleName": "DYNASTY WARRIORS 9",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14240_00_005D5895644842FDDE3FBB57C40C4FF52F8D96CA89/F2B1E3B25762DCA4B451685DE557AF1609F40ED1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR14241_00": {
+        "npCommunicationId": "NPWR14241_00",
+        "trophyTitleName": "Dragon Sinker",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14241_00_0078C828C7E5AF232DC24B814C5CC732DD73A0C593/229EEDDE3D4D370B453064510955C0F9D6566D8D.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR14244_00": {
+        "npCommunicationId": "NPWR14244_00",
+        "trophyTitleName": "Nightmare Boy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14244_00_00E3845B6677080434BE1AC7F0FC5878357A97BCC4/3F756A0ADEBF54F57EA2AE38B7CC719B153F04BB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR14245_00": {
+        "npCommunicationId": "NPWR14245_00",
+        "trophyTitleName": "戦御村正ＤＸトロフィー",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14245_00_00D0A49F48DC90054E397E239EEBA3178FF75A7C3E/E85ABF598FDCA6AD233C1B521F09A6ECF14D8639.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR14246_00": {
+        "npCommunicationId": "NPWR14246_00",
+        "trophyTitleName": "戦御村正ＤＸトロフィー",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14246_00_003DBF85388967D0174547A98F936BFBACDAE73F0A/68D716F4A622474D51816C23E154804F3F68C930.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR14247_00": {
+        "npCommunicationId": "NPWR14247_00",
+        "trophyTitleName": "Dustoff Heli Rescue 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14247_00_0001795EB1A19EA677AF5825B20B32E2291DFC2357/66A1293450FB769EAB607409072105874BEA2EDC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR14248_00": {
+        "npCommunicationId": "NPWR14248_00",
+        "trophyTitleName": "Madden NFL 19",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14248_00_00EE9512789CFEC60BDCF63BC71931C042095350E7/F7E9B1DEA6E4F77F09CA4BD2E50C72D4A888FDA7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR14249_00": {
+        "npCommunicationId": "NPWR14249_00",
+        "trophyTitleName": "Alteric",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14249_00_008E8F7F7328D5AD1CACA200E0C60F0D6E3DE01BC7/53F55C2FF881342B82304103F1AC5EB149F5D3D0.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14250_00": {
+        "npCommunicationId": "NPWR14250_00",
+        "trophyTitleName": "NORTH",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14250_00_00158240DCB7937FCF6BEEF2832200CA66D0BAE61F/B2EB8F3BD352C11894D0F40D37E9674C44AD8BC0.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
     }
 }
