@@ -41078,5 +41078,135 @@
             "bronze": 60
         },
         "service": "trophy"
+    },
+    "NPWR07767_00": {
+        "npCommunicationId": "NPWR07767_00",
+        "trophyTitleName": "彼女（あのコ）はオレからはなれない",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07767_00_003D1E243009FA43190E5659B44387DDA4D746A65F/C29615AA79CA116C583C8D0E53243A8D87EA645F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR07770_00": {
+        "npCommunicationId": "NPWR07770_00",
+        "trophyTitleName": "LIMBO",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07770_00_009CDEDFEBF667FFC7ECFE38E822A2FFFB069F37DE/2CB79D3C09467009815710E239A8D93C4067C9B6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR07774_00": {
+        "npCommunicationId": "NPWR07774_00",
+        "trophyTitleName": "VIDEOBALL",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07774_00_00FC3CB62713EC2A6AEB30BCA58758AA1D4839D190/023FD5BC1522805FB3DB925D8E48A03400B09105.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR07776_00": {
+        "npCommunicationId": "NPWR07776_00",
+        "trophyTitleName": "Schrödinger's Cat and the Raiders of the Lost Quark",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07776_00_00981B07A7FF77B5EAAF07B26401A18C070DB5B510/4367815A1E9368727AA635522F8D3E63C73B32B3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR07777_00": {
+        "npCommunicationId": "NPWR07777_00",
+        "trophyTitleName": "Mahjong Carnival",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07777_00_008C93315183597D66FD0794F01B75E459A1A41119/BB351049B62BF73FA452629C33C9C0A18F724A7C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR07778_00": {
+        "npCommunicationId": "NPWR07778_00",
+        "trophyTitleName": "Criminal Girls: Invite Only\nTrophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07778_00_00562718B47097F533F46F4896F83DFAB64ACDD1C2/797AB27052F107A6D951F945FAD9808BA16577F0.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 26,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR07779_00": {
+        "npCommunicationId": "NPWR07779_00",
+        "trophyTitleName": "結城友奈は勇者である 樹海の記憶",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07779_00_0026FAD7273DCD60F827E8A7C02F3F3A80B71FFF02/A273C8AE3CD94D15099BFFF67EA2F9AFF9BC6C02.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR07780_00": {
+        "npCommunicationId": "NPWR07780_00",
+        "trophyTitleName": "BADLAND",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07780_00_00767A1CF3E030E9A1C6050D6CDD773388288C265E/ABF29A3B641E5D7E18F548847B446B1AF146EA86.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR07782_00": {
+        "npCommunicationId": "NPWR07782_00",
+        "trophyTitleName": "The Evil Within",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07782_00_00C78C888E9FAFF4FF89F93797E48C8539FAD5AC78/C88CDC29C50F569D78C0143680C568E9E0FE26F0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 18,
+            "bronze": 49
+        },
+        "service": "trophy"
+    },
+    "NPWR07784_00": {
+        "npCommunicationId": "NPWR07784_00",
+        "trophyTitleName": "The Evil Within",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07784_00_0085216D6E52B8E4C3072CC55004709EA73C23EE64/D310CB87BC957EEA17E377C1AF3C4BA7719D6AB1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 18,
+            "bronze": 49
+        },
+        "service": "trophy"
     }
 }
