@@ -74618,5 +74618,135 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR12667_00": {
+        "npCommunicationId": "NPWR12667_00",
+        "trophyTitleName": "Insurgency: Sandstorm",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12667_00_001980D0856D53A81EE629B028189781FC446703E2/5CD7EB05BF1AEB8BDC0C37E2FAF0198F67C57C06.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR12668_00": {
+        "npCommunicationId": "NPWR12668_00",
+        "trophyTitleName": "Outlast 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12668_00_00AC844B7475475EE399D01C265AEF153DDC676D50/A4B2303BE3196FA14FF86CE715402FCE2F7CA359.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR12669_00": {
+        "npCommunicationId": "NPWR12669_00",
+        "trophyTitleName": "Extinction",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12669_00_0007D30C6445E3199D7B4FDC707AF0959D7DC1C35D/DB639C7B25EF0B9999076BCDCEEB3A23E354B809.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR12671_00": {
+        "npCommunicationId": "NPWR12671_00",
+        "trophyTitleName": "Unearthing Mars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12671_00_0009F6D2B4B4A697DAFA9068EAFA76649928C9C5CE/31BCB8F54910425C4F5DC1D51FD0B227CE6A9A24.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR12672_00": {
+        "npCommunicationId": "NPWR12672_00",
+        "trophyTitleName": "現代大戦略2017～変貌する軍事均衡！戦慄のパワーゲーム～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12672_00_0028932898EEF81B378572FF79DCC20785C84AFDB8/15C5988DFAFFF1EC0A0758E80FC9E9C63FA93E9F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR12673_00": {
+        "npCommunicationId": "NPWR12673_00",
+        "trophyTitleName": "White Noise 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12673_00_00CB0C77A0F070767044FB936C5E8E4375EC83F656/1D61C246287C35441A5624451D47893BBD529950.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR12675_00": {
+        "npCommunicationId": "NPWR12675_00",
+        "trophyTitleName": "ACE OF SEAFOOD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12675_00_00FB6B8631AC05293F32F65FC6DB38FE1242BC4CB1/2659F791ADF0D1E1316EABD452CFFCC9487FBA94.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR12676_00": {
+        "npCommunicationId": "NPWR12676_00",
+        "trophyTitleName": "Attack Heroes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12676_00_00FB93F51C195230C196F7BE13971ECF437F62BFCB/353E2373089A850A1F5A4E3FD8856CE4C4183367.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR12679_00": {
+        "npCommunicationId": "NPWR12679_00",
+        "trophyTitleName": "Fairune",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12679_00_00C274CE88B43CC2B3AA58513E527BF3F731396781/D4FA9428F73A8D6DFD7490CF54409C1A3A975A01.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR12681_00": {
+        "npCommunicationId": "NPWR12681_00",
+        "trophyTitleName": "Polara",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12681_00_00648D2DDAECC6A2B8AEDE36D861680BA1436CDF7C/A53C9E6E621394B6230960FA99C1CD1523E23001.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
     }
 }
