@@ -76568,5 +76568,135 @@
             "bronze": 16
         },
         "service": "trophy"
+    },
+    "NPWR12915_00": {
+        "npCommunicationId": "NPWR12915_00",
+        "trophyTitleName": "VR Karts",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12915_00_00197AF48A503C74C9631EA23BECBD8F6E363F1AC3/4864995C451BB428A7AC9215C813D0066FEDA881.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR12917_00": {
+        "npCommunicationId": "NPWR12917_00",
+        "trophyTitleName": "Always Sometimes Monsters",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12917_00_006E35525BC878ADE6081BA9D017B620C511A3CF6B/D9A3ED259823CAF1B08A1941A3FCBD9390E11CA1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR12918_00": {
+        "npCommunicationId": "NPWR12918_00",
+        "trophyTitleName": "FIFA 18",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12918_00_0090E7968F92F35F5A0730A9AF3DE0A201AEF167C0/6DF0E936EDF9312162B49BF16B76A13679AC0E1E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR12921_00": {
+        "npCommunicationId": "NPWR12921_00",
+        "trophyTitleName": "TOKYOヤマノテBOYS for V MAIN DISC",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12921_00_00836B606FAD3F8DE95B1B259AD36E254D30C043EC/579F3CD477D4198A2C326D1698AC6EDC9A993F9B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR12922_00": {
+        "npCommunicationId": "NPWR12922_00",
+        "trophyTitleName": "TOKYOヤマノテBOYS for V FAN DISC",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12922_00_0063681DAEFF89CE33594BCDDB6E2DB7C0DADC8743/E4CF1CB3F9E5AF0D913C282BD0BE40A00D425264.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 4,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR12924_00": {
+        "npCommunicationId": "NPWR12924_00",
+        "trophyTitleName": "JUDGE EYES：死神の遺言",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12924_00_00EF0F4495896838CA4130CF102D2D20FA584CE6BA/1E6B7D7DE31DBDA3EDC260485B54C6A98438DC1F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 4,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR12928_00": {
+        "npCommunicationId": "NPWR12928_00",
+        "trophyTitleName": "Aven Colony",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12928_00_00314E86738A1BE850EE2CDAE667171073AACBA635/3BAB6E35ED09D7B364DF27DE29B234BC038628F3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR12930_00": {
+        "npCommunicationId": "NPWR12930_00",
+        "trophyTitleName": "Deliriant",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12930_00_006B6BBCFF5FBD6423234E1965243680872FD28D04/FA69EC2C9E8F310AC2B7E3E41A01A1C16123F874.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR12931_00": {
+        "npCommunicationId": "NPWR12931_00",
+        "trophyTitleName": "Super Mutant Alien Assault",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12931_00_0027F3484FAA3175F5A2BF7901135E2A5FBD6F2693/34514497373C9E2C06668C1C386F5C1DE4DEE8D6.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR12933_00": {
+        "npCommunicationId": "NPWR12933_00",
+        "trophyTitleName": "도쿄 재너두",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12933_00_005A47E967B83ACE447240630783AF2CBBCF18042B/A9ADDBBE3F6736EC031FDB36083263CF1942263C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 40
+        },
+        "service": "trophy"
     }
 }
