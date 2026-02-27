@@ -60318,5 +60318,135 @@
             "bronze": 45
         },
         "service": "trophy"
+    },
+    "NPWR10831_00": {
+        "npCommunicationId": "NPWR10831_00",
+        "trophyTitleName": "Energy Hook",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10831_00_00BF12B6F9BD4F788438AFE59E31BCBDE6E7E4C536/A52ED931DC74F6883ABACD2101A898049D717FE4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR10832_00": {
+        "npCommunicationId": "NPWR10832_00",
+        "trophyTitleName": "Push Me Pull You",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10832_00_00316E455D5316AE49EE8B7FB037E58D19FDF57EA7/5EB9EA4BACAFB822DB48BC9E0477F00E9FD2C957.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR10833_00": {
+        "npCommunicationId": "NPWR10833_00",
+        "trophyTitleName": "10 SECOND NINJA X",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10833_00_003E97550F2273E2BDCA66B78AD8050E0E5A0556D3/D0988C96984DDB44F2252DA842131A284E8CABA7.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10836_00": {
+        "npCommunicationId": "NPWR10836_00",
+        "trophyTitleName": "AFL Evolution Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10836_00_00320DF242E6BA9CD63B931CB69634C0B94ED8E4BD/193CF80347E0760D45425753B0F51BF8BBD8AE1A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR10837_00": {
+        "npCommunicationId": "NPWR10837_00",
+        "trophyTitleName": "Gem Smashers™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10837_00_00D1F927DED339338D7E1F1A4568979631566DE629/8CA52BC4E8C2069D1AB1519D1CEA7493D658617D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 9,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR10838_00": {
+        "npCommunicationId": "NPWR10838_00",
+        "trophyTitleName": "Romancing SaGa 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10838_00_003546BC26EDF75D1790D131022713C9D3A2C73958/79B9657678D446427C45CEFC80723AA0D39CC29C.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR10839_00": {
+        "npCommunicationId": "NPWR10839_00",
+        "trophyTitleName": "Delta Strike",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10839_00_0037F744A209F410355E059ED2DC41753E225FA6A3/CB1C91A61BC5AF86C2AF5B2E06B9AE70A822EDD4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR10842_00": {
+        "npCommunicationId": "NPWR10842_00",
+        "trophyTitleName": "Quest of Dungeons",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10842_00_00242340F039213B80CD8232FB7441456A13E1B6C0/FBC1ACE91709F5582F8119786D88C2D9C0DD9335.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR10843_00": {
+        "npCommunicationId": "NPWR10843_00",
+        "trophyTitleName": "ASSAULT SUIT LEYNOS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10843_00_0038816108D7F661D32420C1D90138DEDBED32BD2D/B07A8FCAFA03DCDD99EB3F05121148C4E45F18DE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR10844_00": {
+        "npCommunicationId": "NPWR10844_00",
+        "trophyTitleName": "VEV: VIVA EX VIVO",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10844_00_00BAE327284433E9D6FE6DDADB2FDBBEFA4178A2BC/6FCA647165615D192EC2C98409429ABBC0042EBC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
