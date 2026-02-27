@@ -27168,5 +27168,135 @@
             "bronze": 1
         },
         "service": "trophy"
+    },
+    "NPWR04760_00": {
+        "npCommunicationId": "NPWR04760_00",
+        "trophyTitleName": "FMC 2014",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04760_00_0074C02E05AA7E00016EE5FC454645B0055627CC62/EFC2C621AAF68BFE6AA008681B3A2C1CCC059C19.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 56
+        },
+        "service": "trophy"
+    },
+    "NPWR04763_00": {
+        "npCommunicationId": "NPWR04763_00",
+        "trophyTitleName": "ダンガンロンパ１・２ Reload",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04763_00_006B09F206A2D0B3EABC477CCA76272D00C28CB634/C11D2E0727CAD6EAD4A7F046172A35EA7696B86C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR04770_00": {
+        "npCommunicationId": "NPWR04770_00",
+        "trophyTitleName": "Rayman® Legends",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04770_00_0001D8A16DB91B280D8BC8E0D87DDC45826881B50A/F60842F6C5736DF7F98DC410A71F5876778BB870.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR04772_00": {
+        "npCommunicationId": "NPWR04772_00",
+        "trophyTitleName": "Spelunky",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04772_00_000CD9D2722095F71383452E86046F3C1984EA01AF/F8E5F16364BA03F6BAC6FE2A3D7A09A9004B0A7C.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR04773_00": {
+        "npCommunicationId": "NPWR04773_00",
+        "trophyTitleName": "NBA 2K14",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04773_00_00BDAB0EFBD968B29D4EA3B9678808ECD48A6252E7/7FC9340B36EE9C385FBA2C763CFCEFF7574B27E4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR04775_00": {
+        "npCommunicationId": "NPWR04775_00",
+        "trophyTitleName": "るいは智を呼ぶ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04775_00_005EDBE046299255F80BE490D25E29DE06EA50A82D/A9B0A0265F7290E05AF260B28CF32D564001C415.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR04776_00": {
+        "npCommunicationId": "NPWR04776_00",
+        "trophyTitleName": "るいは智を呼ぶ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04776_00_00304C559124E6ACC368F08D68B1F12BD055A6F16A/8DA5CD771B640135C9B8EF21A801F13A38962A6B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR04777_00": {
+        "npCommunicationId": "NPWR04777_00",
+        "trophyTitleName": "Flashback\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04777_00_00D0F4217AD06DD788CA94AF06EE14539482B88037/778BC0CB3AB594BC39308041B9FB76593C63E860.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR04779_00": {
+        "npCommunicationId": "NPWR04779_00",
+        "trophyTitleName": "Angry Birds™ Trilogy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04779_00_00B48BF2C3704791CD58675373D5220E708FCF66A1/EE5AFB2A6D4BE2A0B3B716C7AB29D095236FB03E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 3,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR04780_00": {
+        "npCommunicationId": "NPWR04780_00",
+        "trophyTitleName": "Shake Spears!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04780_00_00C7259E19E0A9E9AD4BE80B8F4AEC4FBC0E805E9F/26D5B33DB67D7EFCF702F913EC0795F95F3E685B.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
     }
 }
