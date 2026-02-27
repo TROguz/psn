@@ -82418,5 +82418,135 @@
             "bronze": 0
         },
         "service": "trophy"
+    },
+    "NPWR13690_00": {
+        "npCommunicationId": "NPWR13690_00",
+        "trophyTitleName": "Grim Legends 2: Song of the Dark Swan",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13690_00_00D3E710A884F02F48F6A966F192D567C39F51BED4/DA1AE9736613019B01ED2676ADC53E3E19D137DC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR13691_00": {
+        "npCommunicationId": "NPWR13691_00",
+        "trophyTitleName": "ACA NEOGEO PUZZLED",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13691_00_00773333B77FAB9E59051ACCA74CE3E11BF720BB58/C74E22531798D0B45D1980CBE20653904ABE4435.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR13692_00": {
+        "npCommunicationId": "NPWR13692_00",
+        "trophyTitleName": "ACA NEOGEO MAGICIAN LORD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13692_00_00A38B1ABB8E36FBE8B54AA72BEAB61821B660E79B/A8460B541BB245DBBE5275764ADAD933CC9A45F5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR13693_00": {
+        "npCommunicationId": "NPWR13693_00",
+        "trophyTitleName": "ACA NEOGEO BLUE'S JOURNEY",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13693_00_00BA3B976A9E87CEE64E318D9D4AC51B42CE8F03FB/71040186670D5FAC342BA2B39628DF9C0968F031.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR13699_00": {
+        "npCommunicationId": "NPWR13699_00",
+        "trophyTitleName": "OK K.O.",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13699_00_00AF82D46EF39FE5B8E05F3DCFE8986EA856EE0959/AC16495A37EF39B328A706629F72451E00387418.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR13700_00": {
+        "npCommunicationId": "NPWR13700_00",
+        "trophyTitleName": "Revolve",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13700_00_00D8526B1AC3B930F2E2B0C45DFE6A78ECA99B4E93/44208F60EE9ED73C0EF99898F061FD36475F29EE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR13703_00": {
+        "npCommunicationId": "NPWR13703_00",
+        "trophyTitleName": "RanchPlanet",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13703_00_00A9EEFDFA4C5EF0A4F69E97C6092D146A7BD1AE0A/440779839E70F84C54D2D62667689259B8ACBB77.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR13707_00": {
+        "npCommunicationId": "NPWR13707_00",
+        "trophyTitleName": "Son of Scoregasm",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13707_00_00A35079E702734BCFAF3F61C5CDF5B82963282893/9EEF4B8FA9954FD0143774BEF371BBC6F674748B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR13708_00": {
+        "npCommunicationId": "NPWR13708_00",
+        "trophyTitleName": "Home",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13708_00_00DC53CD3C8AC681C59B699D760D7D4AE3D3BEFEEE/9B5E1488B7936E83ED8F823D7E8FF745DC5FA5DC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR13709_00": {
+        "npCommunicationId": "NPWR13709_00",
+        "trophyTitleName": "Ys VIII -Lacrimosa of DANA-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13709_00_00AE6F5507B3F5D74B3B19F121103095FD3751D863/CA6EDD859F4B65FA14EA1077B0DDC75AC3CBD116.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
     }
 }
