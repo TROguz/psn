@@ -19498,5 +19498,135 @@
             "bronze": 6
         },
         "service": "trophy"
+    },
+    "NPWR03263_00": {
+        "npCommunicationId": "NPWR03263_00",
+        "trophyTitleName": "CHAOS;HEAD らぶChu☆Chu!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03263_00_004A84D4031EC1174FA14F14B2B00E2246EC0187CE/98337E77BBC2112AAED6378C212ACEBEA0DD90E9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 15,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR03264_00": {
+        "npCommunicationId": "NPWR03264_00",
+        "trophyTitleName": "CHAOS;HEAD NOAH",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03264_00_004095A4D6520E43AF2A70FF2FD4004AD2314C3F55/A65C5C98CE8C11C17041BC5329FD271745C7CA5D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR03267_00": {
+        "npCommunicationId": "NPWR03267_00",
+        "trophyTitleName": "The Walking Dead",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03267_00_007FE16D7FFD3645788A29594335E3DDEBDC6E1BAD/3D9A794003EA37BC8EFE198E341A0CD36A4CD87E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 5,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR03268_00": {
+        "npCommunicationId": "NPWR03268_00",
+        "trophyTitleName": "Zen Pinball 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03268_00_0076E56A2C47DDA046CFA3F7A3728B3EA416E68474/8D45453774B5244C8AF03943D028523EDABD0FB1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 38,
+            "bronze": 84
+        },
+        "service": "trophy"
+    },
+    "NPWR03269_00": {
+        "npCommunicationId": "NPWR03269_00",
+        "trophyTitleName": "A-men",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03269_00_0033018CF1FA762FE4ADA05F21B0B8C6B4D9F5D22C/1C50637B975DE0408C01B6ACAF3C068E76E4037D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR03271_00": {
+        "npCommunicationId": "NPWR03271_00",
+        "trophyTitleName": "Shinobido 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03271_00_003DB36BBAD10F67BF5DF74818E4DF6B0865F38659/6F553F8959BFCECD02822C2D59F34B8985F4D513.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 12,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR03272_00": {
+        "npCommunicationId": "NPWR03272_00",
+        "trophyTitleName": "Risen 2 - Dark Waters",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03272_00_0025E8703C6F59ECE8E38E9AAE050BBA6BCC92DCF4/BE30B8F6A432810F571B5A62017D1A61D009C553.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR03275_00": {
+        "npCommunicationId": "NPWR03275_00",
+        "trophyTitleName": "Ski-Doo Snowmobile Challenge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03275_00_0082485C08C9DEC6C86EBF930BF2C112D1F17F03A8/04A2CF77DCD319B81DE957A8F6521B673C489B17.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 6,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR03279_00": {
+        "npCommunicationId": "NPWR03279_00",
+        "trophyTitleName": "Major League Baseball 2K12",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03279_00_002DCF6514A8F396950C6FC7619F39878652DB0638/A841E3BF81AE536AA290FD13A2BCBEED4C7F461D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR03280_00": {
+        "npCommunicationId": "NPWR03280_00",
+        "trophyTitleName": "Defenders of Ardania",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03280_00_0067D978A4F10AF7A4D503F2C15A0C10FC68679BFF/07286C7BF15C699C3E76E1782F15E3C77B4F94D7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
     }
 }
