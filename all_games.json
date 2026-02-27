@@ -19108,5 +19108,135 @@
             "bronze": 41
         },
         "service": "trophy"
+    },
+    "NPWR03176_00": {
+        "npCommunicationId": "NPWR03176_00",
+        "trophyTitleName": "Supremacy MMA: Unrestricted",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03176_00_0075FDF802AE2EC0B8AD62A370905C7BF20C1A5759/78478341CDA6DC86B83AC535B9DD68DB52BB780D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR03180_00": {
+        "npCommunicationId": "NPWR03180_00",
+        "trophyTitleName": "Sniper Ghost Warrior® 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03180_00_0097164F10B470457D6CD102DEAFC9AEFAF0272637/55F50B68A570D0F2F936A0F41FC139A70D18D82D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR03182_00": {
+        "npCommunicationId": "NPWR03182_00",
+        "trophyTitleName": "Judge Dee",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03182_00_00C2E5E0E2B0D5402C917C004D3F1906BB6B237E43/E56A2653186E7854D19E17D3BD03F2AAEE48DBBE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 6,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR03184_00": {
+        "npCommunicationId": "NPWR03184_00",
+        "trophyTitleName": "Pure Chess®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03184_00_006F358DC59F86B1652257B3B3A2A13A5E03B12ACB/F08A1E372C71FD60CA60679C59CBD30C47AB9C4E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR03188_00": {
+        "npCommunicationId": "NPWR03188_00",
+        "trophyTitleName": "FISH ON NEXT",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03188_00_0027F9E3D7F8F92D63557B5D7B2D3D0E6A33210093/4094FAAFD8C82BE67BF1D7C76B0ADE33F16A0FE9.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR03190_00": {
+        "npCommunicationId": "NPWR03190_00",
+        "trophyTitleName": "DARE TO FLY!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03190_00_00C7E078FD9D5F5A10C1E05DE2F37B0FEB1F2FC62C/B2EC611129C55C8A4521C6BCCE651AC7DF35C1F6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR03196_00": {
+        "npCommunicationId": "NPWR03196_00",
+        "trophyTitleName": "Zone of the Enders HD Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03196_00_00761C2217CF5862EC6C05CC48F19B5BADD532A3BC/EEC563551E463B3F1E157688101B91553B9D4AFE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 16,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR03197_00": {
+        "npCommunicationId": "NPWR03197_00",
+        "trophyTitleName": "Zone of the Enders: The 2nd Runner HD Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03197_00_00981EFD42A151989C71DA31F2F71F03AE2AEC3A98/63961F83317AD9B0DD297FAC9D4B4526B082019D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 16,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR03198_00": {
+        "npCommunicationId": "NPWR03198_00",
+        "trophyTitleName": "Metro: Last Light",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/636FC23A54ECB9118E14EA58DBF2FEDD8E7B23EE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 56
+        },
+        "service": "trophy"
+    },
+    "NPWR03200_00": {
+        "npCommunicationId": "NPWR03200_00",
+        "trophyTitleName": "Of Orcs And Men",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03200_00_0055327223D5B2AB3377B6382142CA3ED0714D7E3B/BE0472EC2A91A60C8C1B62EE03322531A1148719.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 31
+        },
+        "service": "trophy"
     }
 }
