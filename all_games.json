@@ -41468,5 +41468,135 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR07843_00": {
+        "npCommunicationId": "NPWR07843_00",
+        "trophyTitleName": "TRANSFORMERS: Devastation",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07843_00_00EDF5A1D125F51E02A05AC0A8463E6A92718F17B8/427CB232B011F974A54173F33C6D87878FC1E7B7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 22,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR07846_00": {
+        "npCommunicationId": "NPWR07846_00",
+        "trophyTitleName": "Never Alone",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07846_00_00067C936A54B6A916F0FFB61A366AEF925FB46C23/951574BA2C8FF80A29CFF9883C295280434D1F4D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR07847_00": {
+        "npCommunicationId": "NPWR07847_00",
+        "trophyTitleName": "Loadout",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07847_00_0021592C7D9688D49DDBBD0A9E95B5B55DA912256F/0BF0D2EC84DCE09F8A1C848F647DC6834FDE1AA7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR07848_00": {
+        "npCommunicationId": "NPWR07848_00",
+        "trophyTitleName": "Rack N Ruin",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07848_00_0041C8E92107E08D834D71222F0D5F742469147127/091289E618C94E8AC68689ED455B101E83FC07E4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR07849_00": {
+        "npCommunicationId": "NPWR07849_00",
+        "trophyTitleName": "憂世ノ浪士",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07849_00_008192D00F2532D7DCF750E7DE3D1F2D77763B8B39/59E5906EC8ADD9AA587D16841093104F0B2C7162.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 18,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR07859_00": {
+        "npCommunicationId": "NPWR07859_00",
+        "trophyTitleName": "Pocket RPG",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07859_00_00CDF0FCD2EA3717E3F93EF06FD5D0D34680683459/A772B25911A53357BEF6400388FABB8DF6EE8578.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR07861_00": {
+        "npCommunicationId": "NPWR07861_00",
+        "trophyTitleName": "Tony Hawk's® Pro Skater™ 5",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07861_00_004FEA921E251E8449580C9AD655E4A2A1F0808317/294B44498EAAD00C3E5EBC2D8891CD64E3A687FB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 4,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR07862_00": {
+        "npCommunicationId": "NPWR07862_00",
+        "trophyTitleName": "Borderlands™ 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07862_00_00F713A87B20745C3B977A417323C8FE06B6264BC9/98022E75D1FD11046D888CCB51F0E5D54C09F26F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 16,
+            "bronze": 53
+        },
+        "service": "trophy"
+    },
+    "NPWR07863_00": {
+        "npCommunicationId": "NPWR07863_00",
+        "trophyTitleName": "God Eater 2: Rage Burst",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07863_00_00E95B45F4025D46083C8A222772E270E3A1253BDA/467D9CABAC0022EF2DECA245EEA69054F2DBE84C.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR07866_00": {
+        "npCommunicationId": "NPWR07866_00",
+        "trophyTitleName": "戦国BASARA4 皇",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07866_00_00CBF2ABEC5DABA69F6F69535BA88FE2F636CE37C2/DB1813A55DCC7E1B61A392A9EFAE5417C0734702.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 30
+        },
+        "service": "trophy"
     }
 }
