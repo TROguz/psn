@@ -29249,7 +29249,7 @@
         },
         "service": "trophy"
     },
-	"NPWR05245_00": {
+    "NPWR05245_00": {
         "npCommunicationId": "NPWR05245_00",
         "trophyTitleName": "Super Motherload",
         "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05245_00_00C4B60722E6186461718361140CB1AA1C8DF8DEBA/354C2DBED6569B9D895645BDC501CB095E6F40C8.PNG",
@@ -33029,6 +33029,123 @@
             "gold": 2,
             "silver": 0,
             "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR06029_00": {
+        "npCommunicationId": "NPWR06029_00",
+        "trophyTitleName": "Arcade Archives DOUBLE DRAGON",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06029_00_007E0834D4D4987AE8556D23ACEFC339932D8997D8/0DFB643F0814D26D93971D879C68B6EC7F62E49C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR06032_00": {
+        "npCommunicationId": "NPWR06032_00",
+        "trophyTitleName": "Tales of Xillia 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06032_00_000D2CC0B2BA12532CCA9190EC910EC961BCE42FE0/743F45A877CF8624783A12AAE592BB2CC7C7B36F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR06033_00": {
+        "npCommunicationId": "NPWR06033_00",
+        "trophyTitleName": "That Trivia Game",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06033_00_003C6B066FA5E5281719035A690B0915E43E13E8A6/66BCABCA3828953F724C57C64769ABE2DE7E9F53.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR06034_00": {
+        "npCommunicationId": "NPWR06034_00",
+        "trophyTitleName": "Deception IV: Blood Ties",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06034_00_003022FB330A7225E1106D4E9BEFE1D069F5FF0EB8/FBD62EDD0186B53115DF3EA6E77E27D8AEC6EBC6.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR06035_00": {
+        "npCommunicationId": "NPWR06035_00",
+        "trophyTitleName": "Deception IV: Blood Ties",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06035_00_00F68B9105F43E83A568DBE54F5598364F3D895128/11296C58E9692CCA6EA059BC356A2AB4B276E11D.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR06037_00": {
+        "npCommunicationId": "NPWR06037_00",
+        "trophyTitleName": "METAL GEAR SOLID V: GROUND ZEROES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06037_00_0063E1BDF683BEDEAFECE2EE2D160AB3CE2E7D7D0B/AA1963C28D3895DC3BA9CA3CF4DC3943F26690C0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR06040_00": {
+        "npCommunicationId": "NPWR06040_00",
+        "trophyTitleName": "Wolfenstein®: The New Order",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06040_00_00B761DD4B4E3EB7D261A62CFD783381F5791003D4/3F7BE72A97757B626B8F734B10882DEB4C8F114F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 15,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR06043_00": {
+        "npCommunicationId": "NPWR06043_00",
+        "trophyTitleName": "Wolfenstein®: The New Order",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06043_00_00C4A9FE5912221E8046B98D39D9D9608B78FD3C90/B3DBC3C792A1B023586344B4B86B38C52CBDC9F6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 15,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR06046_00": {
+        "npCommunicationId": "NPWR06046_00",
+        "trophyTitleName": "CastleStorm",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06046_00_007DDF4CC93F9299BC2D6595AE80C43916028DB2E5/78C8BAD52AD3456522259066BF3BFA1EF6DB05CF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
         },
         "service": "trophy"
     }
