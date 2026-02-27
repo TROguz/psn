@@ -46408,5 +46408,135 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR08650_00": {
+        "npCommunicationId": "NPWR08650_00",
+        "trophyTitleName": "Warhammer: End Times - Vermintide",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08650_00_006154C237F4FEECC5223380BD4434D3835557EB5D/1CAB02D2D4E3ED0818A8755355769454372790BC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 19,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR08652_00": {
+        "npCommunicationId": "NPWR08652_00",
+        "trophyTitleName": "クロガネ回姫雀のトロフィー",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08652_00_002FD133737323CD80E8DCEA5EABBA8DE25D2C0AA6/D1B0F1E7DBFFC95C93D100B0973562A8ED6C1D3E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR08655_00": {
+        "npCommunicationId": "NPWR08655_00",
+        "trophyTitleName": "Invokers Tournament™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08655_00_00B0F40BD3ABF4868648BD45698BF7C75E04C0C39E/FD74DD70D9E0E5D708417BCE7D7B42A447EA971B.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR08659_00": {
+        "npCommunicationId": "NPWR08659_00",
+        "trophyTitleName": "Madden NFL 17",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08659_00_003AB19AA755C180CA16A6568B2BC929F04D98E4F4/79E069B8D8C7D6A7A1535E57D99A53DF60250BFF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR08661_00": {
+        "npCommunicationId": "NPWR08661_00",
+        "trophyTitleName": "DOOM®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08661_00_0067B3E1D7EB55E04B0D5C820CFACB9FE9A97398B5/959AEA152263C175FB78EBFF7DD89EF0DC2FFB28.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 27,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR08662_00": {
+        "npCommunicationId": "NPWR08662_00",
+        "trophyTitleName": "クラシックダンジョン戦国",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08662_00_00AE2C2E2595695E3945B8D7E8B0286B93C4F2D772/203712C95396F9096E97ECF2B4417F3DF7CD0411.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR08664_00": {
+        "npCommunicationId": "NPWR08664_00",
+        "trophyTitleName": "Rocketbirds 2: Evolution",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08664_00_00581C1A2B6388EBC770E68F3150E0AC52485F6071/1F2C8F167003EFD1B7B8B3D4805EE8312B56725B.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR08666_00": {
+        "npCommunicationId": "NPWR08666_00",
+        "trophyTitleName": "アンジェリーク ルトゥール",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08666_00_00D16F224FF3840FC327962E148FEC45996DEE354E/F2D7E2EBC501A2C8323D8BB9BAFCDD751FF97F6A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR08671_00": {
+        "npCommunicationId": "NPWR08671_00",
+        "trophyTitleName": "WRC 5",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08671_00_009054B85216B1B785E9DED7A0452252F4F7BFF2B9/2A6AD1DC732025A1AFEFBAB9F9FF82FE265BD323.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR08672_00": {
+        "npCommunicationId": "NPWR08672_00",
+        "trophyTitleName": "Tokyo Twilight Ghosthunters (EN ver.)",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08672_00_003F53F0771258B6B67D10541278DA792523E05B1F/42CFC515D23C1BF98DF0C575F3E415C391838D86.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 8,
+            "bronze": 45
+        },
+        "service": "trophy"
     }
 }
