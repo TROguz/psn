@@ -21188,5 +21188,135 @@
             "bronze": 42
         },
         "service": "trophy"
+    },
+    "NPWR03601_00": {
+        "npCommunicationId": "NPWR03601_00",
+        "trophyTitleName": "Lost Planet 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03601_00_00EC021FA2EF48A097263A21416C495714FC290D14/0534F416B821E2D9D49EC1BB78D227BC092F06DD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR03602_00": {
+        "npCommunicationId": "NPWR03602_00",
+        "trophyTitleName": "Need for Speed™ Most Wanted",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03602_00_00B413AC9BA1FEA9CB25DF10150A4B377205ECDFDF/85BF25AB0B0C72334135BB905DCA6931C93BE607.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR03604_00": {
+        "npCommunicationId": "NPWR03604_00",
+        "trophyTitleName": "Mad Dog McCree",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03604_00_00FD8F43E9682B7FC77A537FB9C9053305E18CC989/5C1261123C5AF188C90FC45F12851D49E4C8E34D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR03605_00": {
+        "npCommunicationId": "NPWR03605_00",
+        "trophyTitleName": "FIFA 13",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03605_00_00C15FC09BEF63B2C4D0F9837C3BFFF817747B0A41/9AE92811A5A44BC8EE8321787ED1942F831DDA60.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR03606_00": {
+        "npCommunicationId": "NPWR03606_00",
+        "trophyTitleName": "Alien: Isolation",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03606_00_009C6F9942CE8DA5F48FB41D4275B0B03513F1F280/CE635E5EF7FCC4AAB3DD9998D2DBAAFAB563EB78.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR03608_00": {
+        "npCommunicationId": "NPWR03608_00",
+        "trophyTitleName": "Jet Set Radio",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03608_00_003408E5F970D11DDA731FD74225475D2DDD0A5C7F/04EF90E597F6D3BC33D10C4BC4E50F08A99EB0A2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR03609_00": {
+        "npCommunicationId": "NPWR03609_00",
+        "trophyTitleName": "エウレカセブンAO　ATTACK THE LEGEND",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03609_00_00282BD65B672142D315A5DF7458CF9F5777680240/FAF320E0D964EB01E467791ECF3AFE406DEF2A23.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR03610_00": {
+        "npCommunicationId": "NPWR03610_00",
+        "trophyTitleName": "Port Royale 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03610_00_00AC7311A510099A4500484F3EF863A10084140CBE/2196DE4FAE736CEB776B493F187B0B363942C923.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 26,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR03611_00": {
+        "npCommunicationId": "NPWR03611_00",
+        "trophyTitleName": "Sly Cooper: Thieves in Time™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03611_00_00F3456434642886DD499FE983DF5C4A380610C312/D096A340CEA25CA0B33E1F6288C44575BF81D5C1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR03612_00": {
+        "npCommunicationId": "NPWR03612_00",
+        "trophyTitleName": "FIFA 13",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03612_00_00C069026F90792C49AEA8CA307D58ED2D61C1CD6E/9B45013CD32055667915D34352435B2AE76DA366.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 35
+        },
+        "service": "trophy"
     }
 }
