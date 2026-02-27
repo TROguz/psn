@@ -82678,5 +82678,135 @@
             "bronze": 30
         },
         "service": "trophy"
+    },
+    "NPWR13723_00": {
+        "npCommunicationId": "NPWR13723_00",
+        "trophyTitleName": "Bridge Constructor Stunts trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13723_00_00A4B8BF2C49764AD9E265FA75506E3E240CF7E8DB/748F543363753C0CEF41AEC379B6AC7A6B600835.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR13724_00": {
+        "npCommunicationId": "NPWR13724_00",
+        "trophyTitleName": "Mahjong Royal Towers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13724_00_00826148108256E26E85D4FF4041710FD58B9F093D/289EDF39811A3D8D7C83A9DC73F3DA50B8D7902A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR13725_00": {
+        "npCommunicationId": "NPWR13725_00",
+        "trophyTitleName": "Mahjong World Contest",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13725_00_008A9DC2C153B920ACF973497AC04B8210C462153B/43DD8680E0F2EA52038EBF47E4E3215A22CD5D2A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR13727_00": {
+        "npCommunicationId": "NPWR13727_00",
+        "trophyTitleName": "NBA 2K18: The Prelude",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13727_00_00D6773C36B830AC9417E0DC3531975F8DE09BF884/436780A7CD2E44194943F20496BF016F4A9B3D5E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR13730_00": {
+        "npCommunicationId": "NPWR13730_00",
+        "trophyTitleName": "Attack on Titan 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13730_00_00835DF15DB84FE3C9A7D058CA40FA0BDB43009120/C7F272680CC0F8D66FFE81202F22B6B5EC206F1B.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR13732_00": {
+        "npCommunicationId": "NPWR13732_00",
+        "trophyTitleName": "Bridge Constructor Stunts trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13732_00_00465BCB2306BC03E40AB226FEC73715A79C03CD82/50796D1103A966C3E50F8CD51044FC68ABFD5DC9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR13734_00": {
+        "npCommunicationId": "NPWR13734_00",
+        "trophyTitleName": "Special Delivery",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13734_00_00F4FC88CA3CA1252B45F56C809098BD1D4B4896EF/8A8826EF80B629AB1DDC756D29D153917C731A68.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 5,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR13735_00": {
+        "npCommunicationId": "NPWR13735_00",
+        "trophyTitleName": "Utawarerumono: Mask of Truth",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13735_00_008D936BF7E67FEE75B46B5FC00EABC28989464219/36BC303B6D332F14E899856662835ADF483221F5.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 4,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR13736_00": {
+        "npCommunicationId": "NPWR13736_00",
+        "trophyTitleName": "The Sims 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13736_00_00D61FD6E0E86E188AE92590EA0DF2914E0B153736/CF4FB17B134A994843C56487AE77BD9655D9BED7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR13737_00": {
+        "npCommunicationId": "NPWR13737_00",
+        "trophyTitleName": "学園CLUB ～ヒミツのナイトクラブ～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13737_00_00D6DEF7494C20C4573B1CAD4B9A37F31C6D0C0E02/CCA6FF9031FFE6400089EC12CC0D514B57DE0628.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 12
+        },
+        "service": "trophy"
     }
 }
