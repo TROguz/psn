@@ -69158,5 +69158,135 @@
             "bronze": 28
         },
         "service": "trophy"
+    },
+    "NPWR11983_00": {
+        "npCommunicationId": "NPWR11983_00",
+        "trophyTitleName": "アドベンチャー・タイム　ネームレス王国の3人のプリンセス",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11983_00_00F69026AFD2A2071FC2530CE3A01613ACCB481F99/B0C7A3630A2D0B5B5A2E20C1660291A2E34685CF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR11984_00": {
+        "npCommunicationId": "NPWR11984_00",
+        "trophyTitleName": "アドベンチャー・タイム　ネームレス王国の3人のプリンセス",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11984_00_006D40A9B733D6CB08C7E37ABCD18C04A78C1BD996/52001206E0123EA71DF616151554367D17699DB5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR11985_00": {
+        "npCommunicationId": "NPWR11985_00",
+        "trophyTitleName": "Harvest Moon®: A Wonderful Life Special Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11985_00_00172ECD733C5FA07B454C0FB149124A968643E2FE/C23944DA7C85F0C23964C0E3B67867848DB916F4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR11986_00": {
+        "npCommunicationId": "NPWR11986_00",
+        "trophyTitleName": "Harvest Moon®: Save the Homeland",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11986_00_00456D7400B017A44A3AF450CF6ABF2564F3DADBD6/E0B927DAC21F61D75B9C0C99A202BEBB3928E697.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11987_00": {
+        "npCommunicationId": "NPWR11987_00",
+        "trophyTitleName": "Lara Croft GO",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11987_00_00BB5A4D22C1B2938A65354EA462361C7691962994/2C5AA5F87CC47A9BEC05D369A674EEFF98759FB7.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR11988_00": {
+        "npCommunicationId": "NPWR11988_00",
+        "trophyTitleName": "동경신세록 오퍼레이션 바벨",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11988_00_00CE5974CE98DDEF9FCAD883D00637845C7C03C373/AA83244FAE61BE6B1843B68597CC9E6AADCCB29B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 6,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR11991_00": {
+        "npCommunicationId": "NPWR11991_00",
+        "trophyTitleName": "ClusterTruck",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11991_00_00CE191F0CB7C06CB289CD4DB6DAC046E08F299E36/0F7AA3BE25CAC0E68B41BD6ACAD89027D575C6BE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11995_00": {
+        "npCommunicationId": "NPWR11995_00",
+        "trophyTitleName": "MechRunner",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11995_00_005DD9E346A6E96FF81655240870C7F5D9DF4E2C31/AFCA94BBB2A7B2FA6CF2D94C2C6F573E7CDBB400.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR11996_00": {
+        "npCommunicationId": "NPWR11996_00",
+        "trophyTitleName": "King's Quest",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11996_00_0012F57779CA2247FB17A3514940C40F55D696F10E/87143D2A85A43B158F9C661EF7A4B255E6C94AE0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 10,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR11999_00": {
+        "npCommunicationId": "NPWR11999_00",
+        "trophyTitleName": "ACA NEOGEO ALPHA MISSION II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11999_00_004392BD533AFF82514E569E88974F10BE912B3624/F36882662C3636E2B166D1965F42141B58668534.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
     }
 }
