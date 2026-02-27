@@ -38088,5 +38088,135 @@
             "bronze": 9
         },
         "service": "trophy"
+    },
+    "NPWR07163_00": {
+        "npCommunicationId": "NPWR07163_00",
+        "trophyTitleName": "ルミナスアーク インフィニティ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07163_00_00A15BFCF74A35A3D7FB99884E597842F477D079FB/FD297B654EA1D39F7B5861C5AB03AE464A282A8E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR07164_00": {
+        "npCommunicationId": "NPWR07164_00",
+        "trophyTitleName": "Splice",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07164_00_006E40EF53B7F09AD0CEB655604FDC944138D197BF/F65AA5DBC424DE8F04F97CF587F5FFDDDCA72E1E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR07169_00": {
+        "npCommunicationId": "NPWR07169_00",
+        "trophyTitleName": "Valiant Hearts: The Great War",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07169_00_00639EE7912C3EAB819F69830BAD6CB31C58EDA085/D60C292C724AF2CE6C07901DCB49981F3A1386D1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR07170_00": {
+        "npCommunicationId": "NPWR07170_00",
+        "trophyTitleName": "Valiant Hearts: The Great War",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07170_00_0047FC8A6EA8EF02ED7FDAD54FC67EF5FE41C164FB/08EA350643A55662F8A7E7BC90EBC0F386F99EC4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR07171_00": {
+        "npCommunicationId": "NPWR07171_00",
+        "trophyTitleName": "Maddening Overload",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07171_00_0065859377B79C658E0DEFDC4DCF0299751FE128DC/C20D2A07E42BDB79B4FD0304C17F19608842D408.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR07172_00": {
+        "npCommunicationId": "NPWR07172_00",
+        "trophyTitleName": "Eiyuu Senki - The World Conquest",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07172_00_0019E93DB3E6DB68EBDE8DD4F48E4F37A44D78843D/FDB67900D7BC8390FBA2FC64D83D10D1FBDEAB6A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 5,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR07173_00": {
+        "npCommunicationId": "NPWR07173_00",
+        "trophyTitleName": "Super Stardust™Ultra",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07173_00_000705D1C22DE4DF625CA43C02EECC4B61AC5E93AF/B49175BEDD71C2F1FE91B1F31DE945AF02B5AA40.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 13,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR07175_00": {
+        "npCommunicationId": "NPWR07175_00",
+        "trophyTitleName": "SENRAN KAGURA Bon Appetit! (Hanzo x Crimson Squad)",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07175_00_00A864DE3670831A87546FD746B9F8DCB5220A7A32/18B8B6D8C782714FEC30CA672A3733A6648283B2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR07178_00": {
+        "npCommunicationId": "NPWR07178_00",
+        "trophyTitleName": "Falling Skies: The Game",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07178_00_00854D27C97AA4B901ABA937B02857E6A388A2747F/E684072EFA55525154B200FC2151933D3478A1FA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR07179_00": {
+        "npCommunicationId": "NPWR07179_00",
+        "trophyTitleName": "Sword Art Online -Hollow Fragment-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07179_00_001EADF75EF134529572C60B645DE799909B37F04E/6B6EEABE7B22D3D324E3967A84F605147F7CDC1C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 44
+        },
+        "service": "trophy"
     }
 }
