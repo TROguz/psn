@@ -45888,5 +45888,135 @@
             "bronze": 22
         },
         "service": "trophy"
+    },
+    "NPWR08567_00": {
+        "npCommunicationId": "NPWR08567_00",
+        "trophyTitleName": "Broken Age",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08567_00_005CB71D398D78D5B022459F1C53F675AF514405B5/39191CAD6FA5F583B663DB03D4C7D1446B016219.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR08568_00": {
+        "npCommunicationId": "NPWR08568_00",
+        "trophyTitleName": "Dark Cloud™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08568_00_00F8CFF492484B5E8D362D4373DE81B0BDF4B9D160/7450A2622A86F5782D6BA288E338FD4452AA3424.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 14,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR08569_00": {
+        "npCommunicationId": "NPWR08569_00",
+        "trophyTitleName": "FantaVision™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08569_00_0081698C3829510B03EDA9BCE6D7E74EFCE40FBBCB/C6D313946CA711BDE1A4D38D1B8E266FD2A792D3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 6,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR08570_00": {
+        "npCommunicationId": "NPWR08570_00",
+        "trophyTitleName": "Kinetica™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08570_00_009511D8BD1E39D1D29822EAE739EBC9485446619C/18BD065F12BA57EBC959E2AE6B2320311F544CEB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08571_00": {
+        "npCommunicationId": "NPWR08571_00",
+        "trophyTitleName": "PaRappa the Rapper™ 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08571_00_00E2A91604593FDA7554649926C355688337C38E62/A9819722F909F5B1924AA955F903D805840D2134.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR08572_00": {
+        "npCommunicationId": "NPWR08572_00",
+        "trophyTitleName": "Rise of the Kasai™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08572_00_00DF14F88E08AFDF12D5FC3B47F1A7C2B400CF1043/FB0E9808DF7981B2DB403B637B256A2EB16A552B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 16,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR08574_00": {
+        "npCommunicationId": "NPWR08574_00",
+        "trophyTitleName": "The Mark of Kri™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08574_00_00E8A38F502F042AA10810067312E9F988AE412C7A/3007248FD8910E7E3727B6E4D86A6EBA85D97774.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 14,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR08576_00": {
+        "npCommunicationId": "NPWR08576_00",
+        "trophyTitleName": "MilitAnt Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08576_00_00B922446BEF3F893D56B04D4623E74277A2020783/B4BD30132237C23523B27FBBE634D2768B9B9A6B.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR08579_00": {
+        "npCommunicationId": "NPWR08579_00",
+        "trophyTitleName": "Extreme Exorcism",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08579_00_00F8CDC7590B8DD39CF4B67581E2A359889899D719/272A8AD13E8950547B7E4412A7D5B4512DFA7EDC.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR08581_00": {
+        "npCommunicationId": "NPWR08581_00",
+        "trophyTitleName": "Rogue Legacy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08581_00_00C443D80A480F0E195C980D8AB3BAFCC0B5F615FC/C0A18F2248C3B67F82ADD5B88D191EC68F416A5F.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 12
+        },
+        "service": "trophy"
     }
 }
