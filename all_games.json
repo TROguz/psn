@@ -29638,5 +29638,135 @@
             "bronze": 18
         },
         "service": "trophy"
+    },
+    "NPWR05324_00": {
+        "npCommunicationId": "NPWR05324_00",
+        "trophyTitleName": "クリミナガールズ　INVITATION\nトロフィーセット",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05324_00_002643B2777D3DDB39B49F2651FBAC6281088B5939/B7F0DD9D72233EBB439104F9E09009C3243C6DD6.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 26,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR05325_00": {
+        "npCommunicationId": "NPWR05325_00",
+        "trophyTitleName": "Sorcery Saga: Curse of the Great Curry God",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05325_00_005941A0ED2F808817F70E7A017D0CC1B961744890/DB05D688DFBDD59B65F676368B6C1EE4A0DF0789.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR05326_00": {
+        "npCommunicationId": "NPWR05326_00",
+        "trophyTitleName": "Injustice: Gods Among Us Ultimate Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05326_00_00A75883B9747C770037612EA4D1590CF85E999869/47719D67971CDF2825F8069BDEF868656E45B331.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR05327_00": {
+        "npCommunicationId": "NPWR05327_00",
+        "trophyTitleName": "Injustice: Gods Among Us Ultimate Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05327_00_001153B1B9BA2667758474CB766CB75E648FDB3ABA/0BAF57BCEF6B6D46F592F3C76A17B6C92EF56CA4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR05331_00": {
+        "npCommunicationId": "NPWR05331_00",
+        "trophyTitleName": "STEINS;GATE 線形拘束のフェノグラム",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05331_00_0073682522961132359FC1A42EFBC28E9B9FAE9D16/A43E011787E52E63F245A1C23F84E2BBD1B601DF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR05332_00": {
+        "npCommunicationId": "NPWR05332_00",
+        "trophyTitleName": "Anomaly 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05332_00_00052CE1BF17224ADF20BF27CC8AD61A2EDF9FC4C6/F91D10F31492DD6FD9643253772EC36A955ABCE8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR05334_00": {
+        "npCommunicationId": "NPWR05334_00",
+        "trophyTitleName": "The Raven",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05334_00_006FD1870798386AC8588C5C780AE35003CDFB5638/CEFCA04D2CD6E685C7B1EA7975C4864D83279BD8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR05335_00": {
+        "npCommunicationId": "NPWR05335_00",
+        "trophyTitleName": "Need for Speed™ Rivals",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05335_00_00FB540A0E89C57873255969C9151095BC35A939CD/E79D28A0D064F9AB8B3D08F3933690E0C5F4C47D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR05336_00": {
+        "npCommunicationId": "NPWR05336_00",
+        "trophyTitleName": "Kilka",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05336_00_0008EBFAE6195D1F28FE65CFAB9D8D22DADA78E085/067BD778F9CC33225A976DD530168CB628259082.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR05341_00": {
+        "npCommunicationId": "NPWR05341_00",
+        "trophyTitleName": "LEGO® MARVEL Super Heroes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05341_00_007AD3964B67D865810DEF7380209937FBE495843D/FF1AFF017F589B451E6A15DFBAA2A147730333E1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 4,
+            "bronze": 38
+        },
+        "service": "trophy"
     }
 }
