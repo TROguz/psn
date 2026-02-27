@@ -77478,5 +77478,135 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR13022_00": {
+        "npCommunicationId": "NPWR13022_00",
+        "trophyTitleName": "Cosmic Star Heroine",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13022_00_00CD739C42298AAABD573298D3B1EA3889DDEBD363/77259AC2C499A13A0CC5F8632CA01576F6B45E68.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR13024_00": {
+        "npCommunicationId": "NPWR13024_00",
+        "trophyTitleName": "The Seven Deadly Sins　Knights of Britannia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13024_00_0099064063B5DAC0CEA0E2E8BAF46AECBFB1DB167A/63FA246DBF6F178DE2D584CB8B229B23788521F1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR13027_00": {
+        "npCommunicationId": "NPWR13027_00",
+        "trophyTitleName": "Demon's Crystals Awards Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13027_00_003FC620B5240EE9F728B9BA1370E9178C432BF85E/09B48CDA36C66AE718A46F93E5BE2FCF30861E64.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR13028_00": {
+        "npCommunicationId": "NPWR13028_00",
+        "trophyTitleName": "Dark Mystery Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13028_00_00570C3368D145DF536F039004C8A593FA4847EF6F/8BD3E45DC94E57109A4AD99451DB96E1BDD80AE4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR13029_00": {
+        "npCommunicationId": "NPWR13029_00",
+        "trophyTitleName": "Dark Mystery Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13029_00_004DFB4D2D881B42082266811750157D17920FBD2B/150EBCEA44AD76D758ED209A6DACE20D9B8B427E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR13030_00": {
+        "npCommunicationId": "NPWR13030_00",
+        "trophyTitleName": "Black The Fall",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13030_00_00B750EFE0FCC3DBBF722DE5882F6FED05AE086388/F3DF1A261E292049995B12AD13D75B2C54D4F38F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 4,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13031_00": {
+        "npCommunicationId": "NPWR13031_00",
+        "trophyTitleName": "Photon Cube",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13031_00_004F3CDEB12217CB84D54BC31C81C701A3F813F151/5F6B70928B0B793753C618D0C2BE3FBC0A6E1A4A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR13032_00": {
+        "npCommunicationId": "NPWR13032_00",
+        "trophyTitleName": "The Incredible Adventures of Van Helsing II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13032_00_007664175BEDD324C58F282DDF55308C5EBE4AC3B7/8C0B1C781852C11F93DA5F3AAB07E22A8E351A48.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 14,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR13035_00": {
+        "npCommunicationId": "NPWR13035_00",
+        "trophyTitleName": "Black The Fall",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13035_00_002269428A63C538DA0352264258E532B3B9B76BD5/6C08542FA47A434A0A53CB0B368F43C3B93C7526.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 4,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13040_00": {
+        "npCommunicationId": "NPWR13040_00",
+        "trophyTitleName": "Rewrite Harvest festa!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13040_00_00ED70D0847E3A90AD468B5BC6000978B090076977/6719CD34AAADFCB9FD7FBA35D93110CCF1ABCC8E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 13,
+            "bronze": 2
+        },
+        "service": "trophy"
     }
 }
