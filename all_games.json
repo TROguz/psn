@@ -79688,5 +79688,135 @@
             "bronze": 1
         },
         "service": "trophy"
+    },
+    "NPWR13312_00": {
+        "npCommunicationId": "NPWR13312_00",
+        "trophyTitleName": "Immortal Redneck",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13312_00_003545A52976C0E6F1274ABC28FF3DAF437F1D47B6/CCAF466CD8BAE3D2461F33AD00BBE20D3CC3DCDA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR13314_00": {
+        "npCommunicationId": "NPWR13314_00",
+        "trophyTitleName": "NBA 2K18",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13314_00_001687EDE15FC68F60D2DF03B787F2A869F6F39FDE/AAD2F8F21DC976356DB73D90D05404C53F3BE1ED.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR13315_00": {
+        "npCommunicationId": "NPWR13315_00",
+        "trophyTitleName": "ACA NEOGEO FATAL FURY 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13315_00_0076B608BD95977BB5934E84B9BD907475F87F8E9D/1051582C1597F3830D64B078B869320B3DAD1E02.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR13316_00": {
+        "npCommunicationId": "NPWR13316_00",
+        "trophyTitleName": "Yonder: The Cloud Catcher Chronicles",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13316_00_004B2A78F37715076F2ABC5C35B478836CE15F0750/CECAB96F4E2D1132B276CB4DBB3AAC7D75FB3005.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR13317_00": {
+        "npCommunicationId": "NPWR13317_00",
+        "trophyTitleName": "The Long Dark",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13317_00_00E4B29A52980C891B98C9614C8C763CBF06B4A380/B5021CD0BEA80E90D2158A60A801349D8CBD64D2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 56
+        },
+        "service": "trophy"
+    },
+    "NPWR13318_00": {
+        "npCommunicationId": "NPWR13318_00",
+        "trophyTitleName": "新次元ゲイム ネプテューヌＶⅡＲ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13318_00_00B915997457D2D820AF67C1845439346640493CAA/36F541E56F3438B211FA3690D9529299C07C5069.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 18,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR13319_00": {
+        "npCommunicationId": "NPWR13319_00",
+        "trophyTitleName": "SUPERHOT",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13319_00_00FA527470A82AE5A3FA1EF64F4DDDC54A9ABB5FB4/776BFE2FB9F00856B7D994626795D1A07572516E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR13320_00": {
+        "npCommunicationId": "NPWR13320_00",
+        "trophyTitleName": "SUPERHOT VR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13320_00_007B9E615C953B980F9EA80B21D8479ABE1CC44CAA/0593C78DC71FD4A9B4584E7E78AC1CD2ECDBD518.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 6,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR13321_00": {
+        "npCommunicationId": "NPWR13321_00",
+        "trophyTitleName": "祝姫 -祀-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13321_00_00787C927F42AC4DE82BF549731075A43F0F7DFD62/E2640A0C377CB652F35B5E2CF77A4B949ED43BC4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13322_00": {
+        "npCommunicationId": "NPWR13322_00",
+        "trophyTitleName": "祝姫 -祀-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13322_00_00803F97794DB36CFD583D595BEEFD71D6726D38C9/58DBE73531B1A61DF2BE6E0769E4793DD7BA85A6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 0
+        },
+        "service": "trophy"
     }
 }
