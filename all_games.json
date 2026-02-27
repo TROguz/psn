@@ -53428,5 +53428,135 @@
             "bronze": 20
         },
         "service": "trophy"
+    },
+    "NPWR09735_00": {
+        "npCommunicationId": "NPWR09735_00",
+        "trophyTitleName": "SkyScrappers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09735_00_0071CE2D7180ADF738572C2F86512D13D12FEDE358/F2B5BF59DFFC9303E16CD75865B479F1138D3250.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR09736_00": {
+        "npCommunicationId": "NPWR09736_00",
+        "trophyTitleName": "Strike Vector Ex ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09736_00_0006E76AB5985B9978AB49B6A65A6404487ABD70B6/D59B2F5CED254DFACEFE397D8AC72012FAD6C935.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 6,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR09742_00": {
+        "npCommunicationId": "NPWR09742_00",
+        "trophyTitleName": "Adventures of MANA",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09742_00_00D35A835857577A920810AF7D1CD989C9584CBD87/B3B0FFAB14464D154AFD6EDA6C638ACDA2F26938.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR09744_00": {
+        "npCommunicationId": "NPWR09744_00",
+        "trophyTitleName": "Let's Sing 2016",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09744_00_00636A87DE3A77C14ED55F5B9554578C45D2ADF5F9/B664BCBBE991D07501F01AA947200425AF06DB93.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR09745_00": {
+        "npCommunicationId": "NPWR09745_00",
+        "trophyTitleName": "Let's Sing 2016 : Hits Français",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09745_00_003565505582F2FCAEBDE63B15CA0920C335E70B36/730C6FDF0CF076A2C334B54A713A069B99A6DBCC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR09746_00": {
+        "npCommunicationId": "NPWR09746_00",
+        "trophyTitleName": "Trackmania Turbo",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09746_00_0045A3F548A190BA5FE4328A7905F3C58AA3F4CD1C/1C2B9050C23BD90EFA0CC464790A36276F6529C4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR09747_00": {
+        "npCommunicationId": "NPWR09747_00",
+        "trophyTitleName": "Chronicles of Teddy : Harmony of Exidus",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09747_00_004A4B4BD2C4112C0D020161A65B71C2D7E54E12CB/D3C7BD11363EA8F8EC39ACD9942E81E45729F3E1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR09748_00": {
+        "npCommunicationId": "NPWR09748_00",
+        "trophyTitleName": "大正メビウスライン Vitable",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09748_00_00FF9826262744DFE2E0E2FD361E44F03521444583/A10772B6C295481969C7B81D818642605039578E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 17,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR09749_00": {
+        "npCommunicationId": "NPWR09749_00",
+        "trophyTitleName": "Baboon!®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09749_00_00491419D5072E5CF282FC228536CF3F7E0233F8DB/2B7FE357C367A7DEBDC2EDBA7C8AB6AFEA3EA5C3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR09750_00": {
+        "npCommunicationId": "NPWR09750_00",
+        "trophyTitleName": "GOD EATER OFF SHOT ＜リンドウ編＞",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09750_00_002E39C161CBF4C3C9A53FA654485C29AC55854217/7DC428FCC26B3E5EB4E2A0C28AE8A338A9EB8C70.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
