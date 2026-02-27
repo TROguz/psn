@@ -23099,5 +23099,44 @@
             "bronze": 31
         },
         "service": "trophy"
+    },
+    "NPWR04001_00": {
+        "npCommunicationId": "NPWR04001_00",
+        "trophyTitleName": "METAL GEAR RISING: REVENGEANCE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04001_00_00E2BA81D95B3EF7BADD0D4FC4C42962946D1F253A/3B1BBF774C88210DC07C85C46509FF5B47271BBC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR04003_00": {
+        "npCommunicationId": "NPWR04003_00",
+        "trophyTitleName": "Legends of War: Patton",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04003_00_00C279EA89AA1D8D5797F7892017F0F727961197A5/9E4E128E9F9E88CEDE79789C1B2B13488BD091C5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR04005_00": {
+        "npCommunicationId": "NPWR04005_00",
+        "trophyTitleName": "トトリのアトリエ Ｐｌｕｓ\n～アーランドの錬金術士２～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04005_00_00FFC991C5DDE3C1E6D6B2ABFB3EF7EC9C182E3ED7/580CDFCB7A95A80473AD5376F9F77E590F6B1A02.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 17,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
