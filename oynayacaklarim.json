@@ -609,5 +609,18 @@
             "bronze": 34
         },
         "service": "trophy"
+    },
+    "NPWR03752_00": {
+        "npCommunicationId": "NPWR03752_00",
+        "trophyTitleName": "みんなのGOLF 6",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03752_00_007DB8ADCACD856184B72396A540B88E4412E5DE2D/B5C2A193C7AE9F1F4FA5597E33620E9D57C3ABCF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 24
+        },
+        "service": "trophy"
     }
 }
