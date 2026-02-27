@@ -90998,5 +90998,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR14796_00": {
+        "npCommunicationId": "NPWR14796_00",
+        "trophyTitleName": "Overcooked 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14796_00_00A4AEDE0A37CC9BD07425C13425F54BFD94E11ED1/380655B8357BD3008EDA474853248C702BD24C80.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 12,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR14797_00": {
+        "npCommunicationId": "NPWR14797_00",
+        "trophyTitleName": "Genesis Alpha One",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14797_00_00AE4A9F4B9EAE6ED44F0E8D6F657D098BC43DE2F9/DB35836C957E1EACA4EA36AB69947DFEF406D241.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR14798_00": {
+        "npCommunicationId": "NPWR14798_00",
+        "trophyTitleName": "F1® 2018",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14798_00_00A151AC236C035CB77032F1323EE2D5BD1AFEAF6B/08BB4371EA5074FAFC90372FA4082167C8DDA6C9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR14799_00": {
+        "npCommunicationId": "NPWR14799_00",
+        "trophyTitleName": "Drive on Moscow",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14799_00_00083D12EC7F52351CFA354D6D3C2CB577EA773319/87170713D106E4E5FC6538CE69B281FD63A3391C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR14800_00": {
+        "npCommunicationId": "NPWR14800_00",
+        "trophyTitleName": "Drive on Moscow",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14800_00_006BDA49584556730BEED20866E025C7C1E2CD8D3A/B36E0CBD427C17A674297BDA60123720D212E460.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR14801_00": {
+        "npCommunicationId": "NPWR14801_00",
+        "trophyTitleName": "Little Red Lie",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14801_00_0054E934141CB4553AF2FA38E5FA6F2955A33ED922/34CF7748C2F94257767FDE9DA113F82B9A6FE450.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14802_00": {
+        "npCommunicationId": "NPWR14802_00",
+        "trophyTitleName": "Metropolis: Lux Obscura",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14802_00_0036F6033EC3FE7AE079C3E083CFED678E36BC0142/4E907329EC1432E58D29FED6BC78A059A0B3DC3C.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR14803_00": {
+        "npCommunicationId": "NPWR14803_00",
+        "trophyTitleName": "Metropolis: Lux Obscura",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14803_00_00360A40C651BF30314CEEA69F5FB352136C568D0C/0CD1A2BF80D7991CCCD4FCC3EEAE271010885BA5.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR14806_00": {
+        "npCommunicationId": "NPWR14806_00",
+        "trophyTitleName": "Vesta",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14806_00_0050B89D54A7994C947199A33140DF197DDD81678F/AE27C1E96434821B252C020C45419C47371E04B4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR14807_00": {
+        "npCommunicationId": "NPWR14807_00",
+        "trophyTitleName": "Vesta",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14807_00_00EC50219F7718912812A52FFA2721D5F1D1BEABA0/B73599AB0CEA7175E45405DED7C67D6F12B17CC4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
     }
 }
