@@ -86058,5 +86058,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR14170_00": {
+        "npCommunicationId": "NPWR14170_00",
+        "trophyTitleName": "Mystik Belle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14170_00_00BB9E64DBADF5E34A441B3CE631AD6820C04E46CC/23E142CB71F5BBD5B854236A9CDDB821C9DAC143.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR14171_00": {
+        "npCommunicationId": "NPWR14171_00",
+        "trophyTitleName": "Wattam",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14171_00_0078C125269BD562CBD88C2240F536962082B526E5/07D3046AF68981FCFF6760B6F5CFD4E4321D7CA8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR14172_00": {
+        "npCommunicationId": "NPWR14172_00",
+        "trophyTitleName": "Beholder Complete Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14172_00_002CBB5E8212F67D4FDF2EDE161637CED5DE2FB7EB/9998ADFD653D7B56DBB2329510368254975C45F1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR14174_00": {
+        "npCommunicationId": "NPWR14174_00",
+        "trophyTitleName": "A Knight's Quest",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14174_00_000462D325D2BDD12F745B9FD799D72B2473254AA5/5C63904CDE5997185801F914699F45FFB423386D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR14178_00": {
+        "npCommunicationId": "NPWR14178_00",
+        "trophyTitleName": "DreamWorks Voltron VR Chronicles",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14178_00_00AE4F4B47CA69E9992AF2438FE6DF211305AEC3E9/6033049531569B691B4E91CE0E0EDCE08DD228BC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR14179_00": {
+        "npCommunicationId": "NPWR14179_00",
+        "trophyTitleName": "Cat Quest",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14179_00_009A075ECE3388AA6B634DE42D295AA5CE955FC65E/B4054E110680F4787D1C3AFAB21A55A51CE80BFF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14180_00": {
+        "npCommunicationId": "NPWR14180_00",
+        "trophyTitleName": "Deer Hunter: Reloaded",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14180_00_00FF23DAF7B73DC759A3D1B0C19D51BEA6BBC46EBB/84DB42BE656A36D580B9F3F7184FD4DF2FAF644F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR14181_00": {
+        "npCommunicationId": "NPWR14181_00",
+        "trophyTitleName": "Deer Hunter: Reloaded",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14181_00_005ED5142FD389768B852912CED88D4D57B866D34B/CF2C71CE0136C00DCACE351860C9690225B8C0B8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR14182_00": {
+        "npCommunicationId": "NPWR14182_00",
+        "trophyTitleName": "Crossing Souls",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14182_00_0072128F4D842CD1D84A7CA34A4DEC107544B500F6/BB550AB0F6552ED4610A8A782714B32FE536CCAA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR14183_00": {
+        "npCommunicationId": "NPWR14183_00",
+        "trophyTitleName": "HEX: Card Clash",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14183_00_00D724D9A76E6AB4B5DC1F571C158647D1DBD3EA2D/67ECFF5A0E1FF53B3EF41D513EAACC615429494D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
     }
 }
