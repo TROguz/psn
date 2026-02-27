@@ -50958,5 +50958,135 @@
             "bronze": 16
         },
         "service": "trophy"
+    },
+    "NPWR09349_00": {
+        "npCommunicationId": "NPWR09349_00",
+        "trophyTitleName": "VA-11 HALL-A",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09349_00_008A91B8A1BB576F8D0E3D83CC5600375DBA05A54C/A610923133C329F828C2DC9315E18032E2372294.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR09350_00": {
+        "npCommunicationId": "NPWR09350_00",
+        "trophyTitleName": "Atelier Sophie ~The Alchemist of the Mysterious Book~",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09350_00_005D90EA2ECB1522C7BA5A96E4874B12794A3AE8C3/118E672C2A78E301FD943BFFE2A6FB91CD8C672B.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 6,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR09351_00": {
+        "npCommunicationId": "NPWR09351_00",
+        "trophyTitleName": "Gem Legends",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09351_00_008E2AF7AF87FCB1FC6CEEB65EDFFC58030241555C/F298F3B3FBA0229AF247F3FDC6B9568C995FF1B1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09352_00": {
+        "npCommunicationId": "NPWR09352_00",
+        "trophyTitleName": "アイドルマスター マストソングス 赤盤/青盤",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09352_00_003021F2E9F9E9EA404DE27315F7C4ECE882DAC87E/751EECE444FD5A5A10746F5C31BB8ED70133B70D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR09353_00": {
+        "npCommunicationId": "NPWR09353_00",
+        "trophyTitleName": "Handball 16",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09353_00_00BB930460107B82FAFA86F7408A9098C4BA74CE01/A10563A45654D61C194A0DAAA4038AE031F78720.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR09356_00": {
+        "npCommunicationId": "NPWR09356_00",
+        "trophyTitleName": "Brunswick Pro Bowling",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09356_00_0040B00FDFBBE25D8F3EBA72E62360769088E01DB9/706F4B0CEA5378DBB6E12DC99222021F48718653.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09359_00": {
+        "npCommunicationId": "NPWR09359_00",
+        "trophyTitleName": "DRAGON QUEST HEROES: The World Tree's Woe and the Blight Below",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09359_00_00EFF0550F4091E990933C2029152B2A27B1C56EEA/CC5C58B850C5E1F04116F9A473CF243E95E43D15.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR09360_00": {
+        "npCommunicationId": "NPWR09360_00",
+        "trophyTitleName": "Level 22",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09360_00_00E29301DAFEE335FDB2EA67DC7B045959634A637A/7A55A52C2A8A275CDD56811490F6C3C0162C96F0.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR09363_00": {
+        "npCommunicationId": "NPWR09363_00",
+        "trophyTitleName": "WRC 5",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09363_00_00645F95822E2CA6D3AEF56007B6ADE6AC988774C1/3387978D39257340B0BBB350FEADA34495886BD1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 7,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR09367_00": {
+        "npCommunicationId": "NPWR09367_00",
+        "trophyTitleName": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09367_00_003749B4A9292461EBFCDF8776B10A7ABB43963682/28D2D43392E91572BBCCC3D5B57F63BCEF353AA5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 18,
+            "bronze": 32
+        },
+        "service": "trophy"
     }
 }
