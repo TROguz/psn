@@ -49918,5 +49918,135 @@
             "bronze": 36
         },
         "service": "trophy"
+    },
+    "NPWR09187_00": {
+        "npCommunicationId": "NPWR09187_00",
+        "trophyTitleName": "Mass Effect™: Andromeda",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09187_00_00E44B461384AB7873033564F869C33D0EF671AD6F/108043FAE59C5E369404A10C8F37738F89D3F02E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR09188_00": {
+        "npCommunicationId": "NPWR09188_00",
+        "trophyTitleName": " Amnesia: Memories",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09188_00_004351C5E44382ABC248B03D2ECABA940F30A03C42/FCE546DA038BDBFD70CC0F0F0E610300671C6E46.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR09189_00": {
+        "npCommunicationId": "NPWR09189_00",
+        "trophyTitleName": " Amnesia: Memories",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09189_00_00A03F83550384C718146BB2C2E3E7BF34789C7B50/A46C69795001AC1B9ED99CDA437343718BD69894.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR09190_00": {
+        "npCommunicationId": "NPWR09190_00",
+        "trophyTitleName": "Aqua Moto Racing Utopia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09190_00_00310338F11068E93D9609583D73CD99782E8785F7/9011802E0DC1BE45BE55697A20D060977DBF5F77.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 4,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR09191_00": {
+        "npCommunicationId": "NPWR09191_00",
+        "trophyTitleName": "Valley",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09191_00_0081D1948087E7A649127E7240CDE2BE46905352B9/BA1B03DD2850470460A5EB1957E8775C47BEA64F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR09194_00": {
+        "npCommunicationId": "NPWR09194_00",
+        "trophyTitleName": "Sword Coast Legends",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09194_00_008061CEE6D3153667788108C6F9EA22F58C6B7077/BC1A792C09508CB6A6CB135B56B5B791A37CB5D5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR09196_00": {
+        "npCommunicationId": "NPWR09196_00",
+        "trophyTitleName": "Tony Hawk's® Pro Skater™ 5",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09196_00_00463DD1F6AD4552632F93D01B24138705A0A7E391/6D90A500CA63983F6CF69998A2DEB9CE17BA8F3B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR09198_00": {
+        "npCommunicationId": "NPWR09198_00",
+        "trophyTitleName": "Fat City: NYC Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09198_00_00582F57217C73765602554EE36DF94177ACE03E76/D10DD55D3FC6EADB171BF972324FB5EF147FA6F7.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR09199_00": {
+        "npCommunicationId": "NPWR09199_00",
+        "trophyTitleName": "Divinity: Original Sin Enhanced Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09199_00_0038EAA54BACEC3A5A5DDB38AA6C6780E17E6BE2D8/75E33AEF0A4509D9FFF3D0098D3DC4D433E7B297.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 47
+        },
+        "service": "trophy"
+    },
+    "NPWR09205_00": {
+        "npCommunicationId": "NPWR09205_00",
+        "trophyTitleName": "Lost Dimension",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09205_00_00F60E6C06D6B9FA0AE9FCCF9E77858F1EAFCE2FDC/82349807BE0F555B0B2B296550071205D6C09F9D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 16
+        },
+        "service": "trophy"
     }
 }
