@@ -36658,5 +36658,135 @@
             "bronze": 63
         },
         "service": "trophy"
+    },
+    "NPWR06860_00": {
+        "npCommunicationId": "NPWR06860_00",
+        "trophyTitleName": "チェインクロニクルV",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06860_00_005EC520E59BBFF22E664BE1BD036417E67F18D7A5/C149889380DE761CDB324DF9BC485F8F11080770.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR06861_00": {
+        "npCommunicationId": "NPWR06861_00",
+        "trophyTitleName": "Warhedz Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06861_00_00EF421450E75809753E6EF62C529DF3AE8D20681C/A72808136960A755A1C0A67D35E1EF53C9DF671F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR06862_00": {
+        "npCommunicationId": "NPWR06862_00",
+        "trophyTitleName": "熱血異能部活譚 Trigger Kiss",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06862_00_009776F6CD5FE1F22B1D71FECF565CAB0F419F6CD0/782CAB19416ED4F4607815294124FFC7CB05EFC7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR06868_00": {
+        "npCommunicationId": "NPWR06868_00",
+        "trophyTitleName": "SAMURAI WARRIORS 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06868_00_009C4DEF4418A4029A887A6F4B54D544896E06B620/E1E27BC8BC8ED217EB2E97F23ADF413B2A11930D.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR06875_00": {
+        "npCommunicationId": "NPWR06875_00",
+        "trophyTitleName": "Child of Light",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06875_00_00DFCB19A3BC7C4FF91476C17F31BB8E61E83C7FEF/042B022AA2D61C57AD164331E8B8009638657989.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR06877_00": {
+        "npCommunicationId": "NPWR06877_00",
+        "trophyTitleName": "NBA 2K15",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06877_00_003A13B596DBFA727EB1834C6BED87902FCDA99A6D/C6A7828D9091C63918BFB4A732823290E57DA3A8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR06881_00": {
+        "npCommunicationId": "NPWR06881_00",
+        "trophyTitleName": "That Trivia Game",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06881_00_00BC9EB428D6B9654FA709C82699142A43522C0215/A5F6C05ACD99A68DEB001D45E73E658032C36236.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR06888_00": {
+        "npCommunicationId": "NPWR06888_00",
+        "trophyTitleName": "Arcade Archives MAT MANIA EXCITING HOUR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06888_00_0026618921C58CF9CA78E38BDE24F9F9F4C398042E/C7E7E69DACFC7D18CD57AD332B9E1DA0C35AB73D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR06891_00": {
+        "npCommunicationId": "NPWR06891_00",
+        "trophyTitleName": "ソラユメ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06891_00_0027D7565D5140B30EF9106DF548CA2E7AC78FB3E2/714F64A79A9AA086369CA4A48ABEC86FB3D1AEFF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR06896_00": {
+        "npCommunicationId": "NPWR06896_00",
+        "trophyTitleName": "マジカルビート",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06896_00_00A9EBA3E6FD192D9B8207214DBE3403F078856F75/31E6D3E7656121412F71DCC0DCE0EA88BABB6BB4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 14
+        },
+        "service": "trophy"
     }
 }
