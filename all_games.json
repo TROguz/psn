@@ -22228,5 +22228,135 @@
             "bronze": 30
         },
         "service": "trophy"
+    },
+    "NPWR03780_00": {
+        "npCommunicationId": "NPWR03780_00",
+        "trophyTitleName": "Disney•Pixar Toy Story Mania!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03780_00_004D59D3FC877E29644950919372C4F7B0A1D14C0A/464FFA661407B7A12E411B75F549F620F81A94C8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 16,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR03781_00": {
+        "npCommunicationId": "NPWR03781_00",
+        "trophyTitleName": "Midway Arcade Origins",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03781_00_0062CF900D4F56797E3F0BC98221D75DD6DEEF197F/6C53D4CEF1A5BAD76815F1C87F5C9FA63FEDE55D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 16,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR03789_00": {
+        "npCommunicationId": "NPWR03789_00",
+        "trophyTitleName": "When Vikings Attack!™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03789_00_00DB68277BDA2CE0A78FF514B81CB8863CA57B727A/0090D8AE94D991E36AEAC582A785D06D5660F0D6.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 4,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR03790_00": {
+        "npCommunicationId": "NPWR03790_00",
+        "trophyTitleName": "WRC 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03790_00_0051890481FD852EC3EF53B550956A28BB96CEBAAB/4085AA0B9482EE62491718F887B85E1BD292F4BF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR03797_00": {
+        "npCommunicationId": "NPWR03797_00",
+        "trophyTitleName": "Beyond: Two Souls™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03797_00_00CE033A46142B1FFFFE56DE24F7BFDAAF08AB250F/D2D0EFC4CF84A060692EBA7A117347E75DDB1257.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR03805_00": {
+        "npCommunicationId": "NPWR03805_00",
+        "trophyTitleName": "DmC Devil May Cry™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03805_00_00380D4ED8452DE94BE79CCEE8BA4989D6045B6A6F/2829C032C5F2656F5DFD4A9F6102B1A560470771.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 45
+        },
+        "service": "trophy"
+    },
+    "NPWR03806_00": {
+        "npCommunicationId": "NPWR03806_00",
+        "trophyTitleName": "Dead Island Riptide",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03806_00_007F64F94D86C15A30E64D8CFEC96E5F3386525EEB/DDCAD8BE5172724C0F61354BDC6D7242EA046E94.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR03808_00": {
+        "npCommunicationId": "NPWR03808_00",
+        "trophyTitleName": "Dead Space™ 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03808_00_00811F87F8DFE1006B35349F7A7C46C48DDDABEF6A/1E885197D4517FD1EC291FBC8336FC5A2CC6BF8F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 45
+        },
+        "service": "trophy"
+    },
+    "NPWR03812_00": {
+        "npCommunicationId": "NPWR03812_00",
+        "trophyTitleName": "ハートフルシミュレーター PACHISLOT ToHeart2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03812_00_00707F188E65846ADC41A335B0D378230E3F88336F/E354CC6536A69ACDE3889DA087A0A668098B5AFA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR03813_00": {
+        "npCommunicationId": "NPWR03813_00",
+        "trophyTitleName": "Joe Danger 2: The Movie",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03813_00_000992E9EAF511F9651BCA4E618DA19AA5333E53A1/D49FBA5C2D6B79E485A514D4231D5F7B8EEA28BF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
     }
 }
