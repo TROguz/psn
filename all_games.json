@@ -81508,5 +81508,135 @@
             "bronze": 6
         },
         "service": "trophy"
+    },
+    "NPWR13569_00": {
+        "npCommunicationId": "NPWR13569_00",
+        "trophyTitleName": "Time Recoil",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13569_00_00CA8775D6174A23FB62910B05DB6E90443B52A836/8DA945502000AEEDFF54DEFA1EFF4C8978651FC5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 4,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR13570_00": {
+        "npCommunicationId": "NPWR13570_00",
+        "trophyTitleName": "Firefighters: Airport Fire Department",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13570_00_00FB779C7F0C9B187BDC69B721842B8EB596FFE5F3/A6E94073ECF7B08600D128941F6480CE63561E63.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 6,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR13571_00": {
+        "npCommunicationId": "NPWR13571_00",
+        "trophyTitleName": "The Coma: Recut",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13571_00_00C6B772EA849184839CD13057C654DAE79734963D/6764BD66D3E8C66148BC193B9FD006D7FEC5D410.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR13572_00": {
+        "npCommunicationId": "NPWR13572_00",
+        "trophyTitleName": "Rad Rodgers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13572_00_009BE688A5D702C763E7B267CA6A00F32C2AF294B6/06DF5881E5C666ECA18FDB650188095741134C45.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR13574_00": {
+        "npCommunicationId": "NPWR13574_00",
+        "trophyTitleName": "Energy Cycle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13574_00_006FBF127E50B74F3F58F39FBE1CA9212FD2DB3092/539F207B530CCBDA8E6F39115C39626E32183173.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR13575_00": {
+        "npCommunicationId": "NPWR13575_00",
+        "trophyTitleName": "떠도는 밤 : 심연",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13575_00_00891F9E79125272E83D783D7D8324754790282ED6/FED2A51354E36B794A44E83B6028E0264DF685B4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR13578_00": {
+        "npCommunicationId": "NPWR13578_00",
+        "trophyTitleName": "Energy Balance",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13578_00_003E30D657FFCB214AB39DA897983832BB11C07B13/709013FB1C9C609738799C855D53E68AA869A87B.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR13580_00": {
+        "npCommunicationId": "NPWR13580_00",
+        "trophyTitleName": "Tachyon Project Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13580_00_00EF779BEC130E87F52544F0FA2594C11FFAFCAAFA/056CE1F7DADC14B9768FAF9DEB3FDBBC44C783CB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR13585_00": {
+        "npCommunicationId": "NPWR13585_00",
+        "trophyTitleName": "Trulon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13585_00_00F5CB36C3986B28F4E2E4079166238F8EFE57BECE/B6721AB4B20DD9D4CE89CBEA6D32232AB28958C2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 6,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13586_00": {
+        "npCommunicationId": "NPWR13586_00",
+        "trophyTitleName": "Trulon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13586_00_00BCFC715B2492B272EBA5797F14FBDC6225369E71/7BF445812B993EAEC092AA6AAC589EEB0E9B565D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 6,
+            "bronze": 0
+        },
+        "service": "trophy"
     }
 }
