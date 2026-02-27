@@ -37438,5 +37438,135 @@
             "bronze": 41
         },
         "service": "trophy"
+    },
+    "NPWR07035_00": {
+        "npCommunicationId": "NPWR07035_00",
+        "trophyTitleName": "Surgeon Simulator",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07035_00_005032E10F297D0202C26AF7F21A801A3FD48A5830/D435192A9EE8F20BD2E3E8765D4BDB2D94E1B0BE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR07036_00": {
+        "npCommunicationId": "NPWR07036_00",
+        "trophyTitleName": "The Voice",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07036_00_0003558CC45D9FAF585A8A377425A8492C6EBF24AC/0055089A8412317EA5AECA0EBEAD6372668F9EE4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR07039_00": {
+        "npCommunicationId": "NPWR07039_00",
+        "trophyTitleName": "NORN9 VAR COMMONS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07039_00_00301AA61121E876671734283AE812EADB319CA22D/2FDC86C44CB1F30DC24969B7DE1219D5736ABB45.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR07047_00": {
+        "npCommunicationId": "NPWR07047_00",
+        "trophyTitleName": "Spelunker Z",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07047_00_00409C4BC7DDD50A83EF72A20DCF7574E63C11C0D3/AF12E129C5862AB5F5715B5966EEE329158AAFDF.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR07050_00": {
+        "npCommunicationId": "NPWR07050_00",
+        "trophyTitleName": "絶対絶望少女　ダンガンロンパ Another Episode",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07050_00_00BA7D4E3D59CE5C5C7643DC10EF770BEF563F14B9/C5E495602C65CEF4BD1D6CC1E4C431E0EA31A56F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR07052_00": {
+        "npCommunicationId": "NPWR07052_00",
+        "trophyTitleName": "Flockers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07052_00_0082B3D2E3CB5EB5999B66DDDBC66DAA745CE8F12F/B9196613F453FDB812F7741E0AFCA12A293A2228.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR07053_00": {
+        "npCommunicationId": "NPWR07053_00",
+        "trophyTitleName": "MONOPOLY PLUS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07053_00_0010E7ED3E68FD75BB4993422705F9F573EF9E9F95/6565BE100047E525F178A6195DB5E9546B253D07.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR07054_00": {
+        "npCommunicationId": "NPWR07054_00",
+        "trophyTitleName": "MONOPOLY FAMILY FUN PACK",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07054_00_00B23F830618BA2CD6108F1077BCD7E34D2873AEFF/DB93571E8FD3503BD4477FD0399613E8497C63CE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR07057_00": {
+        "npCommunicationId": "NPWR07057_00",
+        "trophyTitleName": "Resident Evil",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07057_00_00CA33EA53D83019475A6B6095882089448E6A8B88/8EEF8F187093061803118C5510AC61BA3BD27128.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 15,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR07061_00": {
+        "npCommunicationId": "NPWR07061_00",
+        "trophyTitleName": "自由戰爭™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07061_00_00C6F4C218113F68DDC8979F1F8FD8DC0D43199CF7/A2FD9582F3012C5DEE2122AF134216EBC41B2288.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 33
+        },
+        "service": "trophy"
     }
 }
