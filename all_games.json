@@ -76308,5 +76308,135 @@
             "bronze": 6
         },
         "service": "trophy"
+    },
+    "NPWR12883_00": {
+        "npCommunicationId": "NPWR12883_00",
+        "trophyTitleName": "Shovel Knight: Specter of Torment",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12883_00_0059694A68E42887168297C1990550799AB877A2B5/8D40F69E14A2F5B55EBBCB47434DE1DAB80EBAAF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 4,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR12887_00": {
+        "npCommunicationId": "NPWR12887_00",
+        "trophyTitleName": "DYNAMIC CHORD feat.apple-polisher V edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12887_00_006F5575A5036A5A62ABCE07B0004EFBAE846D1AEE/194D50E61F27DD93041C0A13E75DEA00014D0647.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 4,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR12888_00": {
+        "npCommunicationId": "NPWR12888_00",
+        "trophyTitleName": "VR Invaders",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12888_00_0012A5E4EC76DD2F297193FB1A0FC6482D6672C5D6/91E7F32C783E3DC3777EC80A81FEF713E4B4D9A7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR12891_00": {
+        "npCommunicationId": "NPWR12891_00",
+        "trophyTitleName": "VR Invaders",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12891_00_0048EB209BA5C91FA1B8B61703AAC672DE92824622/4BA09F89ADD38EECC6426231F83EBA205D2B2481.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR12892_00": {
+        "npCommunicationId": "NPWR12892_00",
+        "trophyTitleName": "Borderlands® 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12892_00_008F66DD6135DF514D1E976D9C41BD8B4E8026DB40/3916F821C2612B9AA7DD2015BD70D14C5B88C367.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 20,
+            "bronze": 53
+        },
+        "service": "trophy"
+    },
+    "NPWR12895_00": {
+        "npCommunicationId": "NPWR12895_00",
+        "trophyTitleName": "The Book of Regrets",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12895_00_00B3681509D21061D4F25174E551D27007D2219F8D/6B67CA9E30653F82372B46FEC5730BB01ECEFD64.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR12896_00": {
+        "npCommunicationId": "NPWR12896_00",
+        "trophyTitleName": "Flying Bunny Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12896_00_00AE0E8C53ECBCB83730546C915377D68C4D108ACA/79046936EE4E7C3245660038497979A00B4FD8D7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR12897_00": {
+        "npCommunicationId": "NPWR12897_00",
+        "trophyTitleName": "Baja: Edge of Control HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12897_00_005C9C88599C21A81E1C77683BC2083E386A997B56/6A0BF29B20D4C5346BB5F332045FBD558194453F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 20,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR12898_00": {
+        "npCommunicationId": "NPWR12898_00",
+        "trophyTitleName": "初音ミク Project DIVA Future Tone DX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12898_00_00FA353A3567C15DCFFF8286C274BEB8026F300704/AEB99025CAE61A9ED2D9308E539596F210F58FE9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR12899_00": {
+        "npCommunicationId": "NPWR12899_00",
+        "trophyTitleName": "Bandit Six: Combined Arms",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12899_00_001BAEE3493A5135BBEA635716FE58B08CF9DF994F/8861E690D88222DAA130A49E1663B50807BAE6DF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
