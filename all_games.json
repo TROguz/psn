@@ -26518,5 +26518,135 @@
             "bronze": 6
         },
         "service": "trophy"
+    },
+    "NPWR04616_00": {
+        "npCommunicationId": "NPWR04616_00",
+        "trophyTitleName": "FIFA 14",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04616_00_003491A2DD1F274EF953B389B268203CE37211627A/6A994D6C6BDFF7F3F9E68A02DAB127C70FCA4809.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 15,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR04620_00": {
+        "npCommunicationId": "NPWR04620_00",
+        "trophyTitleName": "AFL Live 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04620_00_0059796093C9F6D121BDC8EAD27F89F941A99EA5C4/7853E2273FA5BBDE256A5AFB8CFB567744FD370A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR04633_00": {
+        "npCommunicationId": "NPWR04633_00",
+        "trophyTitleName": "Assassin's Creed® IV Black Flag",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04633_00_00AE93FFDA61288C4316C5B070819BB2E776D367ED/246C950E2757CCF3209456992686665086DA7EF3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 18,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR04637_00": {
+        "npCommunicationId": "NPWR04637_00",
+        "trophyTitleName": "ネクレボ 秘書検定試験",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04637_00_0023F0351CFFE8D39BEBF18C6DFDE0CA6BC9F7D81E/B1A6E2FED307168664E4E290E9EE845DDFE91769.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR04638_00": {
+        "npCommunicationId": "NPWR04638_00",
+        "trophyTitleName": "ネクレボ ケアマネジャー試験",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04638_00_00CB9B90F9AD1D27237332E2DFDFD82E34AC40052C/9EDE73A76B80F4FBA57788A73477CF108E74F901.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR04641_00": {
+        "npCommunicationId": "NPWR04641_00",
+        "trophyTitleName": "Valhalla Knights 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04641_00_008BF27805750D7F90D659D3C671506B9215612C40/3B2413CE7B3B95EA08ECF4FF50AC485549EF499E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR04643_00": {
+        "npCommunicationId": "NPWR04643_00",
+        "trophyTitleName": "Giana Sisters: Twisted Dreams",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04643_00_003B7C5D3F818B3194B97D077F28700C16E7F9CDB0/1D0891E621976CDDE73499F5797DF88B34B17737.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR04645_00": {
+        "npCommunicationId": "NPWR04645_00",
+        "trophyTitleName": "TEKKEN REVOLUTION",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04645_00_000777F82D284ECF66A7C1BA1DD4F02FC88CEB4AAB/1D67EFDBDC9D5180BA006150871E810BA1113BA3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR04651_00": {
+        "npCommunicationId": "NPWR04651_00",
+        "trophyTitleName": "Flower",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04651_00_00E8B9543465B2350F67699185D196BBEE39A03FAD/8776E2A690F0405858CA592AF34F63104497AEF7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR04652_00": {
+        "npCommunicationId": "NPWR04652_00",
+        "trophyTitleName": "Atelier Escha & Logy ~Alchemists of the Dusk Sky~",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04652_00_001B7ADFB9C31D5031E3891DC2B9DD051372703D4A/7BBF363C92BAFB8858E1D4C69C0E3D9905DD9BE4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 42
+        },
+        "service": "trophy"
     }
 }
