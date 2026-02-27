@@ -47968,5 +47968,135 @@
             "bronze": 61
         },
         "service": "trophy"
+    },
+    "NPWR08924_00": {
+        "npCommunicationId": "NPWR08924_00",
+        "trophyTitleName": "LEGO® MARVEL's Avengers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08924_00_00F264F9403C30631DC4FE039B987E6BF3DBA12308/4D82324519F24E89CF42C13BCBC6DEE090F9C886.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR08925_00": {
+        "npCommunicationId": "NPWR08925_00",
+        "trophyTitleName": "Dungeon Travelers 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08925_00_00F4490EB832476C46C8F31CD6DE8CBB1DC2DBF578/968616C5F32CEE7A5DDDEF83FCCE37E1F9813146.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR08927_00": {
+        "npCommunicationId": "NPWR08927_00",
+        "trophyTitleName": "Roundabout",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08927_00_0038B2B7C3F8BC49B616679937A1803A1B2ADBACBD/E5D0ACA1672E497A5F9C234FD61BC6A17B9B5777.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR08928_00": {
+        "npCommunicationId": "NPWR08928_00",
+        "trophyTitleName": "The Witch and the Hundred Knight: Revival Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08928_00_0091A346F7DD8E6BF7A114B7EABA0103916B1D5B2D/09AF87C1A051891B2B041EE2C3A9A56162C66E22.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR08929_00": {
+        "npCommunicationId": "NPWR08929_00",
+        "trophyTitleName": "Arcade Archives ShanghaiⅢ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08929_00_000ED6F69DC890390A7D64FBD0AC11E49EB355100B/4DC7C0E2490BB824036927BA660375F4F2B22ED0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08930_00": {
+        "npCommunicationId": "NPWR08930_00",
+        "trophyTitleName": "東京陰陽師～天現寺橋怜の場合～V Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08930_00_009944D4441F34AF03539803BECC5C9F4DA8D835FF/0DF156EC4669D2150A045318F1DE84690D88D429.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR08931_00": {
+        "npCommunicationId": "NPWR08931_00",
+        "trophyTitleName": "Frozen Free Fall: Snowball Fight\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08931_00_00A476662381FF60BAAE577BACB1920E4A8558563D/C587A48E0FA5EA0A8B64F254AC736973E3351F6E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR08933_00": {
+        "npCommunicationId": "NPWR08933_00",
+        "trophyTitleName": "Penarium",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08933_00_004EFB85EE12C063319C4DD5F4DE223DF497BC8C41/9E3DB9EA68D492D52D9DE54ABBADE8B0EE3BF44D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR08934_00": {
+        "npCommunicationId": "NPWR08934_00",
+        "trophyTitleName": "Assassin's Creed® Syndicate",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08934_00_00E288AF3E17A5F8897811AA48E3DBE84491F57F4E/C39198C362F2E6A41CD3E5D274199D5F6E5179A7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 45
+        },
+        "service": "trophy"
+    },
+    "NPWR08935_00": {
+        "npCommunicationId": "NPWR08935_00",
+        "trophyTitleName": "Tales of Zestiria",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08935_00_008228269BFB6ABDA74B3161C18ABF0DFBC4F0FCD7/028B27F66187572B23E4EA7C5C5EE2E41AFC63E3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 43
+        },
+        "service": "trophy"
     }
 }
