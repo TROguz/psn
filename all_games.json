@@ -90478,5 +90478,135 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR14728_00": {
+        "npCommunicationId": "NPWR14728_00",
+        "trophyTitleName": "Omensight\n\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14728_00_00319AA16EDD60AAAE385AAD68A112AF372CCA00AF/E73D2A4391315DFE3BBED34B3968B063B00FD144.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 5,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR14729_00": {
+        "npCommunicationId": "NPWR14729_00",
+        "trophyTitleName": "Run Dorothy Run",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14729_00_009FEF3CC8CF4E1A4AC30794F257C6B399030F0943/D077387977FC67F1E4FAEA092B66BADF1DC9E219.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14730_00": {
+        "npCommunicationId": "NPWR14730_00",
+        "trophyTitleName": "Fallen Legion: Flames of Rebellion",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14730_00_00677158D0D5B5C09A3C78F594AE7E1FD1BF29AEA8/B650DE4643648EF21470E88346FD0ADF32359888.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR14732_00": {
+        "npCommunicationId": "NPWR14732_00",
+        "trophyTitleName": "MUSYNX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14732_00_00747334B1CC44E41A74514F6CA569A420EC67FFD0/BFF3C720F02F2B0E24518B771D336869108CBDBB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR14734_00": {
+        "npCommunicationId": "NPWR14734_00",
+        "trophyTitleName": "Death Road to Canada",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14734_00_00A94B4FF087325A6BD855882D4726FF732813B6E2/26135F74F3E477E33E520DE7C73CFAC67A17ECE3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 64
+        },
+        "service": "trophy"
+    },
+    "NPWR14736_00": {
+        "npCommunicationId": "NPWR14736_00",
+        "trophyTitleName": "Winning Post 8 2018",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14736_00_009C8E27F1CB455CB64B9AA4531E9E6CCD882ACDAC/399A4AE955BB71EC6C9B6BB7FB7E8C204DDD98B0.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR14737_00": {
+        "npCommunicationId": "NPWR14737_00",
+        "trophyTitleName": "SUPER BOMBERMAN R",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14737_00_00902C9E8BBE686F1FD5B4922FACAD1A27A38373CA/07975A8DB0D284998C4786E8717E523BEBC31CC0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR14740_00": {
+        "npCommunicationId": "NPWR14740_00",
+        "trophyTitleName": "TINY METAL",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14740_00_00FE5D6E2D5D52DBA4D8B9D0366A9429577B60E1F4/D8BB19138E0796B81DD1C4AF99E46CBA8BA05CE9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14745_00": {
+        "npCommunicationId": "NPWR14745_00",
+        "trophyTitleName": "Catastronauts",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14745_00_002D1681EEA37BB557701F17C02BF6C10B8337221C/6F6D01F89A21E79C141DE4B4E6CEDB22C98460A0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 1,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14746_00": {
+        "npCommunicationId": "NPWR14746_00",
+        "trophyTitleName": "Football Nation VR Tournament 2018",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14746_00_003EC4E186D92E5F7CBA7BE71A628503A9C6D737F3/DB4A5124C219B1DD4404FBAE7942F45A325D7C24.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 30
+        },
+        "service": "trophy"
     }
 }
