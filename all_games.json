@@ -63698,5 +63698,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR11276_00": {
+        "npCommunicationId": "NPWR11276_00",
+        "trophyTitleName": "Binaries",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11276_00_00F06642477BC725F20420B8986EDE21D2376DC223/E87F9057A99C140757C7CC9A615A41AEF6C1570E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11279_00": {
+        "npCommunicationId": "NPWR11279_00",
+        "trophyTitleName": "Here They Lie",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11279_00_006F9EAE72927C9DAC2913F58440B95DAF3C8E8711/641A70FCECF648A8597FFFBE2FF8CDE497DDCD7C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 7,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR11280_00": {
+        "npCommunicationId": "NPWR11280_00",
+        "trophyTitleName": "PSYCHO-PASS Mandatory Happiness",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11280_00_004E633DE109942A4C9C46379C4BB869A08977ECD8/D1746694653E20E1AAE78724563B781E18E2FB7B.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR11282_00": {
+        "npCommunicationId": "NPWR11282_00",
+        "trophyTitleName": "プラスティック・メモリーズ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11282_00_00E42E0D1E42B4B8D3EC7C92B32CD429464455F3E6/573EDD21AA8D0ED491E9D21EFE6DA457D89F2D9A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11284_00": {
+        "npCommunicationId": "NPWR11284_00",
+        "trophyTitleName": "Total Jigsaw\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11284_00_0065B5AA0B9CC7D651F0FF244E2C0C44933472C509/F760ED39A6C878B0E700DA89BCFCC2FFFB75DA4E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR11285_00": {
+        "npCommunicationId": "NPWR11285_00",
+        "trophyTitleName": "Siegecraft Commander",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11285_00_004A7AA16EA1E02EA74DF3DE3D807F8FDE1D90AA7E/3F3F74DF5040AB10AAC3074080D6B0177E080BD4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR11287_00": {
+        "npCommunicationId": "NPWR11287_00",
+        "trophyTitleName": "Obliteracers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11287_00_0030710FE5E38E3798B47672FCC9ACA8F652E15AF5/A8492D88989717F765E04DA2886E6A345555F56C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11290_00": {
+        "npCommunicationId": "NPWR11290_00",
+        "trophyTitleName": "Loading Human Trophy Set PS4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11290_00_0049DDDB99F58315266B378EE4B818A572FEED2B74/8B84C29A564C296F5C3106EB67077999E0EEFDB5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR11291_00": {
+        "npCommunicationId": "NPWR11291_00",
+        "trophyTitleName": "CHAOS;CHILD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11291_00_005A84F7A37666F6D6B4220E1CFCCE1039DAA138CB/72A013547F64CD4C4EEB9578EDD8051C0008E04C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR11292_00": {
+        "npCommunicationId": "NPWR11292_00",
+        "trophyTitleName": "CHAOS;CHILD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11292_00_00BA73CCE2CBE9FCAA4186967DA70E420A723864CC/46AD84B92D026C68B558D41BF26E9D92B43956DB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 19
+        },
+        "service": "trophy"
     }
 }
