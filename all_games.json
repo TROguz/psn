@@ -18718,5 +18718,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR03104_00": {
+        "npCommunicationId": "NPWR03104_00",
+        "trophyTitleName": "The Price is Right Decades",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03104_00_004FF5A374E8E0DCF6097C3FF8BF58652949DB4C97/E3271347B4ADCC9EE72C5A434E926F9C28E69AF1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR03105_00": {
+        "npCommunicationId": "NPWR03105_00",
+        "trophyTitleName": "ARKEDO SERIES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03105_00_002C3EC3C735F6997D09A7BA1C260962264671170D/673FAB750FA5E3001F5F344D177F5C0C0F2B2661.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 7,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR03108_00": {
+        "npCommunicationId": "NPWR03108_00",
+        "trophyTitleName": "DiRT Showdown",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03108_00_00D8BC03C768A33FEA5C2351E4C897A5BD22EDD750/667D69DC74CBDC52ACACEDEEE0C2EEFE54291B3C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR03109_00": {
+        "npCommunicationId": "NPWR03109_00",
+        "trophyTitleName": "Major League Baseball 2K12",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03109_00_00001D12D150FDD821B30F59AA13F5B3E0C57FEEDC/AADBCE903D06F264B0A86AA49DD5E7ED6EB2CF98.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR03110_00": {
+        "npCommunicationId": "NPWR03110_00",
+        "trophyTitleName": "Wake-up Club",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03110_00_00C674E7D25F9D21DC6146191C2DBE605F816C61A0/99948F19793CA5089279872111DD4B9041050BA9.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR03111_00": {
+        "npCommunicationId": "NPWR03111_00",
+        "trophyTitleName": "KickBeat",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03111_00_005BD2B63EBA81B2F633187AB824928D875F04F882/19DD6EB8678D451BD003F4F811F7EBCD366624DF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 6,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR03114_00": {
+        "npCommunicationId": "NPWR03114_00",
+        "trophyTitleName": "Hyperdimension Neptunia mk2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03114_00_001A269B73F2B01B26F61CE9590044C032E462B25B/8789D986CB9D54DCC20CC3F127D70C58DD940253.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR03116_00": {
+        "npCommunicationId": "NPWR03116_00",
+        "trophyTitleName": "WARRIORS OROCHI 3\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03116_00_0049A778293E8C00DF01234F2D165D9ED40CAEB55D/FE41EFE97B6A8E9663703FDEA7E14350CE9D7BDA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 18,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR03117_00": {
+        "npCommunicationId": "NPWR03117_00",
+        "trophyTitleName": "GUILTY GEAR XX ΛCORE PLUS Trophy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03117_00_004DEE832211B50E35F28BEF65368DC5CE3833EBD9/821AA4F239F33B34792A4358DD323F42BEA237DC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR03118_00": {
+        "npCommunicationId": "NPWR03118_00",
+        "trophyTitleName": "Mad Riders",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03118_00_002C7F0CE5505DE84992FC1EFE09F6E5CE9501993B/D9475A77B6C1D0C1C2526E4DD69D41B209172135.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 8
+        },
+        "service": "trophy"
     }
 }
