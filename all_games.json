@@ -70848,5 +70848,135 @@
             "bronze": 16
         },
         "service": "trophy"
+    },
+    "NPWR12200_00": {
+        "npCommunicationId": "NPWR12200_00",
+        "trophyTitleName": "World to the West",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12200_00_00E42EC3BEA64B563C6AE5A0066DFFA84F46791EE8/D440CA2153085FAC2E437BCEB179941E818ED646.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR12201_00": {
+        "npCommunicationId": "NPWR12201_00",
+        "trophyTitleName": "BikeRiderVR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12201_00_001E4C059F2D5531D54E9533D8B2C287BCBDD556A1/0767C0871F302B50FDC2C618D939DD86BDF937F9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR12202_00": {
+        "npCommunicationId": "NPWR12202_00",
+        "trophyTitleName": "THE TURING TEST",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12202_00_004B78677C4B227FC72223C37A60BB01DCB4E30D13/889EBEDD75889F2E48C7F6229224BA869A277CCE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR12204_00": {
+        "npCommunicationId": "NPWR12204_00",
+        "trophyTitleName": "RBI Baseball 17",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12204_00_002FB3813004F46EB5C0A08157DFB0150F456579A1/5F273741B0D17D912A946B7B417FBFB6CE185AE7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR12205_00": {
+        "npCommunicationId": "NPWR12205_00",
+        "trophyTitleName": "I, Zombie",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12205_00_00459ED8CACF0D1C56DF08B832B28A012013A200DF/8E8923CE9EBC2950BC45245204BF8953978E3F47.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR12206_00": {
+        "npCommunicationId": "NPWR12206_00",
+        "trophyTitleName": "王牌香蕉大乱斗",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12206_00_00EF4DEB18C330D0A821A547BBCA2DF84F4ACD8F02/CB121BD84E5050826030EF062C2D1C97A2570640.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR12208_00": {
+        "npCommunicationId": "NPWR12208_00",
+        "trophyTitleName": "Chess Ultra",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12208_00_0081A66741494348178759BA6E6A147EAEA57973B6/92C2BAE595220A0FD77005558EC956B0D8FF1F2D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 7,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR12210_00": {
+        "npCommunicationId": "NPWR12210_00",
+        "trophyTitleName": "Utawarerumono: Mask of Deception",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12210_00_008B75B20739BD5B7DB9218C6ACA4E20787AA9B179/A78455A943DBF9B8147D059994BCA793609B20EA.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR12212_00": {
+        "npCommunicationId": "NPWR12212_00",
+        "trophyTitleName": "Dark Rose Valkyrie",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12212_00_0072BFB4479847C8404F91A4117D4C8F9A4C45D533/42EFF809F5B02B1016158D5435541614B9695F01.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 45
+        },
+        "service": "trophy"
+    },
+    "NPWR12213_00": {
+        "npCommunicationId": "NPWR12213_00",
+        "trophyTitleName": "MX Nitro",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12213_00_0002F25AB98AA1B6B0C727DD4D96EC98ECC4F3F11F/0375BCB600633150C3EDCBA14FF1F1608861D259.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
     }
 }
