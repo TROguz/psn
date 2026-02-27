@@ -65388,5 +65388,135 @@
             "bronze": 20
         },
         "service": "trophy"
+    },
+    "NPWR11495_00": {
+        "npCommunicationId": "NPWR11495_00",
+        "trophyTitleName": "Spartan",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11495_00_00BE2525D9CC6E53D0957E59942E0FF5ACFF7FC7C5/4739D88246CFBA1825D146B8B53DC4D87BBB54A0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 2,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR11497_00": {
+        "npCommunicationId": "NPWR11497_00",
+        "trophyTitleName": "BORDER BREAK",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11497_00_006C46B062036D3C739C3DB4D90969A633314EC92E/1599917B84D6B2CE740F5E3E78523A440EC0EC18.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11498_00": {
+        "npCommunicationId": "NPWR11498_00",
+        "trophyTitleName": "Let's Sing 2017",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11498_00_002CC41679D5B26D518D74F8B2D457F4873704B29E/9144283977D107F4F985EBDE52E655DEF1F9883E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR11499_00": {
+        "npCommunicationId": "NPWR11499_00",
+        "trophyTitleName": "KINGDOM HEARTS 0.2 Birth by Sleep - A fragmentary passage -",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11499_00_00BFA461A19E3AFF8AEF4020E981930DD12524CED4/EEBC203A25685AD1E5183FB444072A8566A0776E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR11500_00": {
+        "npCommunicationId": "NPWR11500_00",
+        "trophyTitleName": "KINGDOM HEARTS Dream Drop Distance",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11500_00_004EAD981D4D6DA82E41FF4A118DD08F5F5A0A9054/D81EFF81898B25605085EB6D4785DFE95A4F663B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 47
+        },
+        "service": "trophy"
+    },
+    "NPWR11501_00": {
+        "npCommunicationId": "NPWR11501_00",
+        "trophyTitleName": " Grand Prix Rock 'N Racing",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11501_00_0053271513E16175CF369BC643CF7088D47300C2C9/BAFE67873AB213FD0906C2F577BA1ECF5A435E60.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11502_00": {
+        "npCommunicationId": "NPWR11502_00",
+        "trophyTitleName": "Rock 'N Racing Off Road DX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11502_00_00FE0B1A8002C3857E1C81586C73417D677C6DE23F/63BEF33536AF192E16B10244336C98B37F1E9F1C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR11503_00": {
+        "npCommunicationId": "NPWR11503_00",
+        "trophyTitleName": "Castle Invasion: Throne Out",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11503_00_0041BA79F7329C8564988C1A881F4238271EE213FE/A5BC96B762C35358235A744F5D66512C1B4E1C0F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11504_00": {
+        "npCommunicationId": "NPWR11504_00",
+        "trophyTitleName": "Bears Can't Drift!?",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11504_00_008FAEA0DAA9DF7FB7B21055402DD016866AFEB55A/F946DC75CDF601E1CB52AFEC1B6D9A4DB4472001.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 4,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR11509_00": {
+        "npCommunicationId": "NPWR11509_00",
+        "trophyTitleName": "VALKYRIE DRIVE -BHIKKHUNI-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11509_00_0045E7CA86A03CCE11BCCC070D62BE7C3ED639326C/1217F054DDFA818C00C903D0AAE962F84308830C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
     }
 }
