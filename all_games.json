@@ -24958,5 +24958,135 @@
             "bronze": 23
         },
         "service": "trophy"
+    },
+    "NPWR04328_00": {
+        "npCommunicationId": "NPWR04328_00",
+        "trophyTitleName": "NCAA® Football 14",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04328_00_00B8C20D68CBB8C80A27E5DCA573C99D858AB1E383/41DC13477F08523D25AE11154C1EB0A7ED9FB132.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR04333_00": {
+        "npCommunicationId": "NPWR04333_00",
+        "trophyTitleName": "リトルバスターズ！Converted Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04333_00_001B4D4CA42F696568E80650CC47B9F50BDB19AB7A/E67C509B190F9AA44F8A039B373031B2A3431F77.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR04335_00": {
+        "npCommunicationId": "NPWR04335_00",
+        "trophyTitleName": "～聖魔導物語～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04335_00_00591959E940D98476855588B0A5A59AF84AFD672F/6FF661CD9C633EA4A9CC236C727B550C611BCDDF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR04336_00": {
+        "npCommunicationId": "NPWR04336_00",
+        "trophyTitleName": "地球防衛軍４",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/2F83C450346A397652F7987B3D1500C011BCB1D1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 15,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR04338_00": {
+        "npCommunicationId": "NPWR04338_00",
+        "trophyTitleName": "Tales of Xillia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04338_00_0062538CD46D9FA86BE39B34482253B11558566804/DF88EF1DEC8B14065F9C7522D2DEFB2917B45809.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR04339_00": {
+        "npCommunicationId": "NPWR04339_00",
+        "trophyTitleName": "Castle of Illusion Starring Mickey Mouse",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04339_00_008AE1C2C90C6F3D91C7D58B367D47D21BE04E1844/1E4749FEFDB1DB2A6767394555449476C5BC966B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR04342_00": {
+        "npCommunicationId": "NPWR04342_00",
+        "trophyTitleName": "Cure Mate Club",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04342_00_00DF41D2D276C3D9AFDCD5894D396C6999E35E9BDB/15894C8C1B1330E9BBF15774B17D3D91B83A9E77.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR04344_00": {
+        "npCommunicationId": "NPWR04344_00",
+        "trophyTitleName": "Jacob Jones",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04344_00_006B21D18E0A23E8C3909D850109B0E2E60C3388DC/24989C96B526F7F3CE1E9657DBACE4F4DF0EE607.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR04346_00": {
+        "npCommunicationId": "NPWR04346_00",
+        "trophyTitleName": "Dungeons & Dragons®: Chronicles of Mystara™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04346_00_00207F1D3594DFA63A55641C29DBBFD5A64EBBA839/5099A0C504B64D3EBD7FF87C041B593EEEEED8AD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR04347_00": {
+        "npCommunicationId": "NPWR04347_00",
+        "trophyTitleName": "MotoGP™13",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04347_00_0041AC5B7646E053DB86E76F6AFCBA626D93CE4953/394CA8317BB03D8170417572FC34D1DD6BDAF32A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
     }
 }
