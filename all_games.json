@@ -35618,5 +35618,135 @@
             "bronze": 39
         },
         "service": "trophy"
+    },
+    "NPWR06605_00": {
+        "npCommunicationId": "NPWR06605_00",
+        "trophyTitleName": "초차차원게임 넵튠 Re;Birth1",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06605_00_003FA577BA4365021E6B1645388B58B84246DC1EB3/9C110EFDD2004BDDC38BD9EEE9D7A64ABF9FF1BF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 19,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR06610_00": {
+        "npCommunicationId": "NPWR06610_00",
+        "trophyTitleName": "Nano Assault NEO-X",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06610_00_0045622DA5185BCA71AE8856BA58F6A5751ABB0AD5/5D2E1183B25CBB031F893B296CDDC912B59FF2DF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR06611_00": {
+        "npCommunicationId": "NPWR06611_00",
+        "trophyTitleName": "Fate / Hollow ataraxia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06611_00_00C03C0CEBFCC8D1419CC1F757FDCDEA26202E6294/4EA1FF804F1E4718709F65EBF78A45D253DBBE31.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 11,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR06612_00": {
+        "npCommunicationId": "NPWR06612_00",
+        "trophyTitleName": "討鬼伝 極",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06612_00_0048109DD4FA3665C2B3733D517CB1DE5F0FF7383F/39A255E979E64447BCC0E9E8B0D8EB6F1D8F91FC.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR06614_00": {
+        "npCommunicationId": "NPWR06614_00",
+        "trophyTitleName": "RIGS MCL",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06614_00_00A729E138220E0B5C11CE627DB981764AE575EDD8/12E927A25FC0492E8F46506D09A70B27884C1CD2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR06616_00": {
+        "npCommunicationId": "NPWR06616_00",
+        "trophyTitleName": "The Order: 1886",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06616_00_00EB277B7EC4BA4D93F39512B611F38502780E7821/7188BC1FEF2CBD47B77122FFE78EF742011117FD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 14,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR06631_00": {
+        "npCommunicationId": "NPWR06631_00",
+        "trophyTitleName": "Foul Play",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06631_00_00FF5F0D4811BE75D4309F8ACF30F35C3FB103C0BC/2C0DAB8CB8388FF0F4D78E1E9E70B37ACB05C8AA.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR06632_00": {
+        "npCommunicationId": "NPWR06632_00",
+        "trophyTitleName": "NBA LIVE 15",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06632_00_00F3ED8F59F366A5358C7EAFFE0F908E48220AB3C0/9C68A879BC46E4F7203C24EA3B8A0242662229DC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR06633_00": {
+        "npCommunicationId": "NPWR06633_00",
+        "trophyTitleName": "How to Survive: Storm Warning Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06633_00_00FB5752F53184FA71B7E714563357DFD9B16674C9/41E9E8C779A424F77A16B1D4A5B26146FE62AA50.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR06647_00": {
+        "npCommunicationId": "NPWR06647_00",
+        "trophyTitleName": "Just Dance® 2015",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06647_00_00C1CAAE47070EFA0B2AA353C6468C43D9F756D8C2/4BFC67D76659E7BD4FC45F2AE2C1D18CA4FA2DB9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 32
+        },
+        "service": "trophy"
     }
 }
