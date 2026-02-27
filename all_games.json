@@ -23918,5 +23918,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR04144_00": {
+        "npCommunicationId": "NPWR04144_00",
+        "trophyTitleName": "Knytt Underground",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04144_00_0032EFDC1D3D7062D2260BA7F54616443CB53F5E40/641C5C695581E42F4165321A035E1F30E42FF18C.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR04148_00": {
+        "npCommunicationId": "NPWR04148_00",
+        "trophyTitleName": "LIGHTNING RETURNS: FINAL FANTASY XIII",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04148_00_009BD0C4B26E4D0A6DAC0BE9E516AAF886D6506DB0/154555D50E5CF286B994802FE18251FE52DD5AB0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR04150_00": {
+        "npCommunicationId": "NPWR04150_00",
+        "trophyTitleName": "Diablo III",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04150_00_0072001F3B06130BF550BC1475AAAB5CC8B957BBA4/5F09F159A75D8FD346A4212BCB869DCA962ED018.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR04151_00": {
+        "npCommunicationId": "NPWR04151_00",
+        "trophyTitleName": "Batman™: Arkham Origins",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04151_00_006DD31D46B458E7FDAAA3273126C4B4FF9FE440FF/C2C64F155490C3F7BBCD7024A9B69A17B8487C09.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR04155_00": {
+        "npCommunicationId": "NPWR04155_00",
+        "trophyTitleName": "Combat Wings",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04155_00_00E6848CD77CFCC5E4F1523B77FE457B23F2356AA4/6BBEDA61A6B44E294ECA7F44161076B7D45B661D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR04156_00": {
+        "npCommunicationId": "NPWR04156_00",
+        "trophyTitleName": "モンスターハンター　フロンティアＺ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04156_00_0016824EFB0F965ABD1E84ED0DABD2711C2836AA7C/C9289040BEF18E379115F7A4967BDE32CA63D9FD.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 29,
+            "bronze": 57
+        },
+        "service": "trophy"
+    },
+    "NPWR04158_00": {
+        "npCommunicationId": "NPWR04158_00",
+        "trophyTitleName": "BandFuse",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04158_00_008BF818EF95833CFA6667746A73C71F8CB9F37B4D/C2BFD53CFE1749058D55C983CC42088C06043362.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR04160_00": {
+        "npCommunicationId": "NPWR04160_00",
+        "trophyTitleName": "月英学園 -kou-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04160_00_00EBDD39FD932ED5093498F248B5CB40D69B48295D/F79CF3556E4F5A45997E9EBA28D759654ED5E6EC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR04162_00": {
+        "npCommunicationId": "NPWR04162_00",
+        "trophyTitleName": "R-Type Dimensions",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04162_00_004379D59F3917F8495D254F48917F433F7F0612B3/4B17E2DC7DB196D019C4264C0B96579BF0A3AC64.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR04163_00": {
+        "npCommunicationId": "NPWR04163_00",
+        "trophyTitleName": "ディスガイア D2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/1162BC9E9FB99666E90A5FC4FE9D2CE634AF5CC5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 66
+        },
+        "service": "trophy"
     }
 }
