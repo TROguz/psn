@@ -44068,5 +44068,135 @@
             "bronze": 23
         },
         "service": "trophy"
+    },
+    "NPWR08278_00": {
+        "npCommunicationId": "NPWR08278_00",
+        "trophyTitleName": "地球防衛軍４.１ THE SHADOW OF NEW DESPAIR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08278_00_00C99447E2C426C80F42951CA58E307718A08BA07C/4DADF2C42BB37E99F3A1BD694D32FB69B4633C4A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR08279_00": {
+        "npCommunicationId": "NPWR08279_00",
+        "trophyTitleName": "STEINS;GATE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08279_00_00E92292B27E338E28706BDE974B0EF474EFF5FE6B/EA7E570A73B21FBFF74A340F94378DD6C7B1816F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR08283_00": {
+        "npCommunicationId": "NPWR08283_00",
+        "trophyTitleName": "STEINS;GATE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08283_00_009332E098B00A92E10523F73AA09BCF58B2C4779D/3170D2114FA210FA24247D4F0609E4B471199467.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR08284_00": {
+        "npCommunicationId": "NPWR08284_00",
+        "trophyTitleName": "方块猫嘉年华",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08284_00_003EACEA1C32B6F35516579498D4B7C58B98084AFB/B38AEEB2F73838F817742B5730406E77525971D4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR08285_00": {
+        "npCommunicationId": "NPWR08285_00",
+        "trophyTitleName": "The Awakened Fate Ultimatum",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08285_00_0052E9BDBAA54E0FEE5212F55549A7A69E9C2840B5/66FD1C84414D70D8E749741652A6805C6A53194A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR08286_00": {
+        "npCommunicationId": "NPWR08286_00",
+        "trophyTitleName": "CHAOS;CHILD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08286_00_0070435EAB4BD5A7CBDF07EE84577D54B38AE34A4C/8DABFD7FD2693428D7E87C16F962E61611E62F8D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR08288_00": {
+        "npCommunicationId": "NPWR08288_00",
+        "trophyTitleName": "CHAOS;CHILD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08288_00_00BDD0FFF012D376511C6B6793241023BB16A3AF4A/AF667DDCD370E54CD2106A303C6A02B615B46AFF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR08290_00": {
+        "npCommunicationId": "NPWR08290_00",
+        "trophyTitleName": "WE ARE DOOMED",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08290_00_00E63F3DE10834776CEE4A3AE93F8C7AE4395CF9EF/D9D44416D2265B644198DF54FE2E8A560AEC2B5E.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08291_00": {
+        "npCommunicationId": "NPWR08291_00",
+        "trophyTitleName": "Croixleur Sigma",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08291_00_001DB4FB64357CB958785DB833A870DD7A66BCDA96/1FC780A5E8F916C1CBDD536DCB9B4DA453AE8864.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR08293_00": {
+        "npCommunicationId": "NPWR08293_00",
+        "trophyTitleName": "Paparazzi Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08293_00_00C2BCF877157B770F8D3F1A626F01B6F7550D8F10/1BEDE2412C8E92C29C4EC1D9F4AA7EB39BF5B899.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
     }
 }
