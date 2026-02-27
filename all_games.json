@@ -75528,5 +75528,135 @@
             "bronze": 12
         },
         "service": "trophy"
+    },
+    "NPWR12770_00": {
+        "npCommunicationId": "NPWR12770_00",
+        "trophyTitleName": "Professional Construction - The Simulation",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12770_00_00371A8CA7FD45438B0DECE509A5DE925F69D666E0/69A0582FF8C3004A47152322C7A17DBA20F972D9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR12773_00": {
+        "npCommunicationId": "NPWR12773_00",
+        "trophyTitleName": "LawBreakers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12773_00_00D4D5B17FE6E4153570C8810AA4D0CD29807CBCCB/3531001E51F2B0EE332AB3DE727DB8F5878A495F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR12775_00": {
+        "npCommunicationId": "NPWR12775_00",
+        "trophyTitleName": "RIDE 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12775_00_00F56E29745426F087A7492133386576D884799699/C198EFF55E0A1F72E039424804CB1D49E99023F3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 16,
+            "silver": 24,
+            "bronze": 52
+        },
+        "service": "trophy"
+    },
+    "NPWR12776_00": {
+        "npCommunicationId": "NPWR12776_00",
+        "trophyTitleName": "MXGP3 - The Official Motocross Videogame",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12776_00_003C8770114B76AD5DA17032E21E26194DAC59AACE/B2198D74BAA445DE579E0378E9207983CD6EB393.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR12777_00": {
+        "npCommunicationId": "NPWR12777_00",
+        "trophyTitleName": "Everything",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12777_00_00D9F81244DC4D6D0FA214BEE90F4AB09115FAA2D4/16C8E077D8F325CF35FD599958DB02A3DF001A4E.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR12778_00": {
+        "npCommunicationId": "NPWR12778_00",
+        "trophyTitleName": "Utawarerumono: Mask of Deception",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12778_00_0004FF975B17BAEF19D801CF531FF117CD86D2993D/43109BCAFB39A0BBD40F88F852CBE2CC401706FD.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR12780_00": {
+        "npCommunicationId": "NPWR12780_00",
+        "trophyTitleName": "4여신 온라인 CYBER DIMENSION NEPTUNE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12780_00_0045F044AF29920D5A3C8C73AD159B353FA3B7E12C/98B14FE3D9EBDE70859D3467C05125FAB875C938.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR12781_00": {
+        "npCommunicationId": "NPWR12781_00",
+        "trophyTitleName": "Medieval Defenders",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12781_00_003850F105F1328FD4AD0CE5C88EED0414A02F570B/2C7B6EB4AD11D397C4A302280920CBED54409BD2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR12783_00": {
+        "npCommunicationId": "NPWR12783_00",
+        "trophyTitleName": "SUPERBEAT XONiC",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12783_00_00282E6385F7F43CBCB9684E725F1239F9D162143E/B5CABC45B53370B6D27ABD685973D7FD6FDB6D57.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR12784_00": {
+        "npCommunicationId": "NPWR12784_00",
+        "trophyTitleName": "Tooth and Tail",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12784_00_004BAA374222648F805C7647883330D43DF2748CD8/2950091D73C22867CA965A600B714FBE5C876635.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 24
+        },
+        "service": "trophy"
     }
 }
