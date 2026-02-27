@@ -72408,5 +72408,135 @@
             "bronze": 29
         },
         "service": "trophy"
+    },
+    "NPWR12401_00": {
+        "npCommunicationId": "NPWR12401_00",
+        "trophyTitleName": "Double Dragon 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12401_00_00DB25DF82D1F2BAC05A0586421E04689E465E06F8/83A1A39F01E891DA5C0236BFECE4FE5C3A223344.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 21,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR12403_00": {
+        "npCommunicationId": "NPWR12403_00",
+        "trophyTitleName": "Cube Life",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12403_00_005F63A52F2836380ED8C65898650961D3E4C8AFFD/81B961AF308C7C6CD9DB6A95CEA1AF261012B784.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR12404_00": {
+        "npCommunicationId": "NPWR12404_00",
+        "trophyTitleName": "ニル・アドミラリの天秤 クロユリ炎陽譚",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12404_00_004ED9681BF7DB9A7A7E3B39C1E3CC3DFAB734F4B7/EF8CB7207C16DD3E479374DD99AF01DA2CFBB02F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 6,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR12406_00": {
+        "npCommunicationId": "NPWR12406_00",
+        "trophyTitleName": "ガンガンピクシーズ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12406_00_00608EFA0958B4883ADAA5637A989A75B39D62A4C8/A5E6008C896F3726469D9082A0BBD953B02EA695.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 6,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR12407_00": {
+        "npCommunicationId": "NPWR12407_00",
+        "trophyTitleName": "Euro Fishing",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12407_00_0023E2C63243A8D3BCD3160A60D100E7D93E35D90B/D275864D3600AA08B939B5EFAECDB404DAEEEAAD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 17,
+            "bronze": 79
+        },
+        "service": "trophy"
+    },
+    "NPWR12408_00": {
+        "npCommunicationId": "NPWR12408_00",
+        "trophyTitleName": "Emily Wants to Play",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12408_00_00E6C20B9645BC5150DE668E8B4D9600F48E2731C7/A1115DDA0551906F5F62FD45E4C709C512177810.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR12409_00": {
+        "npCommunicationId": "NPWR12409_00",
+        "trophyTitleName": "Mahjong Deluxe 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12409_00_0092975679B2922CBFB49E1CA9FEF19491CFDA303D/5B2B6F31BDD09DB3EB51E7F852C1EC6E503EC848.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 7,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR12411_00": {
+        "npCommunicationId": "NPWR12411_00",
+        "trophyTitleName": "Bulletstorm: Full Clip Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12411_00_00690E14685BD45E4332BA53E7F19417426BACB9BC/D68C4EC01F2786CA99C329299C84E33E04253E44.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 54
+        },
+        "service": "trophy"
+    },
+    "NPWR12413_00": {
+        "npCommunicationId": "NPWR12413_00",
+        "trophyTitleName": "Birthdays the Beginning",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12413_00_00F0E3FC805544668B7CAB13EF873013F59285B237/ABB585DECA36359C611D2D8C62B06C507254A864.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR12415_00": {
+        "npCommunicationId": "NPWR12415_00",
+        "trophyTitleName": "Linelight",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12415_00_009AD7EC6D10212767B073F3B4AA34C8B4A9AB7837/36A97C79CEE3DE1FDDF50CA667DE49D6A1BD1E08.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
