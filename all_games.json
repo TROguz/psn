@@ -36918,5 +36918,135 @@
             "bronze": 69
         },
         "service": "trophy"
+    },
+    "NPWR06926_00": {
+        "npCommunicationId": "NPWR06926_00",
+        "trophyTitleName": "Rewrite",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06926_00_003338DAEC2D6830F121CD12EF5F8BDF0A408916F6/9AD111FABF8F4CC372AE19CAF0F1ACE61E7B08C3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR06927_00": {
+        "npCommunicationId": "NPWR06927_00",
+        "trophyTitleName": "CLANNAD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06927_00_002F78CC7DE57D05EFF952607E5221035C8A0790B1/5A6B4EFD9D393884FC151B536AE3ECA48E3C47BA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 15,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR06932_00": {
+        "npCommunicationId": "NPWR06932_00",
+        "trophyTitleName": "Slender: The Arrival",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06932_00_00D086644C7C3590E87A88E197468F44E435EA4CFF/E054B344A4BE8F1F4EDA830D2069F2E719D940DE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR06934_00": {
+        "npCommunicationId": "NPWR06934_00",
+        "trophyTitleName": "Lara Croft and the Temple of Osiris",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06934_00_0031B41D1E77326DA4DB39212F4A24FE2309CE5FCE/FD2CB9348C6A05C90DABC65CF5AD03B57F83F40D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR06937_00": {
+        "npCommunicationId": "NPWR06937_00",
+        "trophyTitleName": "FIFA 15",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06937_00_0012F3B6E523C2032B2BF6F53CBCA145848BFDFF1E/5D72CF3FEA3BC95E32863DACF7611B536BB89C71.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR06942_00": {
+        "npCommunicationId": "NPWR06942_00",
+        "trophyTitleName": "Broken Sword 5 - the Serpent's Curse: Episode 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06942_00_005B234D1B45B4AEEDECED7ECD8376456E6C39E75D/3AC81BD104F5B80652711D4D247CD1EB0086DFD9.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR06944_00": {
+        "npCommunicationId": "NPWR06944_00",
+        "trophyTitleName": "Geometry Wars³: Dimensions",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06944_00_00067E52EF50D38FAB6EA362DABA2691EBE4B9DE97/DD947A1B0DF728218F21A60A30AF549AD465135F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 17,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR06945_00": {
+        "npCommunicationId": "NPWR06945_00",
+        "trophyTitleName": "Element4l",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06945_00_004C770CA889C562374942C79180BC579BA93B2D54/F859B72CE12B896DE906E444C11E3AB9E3E56E91.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR06946_00": {
+        "npCommunicationId": "NPWR06946_00",
+        "trophyTitleName": "The Golf Club",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06946_00_008B40735922F0BB486FD8E803042474D67372BD1B/9410E604FBF2F36A4A6B4E527EF3DA7DE70422B0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR06947_00": {
+        "npCommunicationId": "NPWR06947_00",
+        "trophyTitleName": "The Evil Within",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06947_00_00DF14A7ACC4492928C5B3B53871F6B4D849F7DB15/7B01ACF1FBCE9551795989B79C2164BE2C85AF3C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 18,
+            "bronze": 49
+        },
+        "service": "trophy"
     }
 }
