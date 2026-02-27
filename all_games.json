@@ -47708,5 +47708,135 @@
             "bronze": 9
         },
         "service": "trophy"
+    },
+    "NPWR08880_00": {
+        "npCommunicationId": "NPWR08880_00",
+        "trophyTitleName": "ALIA's CARNIVAL! サクラメント",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08880_00_0078056740C726C67C69FC0AE0FFDB8124F705F29B/AC039FBC612ECDDB6212B18A4EB30C0DBA08C028.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 1,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR08881_00": {
+        "npCommunicationId": "NPWR08881_00",
+        "trophyTitleName": "Just Dance® 2016",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08881_00_00E0A39FFFE356D2DE38737E10B39470E5F346BEAB/BC5B6E2BCF286D4231B60B03A9A80CEDA74DA881.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR08883_00": {
+        "npCommunicationId": "NPWR08883_00",
+        "trophyTitleName": "INSIDE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08883_00_001D4DF760B2D24A983D3F00E3831FAB14492DB32B/134A71050057BEE1F2241160500BCC32986D1616.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR08889_00": {
+        "npCommunicationId": "NPWR08889_00",
+        "trophyTitleName": "IS＜インフィニット・ストラトス＞2\nラブ アンド パージ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08889_00_007DD90FAF5FDFC8A63D1DB4D867D4556D33E597EF/2977CA001A9F13839FF73B006AA5AB98B3485231.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR08891_00": {
+        "npCommunicationId": "NPWR08891_00",
+        "trophyTitleName": "Headlander",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08891_00_00E51771F72C57D88BF3F635DB818FD43AEDFB7E78/471F4567907B603ABDFC46E1F1E963EE306638AF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 26,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR08893_00": {
+        "npCommunicationId": "NPWR08893_00",
+        "trophyTitleName": "NBA 2K16",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08893_00_002230F3CC3BFA3D00B9EC22CD99D84BE0A8D1D094/D15B5EA70730126F5E7BCBE85E37CC1D3E69C4A5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR08894_00": {
+        "npCommunicationId": "NPWR08894_00",
+        "trophyTitleName": "SAMURAI WARRIORS: Chronicles 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08894_00_00DDBAB97087B7A2D06985BBBE04C1DD969881C6F5/B9213258C5D4B9D0F588E7E555EBF0F1D254D562.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR08895_00": {
+        "npCommunicationId": "NPWR08895_00",
+        "trophyTitleName": "OVERRULED!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08895_00_00A3CA8F543BEB271D014D71D5FE1C45CF08CCC922/884EE6F865BF7D1C3456B29B2E819E321AF1CF32.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR08896_00": {
+        "npCommunicationId": "NPWR08896_00",
+        "trophyTitleName": "Bedlam The Game By Christopher Brookmyre",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08896_00_00E8688670BA1E56919E274528BB712A318E39FBAE/FD97BB20A27A2FC03F0506E69ADF188AF40503BC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR08899_00": {
+        "npCommunicationId": "NPWR08899_00",
+        "trophyTitleName": "Battlefield™ 1",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08899_00_001891ED8293FFF90576760D044E5454B54BB0D954/96892FCC6A36A90EF0FBA3EA18BDD505EC8EFFA8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 9,
+            "bronze": 31
+        },
+        "service": "trophy"
     }
 }
