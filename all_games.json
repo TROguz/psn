@@ -58108,5 +58108,135 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR10494_00": {
+        "npCommunicationId": "NPWR10494_00",
+        "trophyTitleName": "Marvel Ultimate Alliance",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10494_00_00CA25823EAAD9E8141A0EB6F562E05CB6BA75B403/BA4E24CD032E8E0E1EAEF9D3014C6FFB1E4138A7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 17,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR10495_00": {
+        "npCommunicationId": "NPWR10495_00",
+        "trophyTitleName": "Marvel Ultimate Alliance 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10495_00_00937E8EF56C442D9B882FE113B3AA4C31BF7E0544/C39B787796E15CA877CCE6529123F932EA971893.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 54
+        },
+        "service": "trophy"
+    },
+    "NPWR10496_00": {
+        "npCommunicationId": "NPWR10496_00",
+        "trophyTitleName": "Battleship",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10496_00_007213475F1AA5702AC23568E93B10070F9B60CFA4/412BF37E5AB641A6166FB0B4DEFE819C6EE2AA98.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR10500_00": {
+        "npCommunicationId": "NPWR10500_00",
+        "trophyTitleName": "シロガネ×スピリッツ！",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10500_00_00C793AB7109C2997BA1F999330BE9F5673A48E60A/71D9B9AB139650EC187435FEE8E958406CBDF142.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR10501_00": {
+        "npCommunicationId": "NPWR10501_00",
+        "trophyTitleName": "Lumo",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10501_00_005D8A409D079E00348C22069335B3ACE331E84E7D/86BA3797427CA21C5090931483A7AD5A043D23E2.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR10502_00": {
+        "npCommunicationId": "NPWR10502_00",
+        "trophyTitleName": "ALBEDO: Eyes From Outer Space",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10502_00_000B8C4CAC745F26B4361B7DB028F55AF9621D897B/8772BAAF85222E130ED3BDBBDACD8A8147F8921F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR10503_00": {
+        "npCommunicationId": "NPWR10503_00",
+        "trophyTitleName": "Ghostbusters\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10503_00_001B875B30283E935FD380D48BE2B28183CBDB5B50/BA4EBB6AF1429F6DFEE67A8EBF5D139F658CABB0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR10505_00": {
+        "npCommunicationId": "NPWR10505_00",
+        "trophyTitleName": "Neverwinter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10505_00_0091CB3CEAC0CBC6554709B3E2E5727037FF25973B/18B05253310460182215BFDC8A7DD0ADC4DF7546.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 104
+        },
+        "service": "trophy"
+    },
+    "NPWR10506_00": {
+        "npCommunicationId": "NPWR10506_00",
+        "trophyTitleName": "Psychonauts™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10506_00_00CF3261771D6E208EA6324F47E517F1653FD69A08/54E917782ECD1FDB9F1B3CEBACCA0626D950EDF7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR10508_00": {
+        "npCommunicationId": "NPWR10508_00",
+        "trophyTitleName": "Hawken",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10508_00_00098955E7C0D9610B2ED4F95CD6EB1CFB8F05F927/72A5E05F14FF0869CD7BD77321463B5945F9BC79.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
