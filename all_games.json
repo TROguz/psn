@@ -34708,5 +34708,135 @@
             "bronze": 20
         },
         "service": "trophy"
+    },
+    "NPWR06412_00": {
+        "npCommunicationId": "NPWR06412_00",
+        "trophyTitleName": "Tetris® Ultimate\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06412_00_0037DB5E77D637C877FFD0FA30D4E9EB7678183184/9BA8F696419A52E1D771F2A3522B1CB2ED840453.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR06413_00": {
+        "npCommunicationId": "NPWR06413_00",
+        "trophyTitleName": "デュラララ!! 3way standoff -alley- V",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06413_00_00FE89F7802C415E9BF795EAFB47E11193A528EE7E/4297A1E89709BCE711F7B214BFB9E25FCD40FD5F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 10,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR06414_00": {
+        "npCommunicationId": "NPWR06414_00",
+        "trophyTitleName": "CROSS†CHANNEL ～For all people～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06414_00_00C7A73392E83ED7B7C729C7CB4B6F14EA89F7EA05/8A8BA0B8BC98B7E2EF691A813E6575FA918AF7C1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR06418_00": {
+        "npCommunicationId": "NPWR06418_00",
+        "trophyTitleName": "The Last of Us™ Remastered",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06418_00_00152378687F66194A957179F8D1FA81A759297BDC/70A10BD8B6A5C767F2E6973E0DACB11D93B7C06D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 18,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR06419_00": {
+        "npCommunicationId": "NPWR06419_00",
+        "trophyTitleName": "Battle Princess of Arcadias",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06419_00_008E27C2EDD920232D2671CFFBE461EB6139F8E285/0BAE728762C2DA678A5A8DC51BB0DBFCFDCBEE0C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR06434_00": {
+        "npCommunicationId": "NPWR06434_00",
+        "trophyTitleName": "Toy Soldiers War Chest",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06434_00_00E7AAE3E6A4ED32EE7DBCDD61BA56C541E5053F91/3F1732E689B5C44D39A52EA733C0AE2B255DB450.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR06437_00": {
+        "npCommunicationId": "NPWR06437_00",
+        "trophyTitleName": "神様と運命覚醒のクロステーゼ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06437_00_0015BF3C1ABD98E5BC355185419CFFFFDED89B02DB/187C51CF97FA3E79515CA37A5418FE44D2A7BEB8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR06439_00": {
+        "npCommunicationId": "NPWR06439_00",
+        "trophyTitleName": "CROSS†CHANNEL ～For all people～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06439_00_001FAA70859BF3B4C5E2A74E68B9ED9360137D367A/924CCC52A0161EC3B4CB637B65441F2272F99573.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR06444_00": {
+        "npCommunicationId": "NPWR06444_00",
+        "trophyTitleName": "Atelier Shallie ~Alchemists of the Dusk Sea~",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06444_00_00E31DEABA29436F95C5E81682C7EAC8CBA584AF43/8E24691B7A0642EE7F0737AD6E41DD3EA0DAE367.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR06455_00": {
+        "npCommunicationId": "NPWR06455_00",
+        "trophyTitleName": "Boss",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06455_00_00DAFFE49EE82CACD7D19BB8E6D5A321B89244FB40/D9FB0EAA5E6E1F33C9D832E5A1E4A10CE4B41570.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
     }
 }
