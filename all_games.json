@@ -78388,5 +78388,135 @@
             "bronze": 0
         },
         "service": "trophy"
+    },
+    "NPWR13146_00": {
+        "npCommunicationId": "NPWR13146_00",
+        "trophyTitleName": "A Hole New World",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13146_00_00EAE2C6542B9D2A3368732A1D698F11520AA3F266/CF793870580D6C58010FA5D5203EA34795434E0E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR13147_00": {
+        "npCommunicationId": "NPWR13147_00",
+        "trophyTitleName": "Bit Dungeon Plus\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13147_00_0011AF7455FAE0E03475950F460794986F36809820/CF20456878A46BBD7FAA26FC73E6113D1C2FD43D.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR13148_00": {
+        "npCommunicationId": "NPWR13148_00",
+        "trophyTitleName": "A Hole New World",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13148_00_00D9E50036C97F7B492FB49FD7266A292AA279D8BD/E30E370B9E9685BF793531D93BBE7502F443EC0C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR13150_00": {
+        "npCommunicationId": "NPWR13150_00",
+        "trophyTitleName": "A Hole New World",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13150_00_000C3334DD4B68748B6D9B6894939A39768F0644C8/7B85A09901915573C94B18AED6828372571D508C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR13152_00": {
+        "npCommunicationId": "NPWR13152_00",
+        "trophyTitleName": "Guns, Gore & Cannoli 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13152_00_00FC8123511C3BD3871A0876D4F0278B5B448FB3B4/3C4713CBAB96C42F68AA921D7089428E873A4415.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR13155_00": {
+        "npCommunicationId": "NPWR13155_00",
+        "trophyTitleName": "One Piece Unlimited World Red Deluxe Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13155_00_00781165249C9FAF0BF3B64B7B0039D03438E08318/007D4FE7566E0E37177415915784C31BEC5A058E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 9,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR13157_00": {
+        "npCommunicationId": "NPWR13157_00",
+        "trophyTitleName": "Devil May Cry 5",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13157_00_00B327763D4CBFA188CD1A1A240CE3B9F1B5FDF9AD/AC4595403FC48F9BCEA6AE2EB6664BBD5018AE25.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR13158_00": {
+        "npCommunicationId": "NPWR13158_00",
+        "trophyTitleName": "Oh...Sir! The Insult Simulator",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13158_00_000CD1D7C307C32F5890F519AFA7AC65133F784A6B/575A2BBE8B9548E3B390128430E4B1D70C460987.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 10,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13159_00": {
+        "npCommunicationId": "NPWR13159_00",
+        "trophyTitleName": "Black Mirror",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13159_00_00B738340C136CCCC240BE36CD928807E074389CB1/B1531CD7107F6EEAA5E05D380E59A5A026ADBEA4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR13160_00": {
+        "npCommunicationId": "NPWR13160_00",
+        "trophyTitleName": "Way of Redemption trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13160_00_003CB2417009E9A5359AA9C3E547D7A38C2D15ACE0/04F7363B814DFD075E4B990454F2E261B3B146C0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 4,
+            "bronze": 9
+        },
+        "service": "trophy"
     }
 }
