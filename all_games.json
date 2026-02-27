@@ -72928,5 +72928,135 @@
             "bronze": 28
         },
         "service": "trophy"
+    },
+    "NPWR12470_00": {
+        "npCommunicationId": "NPWR12470_00",
+        "trophyTitleName": "この素晴らしい世界に祝福を! -この欲深いゲームに審判を！-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12470_00_00648FD920C6C46959071EA05DB4FC464B98B3D73E/4E5FBB639A7BA8D6784C9450CD83944B2C3449CB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 20,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR12471_00": {
+        "npCommunicationId": "NPWR12471_00",
+        "trophyTitleName": "この素晴らしい世界に祝福を! -この欲深いゲームに審判を！-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12471_00_0033594DC2B11B51C1D505F36D533275A6F8915997/4355F6580302F5781554EB30D565683F355D6462.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 20,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR12472_00": {
+        "npCommunicationId": "NPWR12472_00",
+        "trophyTitleName": "Micro Machines World Series",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12472_00_00A9FF56648BD7817F534BBA582F3E3F1BD304D409/7CB8F2B25E6D72E69CE1F7F88DD529F2C4B617F6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR12473_00": {
+        "npCommunicationId": "NPWR12473_00",
+        "trophyTitleName": "Super GunWorld 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12473_00_000E401711E5F950E843B83452A50F95FFF9640294/53DE8D9DEE7A900887933D0C01DE7BA518894EA8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR12475_00": {
+        "npCommunicationId": "NPWR12475_00",
+        "trophyTitleName": "Leave The Nest Complete",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12475_00_007BA91760BAB50AFDB09FE205AD1680B68C4C7599/AD396C2462C545DC0E274A7BD3EDC5EFAA343F34.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR12476_00": {
+        "npCommunicationId": "NPWR12476_00",
+        "trophyTitleName": "Crash Bandicoot",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12476_00_00E1AF50FB3CB9DF4438C2BCF096EDB614FA7511DB/F787409C58420CD25FC87DD5EE5B34BFBDA7835A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR12477_00": {
+        "npCommunicationId": "NPWR12477_00",
+        "trophyTitleName": "Geki Yaba Runner",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12477_00_001BDF2B021C2A8BEF22308B5C6DBF1A6E56B1AA86/161D7A3ED3C0B7E0A007A34FA06F54ABA2654099.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR12479_00": {
+        "npCommunicationId": "NPWR12479_00",
+        "trophyTitleName": "Flinthook",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12479_00_0037379657164376EF5AB203BF69D16F34566BA61D/82A057401253ECF9BF30572B5BC0565BE5721048.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR12480_00": {
+        "npCommunicationId": "NPWR12480_00",
+        "trophyTitleName": "Papers, Please",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12480_00_00DE658042D52F970F89D221823F799C001E036AA6/18AC0E18E3D6EEEA19677F10BDB9D685BA9F35C1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 6,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR12481_00": {
+        "npCommunicationId": "NPWR12481_00",
+        "trophyTitleName": "Farming Simulator 18",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12481_00_0045B16CA11886CE4249CAA8EA8D571EED55D68948/8DB87588C67BC395108F46D294902F2BB688AEF6.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 2,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
