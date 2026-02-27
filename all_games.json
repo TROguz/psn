@@ -58628,5 +58628,135 @@
             "bronze": 35
         },
         "service": "trophy"
+    },
+    "NPWR10564_00": {
+        "npCommunicationId": "NPWR10564_00",
+        "trophyTitleName": "LASTFIGHT",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10564_00_00C2F998A36EE8E6FF667892143FC55B76EAA53005/BC4405F650A81AAF43015C99C5283603866FFF08.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR10565_00": {
+        "npCommunicationId": "NPWR10565_00",
+        "trophyTitleName": "Crazy Strike Bowling EX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10565_00_0081655B2332BAF0BAC207E05823DABC781DE93EBA/B76E5F856A90075BF44BB7C6DC938CBFB0A6B57C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR10566_00": {
+        "npCommunicationId": "NPWR10566_00",
+        "trophyTitleName": "Valentino Rossi The Game",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10566_00_00B310E5C55108725774ABE3F71EB4400AD9409CB7/B24203B05970B11B0960DAFF006FE43674EE36F0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 7,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR10569_00": {
+        "npCommunicationId": "NPWR10569_00",
+        "trophyTitleName": "Middle-earth™: Shadow of War™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10569_00_00C0594B81F249950525CF287A5806857E9583B8CD/51BA4DA918092214806AABBB37B4E605FDD978A0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 17,
+            "bronze": 54
+        },
+        "service": "trophy"
+    },
+    "NPWR10570_00": {
+        "npCommunicationId": "NPWR10570_00",
+        "trophyTitleName": "Arcade Archives LIGHTNING FIGHTERS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10570_00_00A3AA6D53ABE1A43D4DEDC2DE0FD7283CD9AEFDF7/0F64A8AD8615A5CF0795C3D13FEA56A64E7291DA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR10571_00": {
+        "npCommunicationId": "NPWR10571_00",
+        "trophyTitleName": "Arcade Archives Armed F",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10571_00_0004DDC414E61256978D17C3B0DEBA91B048DE4C45/0B3C1E66EE8A2C442C3364822598E500A30C807E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR10572_00": {
+        "npCommunicationId": "NPWR10572_00",
+        "trophyTitleName": "Arcade Archives TERRAFORCE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10572_00_00C5306B5C813636B9666EB69CF3755ED1E64E31AE/B66B6D3080436159BA54B17AD4DA6B5A9DD2C42C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR10576_00": {
+        "npCommunicationId": "NPWR10576_00",
+        "trophyTitleName": "Dying： Reborn",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10576_00_008B13274E423E135B0449E1EBD747B09F93772FDC/D9850DFBB55116041C4665689B0547B9338ED658.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 8,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR10577_00": {
+        "npCommunicationId": "NPWR10577_00",
+        "trophyTitleName": "Banner Saga 2 Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10577_00_0076C36889206AC5102FA0474B01AD433CFBF048F0/D8B3A2422774860C093D35BB5095AA367EE63E96.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 14,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR10578_00": {
+        "npCommunicationId": "NPWR10578_00",
+        "trophyTitleName": "Adam's Venture Origins",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10578_00_00F756CE21594CF8487C6A7E4DA739EA544425A1CE/F4401A44629ADA01504541CE41848F4C3EEC960B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 4,
+            "bronze": 0
+        },
+        "service": "trophy"
     }
 }
