@@ -72148,5 +72148,135 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR12370_00": {
+        "npCommunicationId": "NPWR12370_00",
+        "trophyTitleName": "Human Fall Flat",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12370_00_00CC2A33F0B7088B2E1BAD7AD022D128CFFEED7168/941C13F067055781644015C6111117724222DBBC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 96
+        },
+        "service": "trophy"
+    },
+    "NPWR12371_00": {
+        "npCommunicationId": "NPWR12371_00",
+        "trophyTitleName": "CHAOS;CHILD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12371_00_0015FC5322AD70C1905DD0AD2FF1A0EF308F021ED5/80DC04C76836212C7D018CB48EBE1DFC2B06D0C2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR12372_00": {
+        "npCommunicationId": "NPWR12372_00",
+        "trophyTitleName": "CHAOS;CHILD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12372_00_00B61710114262E7020DFB4BBCA9179D5F51D5246A/2175488349B7912239679E719BC8B5C03419F812.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR12373_00": {
+        "npCommunicationId": "NPWR12373_00",
+        "trophyTitleName": "死印",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12373_00_0090D548C74B2635683910101344F6295BEEC7FBF7/F160D5E552517AF0FD9A4E98D807FBB8F7310516.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 18,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR12374_00": {
+        "npCommunicationId": "NPWR12374_00",
+        "trophyTitleName": "Blue Rider",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12374_00_0086C09E2D82EF5CDCABCE00B8F550B08B384DC8CA/D502150AF217044F7CE3BA9DAFED7140752DE9DC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR12375_00": {
+        "npCommunicationId": "NPWR12375_00",
+        "trophyTitleName": "Bravo Team",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12375_00_0035B9BB2001022A5E01CF08AA738D2361A4D446A1/0D1EAFE5D140E292C11981DB81B85108C2A4B04D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR12378_00": {
+        "npCommunicationId": "NPWR12378_00",
+        "trophyTitleName": "Subterrain",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12378_00_009EAA8087B8454CBB727A0B35DAD4BC8150CA5CD9/124B646F7CB60A951DB460AD55944FA046926068.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR12381_00": {
+        "npCommunicationId": "NPWR12381_00",
+        "trophyTitleName": "DYING : Reborn VR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12381_00_0087621E27EB71F780AAFFBEA298A82D24BBFC95E2/310CABBE38D043703C3A6F1C19ED47DF12D4EA46.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR12382_00": {
+        "npCommunicationId": "NPWR12382_00",
+        "trophyTitleName": "Dying： Reborn",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12382_00_001457E42011D9C8F4876CCCCEE5B5CD5E8A2D09B2/7EB6079680ECB525137AFA34662AD4586EBA3B02.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 8,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR12383_00": {
+        "npCommunicationId": "NPWR12383_00",
+        "trophyTitleName": "時計仕掛けのレイライン-陽炎に彷徨う魔女-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12383_00_003CCDFA3FA868B14E67F4B68B139DF872F97D26C9/02E5A096DC5D2D6D5AFA9C942B597213EC2B609E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 16
+        },
+        "service": "trophy"
     }
 }
