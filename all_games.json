@@ -55118,5 +55118,18 @@
             "bronze": 53
         },
         "service": "trophy"
+    },
+    "NPWR10000_00": {
+        "npCommunicationId": "NPWR10000_00",
+        "trophyTitleName": "Fairune",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10000_00_00FF3EBB54138CEBB6501D46A43BF0616490E15179/3C084175DE2B51011BB941985D25C7AB1CC70094.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
