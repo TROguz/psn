@@ -88918,5 +88918,135 @@
             "bronze": 3
         },
         "service": "trophy"
+    },
+    "NPWR14536_00": {
+        "npCommunicationId": "NPWR14536_00",
+        "trophyTitleName": "Energy Invasion",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14536_00_0060B0E5F7842154DB213B7C9EB6A124E2B37B8FE8/EEF49A821E887EFA7B9B24BC3881C8521746BA6B.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR14537_00": {
+        "npCommunicationId": "NPWR14537_00",
+        "trophyTitleName": "円環のメモーリア -カケラ灯し-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14537_00_00B6A3C00D37337A2D997A3B81C8C7E0730AE15717/2383BE8C6C19C53B617E41BCBD1EA645D25A488C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR14539_00": {
+        "npCommunicationId": "NPWR14539_00",
+        "trophyTitleName": "A列車で行こうExp.",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14539_00_0057B1360FAF1C0C182DF51FC7B1987D0FD77D38F2/B4D6B23E1D0323655BE17C8676D348CD9977EF9C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 17,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR14541_00": {
+        "npCommunicationId": "NPWR14541_00",
+        "trophyTitleName": "Jolt Family Robot Racer\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14541_00_00A16A024576BC64FC3B3676DC97C675991C639478/F128E9780C044B43EB72E6234D4155A1154AC1AD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 10,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR14542_00": {
+        "npCommunicationId": "NPWR14542_00",
+        "trophyTitleName": "Jolt Family Robot Racer\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14542_00_0091C13384C33B3BEFB86A49DB116D5B78B4FB544F/3A199AFCD6CB38DDE4D2CE932AA749A0C9C4DFCF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 10,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR14546_00": {
+        "npCommunicationId": "NPWR14546_00",
+        "trophyTitleName": "Unepic",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14546_00_00F793FAA1C98F68FC1A81868103B4F817CBF086E0/C6B0A29E7A1786878BFEA8564F018078E8C35C32.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 8,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR14548_00": {
+        "npCommunicationId": "NPWR14548_00",
+        "trophyTitleName": "Chaos on Deponia Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14548_00_00E5AE274DE5A0E513CDD892FB8BCB76F19CA94156/8937067F4C64235A469DCCEBC8EF6F393D80F884.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 16,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR14549_00": {
+        "npCommunicationId": "NPWR14549_00",
+        "trophyTitleName": "SKYHILL",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14549_00_00D48431CD5191C426D6D3F28D87BE8DAB27493121/883223A4278D955B76A65D6FAA568CDC94B5D46F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 3,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR14552_00": {
+        "npCommunicationId": "NPWR14552_00",
+        "trophyTitleName": "Megalith",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14552_00_00C32C9FC084AC5B39CFB0DAD2C15F6740ED74ABED/B9A416A4446FED3654FE8B69DF02BF41F4C228AB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 16,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR14554_00": {
+        "npCommunicationId": "NPWR14554_00",
+        "trophyTitleName": "Secret of Mana",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14554_00_0053C95E448E6189E255AC26E24646F353B9A18A20/2A9ADFE537EC44BA97FAC9F9C12E31033A25196D.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 26
+        },
+        "service": "trophy"
     }
 }
