@@ -50048,5 +50048,135 @@
             "bronze": 16
         },
         "service": "trophy"
+    },
+    "NPWR09206_00": {
+        "npCommunicationId": "NPWR09206_00",
+        "trophyTitleName": "Gems of War",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09206_00_002D0CF328AD1FE829D381416C244CC970B185FE18/B6C850B2ECA4133D191505D6F6856AAA9F27BEEC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 4,
+            "silver": 23,
+            "bronze": 93
+        },
+        "service": "trophy"
+    },
+    "NPWR09210_00": {
+        "npCommunicationId": "NPWR09210_00",
+        "trophyTitleName": "Onechanbara Z2: Chaos",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09210_00_006604B8C9D2912415E9C9B44692E7E02E438B1A94/52A1E09D4EEE9676B9044694B12E52C513907E4D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR09212_00": {
+        "npCommunicationId": "NPWR09212_00",
+        "trophyTitleName": "Lost Dimension",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09212_00_006EA269E04D5D295A0A1B58AF82EBA54A71BDCAD9/9C66981EB63763887495B7ACB0DE93E3D1D68BDC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR09214_00": {
+        "npCommunicationId": "NPWR09214_00",
+        "trophyTitleName": "TRON RUN/r",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09214_00_00FAB75CFAD3B0AB65D503BC1419AD618BF6FD0FEB/66B2D88D531E94DD9C54C44965AE107A16606467.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR09216_00": {
+        "npCommunicationId": "NPWR09216_00",
+        "trophyTitleName": "ROBOTICS;NOTES ELITE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09216_00_00DB58CCF55426EEB090606E96A1B0AFF58FE7398C/CE2D98A1427FEC110F870512699CCF4D158250B3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR09217_00": {
+        "npCommunicationId": "NPWR09217_00",
+        "trophyTitleName": "STEINS;GATE 0",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09217_00_00F9B63E4A60C633870FFD78F9C5AA71164AE8CBEB/129E5C707E7899A742E053FDA3A90984CFA7559F.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR09218_00": {
+        "npCommunicationId": "NPWR09218_00",
+        "trophyTitleName": "STEINS;GATE 0",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09218_00_0094B29A6692D8002C260C52BA0501EE95DAB6C2AB/15A18613B3D4F0840F5B288B64294128C66DCB65.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR09219_00": {
+        "npCommunicationId": "NPWR09219_00",
+        "trophyTitleName": "Danganronpa Another Episode: Ultra Despair Girls",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09219_00_00DEABF5C2B2EC76A7821ABCF2A59C310A6BC5C42A/E0026F8725AD66F4873201559B78DC35ED055328.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR09220_00": {
+        "npCommunicationId": "NPWR09220_00",
+        "trophyTitleName": "Hot Shots Tennis",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09220_00_0003E2E5FE083B9C674F3A7C0344CBB662736496D2/D7DFBF6E86988E3F137F0301C1ACBE78407BAC77.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR09221_00": {
+        "npCommunicationId": "NPWR09221_00",
+        "trophyTitleName": "Saint Seiya: Soldiers' Soul",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09221_00_0043353FB2CC6325A0936C5753977181BF67B0624C/A90B11056B720FC34ABC819D57E3B8287915C8B3.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 41
+        },
+        "service": "trophy"
     }
 }
