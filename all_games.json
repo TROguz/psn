@@ -29378,5 +29378,135 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR05276_00": {
+        "npCommunicationId": "NPWR05276_00",
+        "trophyTitleName": "bitter smile.",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05276_00_0034C7B4D771174CB8A75E74904C5BD8B5EBBA3551/57645CC6F6564551ED4BE2D00444CD35632AB098.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR05278_00": {
+        "npCommunicationId": "NPWR05278_00",
+        "trophyTitleName": "Soul Sacrifice™ Delta",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05278_00_00E70C610343A5D56F26E24399B129958030FC354A/48AC2C50209F5D52CFCAC2262913C0E4853C59D4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR05280_00": {
+        "npCommunicationId": "NPWR05280_00",
+        "trophyTitleName": "Lemmings™ Touch",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05280_00_004EB3213A08E875652384C4583B525D6FCEE5BCC0/639A7076ED104D5E63ACB54317DB73E46356E94A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR05281_00": {
+        "npCommunicationId": "NPWR05281_00",
+        "trophyTitleName": "TxK Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05281_00_00E87F4D1E6011404BF9DC25CB873926E406715C5C/86778EA83B6354D45D4F0BA03460B8536349D199.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR05282_00": {
+        "npCommunicationId": "NPWR05282_00",
+        "trophyTitleName": "Contrast",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05282_00_00D8ADF267785149037A221B7149D47F2B94088C1D/E5D9DECD612AED621A96A88345071A9C4F5FABE3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR05283_00": {
+        "npCommunicationId": "NPWR05283_00",
+        "trophyTitleName": "God of War® II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05283_00_00791E3BBC4B9A4C0E6EEB4BB60E13C5CD9BC3F8AB/7A4F4E1E3B735B9B61B9BD29C115401B2BD32186.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR05287_00": {
+        "npCommunicationId": "NPWR05287_00",
+        "trophyTitleName": "Blast 'Em Bunnies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05287_00_008E3A7514BEDD275B4BE8A98BDEAB65764639A770/0555FBE49AA3345CD8F9FABF173649BB49EF4F3B.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR05290_00": {
+        "npCommunicationId": "NPWR05290_00",
+        "trophyTitleName": "Ethan: Meteor Hunter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05290_00_0082732ED48CE5437ADF83F0E8A9120686ADCFA3C7/99DE48CD2F5AE78AF4298B070C318D660CB867B7.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR05291_00": {
+        "npCommunicationId": "NPWR05291_00",
+        "trophyTitleName": "Hatsune Miku: Project DIVA f",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05291_00_00C36880C43012FE1575A5CD1575A6283FC7529C90/3EA001B54DBDC9E209A352EB4FC9A344A10E22EC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR05292_00": {
+        "npCommunicationId": "NPWR05292_00",
+        "trophyTitleName": "The Voice of Germany Vol. 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05292_00_00A547759915EC1BEB39C0DB1592D6166B282EA2B3/084B50650BA2DB49F12AC65E3C0067986CB2B746.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
