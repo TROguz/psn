@@ -27038,5 +27038,135 @@
             "bronze": 38
         },
         "service": "trophy"
+    },
+    "NPWR04731_00": {
+        "npCommunicationId": "NPWR04731_00",
+        "trophyTitleName": "Final Exam",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04731_00_0065081CBADD3BBE7BE6A45F50BC629883208949F9/DB48127EBEDEF94BDBEE5E2ABDBE79353D318D5F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR04734_00": {
+        "npCommunicationId": "NPWR04734_00",
+        "trophyTitleName": "CONCEPTIONⅡ　七星の導きとマズルの悪夢",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04734_00_00A79785B0C63FF80168F86D539EFC66F611F19622/4C6DB0A67C4FC2F98AC0C4F8131B7DB6243CE549.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR04738_00": {
+        "npCommunicationId": "NPWR04738_00",
+        "trophyTitleName": "Saints Row IV",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04738_00_007D679EADB9E64468407DD2DEE733EB95D5EB5AF1/88607D2E7BE01693A1F38159B3EA16B2EB445C53.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 56
+        },
+        "service": "trophy"
+    },
+    "NPWR04740_00": {
+        "npCommunicationId": "NPWR04740_00",
+        "trophyTitleName": "ibb & obb",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04740_00_00661A4D581BE1ECE486FE9B78EF899F53AE4D6850/0585670054329C5FA50CC06E8D8A42C5003219C1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR04746_00": {
+        "npCommunicationId": "NPWR04746_00",
+        "trophyTitleName": "Dead Island Riptide",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04746_00_00234BFC87F3036AF1665444002B28E55C64EC2970/15C108FB7ABFA62C4088E232F4434864E2C7C548.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR04749_00": {
+        "npCommunicationId": "NPWR04749_00",
+        "trophyTitleName": "Armored Core™: Verdict Day™\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04749_00_004003279CCDE79104A8511386A82AD336FA0D0309/D0B3F56235106E6CFFA2B66E31C997EF7EA01D72.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR04753_00": {
+        "npCommunicationId": "NPWR04753_00",
+        "trophyTitleName": "FIFA 14",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04753_00_0030829B005EDF9B4C7619CC43D42F3E5CDF082884/8285F8A5AC2EBA57C1AE8F4DAE2D786F64546E98.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR04754_00": {
+        "npCommunicationId": "NPWR04754_00",
+        "trophyTitleName": "MsGerminator",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04754_00_00F0EA462FA03694D1FABD310B4361B80E8E248D73/256EAB1B0D0DF240590F643ABDC01C333F0DE58B.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR04758_00": {
+        "npCommunicationId": "NPWR04758_00",
+        "trophyTitleName": "SOULCALIBUR Lost Swords",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04758_00_00DEBE109F017F5BE242B6057907338664F50A272B/95F63BF8D7B88A4260EA0B4F7DAD579D19A111C9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR04759_00": {
+        "npCommunicationId": "NPWR04759_00",
+        "trophyTitleName": "俺たちに翼はない",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04759_00_00351DAD0045E99B183F821E0DF9B0E7147A7141D7/9A8BDF4B19EFF7EB2DE281903E52F79E2788AFD1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 1,
+            "bronze": 1
+        },
+        "service": "trophy"
     }
 }
