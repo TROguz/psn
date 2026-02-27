@@ -65778,5 +65778,135 @@
             "bronze": 4
         },
         "service": "trophy"
+    },
+    "NPWR11554_00": {
+        "npCommunicationId": "NPWR11554_00",
+        "trophyTitleName": "おそ松さん THE GAME はちゃめちゃ就職アドバイス -デッド オア ワーク-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11554_00_001989580DD5EA4007E63CCAA7FBE8CBCDE5DE952C/EC0E2A547C8EDECC430D57B223BD592A4BA6BFA2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR11555_00": {
+        "npCommunicationId": "NPWR11555_00",
+        "trophyTitleName": "Talisman Digital Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11555_00_00DAB2FFF409FC66D126CBBBA6FCA63576784BCE10/8EDE24490CBE5C5AE59071CCAAFF55799D0BB20A.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR11556_00": {
+        "npCommunicationId": "NPWR11556_00",
+        "trophyTitleName": "Horizon Zero Dawn",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11556_00_005122C6D8E4545DAC325B8E748CBE7180ED11F3E7/F24674E946809EB0A2E214DB490149851BCEC0EC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 65
+        },
+        "service": "trophy"
+    },
+    "NPWR11563_00": {
+        "npCommunicationId": "NPWR11563_00",
+        "trophyTitleName": "Moon Hunters",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11563_00_00FA0A2E275DB9A1213D6A7784AD54B44893C6EABD/A674B67554E03D0356F99E5A5752A6E7FA4FBD2D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR11564_00": {
+        "npCommunicationId": "NPWR11564_00",
+        "trophyTitleName": "MonsterJam CRUSH IT!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11564_00_006A11CEDD0CE7893E61D2DAA52EED569C847A5DAB/233A0FCA9942FBC3440314C551E1E6EEBB369231.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11565_00": {
+        "npCommunicationId": "NPWR11565_00",
+        "trophyTitleName": "アキバズビート",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11565_00_00B71AAD9E30009331204EEF478F105DCC9EB7648F/09141D43A07CA58F86C80675735D1BC5D957128A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR11570_00": {
+        "npCommunicationId": "NPWR11570_00",
+        "trophyTitleName": "We Sing",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11570_00_00883D1DF77CD54F69416AE8A8D662A7E9878E4595/2A026F4DCEA5B06614BC2E4B21CC8FA3B0ED475D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR11571_00": {
+        "npCommunicationId": "NPWR11571_00",
+        "trophyTitleName": "Jump Stars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11571_00_0030582351B3E16EDA36B0AF4FA41AEDD5271F600D/56637640347BB421E0F33FB5DA9E2FFA06A72AA8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR11576_00": {
+        "npCommunicationId": "NPWR11576_00",
+        "trophyTitleName": "Realms of Arkania: Blade of Destiny",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11576_00_001ED9475C7DD0CF89F569B70D9B39CBD69BC1A822/3E16D9405A921C4C52B55C69B3ED8EC97C8778DA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR11577_00": {
+        "npCommunicationId": "NPWR11577_00",
+        "trophyTitleName": "Pineview Drive",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11577_00_0019443149051FAE3BCB637E7514618E2E21F8E749/9C355027FABB87CE5205BA477CCB46E4CCB63D0E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
