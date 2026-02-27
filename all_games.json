@@ -35358,5 +35358,135 @@
             "bronze": 5
         },
         "service": "trophy"
+    },
+    "NPWR06557_00": {
+        "npCommunicationId": "NPWR06557_00",
+        "trophyTitleName": "ニコリのパズル4 四角に切れ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06557_00_0046E859DC4DA1E394C42980B07068AAE0EE0525A2/C3C8C94DDAFA2971CC117D12128F95932A929905.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR06558_00": {
+        "npCommunicationId": "NPWR06558_00",
+        "trophyTitleName": "ニコリのパズル4 ナンバーリンク",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06558_00_0029CC2D19394A804427CFB6A9E2906BB732896A98/32A7B5CCC99651E293E13B46766112080EA3A538.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR06559_00": {
+        "npCommunicationId": "NPWR06559_00",
+        "trophyTitleName": "ニコリのパズル4 ヤジリン",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06559_00_001BF0B24797BA3BD53795B1B407202FA092392ACB/E81085E60E0EC45BC25AEA4FE7930ABAE8B6E0F1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR06566_00": {
+        "npCommunicationId": "NPWR06566_00",
+        "trophyTitleName": "AKIBA'S TRIP: UNDEAD ＆ UNDRESSED Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06566_00_001F30AA5D4D354524023682DD18BD9EF37E1A9ACD/3B57C0BB9F7D5004CFFA0AEDA67E69AC21B96A27.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR06568_00": {
+        "npCommunicationId": "NPWR06568_00",
+        "trophyTitleName": "Best of Arcade Games",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06568_00_00B70FEF038FD56E19A1795B6B48F84F6289362BC4/763BF149A9285D6AE76195F98EE09FA3C8136A76.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR06570_00": {
+        "npCommunicationId": "NPWR06570_00",
+        "trophyTitleName": "Best of Arcade Games",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06570_00_00D2BDCADB4D31F131E88E5205A69AF339554F5FE2/9ADFD95E183F1ED82D17137CEF9218F945C9ED33.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR06574_00": {
+        "npCommunicationId": "NPWR06574_00",
+        "trophyTitleName": "Lacrosse 16",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06574_00_001CBC75FA4FCB461182A7ACC0605D6A10787AB2B4/163A4CDE57436C8DBAD57D7631E862C9ECF1F830.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR06575_00": {
+        "npCommunicationId": "NPWR06575_00",
+        "trophyTitleName": "RESIDENT EVIL REVELATIONS 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06575_00_0058C1EF261C588717A1DF13869B0F10D48977AC35/4BD43796C3CC752F2C487785580463C9FD292DBF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR06576_00": {
+        "npCommunicationId": "NPWR06576_00",
+        "trophyTitleName": "RE:VICE[D]",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06576_00_00607297D8F5F71DD43310ABFE3F078308AD7851BD/01534D0C36F4CA7629F89E745000BF9AF0AF2722.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR06579_00": {
+        "npCommunicationId": "NPWR06579_00",
+        "trophyTitleName": "Metro: Last Light Redux",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06579_00_009ADC57780D103923221E8A6DE5DD602FA3AC9ADB/9DA743C09763EC5D1CDFB1FC7FA6197CDD331295.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
     }
 }
