@@ -37698,5 +37698,135 @@
             "bronze": 52
         },
         "service": "trophy"
+    },
+    "NPWR07094_00": {
+        "npCommunicationId": "NPWR07094_00",
+        "trophyTitleName": "Attacking Zegeta",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07094_00_003CAF99CD352A7AC9294404669CC2FD9205D2A376/722867F52B5A37612DCE90428C4684080725A612.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 0,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR07096_00": {
+        "npCommunicationId": "NPWR07096_00",
+        "trophyTitleName": "Advanced Warfare",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07096_00_00F69578EF09F51E32CC80EFD3F4105DFA66C9168D/7CA9D3E233B490B266D02D1E313E2A0969C2AD9C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 74
+        },
+        "service": "trophy"
+    },
+    "NPWR07102_00": {
+        "npCommunicationId": "NPWR07102_00",
+        "trophyTitleName": "お姉チャンバラZ2 ～カオス～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07102_00_0069FCCE84624F5E10662F17A1BECC21C3C34CA372/8674775D61989FD481A81F44151C29398FEAC85B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR07104_00": {
+        "npCommunicationId": "NPWR07104_00",
+        "trophyTitleName": "CHAOS;HEAD NOAH",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07104_00_00EC5C196F9F3EC2ABD5BAE313242802953446C900/901265E8ADA3E39246C77B0823378BC15F518AFC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR07105_00": {
+        "npCommunicationId": "NPWR07105_00",
+        "trophyTitleName": "CHAOS;HEAD らぶChu☆Chu!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07105_00_008853E2DA589A42DE19381490AEB1A86BB3E62062/5AF170A3095B4E51670FE450EB744F578A791DF0.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 15,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR07110_00": {
+        "npCommunicationId": "NPWR07110_00",
+        "trophyTitleName": "Blood Bowl 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07110_00_00F0479E55F34AA5F8D7BF31A266E2C10D2C85825C/F5A9A0B94D5BD03F06C1EC0BDC7C41A3430CC49B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR07112_00": {
+        "npCommunicationId": "NPWR07112_00",
+        "trophyTitleName": "剣の街の異邦人　黒の宮殿",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07112_00_00B0B42E50D43CFBDB92642BF44DAFB2751FEA4F17/2473A786864631D325FF807A53CA8B8FC123E733.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 15,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR07114_00": {
+        "npCommunicationId": "NPWR07114_00",
+        "trophyTitleName": "マブラヴ photonmelodies♮",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07114_00_00A4442BD38FB222B9D74F2BC23BF0FEFC3B8581B9/14F5CC036A4B469A23845F512DA8FBAE5DC14181.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 19,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR07116_00": {
+        "npCommunicationId": "NPWR07116_00",
+        "trophyTitleName": "Call of Duty®: Advanced Warfare",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07116_00_004F7B61A90E7694A2805486C566D6B8927F0068CA/41CE6C0FE0FD9C6701FC587B30CD7E5765547B52.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 74
+        },
+        "service": "trophy"
+    },
+    "NPWR07117_00": {
+        "npCommunicationId": "NPWR07117_00",
+        "trophyTitleName": "Fibbage",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07117_00_0009DDD4366D4852BA57CB16DCD82441212CB91675/D92FF88AF4853DA1AAA3BA30F2414A6AC627DB1B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
     }
 }
