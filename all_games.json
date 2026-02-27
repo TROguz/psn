@@ -84745,5 +84745,18 @@
             "bronze": 2
         },
         "service": "trophy"
+    },
+    "NPWR14002_00": {
+        "npCommunicationId": "NPWR14002_00",
+        "trophyTitleName": "AO International Tennis",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14002_00_00F054B65DF8F85FF4557AD731EC9B0419BE80A0E1/EBDA94513233B883F499F5501BDA89DC9E70F134.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 13
+        },
+        "service": "trophy"
     }
 }
