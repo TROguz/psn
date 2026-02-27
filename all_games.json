@@ -88008,5 +88008,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR14423_00": {
+        "npCommunicationId": "NPWR14423_00",
+        "trophyTitleName": "Dragon's Lair Trilogy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14423_00_006905F5229F6AF7CB640C6F312E49378620498E8F/803154FA14F1AE42466041315F2DE359C456AA28.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14427_00": {
+        "npCommunicationId": "NPWR14427_00",
+        "trophyTitleName": "実況パワフルプロ野球２０１８",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14427_00_002D45393014ED5ACF51E47BA83C2761556E3EDEEB/A74D60F06DC2F844EB82D304D5779D97F3A919F6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 7,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR14429_00": {
+        "npCommunicationId": "NPWR14429_00",
+        "trophyTitleName": "ラビ×ラビ-パズルアウトストーリーズ-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14429_00_003DAA633BAB606784A7C66EAF7D87BC17F2930833/D014CA333DFBE8EC1F29B0518135A59904E5857E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR14431_00": {
+        "npCommunicationId": "NPWR14431_00",
+        "trophyTitleName": "ACA NEOGEO KARNOV'S REVENGE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14431_00_00F3734784CA4775FAD7AF74333DA8F7D87C61BAAB/B9D3673935A2BE0D912FF4F3F0BDD91219B8C966.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14433_00": {
+        "npCommunicationId": "NPWR14433_00",
+        "trophyTitleName": "Tiles",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14433_00_00E9B5F4A9D2259E550F151530E1C26CD094576021/38C7D4AB5F7283B4C93A1295DD709806C667515E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR14434_00": {
+        "npCommunicationId": "NPWR14434_00",
+        "trophyTitleName": "Little Red Lie",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14434_00_00C3D5EAFA5C0DF6E4D0DFF438240F6A978FA6B085/48D4ECA7C70CDADEDA8879B7EA61B946058ED659.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14435_00": {
+        "npCommunicationId": "NPWR14435_00",
+        "trophyTitleName": "Penny-Punching Princess",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14435_00_0006377FCC74861D3AEFACC6B3FF3EB486D6D303AB/DDC9CCF92148A4D9EBA63C0165A985E1F296EB18.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR14436_00": {
+        "npCommunicationId": "NPWR14436_00",
+        "trophyTitleName": "グリザイア ファントムトリガー ０１＆０２",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14436_00_0036107B2C6EDD882C915D1926FD89C2E0D7154877/5E3BE6F84E98216446A09ADFFDC6D781BDB6E8D4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14437_00": {
+        "npCommunicationId": "NPWR14437_00",
+        "trophyTitleName": "BugsBox VR Trophy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14437_00_00BA6081A0736ACD553E6923351BF27AD6A3897C6D/00CBC3A4A11BA3359BF3D327889E9C94964F44B3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR14438_00": {
+        "npCommunicationId": "NPWR14438_00",
+        "trophyTitleName": "Forgotton Anne",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14438_00_002473CFF82AD30C78225E88FE82AC0B09C1E9A1ED/C1E438D375BB53B93495C5D5F693E366D49B46FF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 20
+        },
+        "service": "trophy"
     }
 }
