@@ -62788,5 +62788,135 @@
             "bronze": 19
         },
         "service": "trophy"
+    },
+    "NPWR11158_00": {
+        "npCommunicationId": "NPWR11158_00",
+        "trophyTitleName": "Asemblance",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11158_00_003373B7ED7673688F91ED690FD5CB0DFC838F23D5/38A9C56BEF04144DB3280E09598F556D79480529.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR11159_00": {
+        "npCommunicationId": "NPWR11159_00",
+        "trophyTitleName": "Jazzpunk",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11159_00_00CFA7812C11E87215DF2EBEE3F362DC8E06430DD6/F5261FE9B2D308113455AE1DCFD85F3CFDA35B82.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11160_00": {
+        "npCommunicationId": "NPWR11160_00",
+        "trophyTitleName": "YamaYama",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11160_00_0057285CBB1B6D679B1307B70D8C9F3847D47CFB4D/959857E6556F94EAC8ACAAFD947C2118608C6CB8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR11164_00": {
+        "npCommunicationId": "NPWR11164_00",
+        "trophyTitleName": "Chambara",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11164_00_00819808F02494899CCF1A88F4026392003F70365A/81D7C5A278A7FECE3C5181476A6059D46198EF62.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR11165_00": {
+        "npCommunicationId": "NPWR11165_00",
+        "trophyTitleName": "Don Bradman Cricket 17",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11165_00_00D30CE4C204C5B1D82C17AB9C7364764E2666A9B1/90C34D682091DEB47D4A32360DD54CE018F03E71.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR11166_00": {
+        "npCommunicationId": "NPWR11166_00",
+        "trophyTitleName": "Rugby League Live 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11166_00_00CCCBFE1FADD52E761306E0A2B2AC4A77BFF777A1/C452821759F18FDE256D3B71EE0537A5E82203B3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR11168_00": {
+        "npCommunicationId": "NPWR11168_00",
+        "trophyTitleName": "ZERO ESCAPE ９時間９人９の扉 善人シボウデス ダブルパック",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11168_00_00941DD2AB4684D8D43DCAE33DCE48BC3D03251D86/9C9584E0AB228A8E27703EA6DD980AB39B89C1AD.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 18,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR11170_00": {
+        "npCommunicationId": "NPWR11170_00",
+        "trophyTitleName": "99Vidas",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11170_00_003EFC73F8C255168335048045B0AA6DC638FC8F24/1E0B4156587277D6099155672DA8602CB018301D.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 17,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR11171_00": {
+        "npCommunicationId": "NPWR11171_00",
+        "trophyTitleName": "100ft Robot Golf",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11171_00_0095783A4D0CA0521438235656A81BCB260824132E/196FAF3E9D762BCAA23826ACA0F4FD06F0861BE7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 6,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11172_00": {
+        "npCommunicationId": "NPWR11172_00",
+        "trophyTitleName": "Unholy Heights",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11172_00_0064D92E90B243744B029585AA23E5AAA8FF33D30A/85E39F3885C9A3640208D4250FD95ED31DB01FAD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 12
+        },
+        "service": "trophy"
     }
 }
