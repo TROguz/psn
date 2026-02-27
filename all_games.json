@@ -64738,5 +64738,135 @@
             "bronze": 19
         },
         "service": "trophy"
+    },
+    "NPWR11402_00": {
+        "npCommunicationId": "NPWR11402_00",
+        "trophyTitleName": "EARTH'S DAWN",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11402_00_00C532257C530ACF90744DAC8CD1C182D1076CE1AE/577A00D69179CF3F555546C1140CBED378518A4D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR11403_00": {
+        "npCommunicationId": "NPWR11403_00",
+        "trophyTitleName": "DRAWFIGHTERS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11403_00_00DF6C4F33632E30D4A78AC169C7AC6F22E110EC16/6D723F47F43F9D8C3B19B5A55639392534AC5A22.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR11404_00": {
+        "npCommunicationId": "NPWR11404_00",
+        "trophyTitleName": "Hyper Light Drifter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11404_00_00749D5E3095B6A327C533B43B32D8A26AB2C1FD82/962A48569535F088ADF72B0F2A7C42C4628A91D1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 9,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR11408_00": {
+        "npCommunicationId": "NPWR11408_00",
+        "trophyTitleName": "PuyoPuyo™Tetris®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11408_00_00E6E2BF5234BC23181A6996AEEF95800D813919CF/F9ED84DE8A3C9781088186EB566CFB725706904D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR11411_00": {
+        "npCommunicationId": "NPWR11411_00",
+        "trophyTitleName": "Air Conflicts: Secret Wars Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11411_00_00C3E0678C815ABD6E4862707F110EA5EB3230FBF7/14DFD24A70440119C792ECD17F534FF28883D306.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR11412_00": {
+        "npCommunicationId": "NPWR11412_00",
+        "trophyTitleName": "Carnival Games VR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11412_00_00907472FB4BA0B49433E455C26E828E4FF6EDC58A/E3C3BA5308A9F3E9A71E0B1F3FC236932B7118BA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 7,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR11415_00": {
+        "npCommunicationId": "NPWR11415_00",
+        "trophyTitleName": "Snow Moto Racing Freedom",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11415_00_00294F4BA2EEDA053F14764DB2F6F86A78A9860381/E013D8D3C7468810C0B9DFF9B2E5B8176539BBAF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 2,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR11417_00": {
+        "npCommunicationId": "NPWR11417_00",
+        "trophyTitleName": "妖精劍士ｆ ADVENT DARK FORCE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11417_00_0033EF2CB390577F7C293962546E27BF608FD5863A/70844D4C5890C2ACB1C807279D5263E9D557832E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 16,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR11418_00": {
+        "npCommunicationId": "NPWR11418_00",
+        "trophyTitleName": "Yooka-Laylee",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11418_00_00D003552DC045A33BF85E083F6762ADEBFBE4AFE2/00B5A0E8F6CA1D5B787F255EA65D753C14A9B389.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR11422_00": {
+        "npCommunicationId": "NPWR11422_00",
+        "trophyTitleName": "Whitestone",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11422_00_00E5808D9BD6F9111960F03BD15D80C507CA22DA07/10C6D8E9E5C0CF2F3E54CCCB263A436AB5758A60.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 6
+        },
+        "service": "trophy"
     }
 }
