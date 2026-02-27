@@ -78908,5 +78908,135 @@
             "bronze": 6
         },
         "service": "trophy"
+    },
+    "NPWR13210_00": {
+        "npCommunicationId": "NPWR13210_00",
+        "trophyTitleName": "Mortal Blitz Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13210_00_00492F8D2DE79D1F2F6C892F9134BF7800FBCABFFA/A86A1BCB3C8599007C5C6FEBA7ED92C4883763EE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR13211_00": {
+        "npCommunicationId": "NPWR13211_00",
+        "trophyTitleName": "theHunter: Call of the Wild",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13211_00_00B97E973B2F847DE64A50C8CD5BD2DC20890B42E2/88AFFFD0B28B703B28CA71F6353F797230B9FB32.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 17,
+            "bronze": 95
+        },
+        "service": "trophy"
+    },
+    "NPWR13212_00": {
+        "npCommunicationId": "NPWR13212_00",
+        "trophyTitleName": "双子座のパラドクス",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13212_00_005C1F0C466DC99D41C9535DD056E58F51D22BA5E6/9521FD30D70578C3E92FE14EB1899B5BCDFE80B7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 14,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR13213_00": {
+        "npCommunicationId": "NPWR13213_00",
+        "trophyTitleName": "甘えかたは彼女なりに。",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13213_00_007041778D713269DB87D851D1BDA8C2793763F4EF/E1247235933DFA8A6BD5EE3F0B6BDC01398C03FB.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 4,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR13214_00": {
+        "npCommunicationId": "NPWR13214_00",
+        "trophyTitleName": "キミの瞳にヒットミー",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13214_00_00A6B6AD5F3889144BC05FD548F7A6AB52D88ADCA3/EDBD52C378B642441C719B3AA33676BCA276720F.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 6,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR13215_00": {
+        "npCommunicationId": "NPWR13215_00",
+        "trophyTitleName": "うたわれるもの 散りゆく者への子守唄",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13215_00_00AFB4217826761BF884C53B2BE6DE509CDD632334/972F78660769C8B5ECD325164BD36C17D7C1EBED.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR13216_00": {
+        "npCommunicationId": "NPWR13216_00",
+        "trophyTitleName": "Heroes of the Seven Seas Trophy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13216_00_0064EA084066311386749B176F78870574DE9DFAD3/9B8CBBD8007E296A07B871FA806452AAF0CF4249.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR13218_00": {
+        "npCommunicationId": "NPWR13218_00",
+        "trophyTitleName": "Theseus",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13218_00_0075F178C5202D9AD63DFB2813B007110A0FD137D1/8ECFE26440321793921636D284F5D9B20D45CDCA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR13219_00": {
+        "npCommunicationId": "NPWR13219_00",
+        "trophyTitleName": "Runbow Trophy Collection",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13219_00_008DB0911D5019D96A112AADE0885E01B27ACB4EAB/65A04142AC058E02EDDE0DC9AB058E3E2B90FB81.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR13221_00": {
+        "npCommunicationId": "NPWR13221_00",
+        "trophyTitleName": "ひめひび -Princess Days-\n\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13221_00_0007D5D06459E75C20AB4810E904CBD30882135B48/66307775F32B60A12FED928CDB067C8CEB17BE0E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
