@@ -49268,5 +49268,135 @@
             "bronze": 17
         },
         "service": "trophy"
+    },
+    "NPWR09091_00": {
+        "npCommunicationId": "NPWR09091_00",
+        "trophyTitleName": "Barbie and Her Sisters Puppy Rescue",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09091_00_00F862D78F0F37E790A41BDE2BF48573A5F08041C0/738F0CC929C5B946AAA121B3D5102707EC468DF8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR09093_00": {
+        "npCommunicationId": "NPWR09093_00",
+        "trophyTitleName": "Q.U.B.E: Director's Cut",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09093_00_0018B38C5C4D7BDBC0405B51C1EA46765E38A25A62/194796957109FC4EB5957BCC48913AD68EC2EBB7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR09096_00": {
+        "npCommunicationId": "NPWR09096_00",
+        "trophyTitleName": "Curses 'n Chaos",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09096_00_005C863CA53B921A4EA95A89AF2EDA6C9BE363862C/87F064E1C5CFCEC67426259542EDCD4C3B0B50C8.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR09098_00": {
+        "npCommunicationId": "NPWR09098_00",
+        "trophyTitleName": "Mega Man Legacy Collection",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09098_00_001E0D955DB8B9DEFB6C4EFC0D1B129BCAE5195D1D/C0D0403E89DD0F8F6E7AE1B4225E5FC480D79F40.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR09099_00": {
+        "npCommunicationId": "NPWR09099_00",
+        "trophyTitleName": "WWE 2K16",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09099_00_00C938188CA94D7C7C64613120C6B7511A52ADA8FE/4EA13A2580C5E32C3B8580795AC990E14F49EED3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR09100_00": {
+        "npCommunicationId": "NPWR09100_00",
+        "trophyTitleName": "The Fall Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09100_00_0079965592D56DE21F1F72403E7E30839D060307BD/9F0DF35A9824CFACAAF935BE81F1C322C4BC928C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR09101_00": {
+        "npCommunicationId": "NPWR09101_00",
+        "trophyTitleName": "WWE 2K16",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09101_00_00C67A1E1F152A38640F6086B257188E66B26792C9/15ABBA981EFFD31CF4EAE474F392B0C6B8B4A6F4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 11,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR09102_00": {
+        "npCommunicationId": "NPWR09102_00",
+        "trophyTitleName": "Element4l",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09102_00_002671308976FC7D034E32060BADC0C9BA5B326480/B9AAF8B860D4E7FD83887F489B865F3A731B73BF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR09105_00": {
+        "npCommunicationId": "NPWR09105_00",
+        "trophyTitleName": "ガンダムバトルオペレーションＮＥＸＴ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09105_00_0059F3AD682FCEEB255A8F4147EE72E565904D839D/ADCCC8B7D0F507F6EF4126315638A7709B9581C1.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR09108_00": {
+        "npCommunicationId": "NPWR09108_00",
+        "trophyTitleName": "フェアリーフェンサー エフ ADVENT DARK FORCE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09108_00_00800F930602C94F50BF25EBF75C2DCA51963700B5/4E2FFF005B56D04BEF9136DC7A436B4AC0511B9A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 16,
+            "bronze": 8
+        },
+        "service": "trophy"
     }
 }
