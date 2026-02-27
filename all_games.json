@@ -38738,5 +38738,135 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR07309_00": {
+        "npCommunicationId": "NPWR07309_00",
+        "trophyTitleName": "MLB® 15 The Show™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07309_00_002493578E91275C9592164123BF59FB186FA25727/FA013716AEA96D46D41052C0046751DD2F04CBEC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR07310_00": {
+        "npCommunicationId": "NPWR07310_00",
+        "trophyTitleName": "Fluster Cluck",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07310_00_00AC0707E843F3C173EC1B4A5A9F4DBD8136CDF373/38284796F620622ED2BEB721CB4A93DEC763AC04.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR07312_00": {
+        "npCommunicationId": "NPWR07312_00",
+        "trophyTitleName": "AirshipQ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07312_00_00F07E5D3B78E4ADD6736CD5AD55210E8325D56AA5/DD620345FC77E98561A57F95B0BFBC57B8498645.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR07313_00": {
+        "npCommunicationId": "NPWR07313_00",
+        "trophyTitleName": "仮面ライダー　サモンライド！\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07313_00_00B5BD8A9C9B8E438FCDC63DCE7423D768F77F3887/AC61F07E610AA7E4AC76C7D3E981215716E2C068.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR07315_00": {
+        "npCommunicationId": "NPWR07315_00",
+        "trophyTitleName": "シャイニング・レゾナンス",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07315_00_00F6425F2B1130A1CD6E7B003326D8BB7E660C8C65/DCC663FC6DC6B7E1E085309CD0FF5310D1A075F4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 16,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR07316_00": {
+        "npCommunicationId": "NPWR07316_00",
+        "trophyTitleName": "Arcade Archives NOVA2001",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07316_00_002A7DC6C6F4400C5B94F8D813E5BFA7A6EFDF33E5/3321D5B4A56042579F52E9109F81B018F8A409F3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR07317_00": {
+        "npCommunicationId": "NPWR07317_00",
+        "trophyTitleName": "STAR WARS™ Battlefront™ Trophies\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07317_00_00F77A8319FB5C16B80C6B9FEAD1082C7F702CC8F4/D4D7DAB857B57F7C61AC5C65292110E5D18D9DB4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 17,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR07318_00": {
+        "npCommunicationId": "NPWR07318_00",
+        "trophyTitleName": "MLB® 15 The Show™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07318_00_009257760106C0784916CFAD44605B82C216F9E41D/3403B73B16133B75DD40128F4A0DBEB7901520DB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR07319_00": {
+        "npCommunicationId": "NPWR07319_00",
+        "trophyTitleName": "龍が如く０　誓いの場所",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07319_00_006F79F47759D994F68CBE75C3AEA9160839ACBD7F/B6F3288B8DBDE3A3DF94D53EBF9A674A41611B48.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR07321_00": {
+        "npCommunicationId": "NPWR07321_00",
+        "trophyTitleName": "LOS 40 PRINCIPALES: KARAOKE PARTY",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07321_00_002A8A2494F017EAC8BF2B638201EFAABEB69129EF/9B3026D7FFC351990EE85C2FF80A6B56FFE2B8F0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
