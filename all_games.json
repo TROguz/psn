@@ -91778,5 +91778,135 @@
             "bronze": 22
         },
         "service": "trophy"
+    },
+    "NPWR14879_00": {
+        "npCommunicationId": "NPWR14879_00",
+        "trophyTitleName": "Trover Saves The Universe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14879_00_009B86485BC109480ABFCECA8966EF7E29C8627D59/9B1D70C74245BEFC0DF2096459E42CEAD6EF2329.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR14880_00": {
+        "npCommunicationId": "NPWR14880_00",
+        "trophyTitleName": "THE KING OF FIGHTERS '97 GLOBAL MATCH",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14880_00_00F97DB575E7A2B0756D67F0E95475B0AB7E0BBCBC/E59372E480EB811BF480FCE9E3BB04F7C2779FAD.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR14881_00": {
+        "npCommunicationId": "NPWR14881_00",
+        "trophyTitleName": "Jump Force",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14881_00_00900EF47ABA41B0908847B3C9A73B7E6833F672CD/9FECCF38AADB6CF4F5B1DB013787609695E4BBF5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR14884_00": {
+        "npCommunicationId": "NPWR14884_00",
+        "trophyTitleName": "星の欠片の物語、ひとかけら版",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14884_00_00A62E924B49263689AB6EB5C039A9A4133F63C0EB/CF6D468752CDC5F80B9D6033C04CA8FCD5C9BDCD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 0,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14885_00": {
+        "npCommunicationId": "NPWR14885_00",
+        "trophyTitleName": "Team Sonic Racing",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14885_00_00F2A3274FDB932ACC6913B736135C6C2A0AA71AC5/450AE114CAD07400668DC48ECCC960581E5F8842.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR14886_00": {
+        "npCommunicationId": "NPWR14886_00",
+        "trophyTitleName": "ナツイロココロログ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14886_00_00DC33FD5F03E2997B5C46998D1D180A3D2B9329D4/ED60F731D90D85FC6C6C7F5C072F8D9F4FEAE904.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR14887_00": {
+        "npCommunicationId": "NPWR14887_00",
+        "trophyTitleName": "ペルソナ３ ダンシング・ムーンナイト",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14887_00_006AAE8E23867CAADEADECCFB8A3328A9D6C404BF2/1B790709768EE28AE8BD7CDB7996A12EEF0A6B8D.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR14888_00": {
+        "npCommunicationId": "NPWR14888_00",
+        "trophyTitleName": "Earthlock",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14888_00_00BA78A526033F320287AE905F35737A6B89DBE94D/CCC08358F21312B209C4FE691270FB916A02BA54.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR14889_00": {
+        "npCommunicationId": "NPWR14889_00",
+        "trophyTitleName": "STEINS;GATE ELITE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14889_00_00804FEE2D02D0B6130E27ECE2ED0AC1911BB8EA28/5196D9DEAB7A9C45A157F28A3B7F4D2203FE03CA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR14890_00": {
+        "npCommunicationId": "NPWR14890_00",
+        "trophyTitleName": "STEINS;GATE ELITE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14890_00_0078000698235866C4D3F2D2915289AACD886487EA/5E8E16766C8D5219FBBB218C99D92C94F69996B7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
