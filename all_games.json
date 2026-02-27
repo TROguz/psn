@@ -22488,5 +22488,135 @@
             "bronze": 22
         },
         "service": "trophy"
+    },
+    "NPWR03845_00": {
+        "npCommunicationId": "NPWR03845_00",
+        "trophyTitleName": "The Bureau: XCOM Declassified",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03845_00_00D221EFA5568836BBD696D793F6AF5FD0C87B58BF/6B967BAA0CDACCF1C7B28A96CDDB1A7064B67E65.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 14,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR03848_00": {
+        "npCommunicationId": "NPWR03848_00",
+        "trophyTitleName": "マブラヴ オルタネイティヴ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03848_00_006DE5B6286B6088F4E5E79F91A0B81A5166A6F6F1/0C02239D4D3E491C5F3395293013F3613CBBB035.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR03849_00": {
+        "npCommunicationId": "NPWR03849_00",
+        "trophyTitleName": "マブラヴ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03849_00_00FCB9CA97D379F8D9C408F131F32315490A1E8AA9/9C243C3727D418ACDEA1A25D9D3284AC700F2621.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR03852_00": {
+        "npCommunicationId": "NPWR03852_00",
+        "trophyTitleName": "Dragon's Crown",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03852_00_00E1E0298920059DDCA4AA35EBF0736961691785A6/15FB88BD4A8D5A52700B8720D53777A41633D605.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR03854_00": {
+        "npCommunicationId": "NPWR03854_00",
+        "trophyTitleName": "압도적유희 무겐소울즈",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03854_00_00473453586031018291B2B25CE86B53F57FBFB467/5BE141F517F9ED5805B7AB27A81026E733B92D5F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR03857_00": {
+        "npCommunicationId": "NPWR03857_00",
+        "trophyTitleName": "Mountain Crime: Requital",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03857_00_0094DBAB74ACBEC55220BEA3E168483754F30FD55E/9E3BF0D539E585BAFEF94C4A4BC4C2E2B4ABEDFD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR03864_00": {
+        "npCommunicationId": "NPWR03864_00",
+        "trophyTitleName": "Dogfight 1942",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03864_00_00116D67EEE8ED47C4133602B495870A9F3A8CB053/2EF7DC826217A52C6F10C811C2E76C656129D98B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR03866_00": {
+        "npCommunicationId": "NPWR03866_00",
+        "trophyTitleName": "escapeVektor",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03866_00_00B3D4DF7E4FD097FB8B05DD72D5065C220FCA113D/26D81DA0E4234103F1C8B1A41213BFA60F4E8365.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR03867_00": {
+        "npCommunicationId": "NPWR03867_00",
+        "trophyTitleName": "Virtua Fighter 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03867_00_0059A91F5EC46EB67E99F6C3DFD7ACA0B1C1FF1659/DB7C07BF117AA094EEF0B27B8F6E4BF15EB9BED5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR03868_00": {
+        "npCommunicationId": "NPWR03868_00",
+        "trophyTitleName": "Fighting Vipers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03868_00_00894A55FD469F757C3AEE8578BD7E79CC1466CDDA/39C09780A6035CCBCE5E6A774D8FBA85F25C782C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
     }
 }
