@@ -43938,5 +43938,135 @@
             "bronze": 28
         },
         "service": "trophy"
+    },
+    "NPWR08251_00": {
+        "npCommunicationId": "NPWR08251_00",
+        "trophyTitleName": "Call of Duty®: Black Ops III",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08251_00_00A7449EF1021AFAE050F971D7076490B4F490284C/860976D9DA368D2E185EF4F08445F237DF06F5D9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 13,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR08253_00": {
+        "npCommunicationId": "NPWR08253_00",
+        "trophyTitleName": "XBLAZE LOST : MEMORIES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08253_00_007B6D7CF03B5BA2392F603F0BFCC733429371A663/3A1803CBE7173C5C4B099126FBE260D4748CE764.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR08254_00": {
+        "npCommunicationId": "NPWR08254_00",
+        "trophyTitleName": "XBLAZE LOST : MEMORIES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08254_00_00F37E21C3FED0CD7E41314D88E2ED81F76FE3D175/C1295D1CDC09DE8E3E4095D63BD7708BB028AA71.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR08255_00": {
+        "npCommunicationId": "NPWR08255_00",
+        "trophyTitleName": "Sleeping Dogs: Definitive Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08255_00_00368C5474E88A7B1FF7B95F3ABCA0FDE162FBF5BC/5F1606217DA71EB9F4B2A98E47A20154689B6B3F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 45
+        },
+        "service": "trophy"
+    },
+    "NPWR08256_00": {
+        "npCommunicationId": "NPWR08256_00",
+        "trophyTitleName": "Sword Art Online: Lost Song",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08256_00_00CBE52D5CEE223D4875A8DEA352334C015F2A59C8/DBD072348542C0F07B3173FBE454BAFFC5FB9E12.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 18,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR08260_00": {
+        "npCommunicationId": "NPWR08260_00",
+        "trophyTitleName": "PlayStation® VR Worlds",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08260_00_0076319B91C0DA10BD8D83BD0699EA621FE25518C0/333EF2D95F54BC07812D49286636AF632FEEBD39.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 17,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR08265_00": {
+        "npCommunicationId": "NPWR08265_00",
+        "trophyTitleName": "STARWHAL",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08265_00_0077D38EB9BB32245CFBCE2C86911C61ADBAF1439F/464774AEF3713CB4CA556DA8148FEBA0F2818023.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR08266_00": {
+        "npCommunicationId": "NPWR08266_00",
+        "trophyTitleName": "Assassin's Creed® Chronicles: China",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08266_00_002D0FE7204BFFE0F08427FC5D0ABB38B1CDFAE7A7/E4F177F85A900A6A8DE24957A5052736840F7E4B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR08268_00": {
+        "npCommunicationId": "NPWR08268_00",
+        "trophyTitleName": "God of War III Remastered",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08268_00_007C6460B26BBD12317E647A8F311FBF91DD928D4A/8E57416AFC918847A599DD0F7097FE4F64D1A552.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR08271_00": {
+        "npCommunicationId": "NPWR08271_00",
+        "trophyTitleName": "Superdimension Neptune Re;birth3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08271_00_00DC63A2B20726D768938E92BC0C2D400AAD698B62/31213322F594A9FB3C6C622CD2B06038EE504976.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 23
+        },
+        "service": "trophy"
     }
 }
