@@ -56418,5 +56418,135 @@
             "bronze": 36
         },
         "service": "trophy"
+    },
+    "NPWR10189_00": {
+        "npCommunicationId": "NPWR10189_00",
+        "trophyTitleName": "赤い砂堕ちる月",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10189_00_0002087E9C958F7CEFD78C074357E79A66FE26A492/5F86CD0DCE47D1E76B19E0E3A98FC567B96D211D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR10190_00": {
+        "npCommunicationId": "NPWR10190_00",
+        "trophyTitleName": "Styx: Shards of Darkness",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10190_00_00E36A186E35EA368A2B53ACD73FB95F468FAD6FAA/90D43C1194536327282F8953FD5C9ED0A3E9F44B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR10195_00": {
+        "npCommunicationId": "NPWR10195_00",
+        "trophyTitleName": "Atrapa la bandera",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10195_00_003F3C7953D8907833FBC88BD758795FEEC948D8A6/60AED2FD06C3C532C5D312919E8E73A53EB407D3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR10197_00": {
+        "npCommunicationId": "NPWR10197_00",
+        "trophyTitleName": "SUMMON NIGHT6 LostBorders",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10197_00_0007D2ADA3483D9530BC8E76A3948CD3A39E565B8D/36C03B4362AF4027AD7ACAE9EBBC25C9F9C9A562.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR10200_00": {
+        "npCommunicationId": "NPWR10200_00",
+        "trophyTitleName": "Mystery Chronicle: One Way Heroics ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10200_00_0024B5D692EDD63E53EB62C0E88F8333FAA86C4036/90721F6E427EA2B69D383DDC6753346F31836A18.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR10201_00": {
+        "npCommunicationId": "NPWR10201_00",
+        "trophyTitleName": "Dishonored 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10201_00_00C4D1C4A749DE3A67AFEDAD887A7868217270DD50/7AA6386499123FAEF99C5C19DB993FB22A4C8D61.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR10204_00": {
+        "npCommunicationId": "NPWR10204_00",
+        "trophyTitleName": "MegaTagmension Blanc + Neptune VS Zombies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10204_00_0020DE71FABCAA512A1A01C685C169471162B9FD8C/FE60B0757F07FEBA3CAD0BB3D7667355122B0385.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR10215_00": {
+        "npCommunicationId": "NPWR10215_00",
+        "trophyTitleName": "ドラゴンクエストヒーローズⅡ　双子の王と予言の終わり",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10215_00_0089C0D3021EFF09F8941CF237066318FE26A01F2B/C0FFEECC315D2DD8EB9B993C5C5373611DB5F815.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR10216_00": {
+        "npCommunicationId": "NPWR10216_00",
+        "trophyTitleName": "この世の果てで恋を唄う少女YU-NO",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10216_00_00D48BDFCBF27BC0C8DB98A83BB1967E9CB357A3D9/F5C284B061C41227EE70121D428BA8B4E5E48F8E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR10223_00": {
+        "npCommunicationId": "NPWR10223_00",
+        "trophyTitleName": "ダブルフォーカス-文と椛の弾丸取材紀行- PlayStation®Vita Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10223_00_00A8B456FBE1E12CA122E6E39572A41512A12C6756/3476C0B28C14232055856F4E5D71E02921242E82.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 17
+        },
+        "service": "trophy"
     }
 }
