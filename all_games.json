@@ -66688,5 +66688,135 @@
             "bronze": 20
         },
         "service": "trophy"
+    },
+    "NPWR11664_00": {
+        "npCommunicationId": "NPWR11664_00",
+        "trophyTitleName": "SUMMER LESSON: Hikari Miyamoto Seven Days Room",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11664_00_00CF3BFC5A3C315F0092E965B901EC4D2B34530F44/6548D3A7D3567343238EB773D28B62762BB0B145.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR11665_00": {
+        "npCommunicationId": "NPWR11665_00",
+        "trophyTitleName": "薄桜鬼 真改　風ノ章",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11665_00_008E0DC9CD3B0A6B5588B482BEEF5DB01721FFBD92/9A374C1B0388573E9FF245D540F7C1FECBEF8DA3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR11667_00": {
+        "npCommunicationId": "NPWR11667_00",
+        "trophyTitleName": "DESIRE remaster ver.",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11667_00_00FCF3231F3E66BF02730F16F7DF420857FB0411C5/AC64105C75BF3DDA7F7B754830AE2BAD1274E10A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 7,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR11668_00": {
+        "npCommunicationId": "NPWR11668_00",
+        "trophyTitleName": "Windlands Trophies\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11668_00_00C131BC923E2AE1C61FD9F0C15B4F722EABB451FC/909CC738C22EA1AB07E3A427D4324C1EC5CCF8A1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR11669_00": {
+        "npCommunicationId": "NPWR11669_00",
+        "trophyTitleName": "符石守护者",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11669_00_0027D9C572AE27070C0903915C84EF6D2BC66ED767/AA3DB25BD0DB184F874D6C5107427DB3E0FB0148.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR11671_00": {
+        "npCommunicationId": "NPWR11671_00",
+        "trophyTitleName": "STEINS;GATE 0",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11671_00_000A34300081CFF49CDB38300FBDF0526CDB6109B5/D9943C6687F52FD7073EA9E6B9C97217AFA9F4D6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11674_00": {
+        "npCommunicationId": "NPWR11674_00",
+        "trophyTitleName": "Sports Bar VR Hangout 2.0",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11674_00_00B5104D57E911B1F3283D6823AB6FF47EF9331083/DCF0DF972F8D3A902E55846681F9458EC3F74307.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR11676_00": {
+        "npCommunicationId": "NPWR11676_00",
+        "trophyTitleName": "MXGP2 - The Official Motocross Videogame Compact",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11676_00_00474318755D35727BDE9C6E3BEC646CFE090E5840/88ACB9C27CF254CBE19C211ACCD3E16A65D47253.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11677_00": {
+        "npCommunicationId": "NPWR11677_00",
+        "trophyTitleName": "No Heroes Allowed! VR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11677_00_000D53AEB5B9AD6D336D831842DBB83C81C529E43B/B44FC494EDDB5F505794BEFF91F9E97FA835828E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11678_00": {
+        "npCommunicationId": "NPWR11678_00",
+        "trophyTitleName": "ファタモルガーナの館",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11678_00_00166DBD87901C2C37A6510B47CD4A40C6DB5004AC/5B1A7B2FA3DC5C0389E5D775A323F0E9F6320F24.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 2,
+            "bronze": 0
+        },
+        "service": "trophy"
     }
 }
