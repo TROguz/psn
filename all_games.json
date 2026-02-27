@@ -43288,5 +43288,135 @@
             "bronze": 26
         },
         "service": "trophy"
+    },
+    "NPWR08147_00": {
+        "npCommunicationId": "NPWR08147_00",
+        "trophyTitleName": "太鼓の達人 Ｖバージョン",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08147_00_002FE59E33FD63484CDF3CB158FC0F465DA6EDFE36/1F8EEB717086D8401BA4652EFEC253D4F19A731E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR08148_00": {
+        "npCommunicationId": "NPWR08148_00",
+        "trophyTitleName": "Mitsurugi Kamui Hikae",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08148_00_00EB6FEB5D2FC66D2C080664FEC988CE3C9CD6A4B7/D5304A601E83FEA1DA2C6EA5842B1643675A6B6C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR08152_00": {
+        "npCommunicationId": "NPWR08152_00",
+        "trophyTitleName": "Tina's Toy Factory",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08152_00_00AB0770ECA9DE0D4D7F0B5D0A119FD0D03868BCB2/4A520FBB541824AB773E2F8E1642B17902F2D432.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR08153_00": {
+        "npCommunicationId": "NPWR08153_00",
+        "trophyTitleName": "J-STARS Victory VS+ Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08153_00_00B062E824D020695ED38072A9097D55931EB7B841/569C53CF88769D52617428784B9E37B359FF116F.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR08154_00": {
+        "npCommunicationId": "NPWR08154_00",
+        "trophyTitleName": "One Tap Hero",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08154_00_006631926E33390DA3402BCA24F118050280E6CF1D/72BACD75FAFA2BA14F64CF180A54C0C2011B8D4E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 4,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR08155_00": {
+        "npCommunicationId": "NPWR08155_00",
+        "trophyTitleName": "RESIDENT EVIL REVELATIONS 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08155_00_008310FB96146280BAE7573EA12A6CD472E440BCF3/27BD2CE62E8F59F825C4300EB230E4DB41192331.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR08161_00": {
+        "npCommunicationId": "NPWR08161_00",
+        "trophyTitleName": "Farming Simulator 15",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08161_00_00590D3BB5A1C0FEEE4DE7AD2C4FEECA3BF2123F08/3068E8E5B97370E714399A3808507D71F96A4CA4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR08162_00": {
+        "npCommunicationId": "NPWR08162_00",
+        "trophyTitleName": "Farming Simulator 15",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08162_00_008EE792915658015C7BA893FD7EB01850B9764F99/84E8F5D891ED30E80DEA8E85387072B0B1ECD3DD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR08163_00": {
+        "npCommunicationId": "NPWR08163_00",
+        "trophyTitleName": "Arcade Archives Raiders5",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08163_00_00A79192FCC933A5F093A409C5AE51EBD217CFEC39/4B2FC359BF3116341CB43D5F753FCA66F3E62E09.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08164_00": {
+        "npCommunicationId": "NPWR08164_00",
+        "trophyTitleName": "Arcade Archives Shusse Ozumo",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08164_00_004F7AD65755CEC838090AEFAD9B4F0E1165309633/FCFB0FD287DF0290D911947D967AF6AF48250FAE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
