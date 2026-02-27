@@ -45758,5 +45758,135 @@
             "bronze": 19
         },
         "service": "trophy"
+    },
+    "NPWR08537_00": {
+        "npCommunicationId": "NPWR08537_00",
+        "trophyTitleName": "プリンス・オブ・ストライド",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08537_00_00D9185B02242C19E93F74BE3109F963CD98614314/0A26A2718C72041A5390A3F2BF3097BF7E4AC009.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR08538_00": {
+        "npCommunicationId": "NPWR08538_00",
+        "trophyTitleName": "Need for Speed™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08538_00_005BCD0C95E2E5EDAB4E272262983CCE2406A84C56/9E030E907739B174AB95B8B95645FBBDADB659BB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 19,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR08539_00": {
+        "npCommunicationId": "NPWR08539_00",
+        "trophyTitleName": "Skylanders® SuperChargers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08539_00_00DF72B02169A722973F9C11B74E3759D4E1909EB4/338809CD90C11D76459F8FF909995058CB440E31.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR08546_00": {
+        "npCommunicationId": "NPWR08546_00",
+        "trophyTitleName": "Heroes of Loot",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08546_00_009BCDFEE5B24A0DF3E06955121428DD60743C630D/561B9B27B5655809F4F030F47C0CAA52DEAB43E1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR08547_00": {
+        "npCommunicationId": "NPWR08547_00",
+        "trophyTitleName": "人中之龍０　誓約的場所",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08547_00_0037E7DFE2FFC07653DF1A882ECCA2CF340053D199/3115CBEBA1CF662CEC90E452D4CF35F589356FCE.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR08551_00": {
+        "npCommunicationId": "NPWR08551_00",
+        "trophyTitleName": "デート・ア・ライブ Twin Edition 凜緒リンカーネイション",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08551_00_00EC940815AE920A89A069B7962CC9F9A00BB05C75/6BA4276C96C9EBCFF941A69C27008DA81CBF1E5A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR08552_00": {
+        "npCommunicationId": "NPWR08552_00",
+        "trophyTitleName": "忍び、恋うつつ ― 雪月花恋絵巻 ―",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08552_00_00D97005B6BA6E1143D528838E7CF8A51CE8403944/7E81E98863E3FA03819D46DFE1869928133E797D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR08556_00": {
+        "npCommunicationId": "NPWR08556_00",
+        "trophyTitleName": "新装版魔法使いとご主人様～Wizard and The Master～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08556_00_00C4F802B567E8470D525261F169E1CB3DFA50BC1D/407A19456D0678AC8DC9499E9F50527398F155A0.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR08560_00": {
+        "npCommunicationId": "NPWR08560_00",
+        "trophyTitleName": "Tales of Zestiria",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08560_00_001EC013ADF6AF22DB7852E7F469137539C8587909/1D86F8FFE7C86E0428C0686625AC181E7481E504.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR08563_00": {
+        "npCommunicationId": "NPWR08563_00",
+        "trophyTitleName": "Monster Jam",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08563_00_002B3211952B9EB420F8362CBEB5D4E52265B0D9B8/51CCC65F886D21EAD530CD8BFC3816B8555D80AE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 0,
+            "bronze": 22
+        },
+        "service": "trophy"
     }
 }
