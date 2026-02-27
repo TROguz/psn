@@ -86318,5 +86318,135 @@
             "bronze": 18
         },
         "service": "trophy"
+    },
+    "NPWR14200_00": {
+        "npCommunicationId": "NPWR14200_00",
+        "trophyTitleName": "Numantia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14200_00_00E40F877AB799787765F67E665A3A3EFE264395D7/635A13D7E9A530519644B19D2A7E8B6B7AC5BB43.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR14202_00": {
+        "npCommunicationId": "NPWR14202_00",
+        "trophyTitleName": "Wattam",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14202_00_00E084562B3E8245FADC2CE2163EBFB213BBDD1799/5018CF69A3F5ED5C73CC1E718F8D7DAB020DE4C8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR14203_00": {
+        "npCommunicationId": "NPWR14203_00",
+        "trophyTitleName": "League of War: VR Arena",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14203_00_00AE8BF69856E4DE52BE3289D90E23BEEA75FEFB76/443FBEAFC23B4A5DDA8D45158A9B22BF47C0240D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR14204_00": {
+        "npCommunicationId": "NPWR14204_00",
+        "trophyTitleName": "At Sundown",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14204_00_00DDE78375678BF98BB833B1F89AD80813839AC40F/7689A57637C6E389D59B33BA138B59D35064A498.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR14205_00": {
+        "npCommunicationId": "NPWR14205_00",
+        "trophyTitleName": "36 Fragments of Midnight",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14205_00_009F0C0D38EEC0179F9D4E5BA643156594922F3262/52117F9AEA01B859E121DBD719D165066F38D9A1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14206_00": {
+        "npCommunicationId": "NPWR14206_00",
+        "trophyTitleName": "36 Fragments of Midnight",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14206_00_00345C7583ED63372E10498473BE76D16900206F2A/E7D5149D5FF8573DC97A663C58694C38F4BB6A09.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14208_00": {
+        "npCommunicationId": "NPWR14208_00",
+        "trophyTitleName": "ZombieVital DG",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14208_00_001F44C54545B705A5BF4181FFBFF2F80B4BC5FA73/1AB34C6165D23F27536817F6ADA1F5A6BD8AD130.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 4,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR14209_00": {
+        "npCommunicationId": "NPWR14209_00",
+        "trophyTitleName": "Crossout",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14209_00_00335F2B8E5FCDFB01F478C4A337E2380973276FC6/40F9DEA9EAA92F0E37082327917CE1588F7F47AF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR14210_00": {
+        "npCommunicationId": "NPWR14210_00",
+        "trophyTitleName": "Past Cure",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14210_00_00390274702B1EDB8DE6DFF2B678048C170648068C/C6007214341FBAA88384FE1ED049A4CC133401F0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR14211_00": {
+        "npCommunicationId": "NPWR14211_00",
+        "trophyTitleName": "MudRunner",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14211_00_0003A4BC039EF43E6D43B5D0B1470D4931ACA09A52/21A44D67B0425EB9DD500A75D1478D3698A24847.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 58
+        },
+        "service": "trophy"
     }
 }
