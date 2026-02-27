@@ -65128,5 +65128,135 @@
             "bronze": 26
         },
         "service": "trophy"
+    },
+    "NPWR11466_00": {
+        "npCommunicationId": "NPWR11466_00",
+        "trophyTitleName": "Wand of Fortune R2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11466_00_00089139188113FD29288849A788F78EBE4CD106A3/368C098B222782654FFEE29738DC6267662E1467.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR11467_00": {
+        "npCommunicationId": "NPWR11467_00",
+        "trophyTitleName": "The Voice",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11467_00_00D6A1834EF063707FB9EC69FEA4F83B8A9DA05071/757D71D8681409E7E388084572D96BD879680F23.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR11468_00": {
+        "npCommunicationId": "NPWR11468_00",
+        "trophyTitleName": "巫女学校物語～楓編",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11468_00_00AA4DEEA73020E850C47A0C4F3AD390DA6F5959C4/53DF89421743C9B59069B593129E2ED6F81FD784.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR11469_00": {
+        "npCommunicationId": "NPWR11469_00",
+        "trophyTitleName": "TEKKEN 7",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11469_00_00342AB191B0899AC1FF3081CC92525DDA0CEF0F6D/DC6FD69B7FF02E72A30AF7553D5D0DE46E8FC176.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR11470_00": {
+        "npCommunicationId": "NPWR11470_00",
+        "trophyTitleName": "Solus",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11470_00_00D8BA40BADBE9629D10B4C5DD0E18E30D46B15E41/59B29E94910E96A5B7E401A64DD10E36ACCDB771.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR11472_00": {
+        "npCommunicationId": "NPWR11472_00",
+        "trophyTitleName": "迷Q地下去死團",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11472_00_00DB50F2BA2107A84E231A67DAB8B1BB15E6A17545/E18F05575F89A4B115FD9A1602016A855653FFDF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR11474_00": {
+        "npCommunicationId": "NPWR11474_00",
+        "trophyTitleName": "RiME",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11474_00_00527F6C667B1CCF29F046004D690C21E134F3D444/94A73387AE355A3E6CB17A173CEF08B4EEBFB84B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR11476_00": {
+        "npCommunicationId": "NPWR11476_00",
+        "trophyTitleName": "Subject 13",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11476_00_00355373083B990813723535A353684E6939F342BA/55433E138E904F015374E5B85B8DC1729C3025A9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR11477_00": {
+        "npCommunicationId": "NPWR11477_00",
+        "trophyTitleName": "Let's Sing 9 Versión Española",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11477_00_00F81982D93DF03E535E6DC0C30BC3BC3AAB11C9E1/A51D8018BBD541992AD9C89F6F4E5D2D90FC63D7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR11478_00": {
+        "npCommunicationId": "NPWR11478_00",
+        "trophyTitleName": "NOW That's What I Call Sing 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11478_00_00061B12B6A574EDFEC16D5B5444D727CB87C853C2/FD0102136C4D97E57BD0550F626A1E28D07BD7C9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
     }
 }
