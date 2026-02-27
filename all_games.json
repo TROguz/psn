@@ -87748,5 +87748,135 @@
             "bronze": 0
         },
         "service": "trophy"
+    },
+    "NPWR14377_00": {
+        "npCommunicationId": "NPWR14377_00",
+        "trophyTitleName": "Unepic",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14377_00_0058AB77C8BFA085028BF7D1DB0C8BEFBBE10637E9/01D9AE69494EA43797F1586DB03DC7B1D4AE4BB5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 8,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR14378_00": {
+        "npCommunicationId": "NPWR14378_00",
+        "trophyTitleName": "遙かなる時空の中で Ultimate",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14378_00_009C27DB882D358BFEEA40716F4DB639FDC09B867B/6BD01B09FB3D620463FB6A175C6795BF0178D4EC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 24,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR14385_00": {
+        "npCommunicationId": "NPWR14385_00",
+        "trophyTitleName": "Iconoclasts",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14385_00_005BE8AEBF2E405AC06BAAB70FB763FDA027594276/95D314E92F8D2459962C74E57599F56A2D13EBB6.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR14387_00": {
+        "npCommunicationId": "NPWR14387_00",
+        "trophyTitleName": "Schacht",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14387_00_009E1E9944242D48EAFE16F189056340310F4C5A97/BF4E55C373E7401AE89703806E56A460F6B7783B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR14392_00": {
+        "npCommunicationId": "NPWR14392_00",
+        "trophyTitleName": "HIVE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14392_00_0011D147B8142B51904032C5AD45BC0585567FECDE/1EAAE0DEC052EED2F115E88F494003B8E667F3E6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR14394_00": {
+        "npCommunicationId": "NPWR14394_00",
+        "trophyTitleName": "Damascus Gear Operation Osaka",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14394_00_00AF9EFDC6B41A07A17369EF1AB05D17E32AAAF34C/460C8CA4B8C4D0100B3C8C7C74F40006F993F661.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR14395_00": {
+        "npCommunicationId": "NPWR14395_00",
+        "trophyTitleName": "DBMB! Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14395_00_009EFA7604BBB55E3C7FEBDCA5EBE3A3F5F4E57BF3/40F72F82C3F759A7841C1C2B0D899CC41F09C44E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR14396_00": {
+        "npCommunicationId": "NPWR14396_00",
+        "trophyTitleName": "428: Shibuya Scramble",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14396_00_0004C3945F3590FDFC5A185A4C68D3B474530A5CD1/FF7467C075BDD04D0FD569AF29DA6E996F34D093.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR14398_00": {
+        "npCommunicationId": "NPWR14398_00",
+        "trophyTitleName": "Fishing Master",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14398_00_00DA6AE93B38DAA7E72326F78434E8BB504899A842/691639463A1214745FD3CA1C60F139F1EBF0E2B2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR14400_00": {
+        "npCommunicationId": "NPWR14400_00",
+        "trophyTitleName": "北斗が如く",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14400_00_003AE06FE94E9D61C3282C11D570751F038F17F9E2/BB1A7516AA8E9C1E14B19D0360C8E123E4AB84C3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 50
+        },
+        "service": "trophy"
     }
 }
