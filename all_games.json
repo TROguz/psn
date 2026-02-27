@@ -73578,5 +73578,135 @@
             "bronze": 4
         },
         "service": "trophy"
+    },
+    "NPWR12543_00": {
+        "npCommunicationId": "NPWR12543_00",
+        "trophyTitleName": "WonderBoy Returns",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12543_00_007042509AD49FB271CA56F5A820B17427352DAF02/A65F14F036655388215ABC64052F182460121903.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR12545_00": {
+        "npCommunicationId": "NPWR12545_00",
+        "trophyTitleName": "ACA NEOGEO THE KING OF FIGHTERS '95",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12545_00_00B505F30B93AAC1F4FCC2DBA19D8724D1C6129039/C05B4B7C645FF5B0B04C21DB2E94904C4643C60C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12546_00": {
+        "npCommunicationId": "NPWR12546_00",
+        "trophyTitleName": "Raiden V: Director's Cut",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12546_00_00D4B4C8239BD3297B5C347B14211CACBDC701AE79/8D81BD16580CE6523BB4E2CBF6CCD9255CF3213E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR12547_00": {
+        "npCommunicationId": "NPWR12547_00",
+        "trophyTitleName": "ACA NEOGEO METALSLUG 2\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12547_00_0041439C01EAFCC43228C047797DCEEAFB57238318/6C7B703ED158F8301F28A7E960C907FD06A598DB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12548_00": {
+        "npCommunicationId": "NPWR12548_00",
+        "trophyTitleName": "ACA NEOGEO MAGICAL DROP II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12548_00_00761C8E91ADD4FF90E24124BA4C20505B01058333/19C49EC4CD0746196CAB1BEE7F005D9D2227DBA0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12549_00": {
+        "npCommunicationId": "NPWR12549_00",
+        "trophyTitleName": "ACA NEOGEO THE LAST BLADE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12549_00_0019232387DC671CB3C7E1F03DE393DC1755FA90BE/BC4F6B3106E0E8A145EFADFCFE3F7095AEA9A58B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12550_00": {
+        "npCommunicationId": "NPWR12550_00",
+        "trophyTitleName": "ACA NEOGEO FATAL FURY SPECIAL",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12550_00_0012A53957200702CA6C9E7FEA6F836F7C389A4EF7/822DD64B696B03F06383B80557D0666DAB312D94.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12551_00": {
+        "npCommunicationId": "NPWR12551_00",
+        "trophyTitleName": "ACA NEOGEO FATAL FURY 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12551_00_00734E6BAC9848859AD1AB88752EC598AE014EF6C5/82167875C7BFB1DDB76E9BB89833D036B3DD384F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12552_00": {
+        "npCommunicationId": "NPWR12552_00",
+        "trophyTitleName": "ACA NEOGEO WORLD HEROES 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12552_00_004380DE6DE4DD1A9A977521B9F48CBB2ECFDD3AF3/74222A9B30EFA1AFF6C51E4EB11251022A4D66ED.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12553_00": {
+        "npCommunicationId": "NPWR12553_00",
+        "trophyTitleName": "ACA NEOGEO SENGOKU 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12553_00_00AAE03F2574135690EE24F427267CDB832B4B1733/4E53682E953FAFA6C89672A796699C45317B8301.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
     }
 }
