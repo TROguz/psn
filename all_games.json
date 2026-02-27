@@ -79558,5 +79558,135 @@
             "bronze": 3
         },
         "service": "trophy"
+    },
+    "NPWR13291_00": {
+        "npCommunicationId": "NPWR13291_00",
+        "trophyTitleName": "うたの☆プリンスさまっ♪Amazing Aria & Sweet Serenade LOVE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13291_00_00645469A989C81B404401D5E392F721D4F3C6542E/9D12799FD19FC11674F450AFE4770625B7E0C8D1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR13296_00": {
+        "npCommunicationId": "NPWR13296_00",
+        "trophyTitleName": "Danger Zone",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13296_00_003926A7953E2579FE7CCE41FF0C4D9273DE0DF696/97E17A8F4ADF92DEDCCB7393E1DE4484C78E1BE5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR13300_00": {
+        "npCommunicationId": "NPWR13300_00",
+        "trophyTitleName": "Energy Balance",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13300_00_007542D7296CB1D6CADBD6DA194C2E39014DCC6945/E8841D4F968CE57876835CBDE9F339E199BE1555.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR13301_00": {
+        "npCommunicationId": "NPWR13301_00",
+        "trophyTitleName": "Energy Invasion",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13301_00_0075583D113C4FA491A601223E2B3756ECB0859A6D/653AFF174659909D9DE87F581F795BC191270EF3.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR13303_00": {
+        "npCommunicationId": "NPWR13303_00",
+        "trophyTitleName": "DRAGON BALL FighterZ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13303_00_005E3482033946A86FE084989510004F525B9C2DD9/9C5B5BA05A8645EC48172B8A7274DA7AB11C3A91.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR13304_00": {
+        "npCommunicationId": "NPWR13304_00",
+        "trophyTitleName": "Day D Tower Rush",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13304_00_0071FFA0174C0D2508C41D01126C082CFC24824D24/0C3A5F794FA4DC3F22D9221260B7495FFE91EA87.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR13306_00": {
+        "npCommunicationId": "NPWR13306_00",
+        "trophyTitleName": "Fort Defense",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13306_00_00858359462D07F5C5454854891AE55AF8EE683DEA/63127E25C4FD6B4B6603123013A1C3C4B3D23599.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR13307_00": {
+        "npCommunicationId": "NPWR13307_00",
+        "trophyTitleName": "Fort Defense North Menace",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13307_00_00F3729A2808EFF405CB7BC1941CA04128BD2C0991/A63DD6897BAC4CBC4A86342DF78807F1663F78E3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR13309_00": {
+        "npCommunicationId": "NPWR13309_00",
+        "trophyTitleName": "Raw Data",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13309_00_00778D624CB256EAE8ED4F8EDA147791B0C5E93EDC/6C0713355E648B23089C09678B3ADB3259E2CAAC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 16,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR13310_00": {
+        "npCommunicationId": "NPWR13310_00",
+        "trophyTitleName": "XETA",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13310_00_008EA039950BDE3BB7AB7FEAAB8BCA41265B0006CF/7209163A4EB3B1C4CC08E3DE55CB6B809373E2A7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 1,
+            "bronze": 1
+        },
+        "service": "trophy"
     }
 }
