@@ -25998,5 +25998,135 @@
             "bronze": 18
         },
         "service": "trophy"
+    },
+    "NPWR04512_00": {
+        "npCommunicationId": "NPWR04512_00",
+        "trophyTitleName": "プリンセス☆ストライク！",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04512_00_00657156A362299D922F0A998D0AA1C8C4B6E6C0F4/5A24FC19BD3896C8C269A0CC5F33A7039EEEFC87.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 0,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR04514_00": {
+        "npCommunicationId": "NPWR04514_00",
+        "trophyTitleName": "三極姫２～天下覇統・獅志の継承者～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04514_00_00EECB6AC5F9C844140CF966DF6AAFF29416482944/297A0D1358FD03662698AAB93877E1FA6E36E519.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR04516_00": {
+        "npCommunicationId": "NPWR04516_00",
+        "trophyTitleName": "Motorbike Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04516_00_00123D5EC0E45D52884CBD9C6EBF045D438087754D/C2125BAEEABECB032D2FEF360E957035C8EF8AA9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR04518_00": {
+        "npCommunicationId": "NPWR04518_00",
+        "trophyTitleName": "Don Bradman Cricket 14",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04518_00_00EFD9ABB0A2E0F83850573E77C20E29D896D768ED/19DA0DE7E8DF95CF2AB24199B3084F730137E3D5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR04519_00": {
+        "npCommunicationId": "NPWR04519_00",
+        "trophyTitleName": "Men's Room Mayhem",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04519_00_0070F05F20FFA8C1044E59DAC4886B286917CAA089/4667E65882256C50FDF01B03F9BFACCCF824F5C3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR04520_00": {
+        "npCommunicationId": "NPWR04520_00",
+        "trophyTitleName": "Floating Cloud God Saves The Pilgrims In HD!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04520_00_003DEFE9EF0C9C7C13CA17EEF961FEDFA12045D4A9/297544F6F05197EAC7E8B312775BC01C2A463F29.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR04524_00": {
+        "npCommunicationId": "NPWR04524_00",
+        "trophyTitleName": "ビビッドレッド・オペレーション -Hyper Intimate Power- ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04524_00_00A6C317F0D8AA967CA1A8A5AC22DD39B38DF05A6C/BAB3625453AACFE2F2553B8B8803BB38A7D9CE31.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 6,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR04527_00": {
+        "npCommunicationId": "NPWR04527_00",
+        "trophyTitleName": "WATCH_DOGS™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04527_00_001EEDED2736B3E318E71209B0B4915821698DCE53/6C457FB3CE36ABE65A1F0042960C7A5247435AAC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 19,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR04528_00": {
+        "npCommunicationId": "NPWR04528_00",
+        "trophyTitleName": "MotoGP™13",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04528_00_004046ABA052B533D5379188CBE53E330C1246B049/6496168DE7B1D0C78157B906F7AC9D57066FF469.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR04529_00": {
+        "npCommunicationId": "NPWR04529_00",
+        "trophyTitleName": "The Smurfs™ 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04529_00_009EE4D19ED69BADF5CE116ED062D60BD30E19601C/06A6F0EC57380060A421FAF26AD98CA506DEE183.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 19,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
