@@ -56288,5 +56288,135 @@
             "bronze": 9
         },
         "service": "trophy"
+    },
+    "NPWR10167_00": {
+        "npCommunicationId": "NPWR10167_00",
+        "trophyTitleName": "Randal's Monday",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10167_00_00B31317436F3459A1F36A9243442207BF837F21E6/A348B78CF8D2783CCCD494A79AC492FA7D9B0E34.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR10169_00": {
+        "npCommunicationId": "NPWR10169_00",
+        "trophyTitleName": "Shantae: Half-Genie Hero",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10169_00_009C9FADB25F94947BA35B4821FCE9CCABA4C5E650/0F29E20503D7034E3D57C232D09F148A4C67DADD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 20,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR10172_00": {
+        "npCommunicationId": "NPWR10172_00",
+        "trophyTitleName": "女神異聞錄４ 通宵熱舞",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10172_00_00B13780199EF537ECB05F415D9A6B785AE691EFD6/94EACC962CE590F190341987F78436DA6DFFB8EF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR10174_00": {
+        "npCommunicationId": "NPWR10174_00",
+        "trophyTitleName": "オメルタＣＯＤＥ: ＴＹＣＯＯＮ戒",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10174_00_00C41A6109680A6E61DAE1A016D02A23811D5CFF35/51A82F14D0E4B7784EF7FE2D40C5B2600F81C0EE.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR10177_00": {
+        "npCommunicationId": "NPWR10177_00",
+        "trophyTitleName": "どぎめぎインリョクちゃん ラブ＆ピース",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10177_00_0078484A0E4F40241889E8793861CAB7FD6BC97387/5FBD8CE14CBC08933CA68898A398D8F8AC235FDE.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10178_00": {
+        "npCommunicationId": "NPWR10178_00",
+        "trophyTitleName": "Tetraminos",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10178_00_00FC11B86627074023FBCC99DA9DD8C1521558B9CD/002F8635E02ED42A42D3E074FF7C4273AB6195C5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR10182_00": {
+        "npCommunicationId": "NPWR10182_00",
+        "trophyTitleName": "Doodle God",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10182_00_00A68293FF076C0105077902BAA1079F37674DDFD8/4A3BE583A240FCBC33C8BA2DAD5F40CF06773CBE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR10183_00": {
+        "npCommunicationId": "NPWR10183_00",
+        "trophyTitleName": "Doodle Devil Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10183_00_0082972FD1126BF0FE1911E06F3DB4AD05BECCA4DF/8D2D8E586627CAE50E2DEC239002E966879306A9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10184_00": {
+        "npCommunicationId": "NPWR10184_00",
+        "trophyTitleName": "Doodle Kingdom",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10184_00_00E867FB46E50E1449C38E60031EE03D3153DC660B/0385D0AACF99B2C806FB3DD0168B9B0755301627.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR10185_00": {
+        "npCommunicationId": "NPWR10185_00",
+        "trophyTitleName": "Winning Post 8 2016",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10185_00_00E1EFB9BAB14D76BA92F23ED8D9BCBAD521EA348C/9BC761F9CE2FE8873B7F68B35FDE0271EBA027C4.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
     }
 }
