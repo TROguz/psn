@@ -67988,5 +67988,265 @@
             "bronze": 42
         },
         "service": "trophy"
+    },
+    "NPWR11843_00": {
+        "npCommunicationId": "NPWR11843_00",
+        "trophyTitleName": "Operation7 Revolution Trophy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11843_00_009B87BC001954C6A52F4D8D48F21316D657FB6611/F93C37EB4B49EC25AB3290BF9BFD2E4DF6C662F8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 62
+        },
+        "service": "trophy"
+    },
+    "NPWR11845_00": {
+        "npCommunicationId": "NPWR11845_00",
+        "trophyTitleName": "The Assembly",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11845_00_001E199741198446123ADB4704D38E21136E440872/5BEE345EE17DB1A1E1FD5A525B1A26B649F6CE71.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR11848_00": {
+        "npCommunicationId": "NPWR11848_00",
+        "trophyTitleName": "Bears Can't Drift!?",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11848_00_007004BE647E3BF57A5B90DF63345775E46297C4A2/92BFA5F9388A4AA0625408D462EDB95E9BB66942.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 4,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR11851_00": {
+        "npCommunicationId": "NPWR11851_00",
+        "trophyTitleName": "リプキス",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11851_00_000D23EC3A0A89977D4F500D54587582304D6BACDA/7D3CDA827E84FC6089C938F1E24A56F33251EE26.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 4,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR11852_00": {
+        "npCommunicationId": "NPWR11852_00",
+        "trophyTitleName": "Sherlock Holmes: The Devil's Daughter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11852_00_0092DAFFEAD20B192878273F0DA6D2E9DE57886237/40A6A5D974CCEAB6445689BC7C865CB4BCC9CF1A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR11853_00": {
+        "npCommunicationId": "NPWR11853_00",
+        "trophyTitleName": "萌え萌え２次大戦（略）３",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11853_00_00B8BED56B8146B70E327888C1F19380CA0ED639A6/59896A0D9A2D1F30F9CA0DD49B2B64FE86315D63.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR11854_00": {
+        "npCommunicationId": "NPWR11854_00",
+        "trophyTitleName": "萌え萌え２次大戦（略）３",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11854_00_00E7AEFF8CDCDB90EF046B4F74B2948DE583515B10/B59E8C36EB0B3A3D6A4153A193BAD98B275CD416.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR11855_00": {
+        "npCommunicationId": "NPWR11855_00",
+        "trophyTitleName": "Pinball FX2 VR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11855_00_00D51C0FC645E912BEB1FCE4502FDB11EF272C39AE/7A7D2EF021AF20502BC24FC947C7A1D6E2FC9FC1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR11856_00": {
+        "npCommunicationId": "NPWR11856_00",
+        "trophyTitleName": "レイジングループ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11856_00_0004FD7E13DC0687E59B1ABE890A62672EBFBC44D6/CBACD166A067C9F8EE373E042EEAAB5633CB45FE.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 20,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR11858_00": {
+        "npCommunicationId": "NPWR11858_00",
+        "trophyTitleName": "√Letter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11858_00_001040DEC0A179AFADFDC22385F3E0AAFC296CA608/E6E331C9B4758AAA9E7F31973DE3D9579FB1A116.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11862_00": {
+        "npCommunicationId": "NPWR11862_00",
+        "trophyTitleName": "Stardust Galaxy Warriors: Stellar Climax",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11862_00_00928E226433CCECA3B5093E27033F604415C3BCF1/FDFB782DFB9D988063921F028EF54530FF22119C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 7,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR11863_00": {
+        "npCommunicationId": "NPWR11863_00",
+        "trophyTitleName": "Circuit Breakers Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11863_00_00D699BC7F3D8C7B7EEF8715BB15FF7A156733A379/3980F73B70401B683A29783E9392664F37E0D71A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 6,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11864_00": {
+        "npCommunicationId": "NPWR11864_00",
+        "trophyTitleName": "Waddle Home",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11864_00_0059D6D1D8D734E9009524B3F08CD2A3161A8DC041/F43132AF9378044FD2E61ADBAF88DDEEE9F62B6A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11866_00": {
+        "npCommunicationId": "NPWR11866_00",
+        "trophyTitleName": "Persona 5",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11866_00_000EB95B770A10AF09E728F291E77DD56FA7631434/0FFFD099BD9AA2B138C175D6EDB0287A7EB3ED33.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR11867_00": {
+        "npCommunicationId": "NPWR11867_00",
+        "trophyTitleName": "Red Faction",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11867_00_00ED71E149805428925073A1C4BB7EC8A28B80DFAC/4F17308868DEE7AD18CFD6951EE00931B9467BB3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR11868_00": {
+        "npCommunicationId": "NPWR11868_00",
+        "trophyTitleName": "Red Faction II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11868_00_00C274F7C3EB24096F215AB422F4BB53C045DCD2C7/BA85D4CD03F32C62DD5F06E66C415131479BA86F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR11872_00": {
+        "npCommunicationId": "NPWR11872_00",
+        "trophyTitleName": "Slain: Back From Hell",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11872_00_005D6C291206FE6FD005144C5F31BFD2BB0B935951/A36DE9965870384CB3ED4196D121F485C889955B.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR11874_00": {
+        "npCommunicationId": "NPWR11874_00",
+        "trophyTitleName": "MARVEL VS. CAPCOM: INFINITE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11874_00_0037606859525DF1AB207F0915277E09623FC1A685/F8F628054814C987A03F3A3AE109BAC605FE2B38.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR11875_00": {
+        "npCommunicationId": "NPWR11875_00",
+        "trophyTitleName": "Cities: Skylines",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11875_00_006D9C5DE382A112E03F00C0BA21C35930C86EC8BB/E6509DC0F6B2528898C9CD48FCCD805FBCF3A0F5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 34,
+            "bronze": 76
+        },
+        "service": "trophy"
+    },
+    "NPWR11877_00": {
+        "npCommunicationId": "NPWR11877_00",
+        "trophyTitleName": "Stardust Galaxy Warriors: Stellar Climax",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11877_00_00A5D6F0DDAF0B73D411B201C71245BFF26B297758/FB260FCB95EDEF6069BBD7B8338D22A8FEDEA086.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 7,
+            "bronze": 36
+        },
+        "service": "trophy"
     }
 }
