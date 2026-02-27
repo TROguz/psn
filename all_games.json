@@ -22748,5 +22748,135 @@
             "bronze": 42
         },
         "service": "trophy"
+    },
+    "NPWR03907_00": {
+        "npCommunicationId": "NPWR03907_00",
+        "trophyTitleName": "Tom Clancy's Splinter Cell® Blacklist™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03907_00_00BB1BCE4947D44D89F3D57792A06B0371DCFE2528/6F5A8742620403B8AAEFD0B032A2F63835792C19.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR03911_00": {
+        "npCommunicationId": "NPWR03911_00",
+        "trophyTitleName": "RISE OF THE GUARDIANS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03911_00_001CD64BE3AFD2D4B54D2ADA185A965F23CF6A0B13/E57B6BEC583FAFB60C42A460612CF11315B4F613.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR03918_00": {
+        "npCommunicationId": "NPWR03918_00",
+        "trophyTitleName": "Jak and Daxter: The Precursor Legacy™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/65C824B1B579584372D9BAEFE1A9D7BEBA3A6060.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR03919_00": {
+        "npCommunicationId": "NPWR03919_00",
+        "trophyTitleName": "Jak II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03919_00_00FAD9E475E36F3963B7DE7A622F521D2320DC7FC0/49F43A8ACDD99CD3CC9472C23F43BA8047E90D76.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR03920_00": {
+        "npCommunicationId": "NPWR03920_00",
+        "trophyTitleName": "Jak 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03920_00_00F9A442AF63D935B075E9D0FF0168C2CD5EB0598A/6A5EAB875A4E4D035F352D9191FE0DFE6B23529E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR03925_00": {
+        "npCommunicationId": "NPWR03925_00",
+        "trophyTitleName": "Present for you",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03925_00_00D2B3B9B471B166BEFA2F39803B699F54025F93A4/0516126187BBBBD865C225F44C9D32D214C68A17.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR03927_00": {
+        "npCommunicationId": "NPWR03927_00",
+        "trophyTitleName": "ネクレボ 介護福祉士試験",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03927_00_00B612B407659155A98D492F259B9F97B80F2C3E09/34128067F2A560A0B2C223A2344B753C9F2026EA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR03930_00": {
+        "npCommunicationId": "NPWR03930_00",
+        "trophyTitleName": "Virtue's Last Reward",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/02F269531063327065F02126F1CCA30F0DCDDDED.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR03931_00": {
+        "npCommunicationId": "NPWR03931_00",
+        "trophyTitleName": "Adam's Venture: Chronicles",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03931_00_0097F79C1B692ECF371F5B3D9EA97710DA72DACCA9/012CE07E8D9C85A63E135A312025EED4459C891D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR03932_00": {
+        "npCommunicationId": "NPWR03932_00",
+        "trophyTitleName": "Sacred Citadel",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03932_00_00304DE7D7AEC066BFC7D8B8E88A843E1E796DA623/4F616710C6DB77ECF9F0C0B0991CEB0D295F5595.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 8
+        },
+        "service": "trophy"
     }
 }
