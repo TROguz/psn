@@ -80078,5 +80078,135 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR13349_00": {
+        "npCommunicationId": "NPWR13349_00",
+        "trophyTitleName": "Mr. Shifty",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13349_00_009825A5D94DB770D69C8697A90EAEC1B7CA595FDE/C2C147FABA79A50CD20F27CCA5DBA1BA59E365DD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR13350_00": {
+        "npCommunicationId": "NPWR13350_00",
+        "trophyTitleName": "BURIED STARS Trophies\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13350_00_006C38BC14C95C1706605F78A7B899DF4AD70F3212/23735765EDF2556C24C8A2778A8D4021CF50BA49.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 18,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR13352_00": {
+        "npCommunicationId": "NPWR13352_00",
+        "trophyTitleName": "BURIED STARS Trophies\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13352_00_004D4604F96A5279F50DE2AD30CCDC8A4266436270/0733762876E7A42FA04A7206D908104E880D92C8.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 18,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR13353_00": {
+        "npCommunicationId": "NPWR13353_00",
+        "trophyTitleName": "Mulaka Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13353_00_001C963A8B58D5658C314E4A1EABE9CD75A215A55C/71F736377C05DDC791A830D4BC3975C410612567.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13354_00": {
+        "npCommunicationId": "NPWR13354_00",
+        "trophyTitleName": "Life is Strange: Before the Storm",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13354_00_00A381C4CD43B1C0C316597E9B59F8A4AFF55EF018/20410E91FCB5A22B12C588FCD7F217A36271FD1A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR13356_00": {
+        "npCommunicationId": "NPWR13356_00",
+        "trophyTitleName": "Paddle vs Paddle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13356_00_003A3954F6CB762BB0504648FAF80453443A8A0F57/E2F30090A6D245996AE0A0A207D4AD116111A61F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 1,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13359_00": {
+        "npCommunicationId": "NPWR13359_00",
+        "trophyTitleName": "ICEY",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13359_00_005DDB2BF07A40B31A28F9F6B7F63D4219E2BA4910/69DA2CE277C813B556DD53156F1DECC861E6B04D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR13360_00": {
+        "npCommunicationId": "NPWR13360_00",
+        "trophyTitleName": "WRC 7",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13360_00_00B9D1A8623208EEA3EE4573A2D534397E925AA3F3/46C74B2C0FA46B9FD6E64A1B40A9A6A7D9844AC5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR13363_00": {
+        "npCommunicationId": "NPWR13363_00",
+        "trophyTitleName": "Pyre",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13363_00_00C9BA0C40AEF377A1716CB7C33CB9D995B2346A50/602A94145FDC9EC41183A52B4389AF21519FA992.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR13364_00": {
+        "npCommunicationId": "NPWR13364_00",
+        "trophyTitleName": "Save the Ninja Clan",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13364_00_00AB45115025AA7C1F1D73EDD440CCBAA04859A889/E7614915F4AE083CA6A5A449CCDCB3282209B543.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 14
+        },
+        "service": "trophy"
     }
 }
