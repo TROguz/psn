@@ -88268,5 +88268,135 @@
             "bronze": 5
         },
         "service": "trophy"
+    },
+    "NPWR14458_00": {
+        "npCommunicationId": "NPWR14458_00",
+        "trophyTitleName": "あなたの四騎姫教導譚",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14458_00_009D061E2B85043FD7DFFDFB6810A872D6B08F7E2D/E9CC8769220226EA4262D76706793AE8D77CFBA4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR14460_00": {
+        "npCommunicationId": "NPWR14460_00",
+        "trophyTitleName": "Firefighters: Plant Fire Department",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14460_00_00DA6ECA6C1502E7DDE36ACDC66BF1BAFE21A61C32/6A6E58A806C3EA8B3931E4D39FD198D3E5965379.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR14461_00": {
+        "npCommunicationId": "NPWR14461_00",
+        "trophyTitleName": "ACA NEOGEO THE KING OF FIGHTERS '97",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14461_00_0097CFEF814FDD9B43244CF6AF6B98DEF3C08F430B/B4B2EA08C273E16A08DC04213B97F95AAA9192F6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14463_00": {
+        "npCommunicationId": "NPWR14463_00",
+        "trophyTitleName": "ACA NEOGEO WORLD HEROES 2 JET",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14463_00_00A9B8D78940CEC6AD167FE17AB68E61D8409B7415/0BEF6C12DECC134F8A56F3D57920BF4F2F807ACF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14464_00": {
+        "npCommunicationId": "NPWR14464_00",
+        "trophyTitleName": "ACA NEOGEO TOP HUNTER RODDY & CATHY",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14464_00_005AFD58F8EC5289C653162F0219E6BB1CC51D5FAF/8BE2C9A67162042C1A01F678FDB7B5432D4D7696.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14465_00": {
+        "npCommunicationId": "NPWR14465_00",
+        "trophyTitleName": "ACA NEOGEO REAL BOUT FATAL FURY SPECIAL",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14465_00_00794EFAB9FA1E687698D4F51BEDD8E41AD8D9DB84/6DB64554BDC26670B3BE29B5E2A2F38C03DE63FE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14466_00": {
+        "npCommunicationId": "NPWR14466_00",
+        "trophyTitleName": "Labyrinth of Refrain: Coven of Dusk",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14466_00_000E54F2B97C60D3ABEDD2C3A0FB8D5ACB979591DD/A5ADBC17E14DFF7A0666D9B6B2689E6C75AA7FB7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 53
+        },
+        "service": "trophy"
+    },
+    "NPWR14467_00": {
+        "npCommunicationId": "NPWR14467_00",
+        "trophyTitleName": "CubeWorks",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14467_00_0013F172354F98AE61D7261D452C77E461C779D177/74548916BD7744A15411CB69391B72FE1A9194BE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR14470_00": {
+        "npCommunicationId": "NPWR14470_00",
+        "trophyTitleName": "Schlag den Star",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14470_00_00E26AD3DECB160D090EC36D9FA2131E26028DB72C/FB61445568DE41D2FF4B7AC1D8B0E4552CBAD64F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 25,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14471_00": {
+        "npCommunicationId": "NPWR14471_00",
+        "trophyTitleName": "Knights of Valour",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14471_00_00E79270037771EB7C8D4FFA22357FEEF250787E30/3BD98FD75C4384EEC591C0494F68C8ABDD0DE025.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
