@@ -70328,5 +70328,135 @@
             "bronze": 9
         },
         "service": "trophy"
+    },
+    "NPWR12134_00": {
+        "npCommunicationId": "NPWR12134_00",
+        "trophyTitleName": "Cursed Castilla (Maldita Castilla EX)",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12134_00_002B9CB1B75B0ECADAB2EFB3D9629C1E7E8C38CF34/6F4AD220F799F1FEBE7A8EB789CC5031548E6FF5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12135_00": {
+        "npCommunicationId": "NPWR12135_00",
+        "trophyTitleName": "ACA NEOGEO METAL SLUG",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12135_00_00B8C4C66A402859DA63A8582C04DA3D5BCFEA433F/3C40F77547C08795F7B81217C4C6CCFEAE7B4A92.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12136_00": {
+        "npCommunicationId": "NPWR12136_00",
+        "trophyTitleName": "ACA NEOGEO SAMURAI SHODOWN",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12136_00_00FDEDC8CC7BFC3D2E9B2C8206E06DA845C1AE3401/F929E8581BC97324A184E0E0DEA3EDA7708249CC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12137_00": {
+        "npCommunicationId": "NPWR12137_00",
+        "trophyTitleName": "ACA NEOGEO GALAXY FIGHT: UNIVERSAL WARRIORS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12137_00_004A4513A629B9783221C6805DEED000F4F247C5CC/76F8EE4B3CAA3F6058D3FEB35372B37017B2FB52.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12138_00": {
+        "npCommunicationId": "NPWR12138_00",
+        "trophyTitleName": "LEGO® CITY UNDERCOVER",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12138_00_00C375D08F1CE505512CE1FAA688DE3B1D17E73E13/4D7037C55DE6F3553D81EC5023681596E9F1D39F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR12142_00": {
+        "npCommunicationId": "NPWR12142_00",
+        "trophyTitleName": "Pinball Arcade",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12142_00_00CE0FAEE371589C6F4F43926266D8808E0D3E0707/836AD3BB12430F9BA65E99A3760C1777FA26EADF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12145_00": {
+        "npCommunicationId": "NPWR12145_00",
+        "trophyTitleName": "Ace Banana",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12145_00_00313706EEF7EE00BA6CEC8040DBADFBF9D22939DB/B27CB160B018F7F9F9AF3C6CB3DB00207F92B747.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR12146_00": {
+        "npCommunicationId": "NPWR12146_00",
+        "trophyTitleName": "Ace Banana",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12146_00_00015C266D44AA025BE232552D755163A51D15F8B7/558BBAC2F438CB364877A96410A48A18275DCACC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR12147_00": {
+        "npCommunicationId": "NPWR12147_00",
+        "trophyTitleName": "Royal Defense",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12147_00_008C7E8185A3B723A25ECA025E5D5B2DF7BD9642AB/4C26258F3A5312C68CE52E7E555E85AB63A4FA4A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR12148_00": {
+        "npCommunicationId": "NPWR12148_00",
+        "trophyTitleName": "Crystal Rift Trophies\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12148_00_007865B5F36A2F5DD3BFFE2F327F7CBAC0A09B5A82/C3369719BAD6ABF80D711D894B4ED34705CDB945.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 3,
+            "bronze": 33
+        },
+        "service": "trophy"
     }
 }
