@@ -39518,5 +39518,135 @@
             "bronze": 30
         },
         "service": "trophy"
+    },
+    "NPWR07443_00": {
+        "npCommunicationId": "NPWR07443_00",
+        "trophyTitleName": "現代大戦略2016～秩序の崩壊・覇権国家失墜～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07443_00_004EF6CC5DF26787C36649F348325C89CCD8FA6397/77A1B21B55B0FCBD9BF810B6EB43342F9CF6502B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR07444_00": {
+        "npCommunicationId": "NPWR07444_00",
+        "trophyTitleName": "大戦略エクシード２",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07444_00_00C5B2EF5E41E122655E4D1B35C5EA70AC6AD684BA/5691F32A91356178121042E2C2D286E4E9A621BC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR07445_00": {
+        "npCommunicationId": "NPWR07445_00",
+        "trophyTitleName": "大戦略エクシード２",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07445_00_00EE98497D680699B2395E09EAC46D4A995E3D2060/70882AC1864A8498BE6F08187F6BB60D4966B8C6.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR07446_00": {
+        "npCommunicationId": "NPWR07446_00",
+        "trophyTitleName": "憂世ノ志士",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07446_00_001CBC98D3CD1526CD293220DD3977667BAA284D6C/BA284DB5FEBBA92116CB49C6976AA7905FE41997.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR07447_00": {
+        "npCommunicationId": "NPWR07447_00",
+        "trophyTitleName": "DIABOLIK LOVERS VANDEAD CARNIVAL",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07447_00_002881679E575CDA101B65A25353104C94CF912A6C/902819DFA16C9F9E1F021CF326EC75F242DF0581.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 20,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR07449_00": {
+        "npCommunicationId": "NPWR07449_00",
+        "trophyTitleName": "Deadman's Cross",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07449_00_0080652B30CFE2637AAB85244AB6A756220C95A9F7/DC9142354F909EF19FFF7EBF05DBAA1274E8C71A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR07450_00": {
+        "npCommunicationId": "NPWR07450_00",
+        "trophyTitleName": "プロ野球スピリッツ2015",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07450_00_00EA486E4B1E647E01520FF9E9214CD0A5C52777AD/CDABE1EADD68E93B9171858970FB51553F07D38B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 17,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR07451_00": {
+        "npCommunicationId": "NPWR07451_00",
+        "trophyTitleName": "プロ野球スピリッツ2015",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07451_00_00296380787E5BAE4361FB72E9C3B290D56FEEAB84/9EA4A776D1B9F4040140D0BD4E7679917DB2493F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 17,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR07463_00": {
+        "npCommunicationId": "NPWR07463_00",
+        "trophyTitleName": "MonsterBag",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07463_00_00AFE0C71891AE9DAD535576B968C0C8F4819CC9B5/6B92BE2E7823AEBAE3E2784F10CB99800856BFFA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR07465_00": {
+        "npCommunicationId": "NPWR07465_00",
+        "trophyTitleName": "Shiftlings",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07465_00_00713981EF32BAE5B6FA2609EA3BF2B4D2D8ACD708/AD0D160BBC78DD3B40FF0F17E930DBA87E24F54B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
