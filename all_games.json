@@ -34318,5 +34318,135 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR06318_00": {
+        "npCommunicationId": "NPWR06318_00",
+        "trophyTitleName": "The Witness",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06318_00_000670AD6BE430E8F4881EE0A6CD9507BC91B7DD78/B654F0D41C9510D2F8082E07B11BD876E5D7CAA4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 2,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR06319_00": {
+        "npCommunicationId": "NPWR06319_00",
+        "trophyTitleName": "信長之野望･創造",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06319_00_000E80B495416B1FD71931AA61684420F5D293F2E6/E4C0BB7F4C0913FB24F22816387C05AE7A260229.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 20,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR06320_00": {
+        "npCommunicationId": "NPWR06320_00",
+        "trophyTitleName": "信長之野望･創造",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06320_00_000BF3D0CC85AEE53021BCD3B4C3C3842C865F3A00/7DDCF92C864041B51D06BDF9711AF952D0D958D7.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 20,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR06323_00": {
+        "npCommunicationId": "NPWR06323_00",
+        "trophyTitleName": "解放少女 SIN",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06323_00_00FCEA78309EE94855DD9E6D9424AEB25BB50B5D5A/2F69D87F40F5B94703B21897CF309F7049C4E73B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR06324_00": {
+        "npCommunicationId": "NPWR06324_00",
+        "trophyTitleName": "英雄＊戦姫",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06324_00_00B83E7E01C607988C0B89775888873B9E74D81642/9E56981994F4E48C78D7AA16400C8294D2674C67.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 5,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR06325_00": {
+        "npCommunicationId": "NPWR06325_00",
+        "trophyTitleName": "STEINS;GATE 선형구속의 페노그램",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06325_00_00CFD7FD80F0E75E64556517C211AE6706B503DE1E/0E2044E571278659B3E7F103872A5558E5D323AD.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR06335_00": {
+        "npCommunicationId": "NPWR06335_00",
+        "trophyTitleName": "Dead Nation™ -黙示録- ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06335_00_00DC529C98467E92EEA7B72DD653DB90E92106CD40/8233D083AE6971E4FD5FCECA345F5E288202C931.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR06343_00": {
+        "npCommunicationId": "NPWR06343_00",
+        "trophyTitleName": "Doodle Kingdom",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06343_00_0004BB83AFA5DBAF94417203BCEACB998182081F07/3C447DD0EE28F14418BE59EE43A0355CCABE7BD0.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR06349_00": {
+        "npCommunicationId": "NPWR06349_00",
+        "trophyTitleName": "Tiny Troopers Joint Ops",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06349_00_00010C4EF7B021CF1DF2EACCC38831991064302D66/7D735647E3826A7F4D94D7A8A24E8F9236978F0B.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 4,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR06360_00": {
+        "npCommunicationId": "NPWR06360_00",
+        "trophyTitleName": "Madden NFL 15",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06360_00_00A863F0A1750D03A367997822C42B5BC9E0256705/6519412449353FB9ED502A5530B33074114BDCF5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 25
+        },
+        "service": "trophy"
     }
 }
