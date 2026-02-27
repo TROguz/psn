@@ -51998,5 +51998,135 @@
             "bronze": 42
         },
         "service": "trophy"
+    },
+    "NPWR09498_00": {
+        "npCommunicationId": "NPWR09498_00",
+        "trophyTitleName": "Zero Time Dilemma",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09498_00_002F79302D9EC3FE49EDB25EF63619D7EDBACD672D/D90AC3EACF2E8D645C66A1019EE0F5D97B4D4A96.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR09499_00": {
+        "npCommunicationId": "NPWR09499_00",
+        "trophyTitleName": "Alekhine's Gun",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09499_00_00682926DD5C42602A336932F9D0A7A62AC3CDE3EB/E1F3AC3328195C8BAB567C4113662A0218A5D1A4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR09500_00": {
+        "npCommunicationId": "NPWR09500_00",
+        "trophyTitleName": "Lichdom: Battlemage",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09500_00_00A229148E6190DF1D55847AB9D9C59C36F4139D70/72A02C195C7552890475FBDA048DA63725C1E47C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR09502_00": {
+        "npCommunicationId": "NPWR09502_00",
+        "trophyTitleName": "Dead Star™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09502_00_00094EEEE0CE972336F271B853CBA86A8F277C6171/CD8DF9BA9F6FBA11A2A70AC13B0CCA6672428595.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR09508_00": {
+        "npCommunicationId": "NPWR09508_00",
+        "trophyTitleName": "Super Blackout",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09508_00_0022041DD99EA05B70946CD6A6DD3221F8C50BBC6D/7EE59AB8D97532139A9732F25FD129BCFD1828B5.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR09509_00": {
+        "npCommunicationId": "NPWR09509_00",
+        "trophyTitleName": "Seasons after Fall",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09509_00_00CE144CD8A1E98C962C5354159AF4467399CA266A/2956FD2DFB6E321EB12BF17B3A4B8E72B19A9629.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 15,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR09510_00": {
+        "npCommunicationId": "NPWR09510_00",
+        "trophyTitleName": "Guns, Gore and Cannoli",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09510_00_00BB444E010D01F28F108EDD4A48BA5A88C986646B/97B96C31587C5A9CC073693DC8756FB867BF3A95.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR09513_00": {
+        "npCommunicationId": "NPWR09513_00",
+        "trophyTitleName": "Max Payne",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09513_00_006CBE31E9B4E739EC1A5BE2D92608DACBB3FF9639/E08BA00A5A9809956EB1EAC734A9EB52C7FACDBB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR09515_00": {
+        "npCommunicationId": "NPWR09515_00",
+        "trophyTitleName": "Bully",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09515_00_00E33734D05DD6034D4FB19A34C0CEFB1AD883A95E/83DD2786C76D3C2F50596F887230BBFA1B2E58BB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR09518_00": {
+        "npCommunicationId": "NPWR09518_00",
+        "trophyTitleName": "Manhunt",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09518_00_00CD64EF1570EF7774778E5D7A6F972C8B9263DE68/06C2DE7F3A7DAB26A4AF432B2DAF9DB200D80F4D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 16
+        },
+        "service": "trophy"
     }
 }
