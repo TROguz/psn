@@ -53818,5 +53818,135 @@
             "bronze": 9
         },
         "service": "trophy"
+    },
+    "NPWR09787_00": {
+        "npCommunicationId": "NPWR09787_00",
+        "trophyTitleName": "Handball 16",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09787_00_00034176656059E5AF89A665A5CBFBC25B8C713287/940ECE001251EC2891A2846E09C4F2C038FE3583.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR09789_00": {
+        "npCommunicationId": "NPWR09789_00",
+        "trophyTitleName": "마녀와 백기병 Revival",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09789_00_002C6CC8DABD0DC9B46B60887AB9CE438DE434306D/55A9F6A5BEC4E686FCEEE5C437C30ED4CD9D36CE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR09790_00": {
+        "npCommunicationId": "NPWR09790_00",
+        "trophyTitleName": "STAR OCEAN Second Evolution",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09790_00_001AB5663EEA132F6FE83C5FBF01C7D1CF6B701292/E8C0871A5FA66D643E5B7FC3708609D8C89BF2E9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR09792_00": {
+        "npCommunicationId": "NPWR09792_00",
+        "trophyTitleName": "スカーレッドライダーゼクス Rev.",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09792_00_00E060A01517AE50EC1F456381E584180645257C1D/AA6B35A86886F2F91841A1BA3AA0346F237634D0.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 29,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR09793_00": {
+        "npCommunicationId": "NPWR09793_00",
+        "trophyTitleName": "FLOWERS夏篇",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09793_00_009C8875242CA583BC5DFB8A59607CFE8B404FCD99/BA43AF69B7CEEC869ECD54AFD7589777029A168E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 6,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR09796_00": {
+        "npCommunicationId": "NPWR09796_00",
+        "trophyTitleName": "Blues and Bullets",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09796_00_00603EA245A2EAF27161479B1EFC719413CA24CD11/F6044B61550A5CCD14DDAD986B5236C89C7C69D1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 6,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR09798_00": {
+        "npCommunicationId": "NPWR09798_00",
+        "trophyTitleName": "Uncharted: Drake’s Fortune™ Remastered",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09798_00_0004C451BA0D520B43DBB2C20D0EB0B47AEEB9FEAF/B4203E044C57963E48475359B3DF9E0C5E3885FC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR09799_00": {
+        "npCommunicationId": "NPWR09799_00",
+        "trophyTitleName": "Uncharted 2: Among Thieves™ Remastered",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09799_00_0009FFAF42CF52FE5336A7C64CF4E1C0ECC1AE2D98/24B608015A2419B349F0D9A29C439C6AA7FD63A7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR09801_00": {
+        "npCommunicationId": "NPWR09801_00",
+        "trophyTitleName": "Uncharted 3: Drake’s Deception™ Remastered",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09801_00_0003DB32F8F3DD21C49BEFE52FE4341AC768FEC122/A66289B0C7CFF0FF4C2FB3B6E6D23BDA03D90A38.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 49
+        },
+        "service": "trophy"
+    },
+    "NPWR09802_00": {
+        "npCommunicationId": "NPWR09802_00",
+        "trophyTitleName": "절대절망소녀 단간론파 Another Episode",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09802_00_00152DD7F1E28EC5F886BA6609E91B3D0AC2A28182/33DA2C320FFCFF48A9188E0FF2853DDA6931D7F7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 21
+        },
+        "service": "trophy"
     }
 }
