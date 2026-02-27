@@ -27428,5 +27428,135 @@
             "bronze": 19
         },
         "service": "trophy"
+    },
+    "NPWR04828_00": {
+        "npCommunicationId": "NPWR04828_00",
+        "trophyTitleName": "グリザイアの果実 -LE FRUIT DE LA GRISAIA-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04828_00_00DF07E00E32FBA15A1C0B37D73CB74A4A32A29749/FCA11BAA66F990E33E45C24D52AB9E39FD22220D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 6,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR04835_00": {
+        "npCommunicationId": "NPWR04835_00",
+        "trophyTitleName": "VOODOO CHRONICLES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04835_00_00B2BB390E1934BB7EBDAF78641051E92C1124A20C/896C66F4FAE3CF05462B651D4CED8862A48FA8E3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR04836_00": {
+        "npCommunicationId": "NPWR04836_00",
+        "trophyTitleName": "家族計画 Re:紡ぐ糸",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04836_00_008ED8878A775E3F73FC08A458784AB5B9CC56DC0C/042F5094D2182240A208AC622070888CE440722F.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 6,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR04837_00": {
+        "npCommunicationId": "NPWR04837_00",
+        "trophyTitleName": "無双OROCHI２ Ultimate",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04837_00_0037318F771767E64DC482F033FBE451981322AA1A/504A5D0AA826616FEC73FD621368BA7E8C567DEF.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR04839_00": {
+        "npCommunicationId": "NPWR04839_00",
+        "trophyTitleName": "Doodle God",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04839_00_000BAA40FC75154578779D7BF4E09E87693DBF07F8/812417927161169C9725F8298D06EB89C8C61961.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR04841_00": {
+        "npCommunicationId": "NPWR04841_00",
+        "trophyTitleName": "Assassin's Creed® IV Black Flag",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04841_00_000EE7F1FDF43739F6E655FA7E2D6B5D0D90B5587B/8D69C536E4254E784DF3075F4EBE7A3C366A05A6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 18,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR04847_00": {
+        "npCommunicationId": "NPWR04847_00",
+        "trophyTitleName": "Dragon Ball Z: Battle of Z",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04847_00_005249020433294CC292445B8FFAADED4787914454/3D789049046A4DF8E05F75544BF15B4C642647B6.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR04849_00": {
+        "npCommunicationId": "NPWR04849_00",
+        "trophyTitleName": "PixelJunk™ Monsters Ultimate HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04849_00_001408C8EB6A9C80F304968235A9EC1324481CC839/1EB7092AE508BA2CFFC274C29C393C70E8C2BA3E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR04858_00": {
+        "npCommunicationId": "NPWR04858_00",
+        "trophyTitleName": "三國志12 with パワーアップキット",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04858_00_0087AD6FF01F0EA3A51FA774CB3F9A04ABE52005E5/1E01D348AC232CD862364C8137624DBFEC69E231.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR04860_00": {
+        "npCommunicationId": "NPWR04860_00",
+        "trophyTitleName": "月極蘭子のいちばん長い日",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04860_00_007C12D63675564C3E7B07616E705C4A7000AA6D60/7EC32752EC500CE99300617565C65A32FD12ED15.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
