@@ -79818,5 +79818,135 @@
             "bronze": 0
         },
         "service": "trophy"
+    },
+    "NPWR13324_00": {
+        "npCommunicationId": "NPWR13324_00",
+        "trophyTitleName": "Lithium",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13324_00_00B68F6DAD669992E1B71229C1198912ECA8919B20/901D6B28B92CB178E6CBDF68F50F4BBAF7B5026D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13325_00": {
+        "npCommunicationId": "NPWR13325_00",
+        "trophyTitleName": "Rogue Trooper Redux",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13325_00_0072A4642FD484F9A7687E900A56B39F0796F529A8/9CC5DE57672ECCBDB3A5278C217B3D5E003C4225.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR13327_00": {
+        "npCommunicationId": "NPWR13327_00",
+        "trophyTitleName": "Portal Knights",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13327_00_00A32672CFAED0828BF1F9111858FF1FD9739380D0/E78A26027F673D9B8F70877EF866315F2AD581CD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR13328_00": {
+        "npCommunicationId": "NPWR13328_00",
+        "trophyTitleName": "Dick Wilde Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13328_00_00339D8F70D6E61B1E76117B7C489F442A7C1C27FD/2F9D9B8A7C8FC3F410DB88EC683EB483F124379D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR13329_00": {
+        "npCommunicationId": "NPWR13329_00",
+        "trophyTitleName": "Dick Wilde Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13329_00_00685AF38D677E275B212CAD40D9B5BC1F1DA079DC/0159B705AD7ACDC0E7CC463B31466C35391AFF9B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR13330_00": {
+        "npCommunicationId": "NPWR13330_00",
+        "trophyTitleName": "Doom & Destiny",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13330_00_0096E8C64EF8968ADA356D9DCF82ABB860CA09F249/CF9A7303F643000647B6E1D77A2C3C995E21BC01.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 6,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR13331_00": {
+        "npCommunicationId": "NPWR13331_00",
+        "trophyTitleName": "Redout Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13331_00_00D56540A11CB01623E7837D429281ABD9EABC86B6/8070188667AE62BFD4A3C8E3AE501BAD363E2A5B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 16,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR13332_00": {
+        "npCommunicationId": "NPWR13332_00",
+        "trophyTitleName": "JYDGE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13332_00_002626F88B64ABEDB58C94E706C61F85A539D23641/5E4C3D076FF1330A2C204A65ED2FDBA3C2125349.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR13333_00": {
+        "npCommunicationId": "NPWR13333_00",
+        "trophyTitleName": "StarDrone",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13333_00_001EACC872F348B0019A41BC0F755CE2D829213D79/4DDCD84DD9FEE471A676382F87F6CA7B6E011171.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR13334_00": {
+        "npCommunicationId": "NPWR13334_00",
+        "trophyTitleName": "Cat Interstellar",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13334_00_00386539F33DA87A8E7CE4CB00E36BD9C081D81771/059B7BF360BB9542477A795F4138841528E174D2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 9
+        },
+        "service": "trophy"
     }
 }
