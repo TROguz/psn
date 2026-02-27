@@ -54598,5 +54598,135 @@
             "bronze": 17
         },
         "service": "trophy"
+    },
+    "NPWR09918_00": {
+        "npCommunicationId": "NPWR09918_00",
+        "trophyTitleName": "Actual Sunlight",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09918_00_0022AD78E4FF746286F5F2DB05ED8BC7A838B3C8BA/5F052FC8025868C4ECD2756082DD8B1FA330076E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09921_00": {
+        "npCommunicationId": "NPWR09921_00",
+        "trophyTitleName": "Gran Turismo Sport",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09921_00_003EE781881CD253436F47B136654659336BAE8773/0DC2B0C04F0A7204D2FCFD4ECFF20B7E65FD2B41.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 4,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR09922_00": {
+        "npCommunicationId": "NPWR09922_00",
+        "trophyTitleName": "大戦略パーフェクト～戦場の覇者～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09922_00_001CCB13D9DAF757F8245176820DC6B5F63265A0DB/7FE9C554476CE0DAE75A07FFA3DC8E8C2149590E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR09923_00": {
+        "npCommunicationId": "NPWR09923_00",
+        "trophyTitleName": "Dead Island: Riptide - Definitive Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09923_00_003BF615DC40A7E9192A422096F882F161330FCEA1/F185B676DD47FE9E4D4F241895A0D93410E73078.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR09925_00": {
+        "npCommunicationId": "NPWR09925_00",
+        "trophyTitleName": "大戦略　大東亜興亡史３トロフィーセット",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09925_00_00A132CBF328F708E648EB6E952882CD52D3774E84/338D924D7C06A5AC8441F97E3B801378CC5A3B75.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR09928_00": {
+        "npCommunicationId": "NPWR09928_00",
+        "trophyTitleName": "1001 Spikes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09928_00_008F97C28D9E4A37E30BE4E7BC41916A8015CEE3FC/A733E04A7D11D58CF5E652F07927132141340E68.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR09930_00": {
+        "npCommunicationId": "NPWR09930_00",
+        "trophyTitleName": "龍が如く 極",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09930_00_001D0F66CF810876D7CD42EDB4A31BF800F787230C/E1DB4D8D09E26F6A90B38591E10F64E957354750.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR09933_00": {
+        "npCommunicationId": "NPWR09933_00",
+        "trophyTitleName": "ニル・アドミラリの天秤 帝都幻惑綺譚",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09933_00_00D617947F9E297E1E03F7A34469253AF5C2470237/0D85D58E7E907DE32DFF6B230DC9CEE750A017C9.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 6,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR09935_00": {
+        "npCommunicationId": "NPWR09935_00",
+        "trophyTitleName": "STORM LOVER V",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09935_00_0043225474DDB46EFF5924392D4670680A4808D34D/31AD0B5FEF6C66426C748F573D3C575C94D239FB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 1,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR09936_00": {
+        "npCommunicationId": "NPWR09936_00",
+        "trophyTitleName": "STORM LOVER 2nd V",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09936_00_006F86EDBE2BE82088B5700B21CEC36629570E8132/5317E3CFA6AC9C082AC09B08EEBAB9C555740C0C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 6,
+            "bronze": 18
+        },
+        "service": "trophy"
     }
 }
