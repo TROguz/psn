@@ -36398,5 +36398,135 @@
             "bronze": 14
         },
         "service": "trophy"
+    },
+    "NPWR06788_00": {
+        "npCommunicationId": "NPWR06788_00",
+        "trophyTitleName": "Rocksmith 2014",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06788_00_00D21D4114FC53826B6A219E7BE3D5AF3B54964019/29FC4FA2353222B830350526D0F9F08AF3B19122.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR06789_00": {
+        "npCommunicationId": "NPWR06789_00",
+        "trophyTitleName": "The Unfinished Swan",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06789_00_00EFD2366D04B775FD8A634973973ECA89F7321736/DC341611CA85BA20D76162229398A5D6FBA6890D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR06790_00": {
+        "npCommunicationId": "NPWR06790_00",
+        "trophyTitleName": "The Unfinished Swan",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06790_00_008B3A78AEFC69937EC2448697521DC6FA2A908E39/2E17A6C2159CFC6D8B6B2D7315F57D0B4715EBDB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR06803_00": {
+        "npCommunicationId": "NPWR06803_00",
+        "trophyTitleName": "Chariot",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06803_00_0064849615F4F84AB6D9DAA732EAC3AC66ACB69E69/8476790B375CEB28306DBCA907498DECDAF6409B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 22,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR06804_00": {
+        "npCommunicationId": "NPWR06804_00",
+        "trophyTitleName": "Far Cry® 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06804_00_005C2762EFFDB94D064BDC04050E138FA17EA07031/CE09536EAAD560DCB1E0E12618C46AA185B28A2F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR06808_00": {
+        "npCommunicationId": "NPWR06808_00",
+        "trophyTitleName": "Peggle 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06808_00_004F9C3CDAA565DFE8D0ABAE650F20B6E579C84420/CAD91873B380B51F5018F742321EE9615C097103.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 22,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR06810_00": {
+        "npCommunicationId": "NPWR06810_00",
+        "trophyTitleName": "Söldner-X 2: Final Prototype",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06810_00_007DD7D39D060BE62C3EBD2B02DA573691EF0810D7/3DAD78FBA908B4D552A2A493467DAC9958AB230E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR06812_00": {
+        "npCommunicationId": "NPWR06812_00",
+        "trophyTitleName": "Journey",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06812_00_003FEBD0B0438CBF4F60428AB1ADC9D484A0E26D79/63F46A74E0D29AE504765EEAE6214E77FDE19051.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR06813_00": {
+        "npCommunicationId": "NPWR06813_00",
+        "trophyTitleName": "Hyperdimension Neptunia Re;Birth1",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06813_00_005D46F74CBC82D3CCDE80DFB70B15BDA325B32407/33CE7F9E131B7553CD3D1AE7DD3A7111FD5259EC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 19,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR06829_00": {
+        "npCommunicationId": "NPWR06829_00",
+        "trophyTitleName": "HIDEBOH タップダンス HERO",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06829_00_0075646802904D5945F7675D1A199349F495468885/2C91280DF817C9F1DC41CEDBFBAEA980102A16D2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 34
+        },
+        "service": "trophy"
     }
 }
