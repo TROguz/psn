@@ -27298,5 +27298,135 @@
             "bronze": 9
         },
         "service": "trophy"
+    },
+    "NPWR04784_00": {
+        "npCommunicationId": "NPWR04784_00",
+        "trophyTitleName": "Ys: Memories of Celceta",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04784_00_00577D20FEB1389366EC50B4CD5056E2B12D779FBA/20E609AD9396F47DCAE0ADF200071709D50D7E3A.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR04787_00": {
+        "npCommunicationId": "NPWR04787_00",
+        "trophyTitleName": "Assassin's Creed® Liberation HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04787_00_00D5E773C06566B3A1248E1EBA60BA404D7BC3D3CA/85AECEF1A7A0C7C1DD5BF4443A5AF86DF91E6442.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 19,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR04788_00": {
+        "npCommunicationId": "NPWR04788_00",
+        "trophyTitleName": "Atomic Ninjas",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04788_00_00DA4567193046BAF07C51121A60F60945222D8070/4720502BE81C0FC69EC15AB7CB049E274DE55A2E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR04794_00": {
+        "npCommunicationId": "NPWR04794_00",
+        "trophyTitleName": "劇場版 魔法少女まどか☆マギカ　The Battle Pentagram",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04794_00_00D64F7507CA41A077B4F0153E94129B6E032BCAE5/BB26E4C4AC96FCFB33B7F6F34A71FC7BD0BDE9AA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR04799_00": {
+        "npCommunicationId": "NPWR04799_00",
+        "trophyTitleName": "AKB1/149 恋愛総選挙（PlayStation®3版）",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04799_00_00A28D239DE1E8FD9BB1759B383F9A484CFC207610/824E92AF2680384DBB137F6340FE81E5ED76A4D6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR04810_00": {
+        "npCommunicationId": "NPWR04810_00",
+        "trophyTitleName": "Divekick",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04810_00_00146E8FC0A2C93BEC95752CE9A1E1828BF8D764DE/1702AAC326A94A2493451161C7647080A21E950F.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR04811_00": {
+        "npCommunicationId": "NPWR04811_00",
+        "trophyTitleName": "El Chavo Kart",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04811_00_00DA338597B286D84E91D3C40108096582A7884D9C/46C3E232740729992B9184A2731FDF91D774F02D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 15,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR04812_00": {
+        "npCommunicationId": "NPWR04812_00",
+        "trophyTitleName": "三國志12 with パワーアップキット",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04812_00_00661B4EAC5E4C1C55B215403604F5CACA514662A3/4F98828B9A8FDC4A280B1269F403D04519D64AA4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR04816_00": {
+        "npCommunicationId": "NPWR04816_00",
+        "trophyTitleName": "ホチキス",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04816_00_0031F8CE3E77AA1DF22052E68A70341E3AEB608D10/2184D8C78F6B2D47D6BA52A06F1D67EE6FFA4C63.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR04817_00": {
+        "npCommunicationId": "NPWR04817_00",
+        "trophyTitleName": "Castlevania: Lords of Shadow - Mirror of Fate HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04817_00_0028C204DB9A43A717F4BDFCE8A184322A2DF189FC/549B19B41B185E4424819248F5787D938E7A90FB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
     }
 }
