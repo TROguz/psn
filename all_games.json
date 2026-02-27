@@ -43548,5 +43548,135 @@
             "bronze": 15
         },
         "service": "trophy"
+    },
+    "NPWR08184_00": {
+        "npCommunicationId": "NPWR08184_00",
+        "trophyTitleName": "ケイオスリングスⅢ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08184_00_00A9082675DF3DFF32BD0276756033F24A2FFC6255/1084E7A21F09A80FEFE450898AF898973DF685E9.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR08185_00": {
+        "npCommunicationId": "NPWR08185_00",
+        "trophyTitleName": "ケイオスリングスΩ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08185_00_0096A08541FC9A3C89CB7CC36BB752E96314EC8FED/7B21E2B555C0AFA8A7E701F7C3C639DFEF6A677F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR08188_00": {
+        "npCommunicationId": "NPWR08188_00",
+        "trophyTitleName": "Aces of the Luftwaffe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08188_00_001CDFEAF9DD312DE8A90F62061FB9D159E675E4D3/10AFC8B612806CFC073BA9BCA51E6E3B4675DBC5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR08189_00": {
+        "npCommunicationId": "NPWR08189_00",
+        "trophyTitleName": "Vertical Drop Heroes HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08189_00_00A609138740129158B41132F415CBDB8F31B71341/2D099B47A0E3F2BC2D99F269ECFE841345957185.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08190_00": {
+        "npCommunicationId": "NPWR08190_00",
+        "trophyTitleName": "Wolfenstein®: The Old Blood™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08190_00_0013E798E187BA9C47B7B09EF0F960033C5FF99818/B85CEF167B89FC802EEC5B0648C966D501D3360A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR08193_00": {
+        "npCommunicationId": "NPWR08193_00",
+        "trophyTitleName": "Mirror's Edge™ Catalyst",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08193_00_0039CB5B54E991725D264ADEDA16A42668E12D33CE/F439AD6BF734F0249D679603E7C429A0F7EC9A8C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR08199_00": {
+        "npCommunicationId": "NPWR08199_00",
+        "trophyTitleName": "DARK SOULS™ Ⅱ: Scholar of the First Sin",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08199_00_0041F9770FBE806110B69A2EA6A08590B7483E7FD5/AD01C3225C31F8DBD918D7E842C824ADE9432CEC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 23,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR08200_00": {
+        "npCommunicationId": "NPWR08200_00",
+        "trophyTitleName": "Arcania",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08200_00_002780320BA9BA953A054FA19A0037C3FC48C1CA16/F7EBB6EA8C6266FD1E42135462F537C7A5E37A4B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 19,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR08201_00": {
+        "npCommunicationId": "NPWR08201_00",
+        "trophyTitleName": "Tower of Guns",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08201_00_00E6C12EC81F4CF20E424E2DE45C55197CAF2C7D17/C0A5CF1DD0628DF5A0936E43BEEC0EE56A408BD7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08202_00": {
+        "npCommunicationId": "NPWR08202_00",
+        "trophyTitleName": "Madden NFL 16",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08202_00_006F685BA9C6F92859B0F9C6B13DD44AFBEAD18F25/18FC41EC12B9F8E9EABCA92B5432542121F039FA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 6,
+            "bronze": 25
+        },
+        "service": "trophy"
     }
 }
