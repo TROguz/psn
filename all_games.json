@@ -26258,5 +26258,135 @@
             "bronze": 25
         },
         "service": "trophy"
+    },
+    "NPWR04557_00": {
+        "npCommunicationId": "NPWR04557_00",
+        "trophyTitleName": "OMG HD Zombies! Trophies\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04557_00_008EBE5754517D1761E597D2AC528984F77A13B2F8/954705DF1FFADC1A7BC381C5B4946D7671F79DE0.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR04562_00": {
+        "npCommunicationId": "NPWR04562_00",
+        "trophyTitleName": "TMNT:OOTS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04562_00_006624E495A0F96BD0D16A2D49FB923110696B1354/1312A7C0CC31C25085C8F04546F09894D5588CE6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR04563_00": {
+        "npCommunicationId": "NPWR04563_00",
+        "trophyTitleName": "テラリア",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04563_00_0032AC9F9555476226BF67781D6A1CEEBDFBE546E2/A25323E65B30532BBF2B6F792EDC93A09D618C5D.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 17,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR04573_00": {
+        "npCommunicationId": "NPWR04573_00",
+        "trophyTitleName": "Kung Fu Rabbit",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04573_00_00F6CEA022E5D758A7C81FBCC3DFFD8D763747C21B/D54779C67FEF8BFDA43B6A74EF38F9A6232DF577.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR04575_00": {
+        "npCommunicationId": "NPWR04575_00",
+        "trophyTitleName": "DEAD OR ALIVE 5 Ultimate",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04575_00_003F2E2586EE46AA074FACD7FF9E98C7A19988FA9B/7BB52433AE9464832A98EAD4860FD57950AFA447.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR04577_00": {
+        "npCommunicationId": "NPWR04577_00",
+        "trophyTitleName": "Q.U.B.E: Director's Cut",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04577_00_008A8E2601D67924CBE37DE9ECFAC3E5471A755C55/C68954D82594AD5EEC098C69C1CE8C26237EEEA9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR04578_00": {
+        "npCommunicationId": "NPWR04578_00",
+        "trophyTitleName": "NHL® 14 Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04578_00_000DE8DB1E50280D6155CEA6EA10A577AB66AF01E2/35DA670B9EB1C900747AAF21BDE05402BCDCF87A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 13,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR04584_00": {
+        "npCommunicationId": "NPWR04584_00",
+        "trophyTitleName": "Hakuoki: Stories of the Shinsengumi",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04584_00_00D0E23F1075B5776A9109F4CD7F8BC996E5868BCD/DCCFE54C55935E9064D2CC0EB583F95F1CF66A5C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR04589_00": {
+        "npCommunicationId": "NPWR04589_00",
+        "trophyTitleName": "闇魂獻祭",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04589_00_000505C4ADC6CD45D29C2E95A9DB6335EA3A2B4C72/8C190E48C3A6EBF1915A5344ED2E7264F1437B76.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR04593_00": {
+        "npCommunicationId": "NPWR04593_00",
+        "trophyTitleName": "討鬼伝",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04593_00_009EC6D51D6F267EB4062F92E1655B8CDD57BA6DA6/CB00FEDA5F318A2E631C5D0DF28E8467535C3327.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
     }
 }
