@@ -26128,5 +26128,135 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR04531_00": {
+        "npCommunicationId": "NPWR04531_00",
+        "trophyTitleName": "Rocksmith 2014",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04531_00_001C4D833BB7A9254B3D28AC27024FFAAC925042EC/95D89C81A3452626AF404429B438BE8BFAEFD08C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR04533_00": {
+        "npCommunicationId": "NPWR04533_00",
+        "trophyTitleName": "Hotline Miami",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04533_00_00E51FAC067265BFA88E49688EEEF390EA705816AC/E73F8218212A3970AE3D304FE8095583E592932D.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR04535_00": {
+        "npCommunicationId": "NPWR04535_00",
+        "trophyTitleName": "XCOM: Enemy Within",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04535_00_0067C1725E7CDC85DC2C6E43CF21460EE3C0373ACC/4065A55EC92C1CF1ACF2A0D9B71D93D76218EA78.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR04537_00": {
+        "npCommunicationId": "NPWR04537_00",
+        "trophyTitleName": "Rayman® Legends",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04537_00_00E14A81DF624D9DC20FE7274192886D906F1AAFB1/1AB240581363C4C28EF075751F3770138B4C6BC2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR04539_00": {
+        "npCommunicationId": "NPWR04539_00",
+        "trophyTitleName": "DuckTales: Remastered",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04539_00_00E56494B2C7AC31370A20A4AAB6361A4C3016A5A4/C7963DB606F8041D519B23FF70D5ADF82025E42B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR04540_00": {
+        "npCommunicationId": "NPWR04540_00",
+        "trophyTitleName": "AeternoBlade",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04540_00_005C171F0FB2A0012A990D703430E6878AA4F5EC55/C7899AC6157463CA2F16DE06DFAF7B92024A2653.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR04544_00": {
+        "npCommunicationId": "NPWR04544_00",
+        "trophyTitleName": "Stealth Inc.",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04544_00_00D746AEFF494619A489C151C33CC8C5E12E44514C/4D47D99FFBB530A92342DDCCF2D62F9B05D53268.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR04547_00": {
+        "npCommunicationId": "NPWR04547_00",
+        "trophyTitleName": "Poker Night at the Inventory 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04547_00_0032835DCA673F81925D126E0EEEE9E0C205989A5F/CB6A79A2C8323B56B28E8E4B3F967C2730A840E8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR04548_00": {
+        "npCommunicationId": "NPWR04548_00",
+        "trophyTitleName": "ビビッドレッド・オペレーション あかねとマヨっとオペレーション！",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04548_00_00BCA4B2B2855727ABE25C8CD5071514458113F4C4/FC7CD1B50083289FF64C487C87264A72DA10A0EF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR04552_00": {
+        "npCommunicationId": "NPWR04552_00",
+        "trophyTitleName": "Madden NFL 25",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04552_00_00E0F56E7482189A446A9D046212443B02B0175F82/C07A8583B5FCAD16806B5A73A1F237C607B20E8A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 25
+        },
+        "service": "trophy"
     }
 }
