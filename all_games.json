@@ -90348,5 +90348,135 @@
             "bronze": 6
         },
         "service": "trophy"
+    },
+    "NPWR14711_00": {
+        "npCommunicationId": "NPWR14711_00",
+        "trophyTitleName": "ザンキゼロ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14711_00_00AA3DBA5D71DC2255C57CA5D769C8390DB29A580D/948F4EED7B5FF81E0B7A88168655DF91E870DA2D.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 18,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR14712_00": {
+        "npCommunicationId": "NPWR14712_00",
+        "trophyTitleName": "SUPER AMAZEBALLS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14712_00_004A7F7ADFC50E2604724D431C02388A3566776D6B/2270C78B0B48A2197832F09F0B89E85848C732C9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14714_00": {
+        "npCommunicationId": "NPWR14714_00",
+        "trophyTitleName": "LITTLE ADVENTURE ON THE PRAIRIE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14714_00_000780E10EF95AB9D7193947B4E52A024EDEC7C2D5/73C63DAD502C329F94453FD51096E3DEE610DB2E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR14715_00": {
+        "npCommunicationId": "NPWR14715_00",
+        "trophyTitleName": "LITTLE ADVENTURE ON THE PRAIRIE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14715_00_00D7A91A085C3ABD69E5D3D9B6C447D7F6B92ED280/6AA3D03E06BAB5DC36642C2D22C8791383BCC5B0.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR14717_00": {
+        "npCommunicationId": "NPWR14717_00",
+        "trophyTitleName": "Fear Effect Sedna",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14717_00_00AF8547B424F30FE25D6323410F719308C8062A3B/EFCA9B7988CB4C135AEA4BC4CF43B1A27E899847.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14722_00": {
+        "npCommunicationId": "NPWR14722_00",
+        "trophyTitleName": " BulletGirls Phantasia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14722_00_00C57EB204F26F80770BC516BB4D338C335AB2DAD5/EC5B0DFF43CFC3EA21E7E31358E18500E6747D82.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR14723_00": {
+        "npCommunicationId": "NPWR14723_00",
+        "trophyTitleName": "Cat Quest",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14723_00_0073A852E4094C8C026DAB75DCA9446B714253328A/F01E4D760B7D49110B93166A79AF8B3184749E6A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14725_00": {
+        "npCommunicationId": "NPWR14725_00",
+        "trophyTitleName": "灰鷹幻境",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14725_00_00AAE86C23E8746F6141F4EBEFD834015DF8A91B1E/DB1677DADC4B0B22273582990A4D0ED95B07D28F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 18,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR14726_00": {
+        "npCommunicationId": "NPWR14726_00",
+        "trophyTitleName": "7'scarlet",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14726_00_00382E97565071FE943C9318EA8A31270FFFEABC57/68FAAC39E1BD8452821BBFF2B16F672F1B0A9DA9.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14727_00": {
+        "npCommunicationId": "NPWR14727_00",
+        "trophyTitleName": "The Rabbit Hole\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14727_00_003E11EF1774741C1E08743C8D717A4A2CF2717B8B/D68C8F48E4D24F83A9B32218077068CD158E31D5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
     }
 }
