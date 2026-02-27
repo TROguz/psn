@@ -44328,5 +44328,135 @@
             "bronze": 55
         },
         "service": "trophy"
+    },
+    "NPWR08308_00": {
+        "npCommunicationId": "NPWR08308_00",
+        "trophyTitleName": "影牢 ～もう１人のプリンセス～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08308_00_0016A769498A099BC7C065AC6E0C236CF5610BB3FF/8ECCA2E8FFFEC65E47705381E4B93DB29C7A65BE.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 5,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR08309_00": {
+        "npCommunicationId": "NPWR08309_00",
+        "trophyTitleName": "Astebreed",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08309_00_00BA973FB9CCA7C170BECFE6C289597B2F1495C71A/1BEEF7145652DC64D49B964817AC764D120D3C95.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR08312_00": {
+        "npCommunicationId": "NPWR08312_00",
+        "trophyTitleName": "剣が君 for V",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08312_00_0056520CBC260FB99EB91B956482DE96E79A8C1B93/BEF3661CE2882BA4C9EED1C42E189058F8CA1D9A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR08316_00": {
+        "npCommunicationId": "NPWR08316_00",
+        "trophyTitleName": "ハーヴェストオーバーレイ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08316_00_002AD5DF4E4A3E331C8FCCF06254FA4E5686A90E9F/12BF7EAE8E8AC73D3472C72172E87BC4C7C53497.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR08317_00": {
+        "npCommunicationId": "NPWR08317_00",
+        "trophyTitleName": "Toukiden: Kiwami",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08317_00_00619BA582D978716DE08173A5B88516BC47CAB635/44676862A1BC7B1AA2B86CC38D2B5B79F804AC2B.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR08318_00": {
+        "npCommunicationId": "NPWR08318_00",
+        "trophyTitleName": "Paranormal Pursuit: The Gifted One Collector's Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08318_00_00E18602E93A1A967D40099CCAEF49785F997B9BE4/E7C02F978D470986DC3753D58FAABB80618CCFBC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08321_00": {
+        "npCommunicationId": "NPWR08321_00",
+        "trophyTitleName": "Kung Fu Panda: Showdown of Legendary Legends",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08321_00_0027FC933BC9ECD88BA39FD8B025978D69AE5F4187/18FF3AA1EC9658C57C817ED9E84FCA3894C22892.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 17,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR08323_00": {
+        "npCommunicationId": "NPWR08323_00",
+        "trophyTitleName": "FINAL FANTASY VII",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08323_00_00A0E4F65036C08E32B6E7C84CF823B8CC540440FF/7CF0698579BC69C4D6AD0B23F1CCC487BFEBBE55.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR08324_00": {
+        "npCommunicationId": "NPWR08324_00",
+        "trophyTitleName": "大戦略　大東亜興亡史３トロフィーセット",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08324_00_00ABBD55F688C96A2D3457CFB27E505D0E66063CBF/62E803F696E54BB4E771FA8339EC1A8476BFD0FE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR08325_00": {
+        "npCommunicationId": "NPWR08325_00",
+        "trophyTitleName": "現代大戦略2016～秩序の崩壊・覇権国家失墜～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08325_00_00348BD498F10EE2F89B0A71BDBC126D2BB6A08B9E/0DC45D34A0D536E3577EB3BA1BCC7AB49EDC2D3C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 8
+        },
+        "service": "trophy"
     }
 }
