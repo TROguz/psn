@@ -40948,5 +40948,135 @@
             "bronze": 48
         },
         "service": "trophy"
+    },
+    "NPWR07736_00": {
+        "npCommunicationId": "NPWR07736_00",
+        "trophyTitleName": "Crimsonland",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07736_00_007F1B806BBD79239DA18E20C0BC09F8025D42F579/B65668D0C01F992768D6192603A174D8442C70A9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR07738_00": {
+        "npCommunicationId": "NPWR07738_00",
+        "trophyTitleName": "HTR+ Slot Car Simulation",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07738_00_00FA60665F3A598404D7DE7945E746882BD5DF8BDD/FD91DB3E75A02F11D0F3590134C2784BD78DA9C5.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR07743_00": {
+        "npCommunicationId": "NPWR07743_00",
+        "trophyTitleName": "OZMAFIA!! -vivace-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07743_00_0061B91F4EA985AA34CB61E8D7B925EE0C5411164A/AAE111E134D6322D5AEEF3207DEE438AC940C71B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR07745_00": {
+        "npCommunicationId": "NPWR07745_00",
+        "trophyTitleName": "Deemo The Last Recital",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07745_00_00EE3E5550A58327586B82FD29C53DA73FAF4B56D3/21E1679B201AF24A521A327A33F811B5F4584275.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR07746_00": {
+        "npCommunicationId": "NPWR07746_00",
+        "trophyTitleName": "Hohokum",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07746_00_002398D4886EF0DE1A8E1BCE07770447B84E1EDC88/A81D77EE34290FAE004EBBBA20B9882331F34DC0.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR07753_00": {
+        "npCommunicationId": "NPWR07753_00",
+        "trophyTitleName": "BLAZBLUE CHRONOPHANTASMA EXTEND Trophy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07753_00_00B5E768BDF2123BD8A0D8601C33F4F82C06C987E9/8C77835D06631EC874AD4FC5FF128EBDA3AAD62F.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR07756_00": {
+        "npCommunicationId": "NPWR07756_00",
+        "trophyTitleName": "CatsBlock Vestival",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07756_00_0052AB6D5BF379379E25F3649F6BAF91B1AFD45D47/014786EACEFD6D308BD24EA066B3552FC73CC181.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR07758_00": {
+        "npCommunicationId": "NPWR07758_00",
+        "trophyTitleName": "大戦略　大東亜興亡史３トロフィーセット",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07758_00_00874A521E076B15E52CE155A9D38B086225978FB5/88B2E536D53C237A6C19BDA1050FABC4E9989C4E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR07759_00": {
+        "npCommunicationId": "NPWR07759_00",
+        "trophyTitleName": "RESIDENT EVIL REVELATIONS 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07759_00_00F1467B48209F363F86BBA4EDD88311275251F55C/E408C9319ECB20B9D97A7098149A5565C0DE5A2F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR07763_00": {
+        "npCommunicationId": "NPWR07763_00",
+        "trophyTitleName": "Zombie Army Trilogy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07763_00_006DED3555388F69F8513B92213C2477E9D47FF312/AF299E9C98B8DD0E3B0072092D57584960846536.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 60
+        },
+        "service": "trophy"
     }
 }
