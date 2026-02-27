@@ -47188,5 +47188,135 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR08779_00": {
+        "npCommunicationId": "NPWR08779_00",
+        "trophyTitleName": "SAMURAI WARRIORS: Chronicles 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08779_00_0058C4E973FBD796C7A25E402094A69E98F72E58FE/F92CCCE99D5BAA5C1F9D614C48294F968978E22C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR08781_00": {
+        "npCommunicationId": "NPWR08781_00",
+        "trophyTitleName": "Type:Rider",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08781_00_00802711DE615121294870EE371FA33F90C5F33E0E/BF0D97BFBC1756B9F23E57A7B61261D423D37D05.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08784_00": {
+        "npCommunicationId": "NPWR08784_00",
+        "trophyTitleName": "Shadow of the Beast",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08784_00_00C0AA5DD35F703C0D079C74541B2428376CB050AF/436801F5E0B5FACD7A197440A5F83CC44C5792DB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR08786_00": {
+        "npCommunicationId": "NPWR08786_00",
+        "trophyTitleName": "Squares",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08786_00_00264521B8E259C215ACBE3E19A0E36DAFD8F1DE08/9C011EB32F05FC137BD81D787A9D759A40F537D0.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR08790_00": {
+        "npCommunicationId": "NPWR08790_00",
+        "trophyTitleName": "Ziggurat",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08790_00_00906274C2D964131870B11A74D59C79D263073DB9/708F9DAD33C0BD80EF5A73995230F8B526780214.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR08795_00": {
+        "npCommunicationId": "NPWR08795_00",
+        "trophyTitleName": "メイＱノ地下ニ死ス",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08795_00_00F942840239ADDADDBBBEC7178E495E6E47AEB229/82A605B3EEF16266EE369492BA9EF8F119F64B59.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR08801_00": {
+        "npCommunicationId": "NPWR08801_00",
+        "trophyTitleName": "Call of Duty®: Black Ops III",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08801_00_00164BF2B729BCF4C3F5083E55A49F3BCD6E4A0F91/CFA5D56C27423A504D7F63AEB01033BED6EB50D1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 25,
+            "bronze": 72
+        },
+        "service": "trophy"
+    },
+    "NPWR08805_00": {
+        "npCommunicationId": "NPWR08805_00",
+        "trophyTitleName": "Resident Evil 0",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08805_00_00A4ECADFEBA0073A74037D6294C87E2D0BD882223/A15DA096C3F7433F888FFBEAD51CF2977B2352E2.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR08808_00": {
+        "npCommunicationId": "NPWR08808_00",
+        "trophyTitleName": "Capsule Force",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08808_00_008DA870A26E48BD43BE599B2F3ABAAA520C2D44BE/0E725CDDCD356C7485CE598D75C44F74A23F34E4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR08809_00": {
+        "npCommunicationId": "NPWR08809_00",
+        "trophyTitleName": "Lost Dimension",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08809_00_004E9513B8BDC9AAA2EDDD0CC93D71AFB5B043D4BB/C1EDAA88642E31C05BA2FE21C1DC25AB01C14F50.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 16
+        },
+        "service": "trophy"
     }
 }
