@@ -49658,5 +49658,135 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR09151_00": {
+        "npCommunicationId": "NPWR09151_00",
+        "trophyTitleName": "Dungeon Travelers 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09151_00_0052FBF45977278FE5E809B480EE94D9BA5A41E788/EBDCA27CA620C193E4D6D15AF050B6AC9B2CC6F0.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR09152_00": {
+        "npCommunicationId": "NPWR09152_00",
+        "trophyTitleName": "Yu-Gi-Oh! Legacy of the Duelist",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09152_00_00B92FCD40878625E40CC19871687EF598A876B820/E961FF1D7CA126DC70C194554A556F0FBAF029EF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR09156_00": {
+        "npCommunicationId": "NPWR09156_00",
+        "trophyTitleName": "Chivalry: Medieval Warfare",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09156_00_003E6F6D5F069993D898DE36062F5ECB7F4E01C28E/9C3CFDBA0BAD919750F178AF178BC5F4C76DCB9C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR09157_00": {
+        "npCommunicationId": "NPWR09157_00",
+        "trophyTitleName": "NBA 2K16",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09157_00_008450CF763BCE09A61AD09C0E0256FC521A82BFC5/E43F1270CE18EC0000AE766BC23161C32950731A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR09158_00": {
+        "npCommunicationId": "NPWR09158_00",
+        "trophyTitleName": "The Mean Greens",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09158_00_00AE6546C9FAA82F4961BFBE8DC7B24042351F040A/FB87AC20F78AC5DE8D399C4CDF4F45603AFA5AFE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR09159_00": {
+        "npCommunicationId": "NPWR09159_00",
+        "trophyTitleName": "Disgaea 5: Alliance of Vengeance",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09159_00_00EBC34A8522290326EB92180C74C6627F9924DD83/8B9FBFC87843A1D64472BE6BEE8691B17008C3A9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR09163_00": {
+        "npCommunicationId": "NPWR09163_00",
+        "trophyTitleName": "Poncho",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09163_00_0058C240DDA48C9DFDA6E6C19FEEDB8768A7BCA424/FE466486874DFF771636C505F8F91D4C28A3081E.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR09164_00": {
+        "npCommunicationId": "NPWR09164_00",
+        "trophyTitleName": "Doodle Devil",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09164_00_007598A5AAF9F4FD6648EE9B40E6CF271FFF541469/FA65DE6D4EBBAC4DE3B82418A6DCA11207D15129.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR09165_00": {
+        "npCommunicationId": "NPWR09165_00",
+        "trophyTitleName": "Doodle Kingdom",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09165_00_00FBA079AC863BFEA9F806BF5EA17FBDBCA1A58C1F/83F53730E0639D08C4E5573A5A4DE32D09C0C050.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09167_00": {
+        "npCommunicationId": "NPWR09167_00",
+        "trophyTitleName": "Marvel's Spider-Man",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09167_00_007280BC379B5701D2D862A6574F73488DA1CDFBBA/871AF040ECAA2A94B7EB5534E062AEAF13D72C35.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 14,
+            "bronze": 54
+        },
+        "service": "trophy"
     }
 }
