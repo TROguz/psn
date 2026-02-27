@@ -88398,5 +88398,135 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR14472_00": {
+        "npCommunicationId": "NPWR14472_00",
+        "trophyTitleName": "Stifled",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14472_00_0037B856B8169B66CDD07631646A23F107289176CC/6E90BB266BFBBD62052C856CE93C70EB0904D914.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR14473_00": {
+        "npCommunicationId": "NPWR14473_00",
+        "trophyTitleName": "Stifled",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14473_00_00BE1BE74A29AAD3EA5675DC3FCD568A3414C97391/8C5B5B4DAF9350F50AEF14E910BF5C00887A62EF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR14474_00": {
+        "npCommunicationId": "NPWR14474_00",
+        "trophyTitleName": "ACA NEOGEO SOCCER BRAWL",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14474_00_00A42C943E0CD09ACD0527A46F715B00906085AD76/FB6CFAB2AC2F2298977071C3D4D7E2EF8BF9158B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14475_00": {
+        "npCommunicationId": "NPWR14475_00",
+        "trophyTitleName": "Operation Warcade",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14475_00_00CA704211EA4E3B1A2DBC36ED7E254E3EC89D03D7/83F6B556158BAE23C067311C6A663A8988162A69.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR14478_00": {
+        "npCommunicationId": "NPWR14478_00",
+        "trophyTitleName": "Roller Coaster Tycoon Joyride\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14478_00_00FE723E0D1A2E9E7B1D7FB0F7E455DBC47B2240B3/8FE9E7F87D5720158901A66A80C418A2BB6FA6C7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR14483_00": {
+        "npCommunicationId": "NPWR14483_00",
+        "trophyTitleName": "HEX: Card Clash",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14483_00_00F7BFE3AAC85E05EE9552626BE968CBC3792ECD10/369CA15D2C117D2A0C67177E1124AD1FD073CE34.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR14484_00": {
+        "npCommunicationId": "NPWR14484_00",
+        "trophyTitleName": "ACA NEOGEO SAMURAI SHODOWN III",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14484_00_00BBB2B5F9E89A921BD4DEDCE14DF2EB8D376D0638/FCA3AAB4AA45FB107BF8B823F3B822BF011E427E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14485_00": {
+        "npCommunicationId": "NPWR14485_00",
+        "trophyTitleName": "ACA NEOGEO THE KING OF FIGHTERS '98",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14485_00_00A5C55D2177034BF40D79CB7CD5340C494ADF558F/EC5D2D6F9675FD448946256DE2439D648CB4CD4A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14486_00": {
+        "npCommunicationId": "NPWR14486_00",
+        "trophyTitleName": "ACA NEOGEO POWER SPIKES II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14486_00_00ED2DEAABCAB83D0D54D63BCAAB69DCAB329025E1/77522B4178AE37E55CFF7C9D832033CC5E7BE541.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14487_00": {
+        "npCommunicationId": "NPWR14487_00",
+        "trophyTitleName": "ACA NEOGEO SHOCK TROOPERS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14487_00_00998BE12AEA7F148B1188601DF66C590E646C84D0/B96B8DB11CC35240FCFDF06B368E9F30486E6DF6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
     }
 }
