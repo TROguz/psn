@@ -50178,5 +50178,135 @@
             "bronze": 41
         },
         "service": "trophy"
+    },
+    "NPWR09224_00": {
+        "npCommunicationId": "NPWR09224_00",
+        "trophyTitleName": "アルスラーン戦記×無双",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09224_00_0038F542E0B08587FD2CE07107B8290EA357B65E20/DB103A30672B68413A3DF7F2D31FE98A96820F27.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR09227_00": {
+        "npCommunicationId": "NPWR09227_00",
+        "trophyTitleName": "Jungle Rumble",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09227_00_002BBE659A43CB63CB532E704FF23B66C41259E1B4/9B96D703FDC1A906ED0BE8FB82E084C66FF20220.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR09228_00": {
+        "npCommunicationId": "NPWR09228_00",
+        "trophyTitleName": "Goat Simulator",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09228_00_00BE0ED53526453F97FFA0CDB50E8793ABD28B2C15/882CFC1A013FF3AF384F00992337F7D049A21E9A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR09229_00": {
+        "npCommunicationId": "NPWR09229_00",
+        "trophyTitleName": "Goat Simulator",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09229_00_0083DE905271C970376786195C3A87FD9FB5AEAF16/80A2FFBE208F77346A5CEC1C31B99A98D83E8005.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 62
+        },
+        "service": "trophy"
+    },
+    "NPWR09231_00": {
+        "npCommunicationId": "NPWR09231_00",
+        "trophyTitleName": "Mordheim: City of the Damned",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09231_00_0013E5D2D7EE1BB76D86CD816C90758D98FB19C88F/7A8CAF31EFC98CA80F48DBA1FCF77BB72113149D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 4,
+            "bronze": 49
+        },
+        "service": "trophy"
+    },
+    "NPWR09233_00": {
+        "npCommunicationId": "NPWR09233_00",
+        "trophyTitleName": "Laserlife",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09233_00_0060A38DE9731EF163A563C9A8E6E8DEA44910258D/DFCF1ED00E28FD6F4EBC33E83FD31B577B530DD6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09234_00": {
+        "npCommunicationId": "NPWR09234_00",
+        "trophyTitleName": "「艦これ改」",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09234_00_007CA3AF2F1D1D3836981B4B43F72A446E1E0EC7AC/E80C622331C27CC9B2FA84A04CF1B2A0A758CCFC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR09235_00": {
+        "npCommunicationId": "NPWR09235_00",
+        "trophyTitleName": "Matterfall",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09235_00_007068150A4C72EF6E5E6E0263A292082D10689D33/F4C9F94C48E37CEA7DD18B7F52EB1812EA0DD541.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR09238_00": {
+        "npCommunicationId": "NPWR09238_00",
+        "trophyTitleName": "Legend of Kay Anniversary",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09238_00_00CFDA50F2A56625FDE326D8BF00A0623E5BFD7BA6/2CD15DC0E278A7803ED6F2DCF14C231AC1308DC4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 14,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR09240_00": {
+        "npCommunicationId": "NPWR09240_00",
+        "trophyTitleName": "ADR1FT",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09240_00_004798CC42E61CEFFFBEBC35D2B7D720ADB4B8BFA0/C80A94ECF468F6215D26F9F5EC735B2693B79015.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
     }
 }
