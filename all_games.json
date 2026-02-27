@@ -33538,5 +33538,135 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR06148_00": {
+        "npCommunicationId": "NPWR06148_00",
+        "trophyTitleName": "Might & Magic Duel of Champions Forgotten Wars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06148_00_00815D7062F9285A12972EE0B65D4D2CE7FF6D66B6/FEE6FAA4B35BD829B9A93977B0EF0556E79A9862.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR06153_00": {
+        "npCommunicationId": "NPWR06153_00",
+        "trophyTitleName": "爽海バッカニアーズ！",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06153_00_00AC603375DEC20D2D9097A74282DA4CC461017ED0/F8EC6F855100B08525B2999BAE15956757B9B879.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR06155_00": {
+        "npCommunicationId": "NPWR06155_00",
+        "trophyTitleName": "EA SPORTS™ NHL® 15",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06155_00_00BADFB7D9A0D1F1AB88E858C2BEEEDAD82F8BF93C/EE7F4B99ACF42BD21ED03EF588C3E72A11F6BD28.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR06159_00": {
+        "npCommunicationId": "NPWR06159_00",
+        "trophyTitleName": "The Treasures of Montezuma 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06159_00_00BA8178FE88499C836E772FBC82F9853A6E22C7EC/4B9B3696CD5F0788845419251C07DF54AF04D43F.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR06160_00": {
+        "npCommunicationId": "NPWR06160_00",
+        "trophyTitleName": "ファンタシースター ノヴァ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06160_00_0022DCBA07E5F7152AA80BE43FB46827139CCD58BA/ADF7FC341A42BD42F7429D9AA474CD009DC4AAE8.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR06163_00": {
+        "npCommunicationId": "NPWR06163_00",
+        "trophyTitleName": "MouseCraft",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06163_00_00D1618AFD97BC06E74FFA09B5704F8E68889AA1BB/54981E2B2D6A0E3D599CB67D13998EB7BFB2F4FD.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR06164_00": {
+        "npCommunicationId": "NPWR06164_00",
+        "trophyTitleName": "Get Off My Lawn\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06164_00_0005DAD55843A3BB796D47AC8B5D23CA4B372770F6/E4958B8AE4AF83FED118A5D415130C8CE2814B4A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR06166_00": {
+        "npCommunicationId": "NPWR06166_00",
+        "trophyTitleName": "Futuridium EP Deluxe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06166_00_007DE9BE9BBABF17BF1C5323F8F9C569E6A264440C/764EA939BF3422B54B3ADBD9C01DC67208831BBA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR06167_00": {
+        "npCommunicationId": "NPWR06167_00",
+        "trophyTitleName": "Farming Simulator 14",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06167_00_008F0A5AC1C1E05114B8F776B8E7AE0DC395CA9440/69EDC387537E2D59D4F671AFB15075F228966A88.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR06168_00": {
+        "npCommunicationId": "NPWR06168_00",
+        "trophyTitleName": "CounterSpy™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06168_00_009C7524B1F858BBA54236A6B438C093F977E34AFF/21E978C2CC3854F567819C7FD7A9D284056D4617.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
