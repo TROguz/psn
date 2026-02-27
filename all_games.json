@@ -23398,5 +23398,135 @@
             "bronze": 9
         },
         "service": "trophy"
+    },
+    "NPWR04051_00": {
+        "npCommunicationId": "NPWR04051_00",
+        "trophyTitleName": "数学力王 中級",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04051_00_001C2B433BB1CDC8F6EC1DE3EED37C9C72153EB3C3/0960F0897146BE1946CFF1C334B826F31752DABA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR04052_00": {
+        "npCommunicationId": "NPWR04052_00",
+        "trophyTitleName": "数学力王 上級",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04052_00_00806D60F0FF4B928FF867C9DE90396267E132A2A6/E8A7A4AACCC1AECA95281222681DB96AEBAA8500.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR04053_00": {
+        "npCommunicationId": "NPWR04053_00",
+        "trophyTitleName": "Everybody Dance™ Digital",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04053_00_00D6D527E694D7284A94CF5C3B8C09548FAE858869/17248DE12475FDC2D8DD73951298351E9FDDC088.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR04054_00": {
+        "npCommunicationId": "NPWR04054_00",
+        "trophyTitleName": "Mensa Academy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04054_00_0000931B09A4DC6A41AB5A5ABC8FF0BC96AE341067/2AADAE729303805C76828918A810A1B677427D08.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR04056_00": {
+        "npCommunicationId": "NPWR04056_00",
+        "trophyTitleName": "Flying Hamster HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04056_00_0075587A9099049B8D3B8F40CC7C203D2A76CAEE11/6CAC1E71BF4D07DAB100407D45945A7D7B7C4626.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR04058_00": {
+        "npCommunicationId": "NPWR04058_00",
+        "trophyTitleName": "MALICIOUS™ REBIRTH",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04058_00_00EBD55222AC664369940EDB05C0FB874EDB6B70FB/A44276136F4E6AA07E690AE14A8EBE610BE67ECE.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR04062_00": {
+        "npCommunicationId": "NPWR04062_00",
+        "trophyTitleName": "Urban Trial Freestyle™ Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04062_00_002B625C32BFC5059EBF4A40F43005C6B0EA69D63E/912F1F68A6C6D06604E338E62CE3C1090CFB2DD4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR04063_00": {
+        "npCommunicationId": "NPWR04063_00",
+        "trophyTitleName": "KINGDOM HEARTS FINAL MIX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04063_00_00370BA2B100408DAA0DD67222B2D2C7B27A47D7E8/011973A2F26FBDE4B725C66F8B3F6E6FA745D712.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 4,
+            "bronze": 49
+        },
+        "service": "trophy"
+    },
+    "NPWR04066_00": {
+        "npCommunicationId": "NPWR04066_00",
+        "trophyTitleName": "SingStar™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04066_00_0006D5B15ECF0396EC483C1BCB627808F7337C54FE/1A7FC77A2374173C0EF88957F4C97C4C2AA35569.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR04072_00": {
+        "npCommunicationId": "NPWR04072_00",
+        "trophyTitleName": "Deadpool",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04072_00_005F085E097D858B272D91ED9011BF9E76B11239B9/CBA8FD7AF91216D5746C386C04EFDEAC635FE701.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
     }
 }
