@@ -62138,5 +62138,135 @@
             "bronze": 4
         },
         "service": "trophy"
+    },
+    "NPWR11068_00": {
+        "npCommunicationId": "NPWR11068_00",
+        "trophyTitleName": "Call of Duty®: Modern Warfare® Remastered",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11068_00_009522590D242EABC274F61D603D4FE237555F7E32/5C491DD8F8C8A54375D017279EDA1D9443E38247.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 15,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR11069_00": {
+        "npCommunicationId": "NPWR11069_00",
+        "trophyTitleName": "Wasteland 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11069_00_00ECB35FDB0E64976BDFE63895B0A69F0D5C71C373/B6302C97749BBB0B00284A3889E5B220B9552F23.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR11071_00": {
+        "npCommunicationId": "NPWR11071_00",
+        "trophyTitleName": "Emily Wants To Play",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11071_00_0005F5B76EFAAC64C80D76E00824651A5BF9A5397A/DB8951AA665FD70A212FBCD2073A28C5F496BCC7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11072_00": {
+        "npCommunicationId": "NPWR11072_00",
+        "trophyTitleName": "數碼寶貝世界 -Next Order-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11072_00_00331C8ADCED613CAC26795FB37910F5ADF6B00013/CAA5A8FF656128102BFAC9EBD513853636558534.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR11073_00": {
+        "npCommunicationId": "NPWR11073_00",
+        "trophyTitleName": "CHAOS CODE -NEW SIGN OF CATASTROPHE-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11073_00_003ACBDC04ACBEFC6E8311BDD01ADFBA9C2621B19C/9B11B66A665B8463FBCE014354BE7F34689ECB35.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 4,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR11074_00": {
+        "npCommunicationId": "NPWR11074_00",
+        "trophyTitleName": "The Bug Butcher Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11074_00_00B78020FFBA4A9A820DBD8C10085DE1621908F6FD/3C827C3408B3302C61ABD3CD85BAD4850BC640F3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR11080_00": {
+        "npCommunicationId": "NPWR11080_00",
+        "trophyTitleName": "Necropolis",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11080_00_00A1E48344FCFE2352D388A3C47A4CB79E5E359597/9410AFF12B18422E0F50C182AD3C7417A6C504E0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11081_00": {
+        "npCommunicationId": "NPWR11081_00",
+        "trophyTitleName": "Awkward",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11081_00_00BB1EDAB48ADA60094446727CCBDCED1E29EDF5B9/7B0CABED9B6B38CBC9BF35722DE03336A4B3C22E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR11082_00": {
+        "npCommunicationId": "NPWR11082_00",
+        "trophyTitleName": "真 流行り神２",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11082_00_0055350F1385CC8F883CB56846046AEC168E61D832/157F687FAFA04E5935B620B0A29053FD7D10872E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR11083_00": {
+        "npCommunicationId": "NPWR11083_00",
+        "trophyTitleName": "真 流行り神２",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11083_00_0030DD58D378EAA23DA832390C66E4193C4994E201/2F1C5D5A9FD19360AD9D2F73414AEEEA08E05C8B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
