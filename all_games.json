@@ -91518,5 +91518,135 @@
             "bronze": 12
         },
         "service": "trophy"
+    },
+    "NPWR14849_00": {
+        "npCommunicationId": "NPWR14849_00",
+        "trophyTitleName": "NBA Playgrounds 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14849_00_002AFF41026EA767E6C095C3192FC4EE19C1C4EA47/6A009477C1A05914E73DC7B0CCCFD80C615296C0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR14850_00": {
+        "npCommunicationId": "NPWR14850_00",
+        "trophyTitleName": "Dandara",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14850_00_0011B5F4D13CEF987428C05446391B6341D52DDEEF/F8F24F1C33442DEB214D9DB5F7296C952420F2B1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR14851_00": {
+        "npCommunicationId": "NPWR14851_00",
+        "trophyTitleName": "Dandara",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14851_00_00C5B88D8AE53E138613C4C40D157F8FF12EB86229/AE096ED5A3060F1D49B7830670883F850430C824.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR14852_00": {
+        "npCommunicationId": "NPWR14852_00",
+        "trophyTitleName": "Sword of Fortress the Onomuzim",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14852_00_001F2A2BA4A5B54E570DB29FD0008EE41A21DE7D7F/38EA4035A0FDEDE5B1024018916375B69C07B704.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14853_00": {
+        "npCommunicationId": "NPWR14853_00",
+        "trophyTitleName": "The 25th Ward: The Silver Case",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14853_00_003444A00CDF9795B62C2C7D28D3D3DF4D43BED5B7/3ACB2FED764F52CED112799A96998DC7A0C0038F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR14854_00": {
+        "npCommunicationId": "NPWR14854_00",
+        "trophyTitleName": "Drone Striker",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14854_00_00341D51351FB2B5CCEEAF40B9304DAC339F67B451/33F4C5C124096BE3096969DD6ACA5E9731078DA4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 6,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14855_00": {
+        "npCommunicationId": "NPWR14855_00",
+        "trophyTitleName": "Slyde Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14855_00_008646ABE1B9E332CFD421F9141FBE1E76D339A462/75A452B0098BFEF9879A45A996A9D2F83BD2280B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 2,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14857_00": {
+        "npCommunicationId": "NPWR14857_00",
+        "trophyTitleName": "Arcade Archives Kid Niki Radical Ninja",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14857_00_004E48C385313AACC01761149308BCAD13DBF30229/2B442FF42D259FF8CA905E4566C98C2FDFDA2ECF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14858_00": {
+        "npCommunicationId": "NPWR14858_00",
+        "trophyTitleName": "Ni no Kuni™ II: Revenant Kingdom",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14858_00_0085355C1F05B3865E7E48D64824689DD97BADD7BD/DB0BB9A5221CF28858E9CA4A450C50ED49A3E286.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 47
+        },
+        "service": "trophy"
+    },
+    "NPWR14859_00": {
+        "npCommunicationId": "NPWR14859_00",
+        "trophyTitleName": "Xenon Valkyrie+",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14859_00_0029346441408C3FD0328778F5C834858D8C4D68CC/E9577E88B94F19B764A3DD23F3897EDF28AB1BF0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 7,
+            "bronze": 2
+        },
+        "service": "trophy"
     }
 }
