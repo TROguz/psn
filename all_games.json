@@ -40168,5 +40168,135 @@
             "bronze": 12
         },
         "service": "trophy"
+    },
+    "NPWR07564_00": {
+        "npCommunicationId": "NPWR07564_00",
+        "trophyTitleName": "To Leave",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07564_00_000C5AE98FAFA825CF5687868C4001A4C1585C38DC/51513A2E2575150AC61C0B95629DF90F37FDC25C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 4,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR07568_00": {
+        "npCommunicationId": "NPWR07568_00",
+        "trophyTitleName": "Costume Quest 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07568_00_009F95DF1E6116B605C39B5AE34178307BCE8F1843/D28A5528FF0E7520B58B63A31EB5E84ABD7C6981.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR07569_00": {
+        "npCommunicationId": "NPWR07569_00",
+        "trophyTitleName": "Arcade Archives EXERION",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07569_00_0088D3B7E1975D3A4406AE2552B1E3F43552B8CDFE/A48149210FC12FE22E9FC3728DFCBAE91216ECA0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR07570_00": {
+        "npCommunicationId": "NPWR07570_00",
+        "trophyTitleName": "Arcade Archives TERRA CRESTA",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07570_00_001A47D881D4AD3E0E8807248504C7831BED9D45F2/C5E6E00208EC84540F2E0D826CDB968420FAC171.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR07571_00": {
+        "npCommunicationId": "NPWR07571_00",
+        "trophyTitleName": "FANTASY HERO",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07571_00_00A6A3AD5D7F7CBFB6235A49D461BFD6A316E661BF/7FC4D2566A392089C7265FFD25A39799EDE523B3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 4,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR07572_00": {
+        "npCommunicationId": "NPWR07572_00",
+        "trophyTitleName": "FANTASY HERO",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07572_00_00AD84389085EE50EDCD61B420016A8560500C5F17/BCFCCC048FD96743BAA639F6D1AE4426CC3DFB67.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 4,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR07574_00": {
+        "npCommunicationId": "NPWR07574_00",
+        "trophyTitleName": "光明之響",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07574_00_006035AF71F58BC4F3D94782686C024A433A32EED7/A2236FA2DCDC9589E1D59FF2CC2643D43F30466E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 16,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR07575_00": {
+        "npCommunicationId": "NPWR07575_00",
+        "trophyTitleName": "M3～ソノ黑キ鋼～///MISSION MEMENTO MORI",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07575_00_00B89AC247C2240166D29303DFCFD574BC7400B763/5999926B814A3EBB259FB98554859A3F97C558AD.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 17,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR07583_00": {
+        "npCommunicationId": "NPWR07583_00",
+        "trophyTitleName": "LA-MULANA EX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07583_00_001C624F480DD8289185EA7E4E1AF92C6F4D0FC0C6/335B24FA93448AA745FC810FCC53154A7BCE2ED8.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR07589_00": {
+        "npCommunicationId": "NPWR07589_00",
+        "trophyTitleName": "Costume Quest 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07589_00_0006C4B64490CFCDD658660C4DE219C73A4221CCFE/BD2D73446996FD251996089640F82B024E0677E6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 15
+        },
+        "service": "trophy"
     }
 }
