@@ -31718,5 +31718,122 @@
             "bronze": 13
         },
         "service": "trophy"
+    },
+    "NPWR05755_00": {
+        "npCommunicationId": "NPWR05755_00",
+        "trophyTitleName": "もっと２０倍！　麻雀が強くなる方法　～初中級者編～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05755_00_00D2C6349CCABE468EDFD27FF3A8284F96B53172DE/9D94A2B194B674CA1E67451E98C9204A59524E22.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR05756_00": {
+        "npCommunicationId": "NPWR05756_00",
+        "trophyTitleName": "とことん麻雀！　女流プロに挑戦！　徹萬女神スペシャル",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05756_00_0011F9DF682FA76C8E219C9AD3C3F3865BB6548DE0/074FA4E0634377B6631B6A992DFEEE1E5116BA19.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR05761_00": {
+        "npCommunicationId": "NPWR05761_00",
+        "trophyTitleName": "N++",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05761_00_00490AEDABA3123815E391DA88BE0C5F53FAB56307/1D6D5AF3203D62CE81A1B5B25E806F0AB784EDD5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR05770_00": {
+        "npCommunicationId": "NPWR05770_00",
+        "trophyTitleName": "Masquerade: The Baubles of Doom",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05770_00_00D399E2D405DC36DF545DDDE185FE892DD1445392/75F1B7707E2B274ED6D1A1535033C026C6C6E1AC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR05772_00": {
+        "npCommunicationId": "NPWR05772_00",
+        "trophyTitleName": "Yu-Gi-Oh! Millennium Duels",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05772_00_00E50A637AD58F84CEC092E651DAC4B95DFBEF7ADA/E4DEFBCB212581593EEADCD66CBBA59CA7BE809C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR05777_00": {
+        "npCommunicationId": "NPWR05777_00",
+        "trophyTitleName": "Sniper Elite 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05777_00_0082E44499A5C16D43C67D00CDFD784A57AA958FE6/DF420ED9941CE2FD841111866838C0C8FB362EE0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 15,
+            "bronze": 53
+        },
+        "service": "trophy"
+    },
+    "NPWR05778_00": {
+        "npCommunicationId": "NPWR05778_00",
+        "trophyTitleName": "Toki Tori 2+",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05778_00_00908DFD7DC1FFD2DF994171ED02B466AD4FCF69B2/34EAFCA961FE03998C421A8D798F600EA1BC4F59.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR05781_00": {
+        "npCommunicationId": "NPWR05781_00",
+        "trophyTitleName": "Ratchet & Clank 3: Up Your Arsenal™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05781_00_00CC999629FC2207A1539F898408821C5D6DC50FB9/F91328CE26423A3E0BBC505A39C02E6FA79C6A58.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR05785_00": {
+        "npCommunicationId": "NPWR05785_00",
+        "trophyTitleName": "Ratchet & Clank™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05785_00_0063BEC580AA3B212DA62BD15624A66885E43091F0/5921591230767981DF0325811199C24054059C7C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 19
+        },
+        "service": "trophy"
     }
 }
