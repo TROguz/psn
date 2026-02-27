@@ -83328,5 +83328,135 @@
             "bronze": 0
         },
         "service": "trophy"
+    },
+    "NPWR13796_00": {
+        "npCommunicationId": "NPWR13796_00",
+        "trophyTitleName": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13796_00_002E0585F94827D5008FAEA470BC72346D3A7C71BA/ADFFE13BFC5D9FBDCD05CC36ADA884EDD6CD15D1.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR13799_00": {
+        "npCommunicationId": "NPWR13799_00",
+        "trophyTitleName": "ダマスカスギヤ 西京EXODUS HD Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13799_00_00E16341CF6CDC0F86344F59E5BF00618873159576/CE440888D7BC20A6E48870BFF3486981F3256D96.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR13800_00": {
+        "npCommunicationId": "NPWR13800_00",
+        "trophyTitleName": "Dead Hungry",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13800_00_00744B9CE950E356F0672E4B085DC9556DE44BBEF7/B33C47C575255AFCC7F9C2C7D005E4355232D148.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR13801_00": {
+        "npCommunicationId": "NPWR13801_00",
+        "trophyTitleName": "White Day:a labyrinth named school",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13801_00_00378EC816A1AE2D81D700F13F8D1CE05498DECE9B/BAA4ED1A1444C2BACDE165517DA15B7593E099B9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR13804_00": {
+        "npCommunicationId": "NPWR13804_00",
+        "trophyTitleName": "やはりゲームでも俺の青春ラブコメはまちがっている。＆続 おまとめセット",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13804_00_0023CF4AB546C0C7094FD7A6CE0C34C3FD474186E7/831772B43E300D9FA81B8997557834D8D6CCF691.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 49
+        },
+        "service": "trophy"
+    },
+    "NPWR13805_00": {
+        "npCommunicationId": "NPWR13805_00",
+        "trophyTitleName": "限界凸城 キャッスルパンツァーズ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13805_00_0048AB142511FC7E9815C01979E486997E8030FBAB/EBF6756E942D6061549BA97B807AD203B61B555A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR13807_00": {
+        "npCommunicationId": "NPWR13807_00",
+        "trophyTitleName": "A Hat in Time",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13807_00_0005393E3860CA5CB4E40F9E6E03FD99D270844DE7/D850F671EA8E1E90321BA8305DD40726155257E6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 15,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR13808_00": {
+        "npCommunicationId": "NPWR13808_00",
+        "trophyTitleName": "Archangel\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13808_00_001F76116E810C2911B740E03795488B804BBF68BB/89760E05474BF929B53683D7BAB05A7BEEA24FF9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 0,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR13809_00": {
+        "npCommunicationId": "NPWR13809_00",
+        "trophyTitleName": "Leap of Fate",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13809_00_00B52BB35F1A57A469DDB6DAFE334D326D8C47608E/6561AF8E67215D37A978344CDB39A78DA3C25B00.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR13810_00": {
+        "npCommunicationId": "NPWR13810_00",
+        "trophyTitleName": "MUSYNX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13810_00_00EC554CB802FA11833AD9D44E2A24916BA6A68916/9125BB5CEEDAC7FDA0FB718B8A6D26512202E2C6.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
