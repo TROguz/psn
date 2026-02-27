@@ -37828,5 +37828,135 @@
             "bronze": 5
         },
         "service": "trophy"
+    },
+    "NPWR07118_00": {
+        "npCommunicationId": "NPWR07118_00",
+        "trophyTitleName": "Fibbage",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07118_00_004AC64ACE7903340711C3758EE9158A4A2F83F7FD/A9C389A353839F798B917E77B47E35972A47F454.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR07119_00": {
+        "npCommunicationId": "NPWR07119_00",
+        "trophyTitleName": "Defense Grid 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07119_00_005B4B24FC5185E1EC3E30B02BFF782130A7EF7FE3/9235488DC35CAF8FE39E246E142438F6E00EFDED.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 58
+        },
+        "service": "trophy"
+    },
+    "NPWR07121_00": {
+        "npCommunicationId": "NPWR07121_00",
+        "trophyTitleName": "Gauntlet™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07121_00_0084601A5EDEDDC6C0CE7EE6F4A7B4ECDD9CC6FF57/C4D7721A1DF820C800A08C887331191EE0E3224D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 17,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR07122_00": {
+        "npCommunicationId": "NPWR07122_00",
+        "trophyTitleName": "Deadfall Adventures: Heart of Atlantis",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07122_00_00110020B054C2B7454C2CCE5750E445EF50D0F96A/24A3214B4676B4812A2C85B201420524C2090F31.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR07123_00": {
+        "npCommunicationId": "NPWR07123_00",
+        "trophyTitleName": "Pocket RPG",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07123_00_0021F32848B16BC158B6AD13059AAB2C33735D0A91/371A6C0C265F81B1EE6583470D75C46D8B80D3EA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR07124_00": {
+        "npCommunicationId": "NPWR07124_00",
+        "trophyTitleName": "Road Not Taken",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07124_00_00FD5980010E227FFFC278536DA9F2B84A862302D6/63A9F4160FF11D75B32FB4AF8407E016A3E974BA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR07125_00": {
+        "npCommunicationId": "NPWR07125_00",
+        "trophyTitleName": "Citizens of Earth",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07125_00_00C667DA853E4D953E0225B0A3F02CB67CA47ABA79/4547C751A2A8A3B659EB6C456A523C28F9CB4F89.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR07126_00": {
+        "npCommunicationId": "NPWR07126_00",
+        "trophyTitleName": "Citizens of Earth",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07126_00_001166F439042A4BAB62F9B1954BF7BB0BC8748488/C2A5631D38972E8390104E085EADA6221DAD8B0F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR07128_00": {
+        "npCommunicationId": "NPWR07128_00",
+        "trophyTitleName": "Tokyo Twilight Ghost Hunters",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07128_00_003086AAAF87424C3E58EC6DA6F6AE30470BA541A2/79FFC4EC2F6D0F94151429B73B50164EBA82B1CB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 8,
+            "bronze": 45
+        },
+        "service": "trophy"
+    },
+    "NPWR07129_00": {
+        "npCommunicationId": "NPWR07129_00",
+        "trophyTitleName": "Tokyo Twilight Ghost Hunters",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07129_00_00EE2589D58F838B7CFE7F4F1D5E202983F13995B2/528915CEF7511B1B0A66252EB74290194FF3AD4C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 8,
+            "bronze": 45
+        },
+        "service": "trophy"
     }
 }
