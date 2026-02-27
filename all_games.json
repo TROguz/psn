@@ -19758,5 +19758,135 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR03317_00": {
+        "npCommunicationId": "NPWR03317_00",
+        "trophyTitleName": "Virtue's Last Reward",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03317_00_005562037C197AAE848B63F4782F15C3C5DFEA3C40/08CEBE81142DC95AC58F346CC0B146886394E22D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR03319_00": {
+        "npCommunicationId": "NPWR03319_00",
+        "trophyTitleName": "三極姫～戦煌の大火・暁の覇龍～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03319_00_008863E85D2404F9ABCA6645D906EA7D8E831853DF/F57F2F9F299086819A81F21C72CA7A146920CD96.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR03322_00": {
+        "npCommunicationId": "NPWR03322_00",
+        "trophyTitleName": "Cartoon Network Punch Time Explosion XL",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03322_00_0039F0BE5D7A798B6337F616155747B2F6D90C6FE2/CE8C8B7AEB35E5642C2C152FC75E72B9E95E70F9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR03335_00": {
+        "npCommunicationId": "NPWR03335_00",
+        "trophyTitleName": "ぱちんこ 必殺仕事人Ⅳ　KYORAKUコレクション Vol.2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03335_00_0081682DE157F4840255A6BDC7062FF8749CD82F60/E75FE35122D19AC53B8B91E1307BBDA0A0BBD73C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR03337_00": {
+        "npCommunicationId": "NPWR03337_00",
+        "trophyTitleName": "Crash Time 5 - Undercover",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03337_00_00F4B6F33F22C216389D8B6EB6FA15F0AD8E15553D/0211369DD32EFE99CA2CF4172E39193697E3C9F9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR03338_00": {
+        "npCommunicationId": "NPWR03338_00",
+        "trophyTitleName": "ニコリのパズルV ぬりかべ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03338_00_009C720DA8F27F7E6D8D990227BD7FAE6469554A7B/F0E4361CA03CAD38008C9CC53BE1E7FB1A82C7B9.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR03339_00": {
+        "npCommunicationId": "NPWR03339_00",
+        "trophyTitleName": "ニコリのパズルV へやわけ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03339_00_00C47C21C80C5A93B58270823FDAE0488A3F0E3E47/0F13803325AE0A1E6642C5548FE025E6167006A8.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR03340_00": {
+        "npCommunicationId": "NPWR03340_00",
+        "trophyTitleName": "Sonic & All-Stars Racing Transformed™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/DAB2B78AD0C0B04D0A908B340EA1132EDD243823.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR03347_00": {
+        "npCommunicationId": "NPWR03347_00",
+        "trophyTitleName": "Madden NFL 13",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03347_00_00785A5C1106FBD8019AF5D76F3309BA62D0A3C1C1/0515DCE620579104E5F6EF14AB2EE301D46822B8.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR03348_00": {
+        "npCommunicationId": "NPWR03348_00",
+        "trophyTitleName": "私の彼はパイロット2012",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03348_00_00815E05ED88BA3295FBF822246793F9D342845733/1826FC2CF0D60227764CFABC16EED50F15D1A433.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
     }
 }
