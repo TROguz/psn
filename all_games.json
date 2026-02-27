@@ -20278,5 +20278,135 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR03445_00": {
+        "npCommunicationId": "NPWR03445_00",
+        "trophyTitleName": "Puzzle by Nikoli V Slitherlink",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03445_00_00AE967A37DE6FBC6EEEA35D3402721DBB301359F8/1FEE80DF6207A1BBCBC75909A0E76132B7BFABDA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR03446_00": {
+        "npCommunicationId": "NPWR03446_00",
+        "trophyTitleName": "Puzzle by Nikoli V Nurikabe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03446_00_00E061A373642E49ABA00135CBB7874EB5A30B5EBC/36EEB40F37D905547543049B03A38A73E988F43A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR03462_00": {
+        "npCommunicationId": "NPWR03462_00",
+        "trophyTitleName": "ニコリのパズルV 美術館",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03462_00_006622374E592E187C4A5ECE57F4DD093F16CA871A/C370723A0FFAE3DD0F91A0A70BDCFFB286FA3559.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR03463_00": {
+        "npCommunicationId": "NPWR03463_00",
+        "trophyTitleName": "ニコリのパズルV ましゅ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03463_00_006674379FA12F7D4873FBF4DF89343EEF754068BF/38706797B336A807FEF3C7BF093B2121D53582FC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR03464_00": {
+        "npCommunicationId": "NPWR03464_00",
+        "trophyTitleName": "Sonic & All-Stars Racing Transformed™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03464_00_0051CD6BF783C9BC26E39806409B2F5582FB7630DF/08642613D4B6DB63638F7BD3EB268BDD03410671.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR03465_00": {
+        "npCommunicationId": "NPWR03465_00",
+        "trophyTitleName": "YAKUZA 5",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03465_00_001B52E2FA3AAD37B968F713F1205A40C4DF2F1124/D8FDBB92A03DB16C91F1A59465C74422B6320BDE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 4,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR03466_00": {
+        "npCommunicationId": "NPWR03466_00",
+        "trophyTitleName": "Atelier Ayesha ~The Alchemist of Dusk~",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03466_00_00497F38E55C553998B1829B127ABEC2E928A98F6A/D11B092202F02E2EB8B55FB2C17FF54A343A63D6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 7,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR03468_00": {
+        "npCommunicationId": "NPWR03468_00",
+        "trophyTitleName": "Far Cry® 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03468_00_0066E2EC2FFDB9A69E7D4DAB927464E1758C8BB1D2/D8E6AF09350BC081DBFEEED20DD4AA95F7BEBB60.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR03469_00": {
+        "npCommunicationId": "NPWR03469_00",
+        "trophyTitleName": "シェリル・ノーム超時空ヴァーチャルクリップ～射手座☆午後九時Don't be late～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03469_00_00BB9AB8D40BA85595E9D365D9AEF684D9EAD98D98/05CC871FBC806B6CD7E04DCC07418A252041300C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR03472_00": {
+        "npCommunicationId": "NPWR03472_00",
+        "trophyTitleName": "ピコットナイト",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03472_00_00BF82C6ACC0B6EA926CAC5337E4ED31AB276776F0/3F7B95E9C0D16A1C2477F318A40DA2BA792E409B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
     }
 }
