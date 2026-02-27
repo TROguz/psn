@@ -40818,5 +40818,135 @@
             "bronze": 27
         },
         "service": "trophy"
+    },
+    "NPWR07711_00": {
+        "npCommunicationId": "NPWR07711_00",
+        "trophyTitleName": "Never Alone",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07711_00_004A59C8E6CE111B22EF197EAB2A14A1A4C4DC62DB/ED4A06EBD543F20DB54E06445643D43B78DB67F1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR07714_00": {
+        "npCommunicationId": "NPWR07714_00",
+        "trophyTitleName": "SIMPLE シリーズG4U Vol.1 THE麻雀",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07714_00_00E24D6F5B2B75BEA8FB4F4DE3DF2AFC99F72853E9/31A8A1D4FD7CA2D2351B143E3E31FD11322C867A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR07717_00": {
+        "npCommunicationId": "NPWR07717_00",
+        "trophyTitleName": "Knight Solitaire",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07717_00_009A932FDC5434D4FF45059581AC7E3DCE0D04B0F2/B2E3237028BDF86250AF538EB16C12631939C6FC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR07718_00": {
+        "npCommunicationId": "NPWR07718_00",
+        "trophyTitleName": "Pirate Solitaire",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07718_00_00E7E35D355AE474594D1AA9FF552EA451531EAD9C/0B2E729DBD0888C19EA68014426AA3F5E472F3B3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR07719_00": {
+        "npCommunicationId": "NPWR07719_00",
+        "trophyTitleName": "Strike Solitaire",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07719_00_003B30D373B11A1EF1D43393B6F52B7EF26D950F85/9A0ACAA76461BFFF3551EC5E9C410F8A8B25206E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR07720_00": {
+        "npCommunicationId": "NPWR07720_00",
+        "trophyTitleName": "Strike Solitaire 2\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07720_00_00A6A3282AA39AD488CCD056AB3E0B824CBE5114AA/05646DC36C742B616C4B1B4E4711BD3FD4905682.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR07722_00": {
+        "npCommunicationId": "NPWR07722_00",
+        "trophyTitleName": "Grim Fandango Remastered",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07722_00_00AC26005FC0D27E2B67DEBAAEF97DD46D132C00FD/E91F1FB8A5164D90469280AC1DE427D7E7194E1E.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR07728_00": {
+        "npCommunicationId": "NPWR07728_00",
+        "trophyTitleName": "討鬼傳 極",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07728_00_00585887A399D73471C27EA70D28BB29F056285AAB/5FFB1458F031327CE96BAF7EBBAEF7B6791A8A14.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR07729_00": {
+        "npCommunicationId": "NPWR07729_00",
+        "trophyTitleName": "デュラララ!! Relay",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07729_00_005BA4784A98C274D36D8AA5D7BE63C43A58E18FDC/C775051C6F149B271E182D4BA93CBBD5107F8BDA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR07731_00": {
+        "npCommunicationId": "NPWR07731_00",
+        "trophyTitleName": "Tom Clancy's The Division™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07731_00_0005CB40540B74C7C1D25734106ADC4DD7D8EE46A2/E4398EED8ECF86D2C830A6B22B778BD5288BA589.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 14,
+            "bronze": 48
+        },
+        "service": "trophy"
     }
 }
