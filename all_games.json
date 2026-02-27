@@ -59668,5 +59668,135 @@
             "bronze": 6
         },
         "service": "trophy"
+    },
+    "NPWR10723_00": {
+        "npCommunicationId": "NPWR10723_00",
+        "trophyTitleName": "Alien Shooter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10723_00_00082B86921D19C569DAA3BCC026580CAEDAC1F13B/83B6647453BBD4C320C6B0C4C88EF64528C463DB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR10725_00": {
+        "npCommunicationId": "NPWR10725_00",
+        "trophyTitleName": "HEART&SLASH",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10725_00_005996D38EACECD2A08860222DE442F48845A6F9C2/07BFC0286973C6618BA439CA3F1E5133CE0E7AF0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR10726_00": {
+        "npCommunicationId": "NPWR10726_00",
+        "trophyTitleName": "Spy Chameleon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10726_00_0061232995D9198BFCEA244D207CA860AAA4BFA2BD/6458B5BAAD669A0439E340852C4BDA75FC97FD6A.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 2,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR10727_00": {
+        "npCommunicationId": "NPWR10727_00",
+        "trophyTitleName": "Soft Body",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10727_00_0053073A54CB85DA74D0C051164E9D621F56B90C13/760F34CD560A7E41C108DD6C91A92E07F3EE1CA1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR10729_00": {
+        "npCommunicationId": "NPWR10729_00",
+        "trophyTitleName": "Filthy Lucre Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10729_00_00371B718C0398ACE866DC292D276DF90C3331B9CB/FA9592C04F8622BFD9DE478747DEC772472A8B3E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR10730_00": {
+        "npCommunicationId": "NPWR10730_00",
+        "trophyTitleName": "Ittle Dew 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10730_00_0060198D171D52A91EDC40FC30AE412D9191977324/9602EB3BC4EF86DA1BB1E2DAD728A0E50DB56D31.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR10731_00": {
+        "npCommunicationId": "NPWR10731_00",
+        "trophyTitleName": "Ittle Dew 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10731_00_0038ABC1FD3CFB5F3E0834266B6CE51F2C7F8B9DAD/51C089E7389060B9482A00218A8D979DC2058B09.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR10732_00": {
+        "npCommunicationId": "NPWR10732_00",
+        "trophyTitleName": "Rock of Ages 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10732_00_00E244322AD52A5C541B82F9C91596F849E75BD9FD/BBB13B62E898AB51C72A9BD637822956C7D1EADB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR10740_00": {
+        "npCommunicationId": "NPWR10740_00",
+        "trophyTitleName": "EVE: Valkyrie - Warzone™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10740_00_0096DBDF73DF3ECE4A8406A8EFF54791BF6C9CA855/4E94A93409DD56CE8C4CE7DEDF391E5CA8C1958F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR10741_00": {
+        "npCommunicationId": "NPWR10741_00",
+        "trophyTitleName": "燃えろ!!プロ野球 2016",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10741_00_0058AA8E22D954FE44A2873291E313120B997DF7D3/D0B38A63E76B3D9CF6A09654C36E9B826D9F713E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 12
+        },
+        "service": "trophy"
     }
 }
