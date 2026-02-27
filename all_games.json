@@ -85668,5 +85668,135 @@
             "bronze": 30
         },
         "service": "trophy"
+    },
+    "NPWR14131_00": {
+        "npCommunicationId": "NPWR14131_00",
+        "trophyTitleName": "俺達の世界わ終っている。",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14131_00_005BBA7125F1606405810538646D6EBC47FB46E36F/DABB6C3663DD6D42C59AB7341BCAECDA8196704D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 15,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR14132_00": {
+        "npCommunicationId": "NPWR14132_00",
+        "trophyTitleName": "Planetbase",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14132_00_00A4B3F184D36C121325455FD615053EE534645FA9/49410D4AF536DEFE59A34A9FEFB86B39B7377617.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR14133_00": {
+        "npCommunicationId": "NPWR14133_00",
+        "trophyTitleName": "Riverbond",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14133_00_00D870272D8D9F1A372946001C84D22F41D40DDE77/7EDA4C527802C61A02444A5B845966446186EBA8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 11,
+            "bronze": 45
+        },
+        "service": "trophy"
+    },
+    "NPWR14134_00": {
+        "npCommunicationId": "NPWR14134_00",
+        "trophyTitleName": "Semispheres trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14134_00_009E1731E38A3B19517BBFE32008564B94CC3E03C4/E4D5898E809406EE340CF662D79BD7E41B50C479.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14137_00": {
+        "npCommunicationId": "NPWR14137_00",
+        "trophyTitleName": "City Avenger",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14137_00_0049F1E8E3C17AEA3922CB3DE75F265AA851042882/40AB0AB88DD35AEC54AC585C634151FF9C29C3FE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR14138_00": {
+        "npCommunicationId": "NPWR14138_00",
+        "trophyTitleName": "Red Faction Guerrilla Re-Mars-tered",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14138_00_00E022C80798E4C0393835134775747078BF482362/6A3EAEFF1114F6FF33B65FAF8BF6FE3CC16BFE17.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 49
+        },
+        "service": "trophy"
+    },
+    "NPWR14139_00": {
+        "npCommunicationId": "NPWR14139_00",
+        "trophyTitleName": "Observation\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14139_00_0094B502D58D3A4B28CFA75DDBDE183E42390DB901/900A72170A4DFB2EA4EC177BD8F3A5232B30E1A7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR14140_00": {
+        "npCommunicationId": "NPWR14140_00",
+        "trophyTitleName": "Iconoclasts",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14140_00_00D2CAE4159AA314562CC62518ED7CE6DC77B4C37D/B8E5406EAA73578790DB8AEF31A04AF609B32B4C.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR14141_00": {
+        "npCommunicationId": "NPWR14141_00",
+        "trophyTitleName": "Iconoclasts",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14141_00_0075218DA6A64FAE472DB01B21133DC815AAFAC63C/DD001719FB9714353D19AD7CDB9C00A6D4548C44.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR14142_00": {
+        "npCommunicationId": "NPWR14142_00",
+        "trophyTitleName": "Stereo Aereo",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14142_00_00EC218909F4F3C50DB73F9909015FAA26A35F5587/6E701DF95937DD184BAED595D6F74B1B9515178F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 14
+        },
+        "service": "trophy"
     }
 }
