@@ -22878,5 +22878,135 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR03934_00": {
+        "npCommunicationId": "NPWR03934_00",
+        "trophyTitleName": "Narco Terror",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03934_00_00C42183ADAF145B4963B17EF50921FBFF51927137/324FD19C10BCCE88ECCB4959B142F80A4ED7DB68.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR03936_00": {
+        "npCommunicationId": "NPWR03936_00",
+        "trophyTitleName": "South Park™: The Stick of Truth™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03936_00_00433C5D11CE77C848E47D044DA5901063E4DEDC8A/818226016D44501829803DB253C380AFD7746B8A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR03948_00": {
+        "npCommunicationId": "NPWR03948_00",
+        "trophyTitleName": "Darksiders II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03948_00_00D60DE3178A2C25D6427702D81B1D3646ED5B9584/625B835B119B393DD451AF0DFB813FC8170E51E9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR03953_00": {
+        "npCommunicationId": "NPWR03953_00",
+        "trophyTitleName": "UNDER DEFEAT HD DELUXE EDITION",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03953_00_00FC982D677AFF097F5AEE14F647AA6FBA01636699/9A0A2DA4031855C57EDB10F938A2AF43FBA75B32.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 6,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR03959_00": {
+        "npCommunicationId": "NPWR03959_00",
+        "trophyTitleName": "Brothers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03959_00_00EB1934172162980AABD66B0EC81A144FAB48D4A6/0C4E97A1B1A1727725D40E49B9244F98A8B57CB9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR03961_00": {
+        "npCommunicationId": "NPWR03961_00",
+        "trophyTitleName": "GRID 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03961_00_0019BFF480D1A35BC20906563913CD0F0FBA8D380B/250A6522314441C0B4C935D7852B18D058C8D1C3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR03973_00": {
+        "npCommunicationId": "NPWR03973_00",
+        "trophyTitleName": "Uncharted™ Fight for Fortune",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03973_00_0056DEDADBFA9B4095ED927371288FCB315B1A180A/640E935913EB5A5D5C4E0EDD221A53F21229D8C7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR03978_00": {
+        "npCommunicationId": "NPWR03978_00",
+        "trophyTitleName": "Paint Park Plus",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03978_00_005C3855C6A68FC0AA87B34AA8ABF9D1D201685D69/F99A2DCD91DFD44F79D626F3088F0C281334D714.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR03981_00": {
+        "npCommunicationId": "NPWR03981_00",
+        "trophyTitleName": "Z/X トロフィー",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03981_00_0097CD057B5240F5DFF1E9B1E6B2D75DE48EF13FF7/3225B0B07C2B99676D0660EAE11AEDD6968A299A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR03982_00": {
+        "npCommunicationId": "NPWR03982_00",
+        "trophyTitleName": "真・北斗無双",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03982_00_0039FF459A128EEC2EBAD31C5951DEFC9CE420C602/135F85E84FF180D09E7988D88B1F4B926CF4403E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 40
+        },
+        "service": "trophy"
     }
 }
