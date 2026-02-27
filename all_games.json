@@ -18978,5 +18978,135 @@
             "bronze": 42
         },
         "service": "trophy"
+    },
+    "NPWR03138_00": {
+        "npCommunicationId": "NPWR03138_00",
+        "trophyTitleName": "Game of Thrones trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03138_00_00530A5AF149FD8B71ACBCC061C9C38C37997A9828/EB935B16182EE5A4B291AAF8483BB8068534CF25.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 15,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR03139_00": {
+        "npCommunicationId": "NPWR03139_00",
+        "trophyTitleName": "STREET FIGHTER X TEKKEN",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03139_00_0007796EAF930DE402049D7BB3BF6544570B2E400E/46BE58F335B69CE403AE434CCCA3AD96FBC9D764.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 52
+        },
+        "service": "trophy"
+    },
+    "NPWR03143_00": {
+        "npCommunicationId": "NPWR03143_00",
+        "trophyTitleName": "Spy Hunter™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03143_00_00B38D7787EFCA9D16DDB0AC6896669C1DEBD6BEC9/A0E41549FD3EB1D784D319B9CAABCCD5ABE7935D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR03160_00": {
+        "npCommunicationId": "NPWR03160_00",
+        "trophyTitleName": "Pinball Arcade",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03160_00_00377AF45321BE3B109D2144C2884E3D222C978AED/970D64556D47F055C445E8E24BF267F3FBD898A1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 64,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR03162_00": {
+        "npCommunicationId": "NPWR03162_00",
+        "trophyTitleName": "Pinball Arcade",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03162_00_00179481B4467A347922705A73A81A4992183A4653/48B0F302C0BC5AEFB7D2A9EFCFDEDC04BD119476.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 64,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR03165_00": {
+        "npCommunicationId": "NPWR03165_00",
+        "trophyTitleName": "JOJO'S BIZARRE ADVENTURE HD Ver.",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03165_00_0059B6B7D6248DCF5313EC1F54C8B7AAB562FC15F0/E998612C259087782C4E7490921F3847C812BC13.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR03166_00": {
+        "npCommunicationId": "NPWR03166_00",
+        "trophyTitleName": "Sunflowers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03166_00_0012AE4D62D72D866F8BE759D922333805E854B469/1E18A59EB93FA68091654CF4E2734A071032937E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR03169_00": {
+        "npCommunicationId": "NPWR03169_00",
+        "trophyTitleName": "Music+",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03169_00_0016EF4CB29448574638F98DA94E48AE376F732C72/C72C636A866269714B0FCAAA31DCBB107A22E525.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR03170_00": {
+        "npCommunicationId": "NPWR03170_00",
+        "trophyTitleName": "Chronovolt",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03170_00_00FCBE108C9B19D2012E6C94BF770690BFD41801FE/E8794C83B6027D025EB44E94A17A2E3111EA87D4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR03174_00": {
+        "npCommunicationId": "NPWR03174_00",
+        "trophyTitleName": "Darksiders II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03174_00_0026382AE970339BA94A34B5D4292BA0E9E0849541/643C9E0C7C99E48BC8C014A2051A42D187CD6B66.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 41
+        },
+        "service": "trophy"
     }
 }
