@@ -88788,5 +88788,135 @@
             "bronze": 0
         },
         "service": "trophy"
+    },
+    "NPWR14525_00": {
+        "npCommunicationId": "NPWR14525_00",
+        "trophyTitleName": "Xenon Valkyrie +",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14525_00_001FBF314675ADCBF550A90C24B4D256854B767C34/7C8F02AD5B5B25792EEC75719A8E178C5E753F41.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 7,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR14526_00": {
+        "npCommunicationId": "NPWR14526_00",
+        "trophyTitleName": "Ultimate Chicken Horse Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14526_00_00AA13940E46997E5B940A497BC7D02D8F15A368A8/D1AEBBE05444F7C8F819016075D5C7992A41834E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR14528_00": {
+        "npCommunicationId": "NPWR14528_00",
+        "trophyTitleName": "Moonlighter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14528_00_004E101B5446DBD6A3FA08362AB9638D29B2119564/06F0ABE3A6AA26BCAD8EA2AD08E5E6B07D4E0731.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 12,
+            "bronze": 53
+        },
+        "service": "trophy"
+    },
+    "NPWR14529_00": {
+        "npCommunicationId": "NPWR14529_00",
+        "trophyTitleName": "I Am The Hero",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14529_00_0022DC0A39E84102CDA411C5CE9A5DF89C854F9F55/FDF246121EF27E59D6BB72F9E1EBA5B3DC138F45.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 13,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR14530_00": {
+        "npCommunicationId": "NPWR14530_00",
+        "trophyTitleName": "I Am The Hero",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14530_00_0057EBD5913564C60F0056F2B254EE540CA3003394/9C497AEACB7A68759CD6606F97965FD3C4CB7754.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 13,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR14531_00": {
+        "npCommunicationId": "NPWR14531_00",
+        "trophyTitleName": "I Am The Hero",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14531_00_0015F577FCBBDBB7940183FA035A80E7E08D366A44/F9A2160113858EB4705118762BF930F8F74C65BE.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 13,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR14532_00": {
+        "npCommunicationId": "NPWR14532_00",
+        "trophyTitleName": "I Am The Hero",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14532_00_00534BFB0041D8FE8C02BAB16BB7F179720FFAD040/0E613F798FB22050A349A7BDFB43763EF0EBA6B3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 13,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR14533_00": {
+        "npCommunicationId": "NPWR14533_00",
+        "trophyTitleName": "True Fear",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14533_00_008ACBE3BAE961F7AE8D647E3896A03D3E8718280E/0C8FF76DC1720F7E703A834577C3737F6CC8D953.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR14534_00": {
+        "npCommunicationId": "NPWR14534_00",
+        "trophyTitleName": "Energy Invasion",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14534_00_008386511AB6EA5C1B4C0FB43BC3C69F8FE51BA607/99CD8D9525BC39A2BE39EF0B8752F323044F9465.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR14535_00": {
+        "npCommunicationId": "NPWR14535_00",
+        "trophyTitleName": "Energy Invasion",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14535_00_000C471504CED8EF2E82FAEE2E0BE545A6FE8F75D0/470799729FD7A96354AC31E9657232A929FC9182.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 3
+        },
+        "service": "trophy"
     }
 }
