@@ -47318,5 +47318,135 @@
             "bronze": 16
         },
         "service": "trophy"
+    },
+    "NPWR08811_00": {
+        "npCommunicationId": "NPWR08811_00",
+        "trophyTitleName": "うたわれるもの 偽りの仮面",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08811_00_001AFE3DA127D006EBD818AD4AC31812A6F17FBD09/76CA7153C395325AEB1E219D7C09C4BC703EE24F.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR08816_00": {
+        "npCommunicationId": "NPWR08816_00",
+        "trophyTitleName": "Let's Sing 8 - Versión Española",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08816_00_004A7DF5A60EF5785129704EA0F9C7F8EF8A281CC0/D2A9051183C81377D6F5D6DF4FD5642F54B8740F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR08818_00": {
+        "npCommunicationId": "NPWR08818_00",
+        "trophyTitleName": "Lost Dimension",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08818_00_00F334957BE8CBF3F2C2C27BE96737AFC27897A6D9/77D3E891FE9A6BEDA05C87E264EE829CCA2CE04B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR08819_00": {
+        "npCommunicationId": "NPWR08819_00",
+        "trophyTitleName": "Gemini: Heroes Reborn",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08819_00_002BF606337E39BB68A6988E62F9704A2FC6A0CFB9/EC7F7BD6BDB13D5FFA362F929B54EFAAFA5298DA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR08824_00": {
+        "npCommunicationId": "NPWR08824_00",
+        "trophyTitleName": "グリザイアの果実スピンアウト！？\nアイドル魔法少女ちるちる☆みちる",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08824_00_0038937317C6E3ABC7D7AABCD88660E2C0B12D601A/7CE7D00543D22529F3888EDF96F79A94314DB202.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR08825_00": {
+        "npCommunicationId": "NPWR08825_00",
+        "trophyTitleName": "Medieval Defenders",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08825_00_00713075D775487112FFB6504A02811D41CA25F079/9951B6654F6A44C51B96A300DD85448E9FAD1F56.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08826_00": {
+        "npCommunicationId": "NPWR08826_00",
+        "trophyTitleName": "Strike Solitaire",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08826_00_001B5ABDE17D622CC057F00EB0A5C62C276E174AC1/C7D8C73252A75EBFE4CBDB37B3D80F6B115A9E5E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08827_00": {
+        "npCommunicationId": "NPWR08827_00",
+        "trophyTitleName": "The Book of Unwritten Tales 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08827_00_00BBB6F99B733BF164C5BFDB093B71C44499FC0061/B444878028F4A1C5C03A1FA32FBD35DF599A6CCB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 10,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR08831_00": {
+        "npCommunicationId": "NPWR08831_00",
+        "trophyTitleName": "Air Race Speed",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08831_00_0016CC6B829332F3E778FF2DB4FD166F79E4B826BB/55F0676286C5AE6128A4F0F1E829D0BD4BC839D7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 6,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR08833_00": {
+        "npCommunicationId": "NPWR08833_00",
+        "trophyTitleName": "Arcade Archives Ikki",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08833_00_0025D4A7C8FB9220F83099DF2CDD07FD0622C07B8E/F139DDE55DD94E50CEE22604FD3624E35423208B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
