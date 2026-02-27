@@ -69678,5 +69678,135 @@
             "bronze": 28
         },
         "service": "trophy"
+    },
+    "NPWR12051_00": {
+        "npCommunicationId": "NPWR12051_00",
+        "trophyTitleName": "FLOWERS秋篇",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12051_00_00B0173FB41486EA57C982BDC155B8FA34E413100B/0C4B93456D7BD1FE3B065978A18CF06E2B4F5CA3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 3,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR12052_00": {
+        "npCommunicationId": "NPWR12052_00",
+        "trophyTitleName": "果つることなき未来ヨリ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12052_00_000BFC9FDD24D4A71EA3D9CA996C85980C067C4FC9/680F7F641CA4C18EE0E19D970A8D73DBC803C9E7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 4,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR12057_00": {
+        "npCommunicationId": "NPWR12057_00",
+        "trophyTitleName": "#KILLALLZOMBIES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12057_00_0019D26F2613A9DC4CDE953CB05B0E58A22C38A35F/A1326F44D5B0E1ABD4638BB865500D57FE33B831.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR12058_00": {
+        "npCommunicationId": "NPWR12058_00",
+        "trophyTitleName": "Job Simulator Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12058_00_001B83094A9747172D9D579DE78C53E87875F73DEC/B3F4B5D9420D3FAA07C164C24E7C289B469A5647.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR12059_00": {
+        "npCommunicationId": "NPWR12059_00",
+        "trophyTitleName": "Hakuoki: Kyoto Winds",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12059_00_0081A999246AD6A007CF363DF32924D652D77FDD7A/56A083A35C656D0104AD4ED4FB784DD171E81105.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR12061_00": {
+        "npCommunicationId": "NPWR12061_00",
+        "trophyTitleName": "Iron Sea Defenders",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12061_00_0077F1B9D6F9A3087B7D87710E5F9729B0E5EFC929/D98D2EE17874A83CB0B687FB8FB39560A145D398.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR12062_00": {
+        "npCommunicationId": "NPWR12062_00",
+        "trophyTitleName": "Laser League",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12062_00_00C02D55C86D8D6032B3130CCAF2B844B5798F307D/958E830DC29CD910BDE50EABD8D136B37F3BCBB4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 12,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR12063_00": {
+        "npCommunicationId": "NPWR12063_00",
+        "trophyTitleName": "Shaq Fu: A Legend Reborn",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12063_00_00193B01C61E4E3F243A55456EDAE903423294AF4B/10834F551C63F2B83A8BA2240C584E9A1AC6C645.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR12064_00": {
+        "npCommunicationId": "NPWR12064_00",
+        "trophyTitleName": "Warhammer Quest",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12064_00_00813B175F74E36BA3A313BE665E4A3D9514A8F17D/BA40C082AB1503BA8EF4B9349CC4AAF1C667D156.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 4,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR12066_00": {
+        "npCommunicationId": "NPWR12066_00",
+        "trophyTitleName": "Surf World Series",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12066_00_00160A2DA2EC50638EDB142062BBBA8AEE8DFBDC1D/553BA02F3B26149AF0821B616D6C2A64F2CE0D78.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
     }
 }
