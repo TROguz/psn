@@ -48358,5 +48358,135 @@
             "bronze": 23
         },
         "service": "trophy"
+    },
+    "NPWR08965_00": {
+        "npCommunicationId": "NPWR08965_00",
+        "trophyTitleName": "Minecraft: Story Mode",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08965_00_00D7447306166C1503D5FB38BC84AAB09BC4A1223B/21AACC41272C40EACF1957FE1AB6E29254E2A712.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 19,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR08968_00": {
+        "npCommunicationId": "NPWR08968_00",
+        "trophyTitleName": "魔都紅色幽撃隊 DAYBREAK SPECIAL GIGS JAPAN TOUR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08968_00_006DF1FB1C756E581BDCB2225A0A84FA418D7B13EA/0B70247573700C1A26556EF93FC6BEA31C21F113.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR08969_00": {
+        "npCommunicationId": "NPWR08969_00",
+        "trophyTitleName": "Drawn to Death™ (Limited Access)",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08969_00_00F986AA232B5CCEECBD946E725690244674436445/A5512295A086CB7BFE224AB328C74ECB99EB27B8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR08971_00": {
+        "npCommunicationId": "NPWR08971_00",
+        "trophyTitleName": "Grand Ages Medieval",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08971_00_0079E96B3AAC99533D274AE4338887D7403885F189/F93E8209FD5910A0D37D588123DFA8E19D177476.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR08972_00": {
+        "npCommunicationId": "NPWR08972_00",
+        "trophyTitleName": "俺に働けって言われても 酉",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08972_00_00E1E1B4DD3A63ED55E278ADB7878A22048A872532/36C4DD8D43F6CE753B68750F97F95B8DF23409ED.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 4,
+            "bronze": 49
+        },
+        "service": "trophy"
+    },
+    "NPWR08973_00": {
+        "npCommunicationId": "NPWR08973_00",
+        "trophyTitleName": "PNEUMA: BREATH OF LIFE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08973_00_000C9F494BD6B76CA60893EAA424083B9E8CF6AAF3/5B0B8080E5C134CF44C908C16E98B90484B60949.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 8,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR08974_00": {
+        "npCommunicationId": "NPWR08974_00",
+        "trophyTitleName": "Rebel Galaxy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08974_00_007863F1BAF3C3A1A68136B5A3C83AF7A26293E6E5/28E0A6D7B2D8391F6D3A78DBEC7536BA55A98223.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 19,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR08975_00": {
+        "npCommunicationId": "NPWR08975_00",
+        "trophyTitleName": "源氏恋絵巻",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08975_00_00108AEFC3E7314B96460E1C8137021DC19706979B/F091D684FC6EB419E99AE36E7CC0366820D7E328.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 7,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR08976_00": {
+        "npCommunicationId": "NPWR08976_00",
+        "trophyTitleName": "Saint Seiya: Soldiers' Soul",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08976_00_0080EB5DE1BE091734B391C1B82A00A35666F36AFE/3444B81D98B43CCE0358F13BA27A0753FA454722.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR08978_00": {
+        "npCommunicationId": "NPWR08978_00",
+        "trophyTitleName": "The Legend of Dark Witch\n-Chronicle 2D ACT-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08978_00_00328746B87ABC48E5B5F06FB4A217AC7E95645CD9/A5312DD8EF410F71559A157D831B0CBFBCE78BC7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
     }
 }
