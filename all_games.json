@@ -91128,5 +91128,135 @@
             "bronze": 21
         },
         "service": "trophy"
+    },
+    "NPWR14808_00": {
+        "npCommunicationId": "NPWR14808_00",
+        "trophyTitleName": "ACA NEOGEO SAMURAI SHODOWN IV",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14808_00_0076A59C2547E3ECA8CA1DAB79329899F3D7B1C603/99197EA095310038428091BB94177BF340E57068.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14809_00": {
+        "npCommunicationId": "NPWR14809_00",
+        "trophyTitleName": "Time Carnage",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14809_00_00E121BED739670650B1D00F1CD992D4C4881E2429/2924BDC9B69D74E132B63F1FC836D5B1A992C1BE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14810_00": {
+        "npCommunicationId": "NPWR14810_00",
+        "trophyTitleName": "My Time at Portia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14810_00_00307DB9DE2ECA4B684E33B34476EF66CB8FD8A511/E79894C958BD57504A2940DB0F16AEF131EB2C1C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 16,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR14811_00": {
+        "npCommunicationId": "NPWR14811_00",
+        "trophyTitleName": "Torn\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14811_00_003E8A7E54CDD89364809895CBBBF2363EB0A5BFB1/F5C33F58C553788564A61E0D0FF9E8CDB0F79611.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR14815_00": {
+        "npCommunicationId": "NPWR14815_00",
+        "trophyTitleName": "Jettomero",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14815_00_00AF9B4F5A35E6E47E853681D476298CAE5E60E7A0/092D12DE93E865BC381524A501F3F84CFDBF9C6E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 7,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR14816_00": {
+        "npCommunicationId": "NPWR14816_00",
+        "trophyTitleName": "36 Fragments of Midnight",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14816_00_007B6AC2FDE65DAD7CA2972EB6186265E8ABACA6A7/A809D374BA7B2B40CD8029704D909A6FD69F817E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14817_00": {
+        "npCommunicationId": "NPWR14817_00",
+        "trophyTitleName": "36 Fragments of Midnight",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14817_00_004C8378E6FDABDAF9E9E7AFC1B2AA8A65D746323C/6BB3D2D7AB3430B1185C93319E8931C5A40FC762.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14818_00": {
+        "npCommunicationId": "NPWR14818_00",
+        "trophyTitleName": "SQUAREBOY VS BULLIES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14818_00_00E6F3755AB51364888EF2B4A3D67E4F0262A68E23/7CFEC09246C2CEBAF1D8B5563CACFBFA2B1A7530.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR14819_00": {
+        "npCommunicationId": "NPWR14819_00",
+        "trophyTitleName": "SQUAREBOY VS BULLIES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14819_00_00E5ACEB1C5B6C87D6D3051E9E6EA4A06B5B6DA2F3/3FF1FD35D6694442FB80534422A384B624B894FE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR14822_00": {
+        "npCommunicationId": "NPWR14822_00",
+        "trophyTitleName": "Warlock's Tower",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14822_00_00F0A5CF0695AFF82BC0CE6FB9A98C8F40EEB91DB4/EB74D391D638949F8245C9078C53C84C64DAE7FB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 5
+        },
+        "service": "trophy"
     }
 }
