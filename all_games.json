@@ -44588,5 +44588,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR08342_00": {
+        "npCommunicationId": "NPWR08342_00",
+        "trophyTitleName": "Arcade Archives MAGMAX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08342_00_00C62FF67EC8CB26C317AD979BD554E6A41DA2F415/AEC4C0E93E24A71FF9C3679FE33DB5EA2CF1178D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08343_00": {
+        "npCommunicationId": "NPWR08343_00",
+        "trophyTitleName": "One Tap Hero",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08343_00_005C2F008BDE6CB1D639C89B1CB3D4BDBE0D21EC7D/BC523F80C2EDD030D1F964E10C41D5CF00C89227.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 4,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR08347_00": {
+        "npCommunicationId": "NPWR08347_00",
+        "trophyTitleName": "Whispering Willows",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08347_00_00A374B5B2F54A09806808F2E9B09B830C2A483F85/610AB58237E9E42E04F073D937587AC788E18A71.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR08348_00": {
+        "npCommunicationId": "NPWR08348_00",
+        "trophyTitleName": "Hyperdimension Action Neptunia U",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08348_00_00064C0A7AC77AA4EBDC56A2128BB39996CD73A30B/6FE3C0FAF7E13E437F1BC4A8B8831FD9A2096A96.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 6,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR08349_00": {
+        "npCommunicationId": "NPWR08349_00",
+        "trophyTitleName": "Whispering Willows",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08349_00_00474719F067817EE3FF34F1AEECC7E9FCEE05F3BC/6132E5474BB3716D9ACFCA6A2AB89FC8F03FDCA5.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR08350_00": {
+        "npCommunicationId": "NPWR08350_00",
+        "trophyTitleName": "Whispering Willows",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08350_00_00B3EDA3041BE8E4F2C35D1526D332E96B08867BA9/5A0509510CEC574D5AC9A356B0A7798337C4AE0A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR08354_00": {
+        "npCommunicationId": "NPWR08354_00",
+        "trophyTitleName": "電擊文庫 FIGHTING CLIMAX 獎盃組",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08354_00_002CE474EB38DD0B82263EF753AA92D1D41CDC4D5C/3674C50E2860C9EEFBB020EFFBA0ED1FBFAE6511.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR08355_00": {
+        "npCommunicationId": "NPWR08355_00",
+        "trophyTitleName": "Alien Shooter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08355_00_008C79E71110B5FC118A063C1EF4D9B7CA11FA206B/708EDAB6BA0284ED58EDDB1260DE741F70AEB7EF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08357_00": {
+        "npCommunicationId": "NPWR08357_00",
+        "trophyTitleName": "Yorbie: Episode One",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08357_00_0046FF3BC6D94A1D2CF5B6AE057C8AD13FBAAB7737/1EAC00C4C388D4D4F4DA83660D2E2E15B245242A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR08358_00": {
+        "npCommunicationId": "NPWR08358_00",
+        "trophyTitleName": "Disney Infinity 3.0",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08358_00_00C5D581C26F0B5D8313887879247F8ED06810D78E/31EB521D82476E6BA4564E4FF2AC79892CD4D6AE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 13,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
