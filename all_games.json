@@ -36788,5 +36788,135 @@
             "bronze": 14
         },
         "service": "trophy"
+    },
+    "NPWR06898_00": {
+        "npCommunicationId": "NPWR06898_00",
+        "trophyTitleName": "ニセコイ　ヨメイリ！？",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06898_00_00BE0ED8DAD791193B7A9573F234001B1FAF7B1F71/3B7D68F00E587761241B17E97123AEF6B482392A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR06899_00": {
+        "npCommunicationId": "NPWR06899_00",
+        "trophyTitleName": "WWE 2K15",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06899_00_002B9474B1739B7F9B7800D4EE673619FDF7927E85/08E9590A1D00FF856BB791F8FAF73D758D296079.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR06900_00": {
+        "npCommunicationId": "NPWR06900_00",
+        "trophyTitleName": "WWE 2K15",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06900_00_00DE3D6F0F76E1127C858A44EA8BADE3DFA0C07769/9CB9CDAB79D3A5147A21CA838CEF4D91262A8F98.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 6,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR06901_00": {
+        "npCommunicationId": "NPWR06901_00",
+        "trophyTitleName": "銀星囲碁 ネクストジェネレーション",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06901_00_009B2071F2C7361680317078C7A748A901AA810F4F/FBE7CFDA611EADC00674EA884A7D8C7582FA6308.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR06906_00": {
+        "npCommunicationId": "NPWR06906_00",
+        "trophyTitleName": "Trivial Pursuit Live!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06906_00_002008EEB9DE9F23C536355BD6C3094BC3CA94241F/E574C88B2F6B6A1E1E04B1E7912B1C508EE588A1.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR06907_00": {
+        "npCommunicationId": "NPWR06907_00",
+        "trophyTitleName": "Project Root",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06907_00_00578A4D17F494687464D283BD60F9584256363A7E/229DF06FCF267393E2793BCD5E3C2E22FAAC79C5.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR06912_00": {
+        "npCommunicationId": "NPWR06912_00",
+        "trophyTitleName": "Panda Run",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06912_00_00723BA83F18A82DD33D4BDB6D7491B7D8826C45BA/5646CE20A1AA85D6056F6AF35A1F029E44ECC3A9.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR06916_00": {
+        "npCommunicationId": "NPWR06916_00",
+        "trophyTitleName": "Gravity Badgers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06916_00_0043C48EC28879355E731C6D60A5FDBAE261DBCE15/834FA1D55EC5815C00CA39CE091A2BAB261A4C0B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR06918_00": {
+        "npCommunicationId": "NPWR06918_00",
+        "trophyTitleName": "Flyhunter Origins",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06918_00_00A90032B821DCCC50E275E3C0114C93376C5E887A/14FCABF498864AB93C32F2EF218A8E6F7978648B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR06922_00": {
+        "npCommunicationId": "NPWR06922_00",
+        "trophyTitleName": "The Binding of Isaac: Rebirth",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06922_00_00C46EDD6EC84E341F052EA9819C6B91FA55857CE0/C5F5EC6CF5CAC14E127CC22C14C9889F1128A338.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 69
+        },
+        "service": "trophy"
     }
 }
