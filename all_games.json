@@ -29508,5 +29508,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR05294_00": {
+        "npCommunicationId": "NPWR05294_00",
+        "trophyTitleName": "Warframe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05294_00_00D670A8F666894EC5635FB6FE92F35333A6169553/0FD7F6384828E26C4F609428187C876B6BE314E0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 8,
+            "silver": 22,
+            "bronze": 54
+        },
+        "service": "trophy"
+    },
+    "NPWR05297_00": {
+        "npCommunicationId": "NPWR05297_00",
+        "trophyTitleName": "Anomaly 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05297_00_008F607EE63603C4B61337C4D19D0DA5D81D11E786/12A71B4F199AFC5105F70523356EE2F15A753354.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR05300_00": {
+        "npCommunicationId": "NPWR05300_00",
+        "trophyTitleName": "EarthDefenseForce 2025",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05300_00_00991651F063BD7568862030E7901A80E726F1F0C9/26CDCBEB754E78A7E045D839065C4C00D7111EBE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 15,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR05301_00": {
+        "npCommunicationId": "NPWR05301_00",
+        "trophyTitleName": "英雄伝説 碧の軌跡 Evolution",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05301_00_005262E8E1D04ED7D71167D346854DB2EB35C1540C/FD214A1545DB48172664B974257CE39016374962.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 4,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR05304_00": {
+        "npCommunicationId": "NPWR05304_00",
+        "trophyTitleName": "WHITE ALBUM2 幸せの向こう側",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05304_00_00A47E014EFE7D7CA67D677094F51001A31266AA2F/E468033419A78515E862E4274C3FE3374D0A72D4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR05308_00": {
+        "npCommunicationId": "NPWR05308_00",
+        "trophyTitleName": "魁!!男塾 ～日本よ、これが男である！～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05308_00_00774F721F18C1FA025D6D000359145E4EBC6EF561/EB1CF6F07CC195611D5C750486D05CC6D4B743DD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 6,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR05314_00": {
+        "npCommunicationId": "NPWR05314_00",
+        "trophyTitleName": "Dead Nation™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05314_00_007E2183C746CF471EEF76EEC09D881D1ACE1A7469/4D73553D5804DC252823B8E0AAE9BA05BB077A2C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR05317_00": {
+        "npCommunicationId": "NPWR05317_00",
+        "trophyTitleName": "The Amazing Spider-Man",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05317_00_0004AE344B565BADA94AA334E082498034B70DD01F/5F16F4ECE8BBED2704228A765CBC00853FCDB7C4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR05318_00": {
+        "npCommunicationId": "NPWR05318_00",
+        "trophyTitleName": "Sound Shapes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05318_00_007D90E5A1B9534C336EDFCA5D82142A89FE983BB8/91E77852719A7B95D3012F0FEEC5290C8C3B2EE6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 87,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR05321_00": {
+        "npCommunicationId": "NPWR05321_00",
+        "trophyTitleName": "真・鋼彈無雙",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05321_00_005CE22E7EED449D20313FD1EA1A492C1F44C59CC0/4465716A9D8AD4BB77F8F0662AEF5C1A1CCEE1A6.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
     }
 }
