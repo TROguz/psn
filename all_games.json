@@ -64608,5 +64608,135 @@
             "bronze": 42
         },
         "service": "trophy"
+    },
+    "NPWR11388_00": {
+        "npCommunicationId": "NPWR11388_00",
+        "trophyTitleName": "Blue Rider",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11388_00_0075CB1999BD702E281F61B1F2A53A47CEF126A49F/019FC6943BA26E1FFEC7805D2795B7CC6AA2F8B1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11389_00": {
+        "npCommunicationId": "NPWR11389_00",
+        "trophyTitleName": "Shift Happens",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11389_00_00F3A378C6E420857A57EBC528A22822946E643D49/3D8B2BF4A6FD56D025C93569ED0E97745437EC27.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR11391_00": {
+        "npCommunicationId": "NPWR11391_00",
+        "trophyTitleName": "Bard's Gold",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11391_00_00687D8A292CE60F590470FC3A7EA020A820F37F85/1B73711F3B4E2BA7459C5B936822263EC7C21AD6.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11392_00": {
+        "npCommunicationId": "NPWR11392_00",
+        "trophyTitleName": "オルフレール ～幸福の花束～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11392_00_00E9702E59ECA7110A9A7E05C534B4221356422AC2/45EA9F0E5EAD82BBF7FDF62659DA7FE9F012DCCA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR11393_00": {
+        "npCommunicationId": "NPWR11393_00",
+        "trophyTitleName": "星織ユメミライ Converted Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11393_00_00FE07DB4A29ADE6A00F0C4B01C9137109E0216232/94B52CB031496DEB984EF91F997F2CFB764647A9.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 6,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR11394_00": {
+        "npCommunicationId": "NPWR11394_00",
+        "trophyTitleName": "Neo ATLAS 1469",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11394_00_00E6DB88BB433E8C3BE6C4B270D50E2EC0D0752A08/B7CB65609DEBCE06557F0883FCD01B398031BFC8.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 17,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR11395_00": {
+        "npCommunicationId": "NPWR11395_00",
+        "trophyTitleName": "DiadraEmpty",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11395_00_0089464EEC18E10D36938899D898D6FFEA0BA628A4/047FD6AC43F20FF9026BD7F3F9D120B02895B6C9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR11399_00": {
+        "npCommunicationId": "NPWR11399_00",
+        "trophyTitleName": "Mother Russia Bleeds",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11399_00_003ECBFAE14AD0006903A7409950A608F93F712CD2/076132A022C48EA6080A33BF39A45F518C8F925F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 5,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR11400_00": {
+        "npCommunicationId": "NPWR11400_00",
+        "trophyTitleName": "Bard's Gold",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11400_00_00476DC9DECEA20A0B173AA1CB23354BB0F7E5134F/529E23B9CA61330938C01A05EBB07617C6395136.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11401_00": {
+        "npCommunicationId": "NPWR11401_00",
+        "trophyTitleName": "South Park™: The Fractured But Whole™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11401_00_00E79CCF48EA4680189C9B5887677C4E558F6DFAC3/97EA73EF0FAF9D4DF8095C237BBEB396A6CB11B9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 19
+        },
+        "service": "trophy"
     }
 }
