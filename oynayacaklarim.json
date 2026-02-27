@@ -609,5 +609,18 @@
             "bronze": 34
         },
         "service": "trophy"
+    },
+    "NPWR36850_00": {
+        "npCommunicationId": "NPWR36850_00",
+        "trophyTitleName": "The Fairy's Song",
+        "trophyTitleIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR36850_00/ebfab0fe-e6cb-4aab-bf5a-e8a8a287ef4a.png",
+        "trophyTitlePlatform": "PS5",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 5,
+            "bronze": 0
+        },
+        "service": "trophy2"
     }
 }
