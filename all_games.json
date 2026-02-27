@@ -31848,5 +31848,135 @@
             "bronze": 20
         },
         "service": "trophy"
+    },
+    "NPWR05787_00": {
+        "npCommunicationId": "NPWR05787_00",
+        "trophyTitleName": "ドリームクラブGogo.",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05787_00_006EE7E6BAAB7F11F73DECB8CDAD45C6B40E2DECCE/8B9C0F94FE7E54263D15331D4BAACA0E2A6E5C1E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 11,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR05791_00": {
+        "npCommunicationId": "NPWR05791_00",
+        "trophyTitleName": "Hohokum",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05791_00_00DB7740FE45AA46DABCD7EEC333CE2C0A4A450C54/E7DF49B55CF112FCDDEE3EE7B25FCC8E389C7231.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR05792_00": {
+        "npCommunicationId": "NPWR05792_00",
+        "trophyTitleName": "Hohokum",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05792_00_00DD54E859A4713514EAEA56D6ED466B0BE7125DCA/37C1119AA26D2F5883350B9305D03F2BEDA30DA7.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR05794_00": {
+        "npCommunicationId": "NPWR05794_00",
+        "trophyTitleName": "Jスターズ ビクトリーバーサス",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05794_00_000EFAFCF269FD8CDF7BB37413DBD5551C72FB65F3/898397B22F6AC70A396A8BD2BEDB71FBC19A552A.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR05796_00": {
+        "npCommunicationId": "NPWR05796_00",
+        "trophyTitleName": "Master Reboot",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05796_00_0071BFECBF16C119F817522B5A208E237EB4070175/A7D6BFC155355BC5E613ACC60E1C739FB2D2C40A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR05798_00": {
+        "npCommunicationId": "NPWR05798_00",
+        "trophyTitleName": "MotoGP™13 Compact",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05798_00_00F6CC543EA0A65605A6B7C6D430953E30FFB1FAC9/A31A8988F2AE1F2EF659C50CC42B65219BC39922.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR05799_00": {
+        "npCommunicationId": "NPWR05799_00",
+        "trophyTitleName": "The Amazing Spider-Man 2™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05799_00_00650305AF76F1413D9BC1C9259BC43761C2C2072F/4B0A16F861F9D11B6694BBC8EB56A1CD631676B6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR05800_00": {
+        "npCommunicationId": "NPWR05800_00",
+        "trophyTitleName": "MotoGP™13 Compact",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05800_00_00D4BF1630EAFFA3EB48FADDEE0C14E2BDE1BBFE80/59E693636BBC89714535150A9979F0CD853F6441.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR05808_00": {
+        "npCommunicationId": "NPWR05808_00",
+        "trophyTitleName": "The Amazing Spider-Man 2™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05808_00_00D1A59E0B58F811D2FCF78509FED866FB207A0496/D879F27245E1E55832E78D43A96ADD454E8F87C4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR05813_00": {
+        "npCommunicationId": "NPWR05813_00",
+        "trophyTitleName": "SENRAN KAGURA Bon Appetit! (Hanzo x Crimson Squad)",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05813_00_009C5095BFC9A09E95494DF044BD014CA92CE1F80E/36E7175C3777D25A1029F908F5F6BE6FEFD23492.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 28
+        },
+        "service": "trophy"
     }
 }
