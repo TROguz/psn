@@ -57718,5 +57718,135 @@
             "bronze": 29
         },
         "service": "trophy"
+    },
+    "NPWR10410_00": {
+        "npCommunicationId": "NPWR10410_00",
+        "trophyTitleName": "Shu",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10410_00_0050D7E8FB5F0515A5E381BC0CC86D7EA909353986/F96D27C29076A35ECA259C6E64BBC7473CBD87DF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR10415_00": {
+        "npCommunicationId": "NPWR10415_00",
+        "trophyTitleName": "シルヴァリオヴェンデッタ -Verse of Orpheus-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10415_00_0038752AB7C6E0F22280DFEDDA929CEB0FFD159276/6BCC8061C615855063FDDC9A56546160D18BFE82.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR10420_00": {
+        "npCommunicationId": "NPWR10420_00",
+        "trophyTitleName": "Trials of the Blood Dragon™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10420_00_0081B24E67739B2C55CB7DB47D371F295F6500A911/1352E2A4017C06ED7D360EE6A43E5549D4188A30.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 11,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR10424_00": {
+        "npCommunicationId": "NPWR10424_00",
+        "trophyTitleName": "Bound",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10424_00_00F52DD2F98DC688630540FDC9C9B2635565442A1C/0AF1DFC9369538DF58615795B9828AACAAB8C6A5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR10427_00": {
+        "npCommunicationId": "NPWR10427_00",
+        "trophyTitleName": "Quell Memento",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10427_00_0091FE86954477BD1ABF90C685AA1750B102809795/950F64B0C734EF7280A3A49F866E9941258CC788.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR10428_00": {
+        "npCommunicationId": "NPWR10428_00",
+        "trophyTitleName": "Krinkle Krusher Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10428_00_00DC57C662A2F13C3A6A5341A19B587D27EF3ACF76/105D6591072BF18A976D6E3AE07A01BC25AB94AC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10430_00": {
+        "npCommunicationId": "NPWR10430_00",
+        "trophyTitleName": "Krinkle Krusher Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10430_00_004AA501027BF25F1150F821F24CDF9B780FB61558/06213C33DDECD19EE2290FD5A5A4D9D53A86AF0C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10431_00": {
+        "npCommunicationId": "NPWR10431_00",
+        "trophyTitleName": "INVERSUS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10431_00_00FAF552C2888F5053421152A5BCC2E4E5EF4E1474/BD873FBAC2618C39896255C7C72525DFA5FF5831.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR10432_00": {
+        "npCommunicationId": "NPWR10432_00",
+        "trophyTitleName": "SAMURAI WARRIORS 4 Empires",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10432_00_00C60D19D6785CF96857963AD149468896CE87CB87/C32622E65B57761411AB9B0B63BA21D629BC9129.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR10441_00": {
+        "npCommunicationId": "NPWR10441_00",
+        "trophyTitleName": "Tour de France 2016",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10441_00_00498DF8472271BD3350B1BFF2DB3D964E71B7E0B2/0C28D4B5C457EC84749037774F049710885A5463.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 16
+        },
+        "service": "trophy"
     }
 }
