@@ -21838,5 +21838,135 @@
             "bronze": 40
         },
         "service": "trophy"
+    },
+    "NPWR03710_00": {
+        "npCommunicationId": "NPWR03710_00",
+        "trophyTitleName": "Papo & Yo Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03710_00_00624556061E54E42F4F559C375BCC27F0FFFFAF3F/FB759A45A72466B3C377BED548EDFC17D8108A9A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR03713_00": {
+        "npCommunicationId": "NPWR03713_00",
+        "trophyTitleName": "信長の野望･天道 with パワーアップキット",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03713_00_001F62A62995A881559BA9E032E3C6F114AAC0B324/1A0FA097EA7570CED696B7883BE4545F8FEE71DF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 20,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR03714_00": {
+        "npCommunicationId": "NPWR03714_00",
+        "trophyTitleName": "WORLD SOCCER Winning Eleven 2013",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03714_00_003BE6E367AE9B54D4DFE50A333E402556DD4D98EF/6FC11BA28C4E3CD34A97501CCAD9DC79ABA60F77.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 21,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR03718_00": {
+        "npCommunicationId": "NPWR03718_00",
+        "trophyTitleName": "DEAD OR ALIVE 5",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03718_00_0095C508B3C759224458DD8FEC0D66F5611BCA9A93/5FBF75E076806F0881558CE017820D69CF4E7C71.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR03720_00": {
+        "npCommunicationId": "NPWR03720_00",
+        "trophyTitleName": "ネクレボ 宅建試験",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03720_00_0051B62353F72B2C9E662D9BA528CA89C33895DFC4/222029DC23DDCA4B28F64DDDF7573275FD684BE6.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR03721_00": {
+        "npCommunicationId": "NPWR03721_00",
+        "trophyTitleName": "ネクレボ 情報セキュリティスペシャリスト試験・ネットワークスペシャリスト試験",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03721_00_0070F5C1786B05F90A5799E151C0D466D3B3B95A25/17D1BD7201B290952332BD581EA40470CD80839A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR03722_00": {
+        "npCommunicationId": "NPWR03722_00",
+        "trophyTitleName": "WORLD SOCCER Winning Eleven 2013",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03722_00_00651187F9BF4DBD7AF65ED4B76F26D14193C6786C/DCFA4F4D06B4CB082C52562DB6913914ECD5306E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 21,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR03724_00": {
+        "npCommunicationId": "NPWR03724_00",
+        "trophyTitleName": "マクロス30～銀河を繋ぐ歌声～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03724_00_008BB9EC63ED5D3F7CB80F309C7F739BFD9C980A53/3817A3A2A2CBC2CA8DAE25A224FE2399DA013C09.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR03725_00": {
+        "npCommunicationId": "NPWR03725_00",
+        "trophyTitleName": "The Testament of Sherlock Holmes Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03725_00_007DF31D00925964BB174A52D2F1B227E4842FC6BD/37D1F709B96F854595C65E435144DA92C5D170E3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR03726_00": {
+        "npCommunicationId": "NPWR03726_00",
+        "trophyTitleName": "激アツ!! パチゲー魂MAX ヱヴァンゲリヲン “7” × “生命の鼓動”",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03726_00_00203F425E1B606D8AA7EC19B2D428A0510B4ABCED/63AE28678E144030D9E390F814D0D2BD35C092EC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 28
+        },
+        "service": "trophy"
     }
 }
