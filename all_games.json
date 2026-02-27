@@ -82548,5 +82548,135 @@
             "bronze": 38
         },
         "service": "trophy"
+    },
+    "NPWR13710_00": {
+        "npCommunicationId": "NPWR13710_00",
+        "trophyTitleName": "Ys VIII -Lacrimosa of DANA-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13710_00_0017EB4C9609D3BDDD153DDB17FF79CF3F0D0E319F/9C4D930AC429B3575101133A0A8264FEDE33B712.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR13711_00": {
+        "npCommunicationId": "NPWR13711_00",
+        "trophyTitleName": "Ys VIII -Lacrimosa of DANA-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13711_00_005EB2ED7E969D8422376BFE0989D1F4ACC1573A76/776CB9804661B34984A97CBED43EE7F0AD754441.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 11,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR13712_00": {
+        "npCommunicationId": "NPWR13712_00",
+        "trophyTitleName": "Ys VIII -Lacrimosa of DANA-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13712_00_00A2877002ED794B5B823A5891342B9D639FDB1D71/ACEB20089BED2BB584237A4F93C0467B3BFDFD6E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 11,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR13713_00": {
+        "npCommunicationId": "NPWR13713_00",
+        "trophyTitleName": "KAMEN RIDER Climax Fighters",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13713_00_0041522D2559E0B499A7A48F20F1A4864ADFDFB051/D22335D0BAC89DA462F45BBCAA21DF06870F110E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR13714_00": {
+        "npCommunicationId": "NPWR13714_00",
+        "trophyTitleName": "まいてつ -pure station-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13714_00_00D8EB2E6D48081B65C2F192AEF6C80B6CE7A7AF67/1485DFF8DAF14772170C5BBBA353C9E4740660F8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 1,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR13715_00": {
+        "npCommunicationId": "NPWR13715_00",
+        "trophyTitleName": "Light Tracer",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13715_00_00852E0EB144C7CABA9715129B59D6256FE7A8A421/843C656A06438E7D882CA6BAEADED47013BF82A2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR13716_00": {
+        "npCommunicationId": "NPWR13716_00",
+        "trophyTitleName": "超级节拍",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13716_00_009C1B3F48F647D396F2ABC1856E015D56A362D787/6E7CB79A92D5D0BF8CDA71940FD57C7DD6624A09.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR13717_00": {
+        "npCommunicationId": "NPWR13717_00",
+        "trophyTitleName": "Rugby 18",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13717_00_003285AE7C081AE3E52340500D9E3362A67B375DDB/BD0D0CA28EBBDE8BB6FCEC3772B9C2085B678CFA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR13718_00": {
+        "npCommunicationId": "NPWR13718_00",
+        "trophyTitleName": "Energy Balance",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13718_00_0009CA7EA696D20AFB4C821EEC1BF9D3D8D2FC5FF3/EDFCB97DA32116386EE40C4F7F6465497D61FDD0.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR13719_00": {
+        "npCommunicationId": "NPWR13719_00",
+        "trophyTitleName": "Life is Strange 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13719_00_00A72EA534726E4CB30CF97E4D9E3A44A119E70232/0B77B8168D8436EC369E575D6FCE25DA23EAFF54.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 15,
+            "bronze": 30
+        },
+        "service": "trophy"
     }
 }
