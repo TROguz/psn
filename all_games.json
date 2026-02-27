@@ -73318,5 +73318,135 @@
             "bronze": 31
         },
         "service": "trophy"
+    },
+    "NPWR12513_00": {
+        "npCommunicationId": "NPWR12513_00",
+        "trophyTitleName": "Move Or Die",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12513_00_009982CC30C9FAEA583C77CEB22ACA038B8003F2D2/EA5733F9E0108F3711B167E42E23B472ABA919D9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR12514_00": {
+        "npCommunicationId": "NPWR12514_00",
+        "trophyTitleName": "Far Cry® 5",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12514_00_009BCFE499309C300848B10C92F26E4E6F65E0CCB8/86ECC1A6B4A17FDDC6BBD9631DBAB8F9CDF80E1F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 14,
+            "bronze": 53
+        },
+        "service": "trophy"
+    },
+    "NPWR12515_00": {
+        "npCommunicationId": "NPWR12515_00",
+        "trophyTitleName": "life of black tiger",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12515_00_0017C878DA94017F44CEAAD898453B8EC84D1DD256/453C25BC03DEE981C5477F2C3C5230FCE7C8CF2A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR12518_00": {
+        "npCommunicationId": "NPWR12518_00",
+        "trophyTitleName": "God of War",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12518_00_009C1232E900005FE409857E926767DFE9CAC7F371/CCDC60CADE4B3970C348FEFDE0094BA95C0A802F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR12519_00": {
+        "npCommunicationId": "NPWR12519_00",
+        "trophyTitleName": "Crawl",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12519_00_005FF6EACF5D65C782168E831E34E936FBDA31C810/9037BD0F6D9FEBEEFDE5C26C54FC880FD2004FF9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 15,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR12520_00": {
+        "npCommunicationId": "NPWR12520_00",
+        "trophyTitleName": "ペルソナ５ ダンシング・スターナイト",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12520_00_00DFF2E029ECB4931FA8E44602699210DDBEFB70E9/3521608A95F7B93957DB5847CB212A98B5042774.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR12521_00": {
+        "npCommunicationId": "NPWR12521_00",
+        "trophyTitleName": "BERSERK and the Band of the Hawk",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12521_00_00B6D649051ABB07CB642A6435FF35E2338D1DA223/53E046FA175BD99C9E97B74F634104555578D564.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 14,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR12524_00": {
+        "npCommunicationId": "NPWR12524_00",
+        "trophyTitleName": "Unearthing Mars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12524_00_00CA150CD4AA7F94EC993361A4A9F7F8604F32424D/7259758FB7CA968D5451BEB745AAA61839515B78.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR12526_00": {
+        "npCommunicationId": "NPWR12526_00",
+        "trophyTitleName": "Tokyo Twilight Ghost Hunters Daybreak: Special Gigs",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12526_00_00C696B4B0992666496AD2BA27C4073FB1D4285CB1/8D616EDB28A6A5057F8170AB8E4EA499F7D45E3A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR12527_00": {
+        "npCommunicationId": "NPWR12527_00",
+        "trophyTitleName": "Skyforge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12527_00_0089171C87033666DD1592D10F177065068528753B/911FE512109801E42A12BD017FFDFC8C57D7F6FA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 17,
+            "bronze": 39
+        },
+        "service": "trophy"
     }
 }
