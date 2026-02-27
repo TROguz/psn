@@ -52908,5 +52908,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR09650_00": {
+        "npCommunicationId": "NPWR09650_00",
+        "trophyTitleName": "実況パワフルプロ野球２０１６",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09650_00_005DAAF3CE29FDDF75770B9C5DCAA85E03B0014C60/302CD8A263F6E0BA51D24B897C404C0845798B0E.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 7,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR09652_00": {
+        "npCommunicationId": "NPWR09652_00",
+        "trophyTitleName": "forma.8",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09652_00_007492D150D519891A0CC44F13A6B7E5AE3EA450E5/8F44EF9C0B89ECFDE4869F49CFA8FB20EF718C2A.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR09654_00": {
+        "npCommunicationId": "NPWR09654_00",
+        "trophyTitleName": "Tiny Troopers Joint Ops:Zombie Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09654_00_00B61D14E7532FFC92A149BE6AB67CC14570F3ED19/9A41B9DE6CEB862613FBECEDC9610906FE35173F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR09655_00": {
+        "npCommunicationId": "NPWR09655_00",
+        "trophyTitleName": "MOBILE SUIT GUNDAM EXTREME VS-FORCE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09655_00_0011498F69994A74816C73FD7B1CF09EBEDBA97B8E/EBCB23A0AB5720D58C79EAF2ED7931E26DBD3EFD.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR09657_00": {
+        "npCommunicationId": "NPWR09657_00",
+        "trophyTitleName": "The Sun and Moon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09657_00_00A77066C22BE312B34ACCCF044850A5F49C5D083A/02EB252E7F31ACA1166F29F0704604EB2DC06C54.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09658_00": {
+        "npCommunicationId": "NPWR09658_00",
+        "trophyTitleName": "Uncanny Valley",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09658_00_007A9C32E8E5C53A5A8B475D092CB1F69EA53F9BC9/162FBD64D118A754D085DF895786AF92BE87FCDD.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09659_00": {
+        "npCommunicationId": "NPWR09659_00",
+        "trophyTitleName": "Paranautical Activity",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09659_00_008BDCF154D4506EBBEEC1FA306D2E415991BE29DA/CE87FE7B80D4DAF5F82AF345922EC9ABE6A67B34.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09661_00": {
+        "npCommunicationId": "NPWR09661_00",
+        "trophyTitleName": "Unmechanical Extended",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09661_00_001B47365E7BF7A307C1B4B58399044BEBBD31D816/7CB442A78876CC99E9432965CA76EC6B4590636A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR09662_00": {
+        "npCommunicationId": "NPWR09662_00",
+        "trophyTitleName": "Unmechanical Extended",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09662_00_00BB35A67FA23F746E75DCC320429CFE8A14FE590B/95D9FAD9D4936EC11FD34E1381E15E1F67CA6ED9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR09663_00": {
+        "npCommunicationId": "NPWR09663_00",
+        "trophyTitleName": "Mekazoo Trophy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09663_00_005EEFC2DDDD57F6AA97596832EE0B358413C55C4F/A7451CCB1EC18D778ED0EE20AF4D72724FADFCF8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 3,
+            "bronze": 12
+        },
+        "service": "trophy"
     }
 }
