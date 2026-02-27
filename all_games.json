@@ -55768,5 +55768,135 @@
             "bronze": 17
         },
         "service": "trophy"
+    },
+    "NPWR10089_00": {
+        "npCommunicationId": "NPWR10089_00",
+        "trophyTitleName": "悠久のティアブレイド -Lost Chronicle-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10089_00_00179A5C1AC693A57F009DDEABB36402DA438EE53D/D74D8274A3811E38EF63CC1A8214FB54136B40B7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10090_00": {
+        "npCommunicationId": "NPWR10090_00",
+        "trophyTitleName": "격차원태그 블랑+넵튠 VS 좀비 군단",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10090_00_00A0212FB2C2C81A54CEA38E9022C6AC2442C110DC/6A9BE340F05FC9E8C488CD7EA7308F69F7FEC6AB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR10092_00": {
+        "npCommunicationId": "NPWR10092_00",
+        "trophyTitleName": "Three Fourths Home: Extended Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10092_00_00C5D752D8F9E5B446AA8B0FF3E300EE693DF18C06/A290F9B4368F4E6C772D742FB9761C1001396786.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR10096_00": {
+        "npCommunicationId": "NPWR10096_00",
+        "trophyTitleName": "Trillion: God of Destruction",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10096_00_00D5080A3CF1E94F89297F2D03F3C71699EEAAD04F/015663EF8906C3F43243B148513676FD6EE7E10C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR10098_00": {
+        "npCommunicationId": "NPWR10098_00",
+        "trophyTitleName": "三国志13",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10098_00_003D16710802C576B33A1FE2BD969AE2403FADC084/5347D2EDD87042BF80F266FB2E9D44DB4E200D72.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 18,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR10099_00": {
+        "npCommunicationId": "NPWR10099_00",
+        "trophyTitleName": "三國志13",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10099_00_00843ECCC9C6279178DD8D9A6A8CA22D81FEEB9244/6226D3ACAA89BE6A076A620B4089E489C4CD90AF.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 18,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR10100_00": {
+        "npCommunicationId": "NPWR10100_00",
+        "trophyTitleName": "三国恋戦記～思いでがえし～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10100_00_0099499B09CA2E680713F1222598516FFBD3026CE6/BFAC11FC07463786C36CB673A992ABA9639EDF9B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 20,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR10101_00": {
+        "npCommunicationId": "NPWR10101_00",
+        "trophyTitleName": "Crypt of the NecroDancer",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10101_00_004B86EAE2C3C3357B17B178DFE986D522D69DE1B5/233316C268AFA1B776B8B0F289D40B5794E3B552.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR10102_00": {
+        "npCommunicationId": "NPWR10102_00",
+        "trophyTitleName": "RESIDENT EVIL 6",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10102_00_00793EB25E96D7CA5D14FFE7C74945C73EE481B445/9D80FC549EE275E52D227574A6258C4F8586EBA2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 15,
+            "bronze": 49
+        },
+        "service": "trophy"
+    },
+    "NPWR10106_00": {
+        "npCommunicationId": "NPWR10106_00",
+        "trophyTitleName": "東方スカイアリーナ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10106_00_0026E51A7BD98181D4772853C1B2625E4A74BA0688/F3B461F9E72C10233034752E8EBE5FB8A1A8A903.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 36
+        },
+        "service": "trophy"
     }
 }
