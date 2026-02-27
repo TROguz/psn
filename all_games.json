@@ -77608,5 +77608,135 @@
             "bronze": 2
         },
         "service": "trophy"
+    },
+    "NPWR13041_00": {
+        "npCommunicationId": "NPWR13041_00",
+        "trophyTitleName": "Aces of the Luftwaffe Squadron",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13041_00_00B32B5E389EF7F07FE61D9BD5ED915400F7027D83/1868DA50CC08642CB12B6C77E0471A8096849C34.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 12,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR13042_00": {
+        "npCommunicationId": "NPWR13042_00",
+        "trophyTitleName": "Spellspire",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13042_00_004F441C5E266AB086EE5B8013B933364578D66AD3/A2FDDE6133765F4ED48190225755BD8F2CC513FF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 5,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR13043_00": {
+        "npCommunicationId": "NPWR13043_00",
+        "trophyTitleName": "Plantera",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13043_00_006D252AB111BE32CDD08B05F8BA411E476E47F151/2AF4B7789C2A7B8D71EC37C7F6C9FBAFBD356170.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR13044_00": {
+        "npCommunicationId": "NPWR13044_00",
+        "trophyTitleName": "Cyberdimension Neptunia: 4 Goddesses Online",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13044_00_007B8FBE1DC511B30DF7938AA870336DA14003A88D/90466A44668D44B586F34151A9C868B928297C86.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR13051_00": {
+        "npCommunicationId": "NPWR13051_00",
+        "trophyTitleName": "CHAOS;CHILD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13051_00_007CA1B38511351EB9105F69011F6B6B86ACBC56A3/4F9DD112C371D502E970287BF9768CC2D07EF773.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR13052_00": {
+        "npCommunicationId": "NPWR13052_00",
+        "trophyTitleName": "Enigmatis 2: The Mists of Ravenwood",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13052_00_0035501940827779BCA952BED7A183DD7EA9DA50E6/28DD80D7F7D336625BC5C8E205E2AE2BDA8C12A3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR13053_00": {
+        "npCommunicationId": "NPWR13053_00",
+        "trophyTitleName": "True Fear",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13053_00_00476B4A691C660762093A3BE1E875C552B8467E04/E3857B865684507642804E1BA4B4354BF40F4434.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR13054_00": {
+        "npCommunicationId": "NPWR13054_00",
+        "trophyTitleName": "Eventide: Slavic Fable",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13054_00_008F6F15F56C636A7697E681CFA3127888E39A923B/C38A518D638CB0532799D4A2B612D77EC225F43C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR13058_00": {
+        "npCommunicationId": "NPWR13058_00",
+        "trophyTitleName": "페르소나 5",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13058_00_001478DE802F8F3757981169EDBFEAAC8D901FBF2C/F4DBFF8A20410925B5D63A0ABB47363ACA1D02CE.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR13060_00": {
+        "npCommunicationId": "NPWR13060_00",
+        "trophyTitleName": "CHAOS;CHILD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13060_00_002C192F057E9F0C3D367D0436F68E1D781738AFCD/A2E4A7A138757793912D9BDFCA78AA7A0F923042.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 19
+        },
+        "service": "trophy"
     }
 }
