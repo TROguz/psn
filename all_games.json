@@ -28338,5 +28338,135 @@
             "bronze": 32
         },
         "service": "trophy"
+    },
+    "NPWR05049_00": {
+        "npCommunicationId": "NPWR05049_00",
+        "trophyTitleName": "Wolfenstein®: The New Order",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05049_00_00FC895FAD4456CBEA7F16475DA8367254617C397F/4CD4966C6743D97D62A7C027274A82ABEB364616.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 15,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR05054_00": {
+        "npCommunicationId": "NPWR05054_00",
+        "trophyTitleName": "真・三國無双７ 猛将伝",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05054_00_00A191C1BC07AE387B10AD6051ABBB857CA81B8EB7/55AF8747CC2C5C8A631220B3AD736E2BAB40B6AC.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR05058_00": {
+        "npCommunicationId": "NPWR05058_00",
+        "trophyTitleName": "戦極姫４～争覇百計、花守る誓い～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05058_00_00D9D419E7821C86D5206599E976B7CAA854BC35B1/E921F824E9C0C9E333ED629564A8DB115C5EB9C8.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR05066_00": {
+        "npCommunicationId": "NPWR05066_00",
+        "trophyTitleName": "Luftrausers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05066_00_00128A21FE635D87A5CDCF48B502F4CEA29E5DAC81/AA026938C08F4C31EC770127D2EE8B2B2F273A90.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR05072_00": {
+        "npCommunicationId": "NPWR05072_00",
+        "trophyTitleName": "WORLD SOCCER Winning Eleven 2014",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05072_00_00B93260CEC55EC11E353BB95FF7BC92972F6650AA/EF7CBDFB7B8F9CD97DBE0C68F52FBD7C6211EFF7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR05073_00": {
+        "npCommunicationId": "NPWR05073_00",
+        "trophyTitleName": "Tales from Space: Mutant Blobs Attack",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05073_00_00606A57100D5353C2EAF22E6C31F2561F90305B53/50ECCB283A5ADDEA523A5588D9CAE78654BD67DD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR05075_00": {
+        "npCommunicationId": "NPWR05075_00",
+        "trophyTitleName": "Angry Birds™ Star Wars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05075_00_00D5B1F6610C1BEF3A00EAF26466C4547215954E70/8943B120A81FCE2D1C13C00BF9191670FD6FC48D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR05076_00": {
+        "npCommunicationId": "NPWR05076_00",
+        "trophyTitleName": "Pro Evolution Soccer 2014",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05076_00_007F4565E9AE6B1FF7A3DD418E8FC58268B119F30D/53B0659BA27EC91D84BF4E0A45DF0B83BC82913D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR05079_00": {
+        "npCommunicationId": "NPWR05079_00",
+        "trophyTitleName": "戦極姫４～争覇百計、花守る誓い～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05079_00_00BDD1CA771BBB1FB4999F2FED8FFBD19D7DF13D84/F0A006C450485E8A5CF2EB74BADEF47175AD2D91.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR05081_00": {
+        "npCommunicationId": "NPWR05081_00",
+        "trophyTitleName": "Tennis in the Face",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05081_00_0065D03E1902A660CF13283ECECD5B3F6D605350BA/9516D8C51A80C1F8E6CA5AF772F544D3C273DE27.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
