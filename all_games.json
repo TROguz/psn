@@ -77218,5 +77218,135 @@
             "bronze": 6
         },
         "service": "trophy"
+    },
+    "NPWR13001_00": {
+        "npCommunicationId": "NPWR13001_00",
+        "trophyTitleName": "Blasting Agent: Ultimate Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13001_00_00BE00D476D7F3BA805DA9C9F728FDC64AA618E639/5DF4149F5DFCF84073A9AAA350A711D487E0C074.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR13002_00": {
+        "npCommunicationId": "NPWR13002_00",
+        "trophyTitleName": "League of Evil",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13002_00_0008E3DB7BFFB33AC62927D40AF20076AFD4C43EC4/5668356857D0B31B8FA7F3468EC29B85671BC7EF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR13003_00": {
+        "npCommunicationId": "NPWR13003_00",
+        "trophyTitleName": "League of Evil",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13003_00_004C76C7CA17F593D1B518DD92C2159909703CE0B1/4A705ACF80F49691043D4B91FD198B9F8F2A2E26.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR13004_00": {
+        "npCommunicationId": "NPWR13004_00",
+        "trophyTitleName": "METAGAL",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13004_00_000F344BF60C3C221BD9B9FE91DE88828F41359CFB/74AAD1730EF4924B5BAD2E7C155937CD6D4C4DA0.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13005_00": {
+        "npCommunicationId": "NPWR13005_00",
+        "trophyTitleName": "METAGAL",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13005_00_00C899A56ADF068B225498E620A646EBF8D28FE63C/FDAE85386C7B360D0E65DE45B30C00750B23F8A7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13006_00": {
+        "npCommunicationId": "NPWR13006_00",
+        "trophyTitleName": "Peasant Knight",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13006_00_0054CEE8F787A4D66E9B593DB9685A9C844A6937C7/08CCC4CCE29668F12CEC02E1DD84D4E1EEED6386.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 7,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13007_00": {
+        "npCommunicationId": "NPWR13007_00",
+        "trophyTitleName": "Twin Robots",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13007_00_004884B74A73318DABB945BAE5BE098980E0A39A25/017841918C4693CC2837E8A688583F4794875F09.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 6,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR13008_00": {
+        "npCommunicationId": "NPWR13008_00",
+        "trophyTitleName": "Twin Robots",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13008_00_0038C8E765E261E157981A1CEF749DECE9A39706DA/46FA4E37F47CEFE8316BAA6B174A655B9EB4C8F8.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 6,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR13009_00": {
+        "npCommunicationId": "NPWR13009_00",
+        "trophyTitleName": "Peasant Knight",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13009_00_00E48A1E5706E81FDB61C11B85437FAF7F6D8E0C00/69F6B8AB285AFDAEC0CB7089E4695AC7AA14315F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 7,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13010_00": {
+        "npCommunicationId": "NPWR13010_00",
+        "trophyTitleName": "League of Evil",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13010_00_004E0AC83000D79A152C541724AB98C666912027E9/F3BCA9B6E39237A43C1E225F0817D3334BD1FE92.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 4
+        },
+        "service": "trophy"
     }
 }
