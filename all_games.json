@@ -43418,5 +43418,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR08167_00": {
+        "npCommunicationId": "NPWR08167_00",
+        "trophyTitleName": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08167_00_00FDD862F91ECA6B171E387B8CB782B32F2B81245A/39F338105F4A1E84E57E28B79F8AE423CEE4169F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR08168_00": {
+        "npCommunicationId": "NPWR08168_00",
+        "trophyTitleName": "World Hunter trophy set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08168_00_00F1319029C46F19623DE28EBE109AB5CD4F9A9D94/B061DA7268023E55C4BA3245FCF02EE8421A2D74.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 6,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08169_00": {
+        "npCommunicationId": "NPWR08169_00",
+        "trophyTitleName": "Color Guardians\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08169_00_00628969E743309767F1C9F4D02DCF0F59254B380E/E8DE56C41A1B7A09805A59959EF1359D3D8524B2.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR08174_00": {
+        "npCommunicationId": "NPWR08174_00",
+        "trophyTitleName": "Nihilumbra\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08174_00_00B1D4D495508754B89E6BBB8EF40B448DE774D3A0/ABA74C5D3655547C1D0C397089ED26C00C8460A2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08175_00": {
+        "npCommunicationId": "NPWR08175_00",
+        "trophyTitleName": "Nihilumbra\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08175_00_0077235329019965D76FE7BFDCC63ABB2EB222A4BB/2B88F56EF630AB5E0FDC35281853086F763B9ED8.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08176_00": {
+        "npCommunicationId": "NPWR08176_00",
+        "trophyTitleName": "Phineas and Ferb: Day of Doofenshmirtz",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08176_00_00F6B22F195466EECD1929ABEE6FE9791B8145DB0E/83982A0E0B3E0391295E6DFFE175274D3DFF64AF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR08177_00": {
+        "npCommunicationId": "NPWR08177_00",
+        "trophyTitleName": "Wolfenstein®: The Old Blood™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08177_00_00B6059F6B6E9C7A7652EC560CB8896C936B740654/8F853821B24FCDF7D3D4539AB1EAADD731BEAA21.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR08180_00": {
+        "npCommunicationId": "NPWR08180_00",
+        "trophyTitleName": "ONE PIECE 海賊無雙３",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08180_00_00CFA7783567B1F6FC4BEA5EEEB66EE36B3E1ED958/010FCAA9D028934C29E7E7A30DBFE8FC90D73364.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR08182_00": {
+        "npCommunicationId": "NPWR08182_00",
+        "trophyTitleName": "ケイオスリングス",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08182_00_0090C4854076DA2FCA77B7BE227885F56454EF1724/B1945F9F9B72088126A8AEB7F4A7A106C3589702.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR08183_00": {
+        "npCommunicationId": "NPWR08183_00",
+        "trophyTitleName": "ケイオスリングスⅡ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08183_00_00C0ACFD5E7428AFA602104F94F111A8DEFE32AEA1/DF3C74FD16F92144CE3BABB6DDF911AFBCFAFF1F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
     }
 }
