@@ -20928,5 +20928,135 @@
             "bronze": 2
         },
         "service": "trophy"
+    },
+    "NPWR03545_00": {
+        "npCommunicationId": "NPWR03545_00",
+        "trophyTitleName": "ジョジョの奇妙な冒険　オールスターバトル",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03545_00_0017AEF06D65F542F08B267AAF41E49C65CD813680/CD8FFACD01DF61E4F7DF2433AE1DE25FD7AD2148.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR03546_00": {
+        "npCommunicationId": "NPWR03546_00",
+        "trophyTitleName": "Assassin's Creed® III",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03546_00_0096FFE762926797CE646C103E4D2CF94C57BE7485/91903AA2344D96170D09866B8991AD193865940E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 28,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR03550_00": {
+        "npCommunicationId": "NPWR03550_00",
+        "trophyTitleName": "Ice Age™ 4: Continental Drift: Arctic Games",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03550_00_006C2C98243E2952184B8486980B4A989D0EE47B46/A781DB2AE427DD58F37A378AAB25560AAC985C3D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 6,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR03554_00": {
+        "npCommunicationId": "NPWR03554_00",
+        "trophyTitleName": "DOOM® 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03554_00_0040C21B6A804DDFA05B472DCC5DF6472E103F12DE/B9C60FF4B808C9146B91AEA88B07FED68BBDEA9A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 64
+        },
+        "service": "trophy"
+    },
+    "NPWR03558_00": {
+        "npCommunicationId": "NPWR03558_00",
+        "trophyTitleName": "Hunter's Trophy 2 - Europa",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03558_00_0018806BDA98C3D14E3618CA7BFB9E543DC8987C28/11DB8136267826C05DA42E46B5EAE2EDA9C56348.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 6,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR03559_00": {
+        "npCommunicationId": "NPWR03559_00",
+        "trophyTitleName": "Obut Pétanque 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03559_00_00BB31E36294B571936918E2CF54F867A9438256E1/AD2F752B1ED73B31BF972DAA00D17793CB455796.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR03569_00": {
+        "npCommunicationId": "NPWR03569_00",
+        "trophyTitleName": "特殊報道部",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03569_00_00AE64796AB94BFB2BFC82C08C89AC3CA455C84D9F/A71FC2B468684F0A864C38625E403E63DDB90716.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 7,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR03570_00": {
+        "npCommunicationId": "NPWR03570_00",
+        "trophyTitleName": "DJMAX TECHNIKA TUNE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03570_00_002DE0AB0ADAF7C4CF7176694444F8125DCDC90CFA/EA1DB6B2705C568570CF80C1FCCA78F590199629.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR03572_00": {
+        "npCommunicationId": "NPWR03572_00",
+        "trophyTitleName": "Doom Classic Complete",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03572_00_0094EDFB1FF4F36F96AF5887255AD4C94B98253D18/3A1FA97C9A14F971DC3B5A7C10F4E0149D44529F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 6,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR03577_00": {
+        "npCommunicationId": "NPWR03577_00",
+        "trophyTitleName": "ファントムブレイカー:エクストラ ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03577_00_00D025B7AFF2BAA22950273AF2142549BFC6FC36BF/57E6DC5BAE7C4B98675BBCFDE9E5C422197C565A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 30
+        },
+        "service": "trophy"
     }
 }
