@@ -73838,5 +73838,135 @@
             "bronze": 6
         },
         "service": "trophy"
+    },
+    "NPWR12566_00": {
+        "npCommunicationId": "NPWR12566_00",
+        "trophyTitleName": "緋色の欠片 ～おもいいろの記憶～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12566_00_004C45E6C9C4FFBD049957748F2EB2A77EF438F0C6/A130EC039C43E2C79045E3CCE4D1F7D2D7DF7705.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR12567_00": {
+        "npCommunicationId": "NPWR12567_00",
+        "trophyTitleName": "FLATOUT 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12567_00_00216733E46E6096F72604496AD8360C14EF3AFB2A/37FCF81B81F55FE7FF18CADB105BBFDB31999CB5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR12568_00": {
+        "npCommunicationId": "NPWR12568_00",
+        "trophyTitleName": "ELEX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12568_00_00DFD2E43AD9B1502F408F70E1660BB5D53A70B0EE/A7EA8B252C708C836D8EA490A15CEF244ECAC81C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR12569_00": {
+        "npCommunicationId": "NPWR12569_00",
+        "trophyTitleName": "Planet of the Eyes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12569_00_00C116751FCAF3BACB05C89D20A30616C362413282/5BB4557644282DCC72FE380601DAC13C3F6E418B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR12570_00": {
+        "npCommunicationId": "NPWR12570_00",
+        "trophyTitleName": "ACA NEOGEO THE KING OF FIGHTERS '96",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12570_00_006AC61413CA3137CFC35EB07C6F3F35619D825E5B/3AB21308DC3B1D381A69DC79BFEBA65B51E5F53C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12571_00": {
+        "npCommunicationId": "NPWR12571_00",
+        "trophyTitleName": "ACA NEOGEO STREET HOOP",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12571_00_00850575070E99287C6AAF5C90549F9841A393BD75/156EDC503EA292C04AD52712838C40B7CED2FC11.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12572_00": {
+        "npCommunicationId": "NPWR12572_00",
+        "trophyTitleName": "ACA NEOGEO PULSTAR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12572_00_0032DDADDA0AFFDAD4B41430FF4884FA6CD7C09CCF/27277D35D16591B010A620B69223FA14B7092B1F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12573_00": {
+        "npCommunicationId": "NPWR12573_00",
+        "trophyTitleName": "ACA NEOGEO SPIN MASTER",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12573_00_0032D8D3F59E1073D9172DC8DD1C123C1FD809A9A6/C82F2EAE1F6EDF21A46E7B6D8E315A901700A7C6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12574_00": {
+        "npCommunicationId": "NPWR12574_00",
+        "trophyTitleName": "だれでも初段になれる囲碁教室",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12574_00_00AAD597D3A841B8E2B4572B5671C14EE39B1E2918/66E377CC84DD21A15EE12522B12933ED4ED5DBAB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR12575_00": {
+        "npCommunicationId": "NPWR12575_00",
+        "trophyTitleName": "WonderBoy Returns",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12575_00_000CC1BD253F1CADCFA8665F1D194D9D168E98C994/B410B04715C7C3C70EFE09A066B9D1BAD23D9B74.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
     }
 }
