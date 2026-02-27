@@ -89308,5 +89308,135 @@
             "bronze": 6
         },
         "service": "trophy"
+    },
+    "NPWR14595_00": {
+        "npCommunicationId": "NPWR14595_00",
+        "trophyTitleName": "The Journey Down: Chapter Two",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14595_00_00DC6CAB1AFE2829F08B89CA6A6C1CF0CE3E8445E6/3149677300E36469E086F249D529CE46F234C0CD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR14596_00": {
+        "npCommunicationId": "NPWR14596_00",
+        "trophyTitleName": "Octahedron",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14596_00_00D5AF28DF6ADB79960B5652682EE6F56DD4C9E019/80D895015DE46140CD1D6374CDCFBBAEB05C0225.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR14597_00": {
+        "npCommunicationId": "NPWR14597_00",
+        "trophyTitleName": "Octahedron",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14597_00_00B80BD56D2A5AEA47C03298C914DEB86FEE31D1D8/7192854A2B967C20FB7EBCB8FB633851C9016E79.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR14598_00": {
+        "npCommunicationId": "NPWR14598_00",
+        "trophyTitleName": "Borderlands®: Game of the Year Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14598_00_0048162F6AD4801C07BFE7B20E4312CD3B01565CD3/D65F44E916C944865E860826FF1AC6F20CCA6724.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 17,
+            "bronze": 59
+        },
+        "service": "trophy"
+    },
+    "NPWR14601_00": {
+        "npCommunicationId": "NPWR14601_00",
+        "trophyTitleName": "現代大戦略2020～揺れる世界秩序！大国の野望と世界大戦～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14601_00_00AD1859A3A5B37811FE3F5E9C04E1E243864BF034/13563D0E01A067414C53B6EA2B0042D92B13CC74.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR14604_00": {
+        "npCommunicationId": "NPWR14604_00",
+        "trophyTitleName": "Warhammer 40,000: Inquisitor - Martyr",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14604_00_00FFFB42DDDC4AEB0D903BE32C858E506D8B9C91CD/F6D5DDBB0BD57290E1BE94950A450CF0A2ED68DA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 13,
+            "bronze": 67
+        },
+        "service": "trophy"
+    },
+    "NPWR14605_00": {
+        "npCommunicationId": "NPWR14605_00",
+        "trophyTitleName": "Windstorm",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14605_00_00067E1973CC9A574C80EBB7F453F88DC66612A61A/B7C75D42396C3CCA177736E94B534DB406C6B76B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR14607_00": {
+        "npCommunicationId": "NPWR14607_00",
+        "trophyTitleName": "Typhon Hunter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14607_00_00F369E42406C4D670DFC0E56CA1FF5D70DCF2E2FF/5E5AE0E123E842EBC1C70EC2D9679AEC7FA15B24.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR14611_00": {
+        "npCommunicationId": "NPWR14611_00",
+        "trophyTitleName": "Regalia: Of Men and Monarchs - Royal Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14611_00_00926F8F513EEC3C4734D624A33DFC37AA1B005058/2F729D068E08BFFD53DC1FE44F6B8216BFB0E8BD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 16,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR14612_00": {
+        "npCommunicationId": "NPWR14612_00",
+        "trophyTitleName": "Regalia: Of Men and Monarchs - Royal Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14612_00_0012BC38F133993FAD795AE9241D8B49439F71C1E0/E9FADE0D078589DE23BB407F1CC74ED2A2D1720A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 16,
+            "bronze": 32
+        },
+        "service": "trophy"
     }
 }
