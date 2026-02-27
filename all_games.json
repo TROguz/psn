@@ -24568,5 +24568,135 @@
             "bronze": 36
         },
         "service": "trophy"
+    },
+    "NPWR04270_00": {
+        "npCommunicationId": "NPWR04270_00",
+        "trophyTitleName": "Terraria",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04270_00_0022396415F240178A00F09426BFC3D467DB3A10DE/728F695A98AD44DA1238DAF81C849033E966B0C1.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 20,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR04273_00": {
+        "npCommunicationId": "NPWR04273_00",
+        "trophyTitleName": "Hungry Giraffe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04273_00_006F67B45C067A20F31F99A0803908BF059C64BF7F/35D1C9944B49BE911BCAC18D71568B3203E37E76.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR04274_00": {
+        "npCommunicationId": "NPWR04274_00",
+        "trophyTitleName": "朧村正",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04274_00_0080C544AB4883B95EC24601C1F4F11E5E7E1A7F11/4242E58DE71482539073F7A1ECEA0D47BFB25591.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 20,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR04275_00": {
+        "npCommunicationId": "NPWR04275_00",
+        "trophyTitleName": "拡散性ミリオンアーサー",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04275_00_006B5C2D6145B5D713BB950C7FA9EF50B8B9895AEA/88BD4023DB30A1C4161E94F3A0D47372B07E6C01.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR04276_00": {
+        "npCommunicationId": "NPWR04276_00",
+        "trophyTitleName": "Virtua Striker",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04276_00_003DFF2CD8B22EDB849D75B4249093B6EA7BBB7851/F304680CF5AD2B94649A05113960919AD2F612CF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR04277_00": {
+        "npCommunicationId": "NPWR04277_00",
+        "trophyTitleName": "電脳戦機バーチャロン",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04277_00_00A814CC5A8D6A9F0C3F323FF9168220AF2FD16895/A24C9420A27B7DBFAE1F1093B1AE2E9403031ADB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR04282_00": {
+        "npCommunicationId": "NPWR04282_00",
+        "trophyTitleName": "真・三國無雙６ Empires",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04282_00_00EFEC309E9118AF06F4D5322A25D92BF54BBED53E/FB0F1CAC4C7F0C594BB17334BC6B117BB76C4995.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR04285_00": {
+        "npCommunicationId": "NPWR04285_00",
+        "trophyTitleName": "Farming Simulator for PlayStation®Vita",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04285_00_0000EF3A7C5B48C1F514D7245DA9EFDFD28EE3F73A/91C9CFAA9AA548B92A24B592610A6EE91D19C91E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR04287_00": {
+        "npCommunicationId": "NPWR04287_00",
+        "trophyTitleName": "STRENGTH OF THE SWORD 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04287_00_0077A01C376F8732BFF8418D6F01F1F70E7E97A45C/1A89F03AB344AC03701461741928600ABC465D94.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR04288_00": {
+        "npCommunicationId": "NPWR04288_00",
+        "trophyTitleName": "DEAD OR ALIVE 5 PLUS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04288_00_003B07E80E41AF07687C8563D6253111C55A89D1CA/1A5E32474879885F5BE3CED768DCA66157DCC6CD.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 32
+        },
+        "service": "trophy"
     }
 }
