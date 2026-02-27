@@ -54468,5 +54468,135 @@
             "bronze": 30
         },
         "service": "trophy"
+    },
+    "NPWR09887_00": {
+        "npCommunicationId": "NPWR09887_00",
+        "trophyTitleName": "しあわせ荘の管理人さん。",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09887_00_0011D3D11AB67CCEC0BA431C7A3628EE22E3211986/31D883A63D0581CB69F2D019ECE14AFD1E9E27F6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 16,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR09888_00": {
+        "npCommunicationId": "NPWR09888_00",
+        "trophyTitleName": "Polara",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09888_00_004A20420F055764ADFCEE1BA8BFC6834E343759F8/00D938FCC2DD1C6E475733F640AB8539F472D0BD.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR09890_00": {
+        "npCommunicationId": "NPWR09890_00",
+        "trophyTitleName": "GUNDAM BREAKER 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09890_00_0021F3062C88728BAAA2DE7FB5261DE4A3B32D11AA/4B0EE6B78CA6B13D88798AC2BDAB1F22219E8019.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 25,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR09895_00": {
+        "npCommunicationId": "NPWR09895_00",
+        "trophyTitleName": "Monster High - New Ghoul in School",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09895_00_00C786F4126AE987C0B371D102581BE10E5BD3EA6C/26FBA71461A10941CA09EA56919F41AE01D2F8F9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR09897_00": {
+        "npCommunicationId": "NPWR09897_00",
+        "trophyTitleName": "魔女こいにっき Dragon×Caravan",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09897_00_002488065D5344C1A1C735A83D0159347FAEA9B549/55A045B41FBF899386F4D124FECDADFDBE8DB456.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 6,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR09901_00": {
+        "npCommunicationId": "NPWR09901_00",
+        "trophyTitleName": "Let's Sing 2016",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09901_00_00AA530D2D35334B4A5F104C0C820B2930D2A16508/1CFB0301068D6CE9D8173886FCD882519342360F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR09911_00": {
+        "npCommunicationId": "NPWR09911_00",
+        "trophyTitleName": "龍が如く６　命の詩。",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09911_00_00D5B23142C4FC82BF45A8174C976838D045552C9F/E68D8BE39D52C51F6AFF24E1C2F04836C6F31F75.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR09912_00": {
+        "npCommunicationId": "NPWR09912_00",
+        "trophyTitleName": "Arcade Archives TwinBee",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09912_00_0040EC4BAD3627E4B54166D30153ED1E9320FB9028/09C0544E83E6C27B6570F7144BB88A009F987A1A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR09913_00": {
+        "npCommunicationId": "NPWR09913_00",
+        "trophyTitleName": "Arcade Archives GRADIUSⅡ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09913_00_0020F4A181E56670C1892979E8BA3C4DF8E1F9BE0C/A32DE78D318379CC1A2E0E8FCA6A7B9CCE62914F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR09915_00": {
+        "npCommunicationId": "NPWR09915_00",
+        "trophyTitleName": "R.B.I. 16",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09915_00_00304C0AAE05F13CE8F5EB49AC6071CAF089E652D7/8560B3ECB99C117E0238836929FAC9875E733273.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
     }
 }
