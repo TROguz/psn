@@ -40298,5 +40298,135 @@
             "bronze": 15
         },
         "service": "trophy"
+    },
+    "NPWR07591_00": {
+        "npCommunicationId": "NPWR07591_00",
+        "trophyTitleName": "DEAD OR ALIVE 5 Last Round",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07591_00_008166B473288F5F84695659AB16D48C8030E82010/B710CCE6A4DD149A3A4B497DCE5CD03382400AE1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR07593_00": {
+        "npCommunicationId": "NPWR07593_00",
+        "trophyTitleName": "In Space We Brawl",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07593_00_009199714E799C3B004164E3ECA91641CC4119DE60/374890E066553AF9D6BE9DC734DD45F5202DB08A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR07595_00": {
+        "npCommunicationId": "NPWR07595_00",
+        "trophyTitleName": "Ironclad Tactics",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07595_00_006FC0D5286CC939C63594E0EAD46C3F15826A2E79/80F140085D2F908D4E13E3BCDE87FFFF4336D9A2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR07597_00": {
+        "npCommunicationId": "NPWR07597_00",
+        "trophyTitleName": "タイムアベンジャー",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07597_00_00500B76BDC7E067FB756F50C67B231BA57571C9E0/EE795AF256024E2376767588341BA8AC4A037195.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR07600_00": {
+        "npCommunicationId": "NPWR07600_00",
+        "trophyTitleName": "Jetpack Joyride Deluxe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07600_00_0057703DEEAEF75F5EF98E2FEED1CC6B5A18DA4A60/5A7E83BC36514CB46CD729459DB0BE650F33FB64.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR07603_00": {
+        "npCommunicationId": "NPWR07603_00",
+        "trophyTitleName": "Gone Home",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07603_00_00FAA554A2F46CDE31388B45202C689300FD8C05A4/7D0C783408817DE7355D6B5F3CBA90D618DB7E48.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR07613_00": {
+        "npCommunicationId": "NPWR07613_00",
+        "trophyTitleName": "One Upon Light\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07613_00_00C27A6A16D33C14D3A167C30AF5495E9058BBBD2D/357B0781AA426753886201D22418342117C90FBE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR07631_00": {
+        "npCommunicationId": "NPWR07631_00",
+        "trophyTitleName": "Class of Heroes 2G",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07631_00_00BC3FF168799FCC4DC8A70F78E89001DED1C05C34/7411C8BCD82AFAB7ED2DBD5865A75155A2F8814B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR07633_00": {
+        "npCommunicationId": "NPWR07633_00",
+        "trophyTitleName": "Pillar",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07633_00_00AB29BF7C4B01FE816F67A8D4702B26146842F7E8/16B6417A732B63503FDEA0D68037F6668AAA5004.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 4,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR07637_00": {
+        "npCommunicationId": "NPWR07637_00",
+        "trophyTitleName": "Q*bert: Rebooted",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07637_00_00FD2577F265FED9D8603821302BB8CDFF3055D89B/36BA09A37B3ADFDFF79CD450B999EA19F1862F3A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
     }
 }
