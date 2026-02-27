@@ -48748,5 +48748,135 @@
             "bronze": 3
         },
         "service": "trophy"
+    },
+    "NPWR09012_00": {
+        "npCommunicationId": "NPWR09012_00",
+        "trophyTitleName": "Space Hulk",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09012_00_0092F9E8AC282F3FF1398A2BFB365B63ADB463C2E1/06B800F69BCC53954EF619E0D7782052620C74EF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR09013_00": {
+        "npCommunicationId": "NPWR09013_00",
+        "trophyTitleName": "ワールドトリガー　ボーダレスミッション",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09013_00_0022485964CBB04B61DEDCDFDE2171F2A48AC5C776/3592948140CC7289B0FF3E69F5A1512ED66FB3E7.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR09014_00": {
+        "npCommunicationId": "NPWR09014_00",
+        "trophyTitleName": "Sword Art Online Re: Hollow Fragment",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09014_00_00E5DE8EF2D27463AC7C8A62C6EC695BA76C18B3E2/54B5F1E4FE9953AA1734FFD7C25F1A8EFCDB58C9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR09017_00": {
+        "npCommunicationId": "NPWR09017_00",
+        "trophyTitleName": "Ether One",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09017_00_00F3D4788F124FA89612C5726156CA2E51527EBA1B/C166D3C05FB6FB9502BF016E18C6093EC565D85F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 2,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR09018_00": {
+        "npCommunicationId": "NPWR09018_00",
+        "trophyTitleName": "The Banner Saga Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09018_00_00EC6AA3D6836CE1656026D273E5862AB932F65711/E99834A2B5F66CAB21356BDEC5BE4B52A97A90C5.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR09019_00": {
+        "npCommunicationId": "NPWR09019_00",
+        "trophyTitleName": "月に寄りそう乙女の作法 ～ひだまりの日々～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09019_00_0091F5BF94F1E7BFB8CAE7F273AEB44916727616ED/35C79873EB0485EA4B24AC28900D3897BB4774C1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 9,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR09020_00": {
+        "npCommunicationId": "NPWR09020_00",
+        "trophyTitleName": "魔都紅色幽撃隊 DAYBREAK SPECIAL GIGS JAPAN TOUR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09020_00_002C34EB075EF557FDFCA765176D4C03CA5C01C15D/47E86A5412BBB68E13C4DDEA869D50603D981CBF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR09021_00": {
+        "npCommunicationId": "NPWR09021_00",
+        "trophyTitleName": "魔都紅色幽撃隊 DAYBREAK SPECIAL GIGS JAPAN TOUR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09021_00_000DB817B71F3854617224BB6729611459AB9BCCF3/D034FE55DA70A91D42E70F1AFF9F7E5390D4A516.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR09023_00": {
+        "npCommunicationId": "NPWR09023_00",
+        "trophyTitleName": "Alliance of Vengeance Disgaea 5",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09023_00_00306D74EE4C69D684A4E3C8D3B5AFC4DF4B40D043/BB73BF13FADE3346EBA49BF4ADBE6BDB6E64A10E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR09025_00": {
+        "npCommunicationId": "NPWR09025_00",
+        "trophyTitleName": "NITROPLUS BLASTERZ -HEROINES INFINITE DUEL-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09025_00_00805C4BACC500D8DBB75DB864AE27F1D39B7DE6ED/25508F11FF7B68AD2485C34727B1CA04388FC467.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
     }
 }
