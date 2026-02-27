@@ -32108,5 +32108,135 @@
             "bronze": 32
         },
         "service": "trophy"
+    },
+    "NPWR05834_00": {
+        "npCommunicationId": "NPWR05834_00",
+        "trophyTitleName": "Duke Nukem 3D: Megaton Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05834_00_003674EE3F11ED2A87D233EF894D5EF971E32FBB94/441E085310367C6BEBD9CA6FEEFA5F68D94E0B00.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR05836_00": {
+        "npCommunicationId": "NPWR05836_00",
+        "trophyTitleName": "The Walking Dead: Season 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05836_00_00A911C6805BF427D0EC52093E3C9E6A412E28A5FB/AD8806B1DE50829F867750648F1488DECAF43E5A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 24,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR05839_00": {
+        "npCommunicationId": "NPWR05839_00",
+        "trophyTitleName": "IHF Handball Challenge 14",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05839_00_00016DEE467B54D2C080AA10937E2C8EB84F76BC7F/A10937D333AF22217AF54AAF9826DAA9FD80D0FF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR05840_00": {
+        "npCommunicationId": "NPWR05840_00",
+        "trophyTitleName": "JoJo's Bizarre Adventure: All-Star Battle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05840_00_00D990D43EC47EEF637E85644C431D475AEC289370/0283BBD99892A2A883A541223BD897D5F8E27840.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR05841_00": {
+        "npCommunicationId": "NPWR05841_00",
+        "trophyTitleName": "The Swapper",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05841_00_00204D83F5604C71BAD260D72D7156F184EB01900E/A384AA941DE279F7C09E71E3A36A354479309B13.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR05851_00": {
+        "npCommunicationId": "NPWR05851_00",
+        "trophyTitleName": "アルカナハート３ LOVEMAX!!!!!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05851_00_005EDE1928EC8276BAAB6B02211D33D6469C2F771A/0E91E85351BA6B33CE8267E4195B5C14391D582F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR05855_00": {
+        "npCommunicationId": "NPWR05855_00",
+        "trophyTitleName": "The Hungry Horde",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05855_00_0070EAA9ECD346BD2F28D506302F34B42975613A1B/66E2D79F68D1144CDBE904BB958E5E7B40BB4709.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR05860_00": {
+        "npCommunicationId": "NPWR05860_00",
+        "trophyTitleName": "The Walking Dead: Season 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05860_00_001A79C2E445A7A1D52335656F10112D8F8A3F0DA4/52432635B18934CC4551D7364831D9A364F3EEFD.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 24,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR05863_00": {
+        "npCommunicationId": "NPWR05863_00",
+        "trophyTitleName": "Child of Light",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05863_00_00CEFC95BFFE5F74A68241B8D1237BA89573A31819/DFA64FFEA797DC1BA37560E9115380FE171A2E02.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR05864_00": {
+        "npCommunicationId": "NPWR05864_00",
+        "trophyTitleName": "Mercenary Kings",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05864_00_00EE3519315E3B2B589D08E6FC3A97DDB196263D3D/C05A4713EFB3502E0AA334505A48C2111FF57F80.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 9
+        },
+        "service": "trophy"
     }
 }
