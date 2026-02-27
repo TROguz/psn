@@ -31978,5 +31978,135 @@
             "bronze": 28
         },
         "service": "trophy"
+    },
+    "NPWR05814_00": {
+        "npCommunicationId": "NPWR05814_00",
+        "trophyTitleName": "ロウきゅーぶ！　ないしょのシャッターチャンス",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05814_00_006E7034FF62BA88D47AC5C1850CCA5FBB373BE20F/D908356B190CEEB3AE413D8C7853749B364F9D68.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR05818_00": {
+        "npCommunicationId": "NPWR05818_00",
+        "trophyTitleName": "Bloodborne",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05818_00_00347A646D41E9660F4153AD7A0274E2BC597C5A27/AE3477BA91121142BEB82AB2B7E2F8BAB9B3C17A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR05820_00": {
+        "npCommunicationId": "NPWR05820_00",
+        "trophyTitleName": "Hustle Kings™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05820_00_00DFB54B422CD06FC6F2513C98A4A37E6B61B3F3EF/8B4D3D6C3B5CF9B7E13A656804BC506F14597D7B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR05825_00": {
+        "npCommunicationId": "NPWR05825_00",
+        "trophyTitleName": "信長の野望･創造",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05825_00_001B3BA9D5965E084E14A9160766BA322B4314C14E/DCD21A6EAEE9984A1F987885877E97325A9141F7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 20,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR05826_00": {
+        "npCommunicationId": "NPWR05826_00",
+        "trophyTitleName": "Fort Defense North Menace Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05826_00_00A0E85B644B026862E31047A06480ED0019111F38/55A2F164CDC583CFB657263E0449B50D05E66B15.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR05828_00": {
+        "npCommunicationId": "NPWR05828_00",
+        "trophyTitleName": "Daylight Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05828_00_007F48AAF9DB9E9AD88BCB760BD5287FB2223DE5B1/7C3038AB87FE1532866EBFA32D4425D3D7577B0C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR05829_00": {
+        "npCommunicationId": "NPWR05829_00",
+        "trophyTitleName": "Toukiden: The Age of Demons",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05829_00_00BA57A4C251359B8CD3C846038031991D57F91679/E66F70144B6F6B9278EA15D5892345966C2575AE.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR05830_00": {
+        "npCommunicationId": "NPWR05830_00",
+        "trophyTitleName": "フリーダムウォーズ®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05830_00_0044AA08410896145D30E4D0A70EEBEC031222BC26/8BE8BDDA0EC44AF7072B0BDD297571ADFABCFC81.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR05831_00": {
+        "npCommunicationId": "NPWR05831_00",
+        "trophyTitleName": "AKIBA'S TRIP 2 獎盃組",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05831_00_00E41378CB51805F125FDFC1E2EFDFA8F7D03A29CE/F8F016684A95B562ABA24D702A113B4879418FEA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR05832_00": {
+        "npCommunicationId": "NPWR05832_00",
+        "trophyTitleName": "AKIBA'S TRIP 2 獎盃組",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05832_00_00CD17A46357BFC91347F81666F36C17D8F81A9D0E/6F14F6DF56159BBBCEF5EB9F048F5965A6B877A0.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 32
+        },
+        "service": "trophy"
     }
 }
