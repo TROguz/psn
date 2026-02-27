@@ -63438,5 +63438,135 @@
             "bronze": 15
         },
         "service": "trophy"
+    },
+    "NPWR11245_00": {
+        "npCommunicationId": "NPWR11245_00",
+        "trophyTitleName": "銀星将棋 阿吽闘神金剛雷斬",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11245_00_0035B0D99E1DC52CA80A637D95A2B3108CCC6B38E2/BE6D8629332FD4F2F480474878B386ECB7114D11.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR11246_00": {
+        "npCommunicationId": "NPWR11246_00",
+        "trophyTitleName": "GUNDAM VERSUS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11246_00_004F8A0B6BF50604342FA1DE52AD6A9697FB77CA3A/F7A89EAC04493D64C498B2B2D85848EFA68E33C0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR11247_00": {
+        "npCommunicationId": "NPWR11247_00",
+        "trophyTitleName": "Super Robot Wars V",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11247_00_0007801B4627119C67F045482B688DC5165E2B87F0/79ED2F3DC5892BFAC361D2AB8B84D0F9AA47E82A.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR11249_00": {
+        "npCommunicationId": "NPWR11249_00",
+        "trophyTitleName": "N.E.R.O.",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11249_00_00F0C7BDE99D65B448BACED6911DE8AB80A3C7FB90/502509CC496F4D413D88D1B72E9AED82CCC64BBB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11250_00": {
+        "npCommunicationId": "NPWR11250_00",
+        "trophyTitleName": "Warlocks vs Shadows",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11250_00_00D1EFAB98569B786DBFC10272D3B551EE23BE2537/16B49782B47DCBADFFCCB2AA525FC1FDA4F4984D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR11251_00": {
+        "npCommunicationId": "NPWR11251_00",
+        "trophyTitleName": "BATMAN™: ARKHAM VR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11251_00_0043A14650E4FF017D9C30701FE30D9F4FADDD518E/19E9DFB9DE7ACFF23C0677E4E807D5C32E601BF4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11253_00": {
+        "npCommunicationId": "NPWR11253_00",
+        "trophyTitleName": "Arcade Land",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11253_00_008B19B1B68D200C564DCEC3BF94A749E2C9507858/8320DA2C4A3CA65D75897FE278D35AD54F44C241.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 7,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR11254_00": {
+        "npCommunicationId": "NPWR11254_00",
+        "trophyTitleName": "Song of the Deep™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11254_00_00EFC93B1E7C9AD5108EEA39795282716B2320A9EC/2A4853798652477F1A2BF8FB8EE4A97411495404.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR11260_00": {
+        "npCommunicationId": "NPWR11260_00",
+        "trophyTitleName": "Alone With You",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11260_00_00CC69C8638E4CF0FACC2697D37A0E01732E6BD9B7/4B2D3D72D749F07DA0021DD151BAC8664FE18C7A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR11261_00": {
+        "npCommunicationId": "NPWR11261_00",
+        "trophyTitleName": "Alone With You",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11261_00_0058A7EFF19196BAE4CD523D0B42A10B80CF9C53DC/0C64EF09B053AC5BBA6A0E2D563011E14296A2BC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 8
+        },
+        "service": "trophy"
     }
 }
