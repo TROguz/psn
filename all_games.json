@@ -78518,5 +78518,135 @@
             "bronze": 9
         },
         "service": "trophy"
+    },
+    "NPWR13161_00": {
+        "npCommunicationId": "NPWR13161_00",
+        "trophyTitleName": "Cyberdimension Neptunia: 4 Goddesses Online",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13161_00_0056FBAE1B21B7DB8B172862A4F1144D7407D44B00/7E38803F0E9E43CFE4BA775EDD4816B6BAACC2C4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR13162_00": {
+        "npCommunicationId": "NPWR13162_00",
+        "trophyTitleName": "Spheroids Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13162_00_00A52973DAB6352E5F51102A19875D19BD7DC84CBB/2C238E63C6E9FC22B65257D3B56C132185541FC4.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR13163_00": {
+        "npCommunicationId": "NPWR13163_00",
+        "trophyTitleName": "Cold Iron",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13163_00_00DEF706173506A599D525A84F217A80E3AC1B847E/28DB06236BD259A94AA95EE90006E8670732A882.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR13165_00": {
+        "npCommunicationId": "NPWR13165_00",
+        "trophyTitleName": "Titan Quest",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13165_00_009DED778500F361AC8C8C4603862AFAD10E8A30CE/56258AA967EF525B57A6FF1C5A4481E15C204AD9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 13,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR13167_00": {
+        "npCommunicationId": "NPWR13167_00",
+        "trophyTitleName": "ワールド・エレクション",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13167_00_004A5EE74F1C5A36E5DF2A4232E31ACE024CE0BAE9/C5ECD5A0A73127D03A2229898D2D0E51CC8955D7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR13168_00": {
+        "npCommunicationId": "NPWR13168_00",
+        "trophyTitleName": "Casey Powell Lacrosse 18",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13168_00_006869862D5857337FB60C57CAFC342555553DB114/932DFDCE2EBD3F4C45D945F00AE3D24A6C6C6547.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR13169_00": {
+        "npCommunicationId": "NPWR13169_00",
+        "trophyTitleName": "Defunct",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13169_00_000FFF43DA2C6A90E953DF252C061EF886730B140F/72DF942EFF874C74BB12383FFB3F185841B5C55C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR13170_00": {
+        "npCommunicationId": "NPWR13170_00",
+        "trophyTitleName": "Zero Zero Zero Zero",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13170_00_00E0D6FF6F1861A38A8756D5923ACD5E0131B42150/5E1129754236334CD49FEFAE34420DBC6F2BC59B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13171_00": {
+        "npCommunicationId": "NPWR13171_00",
+        "trophyTitleName": "Zero Zero Zero Zero",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13171_00_003E1F47001BF57E2AE24BA79A230C7CF5B041EDC1/16119181A40A3711E802E6C7A937999F79F0FEB2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13172_00": {
+        "npCommunicationId": "NPWR13172_00",
+        "trophyTitleName": "ECHO\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13172_00_001D40E655ABC1F5DAA0FE84740F4C142C330D83F8/A2B8B4C766E619C5B0424A279F5C587963729D26.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 4,
+            "bronze": 40
+        },
+        "service": "trophy"
     }
 }
