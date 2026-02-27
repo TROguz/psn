@@ -45628,5 +45628,135 @@
             "bronze": 1
         },
         "service": "trophy"
+    },
+    "NPWR08511_00": {
+        "npCommunicationId": "NPWR08511_00",
+        "trophyTitleName": "XBLAZE CODE : EMBRYO",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08511_00_0019575BD9B6AC1D95EC9DB48169E21BF9E31F26C9/43A35EB25ACF5D730E2BEACF3E9227B928894706.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR08512_00": {
+        "npCommunicationId": "NPWR08512_00",
+        "trophyTitleName": "XBLAZE CODE : EMBRYO",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08512_00_00813DA6961DE9ADDCF9365A1F6D60CFFEB97DF9A4/E43E4C38C6CE3EC7663E8D1A053826AA68009D2C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR08516_00": {
+        "npCommunicationId": "NPWR08516_00",
+        "trophyTitleName": "Overwatch",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/0F7A155F3C419377AD2EF1FB4947B6A43617900E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 85
+        },
+        "service": "trophy"
+    },
+    "NPWR08517_00": {
+        "npCommunicationId": "NPWR08517_00",
+        "trophyTitleName": "Bombing Buster\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08517_00_009FA1F0022D4751B3054E8821CC779B081A8641CB/70BF06C6215A29DDF4C8D40382B1C97C63CC6ACB.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR08519_00": {
+        "npCommunicationId": "NPWR08519_00",
+        "trophyTitleName": "STARWHAL",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08519_00_0089857088ED899BE7F5FD3880D689DF56D30941F1/14AF79D410E1EC81EA3F11DBF7B45F21978650F6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR08520_00": {
+        "npCommunicationId": "NPWR08520_00",
+        "trophyTitleName": "Geometry Wars³: Dimensions",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08520_00_001AE24D96B405A4A2A6D4B43F3DC0889B619D035E/2320473E7178FB7046354FA76FF69F89660B4ACA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 17,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR08521_00": {
+        "npCommunicationId": "NPWR08521_00",
+        "trophyTitleName": "Skylanders® SuperChargers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08521_00_00F509B82EED80075FBB604703EFA6A42F12B0ACA8/8D23FD4AA1F1163517409054681CF0260DD0A367.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR08523_00": {
+        "npCommunicationId": "NPWR08523_00",
+        "trophyTitleName": "The Deadly Tower of Monsters",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08523_00_009DB2B3D4030791D2EF8D2D82924F558182B241F6/AD929BADED4FCFD6E49A1AE71B71CF12FBE77BA1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 6,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR08524_00": {
+        "npCommunicationId": "NPWR08524_00",
+        "trophyTitleName": "the Castle Game",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08524_00_003A020D1A7A8598821101C35C8A57DA574B8CBC94/41B7C18ED41F664705D7AF7052E5AB3A37894546.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 21,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR08525_00": {
+        "npCommunicationId": "NPWR08525_00",
+        "trophyTitleName": "Slender: The Arrival",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08525_00_009E19BC86D33BEAA46AA5B206C9288C4A67BF8A59/77EC909745B2C28B5437F29C686F779D959F7DE1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
     }
 }
