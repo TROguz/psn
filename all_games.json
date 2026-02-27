@@ -26388,5 +26388,135 @@
             "bronze": 36
         },
         "service": "trophy"
+    },
+    "NPWR04597_00": {
+        "npCommunicationId": "NPWR04597_00",
+        "trophyTitleName": "R.I.P.D. The Game",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04597_00_00EEF172DE0B66844CF6421EBD11C05D0D0289B3CD/5CEBE08FDEE00B9A92B9A318BFD8445E31300F5B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 6,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR04600_00": {
+        "npCommunicationId": "NPWR04600_00",
+        "trophyTitleName": "Worms™ Revolution Extreme",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04600_00_000067B22117677C9BA3D22C309D38D2740A3A73AB/2B7E359ECF968210ED7E3A2B5C3E1C177A49FF58.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR04604_00": {
+        "npCommunicationId": "NPWR04604_00",
+        "trophyTitleName": "Invizimals™:\nThe Alliance",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04604_00_002A9358E6DDD0E862742405DA1E7E7351FDC7BED6/8F99333A13322717EC42EAF03AB7F858ED4CAD39.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 5,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR04605_00": {
+        "npCommunicationId": "NPWR04605_00",
+        "trophyTitleName": "Invizimals™: The Lost Kingdom ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04605_00_0003F44A427E5BD9F413208B08B93F612A1CA93137/ED3FA6A43EB1A9553598D71EDEC64923C1597003.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR04608_00": {
+        "npCommunicationId": "NPWR04608_00",
+        "trophyTitleName": "アルカディアスの戦姫",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04608_00_00459603EDF975E5A6568C35DF953FF6D65CE59EA0/61AEC0CDA132AEEDBB611C810F72C8C04D7EEA80.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR04609_00": {
+        "npCommunicationId": "NPWR04609_00",
+        "trophyTitleName": "デート・ア・ライブ　凜祢ユートピア",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04609_00_00B8A68492943B7390C0CCC15EB68AE5046FD41117/D6A38156FA6CBD2CFD821E5931E8FF9CC53ACAC8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 20,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR04610_00": {
+        "npCommunicationId": "NPWR04610_00",
+        "trophyTitleName": "Thunder Wolves",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04610_00_00B70D171C08D16037110BF9A926D9B5C22FBA67CB/C720320FE1844853DB683BF14550EBF9F3DA1539.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR04611_00": {
+        "npCommunicationId": "NPWR04611_00",
+        "trophyTitleName": "Young Justice: Legacy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04611_00_00B2319F910081AA2CE726AF2433F1160B852416DC/4376718812625BA4D1514752D96736A1D296072E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR04612_00": {
+        "npCommunicationId": "NPWR04612_00",
+        "trophyTitleName": "Limbo",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04612_00_00DADC739ACF7E968FC85A91C222AC743D9E7A7768/F8D5BAC2034BF2D7138723A7AF58C7757625D765.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR04614_00": {
+        "npCommunicationId": "NPWR04614_00",
+        "trophyTitleName": "Legends of War",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04614_00_00D73E5615F3143C1C06C4091E9A86BBE31B1D9DF5/FB18AA4430DFD8CDD957582D08BCEE7252886189.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 6
+        },
+        "service": "trophy"
     }
 }
