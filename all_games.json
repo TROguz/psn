@@ -57588,5 +57588,135 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR10391_00": {
+        "npCommunicationId": "NPWR10391_00",
+        "trophyTitleName": "페어리 펜서 F ADVENT DARK FORCE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10391_00_00677A6D28D895C9AD747702347FAB883DE2DA1415/72967AB5D1F058B94779437933E90DD2B2B9C5A0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 16,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR10392_00": {
+        "npCommunicationId": "NPWR10392_00",
+        "trophyTitleName": "Knock-Knock",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10392_00_009765E435CC9A532139087E628575090D36E8D171/C627ECF9F6FE6C42C04606E42FC277E1D21ABFF8.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR10393_00": {
+        "npCommunicationId": "NPWR10393_00",
+        "trophyTitleName": "Knock-Knock",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10393_00_00F86F82163BB53B7449CAE5CEA665319A15EB7216/4FA46DDF390345AF06A2A15D2848D918BFF6F314.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR10400_00": {
+        "npCommunicationId": "NPWR10400_00",
+        "trophyTitleName": "Madden NFL 17",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10400_00_008D51481A0FA00927FD2B4D57328DD8AF216327DB/FC2EC107B56D73389BF245DEA131D552A67C3FA1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 23,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10401_00": {
+        "npCommunicationId": "NPWR10401_00",
+        "trophyTitleName": "Furi",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10401_00_007C20195387A84D936B919235F2B34A3858E78229/BD29B9835627B6291A15C196DE53642A2C0D003B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR10403_00": {
+        "npCommunicationId": "NPWR10403_00",
+        "trophyTitleName": "Dance with Devils",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10403_00_001453979CC0CFFA2ECC3AD95F4F71FC4D604AB910/97E6B611C6A45097F8907C680B2BC8C7C2B07C68.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR10404_00": {
+        "npCommunicationId": "NPWR10404_00",
+        "trophyTitleName": "Cubikolor\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10404_00_00F234B739D5CC59592080425E5E22DA676B56EE60/BBD24E0141FFDDD25FDBE984F0D8E24546E09A07.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR10405_00": {
+        "npCommunicationId": "NPWR10405_00",
+        "trophyTitleName": "JUST SING™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10405_00_00D6A6F638F244756174205E632C0019731181AAB6/481EEC0F42D4047D625393BF7E1A21EFD47938EC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR10407_00": {
+        "npCommunicationId": "NPWR10407_00",
+        "trophyTitleName": "Touhou: Scarlet Curiosity ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10407_00_0097D16721AD64B0332D54E9402FC18367A398CE04/D29A64249DDB5761F5FC607F6DFF9F482E8B0E3A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR10409_00": {
+        "npCommunicationId": "NPWR10409_00",
+        "trophyTitleName": "D/Generation",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10409_00_003C0E1F7CA12732C5DABD88950B9BB17262A7C134/2A3DC01E54A5555B7D44BF704B65B02A82F4D2A9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 29
+        },
+        "service": "trophy"
     }
 }
