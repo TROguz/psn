@@ -81898,5 +81898,135 @@
             "bronze": 4
         },
         "service": "trophy"
+    },
+    "NPWR13623_00": {
+        "npCommunicationId": "NPWR13623_00",
+        "trophyTitleName": "Let's Sing 2018 Hits français et internationaux",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13623_00_00C7E6DC747ACC69C9E225D566ACF7B84983B213C5/1C47F72A5F2DE91CEB536DA1B14DC66415D4F3C4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR13624_00": {
+        "npCommunicationId": "NPWR13624_00",
+        "trophyTitleName": "Let's Sing 2018 mit deutschen Hits",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13624_00_006A76C7540425DD3DF12119A715357D7D00358F28/F5081ED70AF851ED204AAD2E34239332DE93065B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR13632_00": {
+        "npCommunicationId": "NPWR13632_00",
+        "trophyTitleName": "カイジVR～絶望の鉄骨渡り～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13632_00_0021875DF71E3099046C789919E50BA0DEEC33F803/26AA039A09CB37CFA0EFDD96AB4AA544A954CB96.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR13633_00": {
+        "npCommunicationId": "NPWR13633_00",
+        "trophyTitleName": "Utawarerumono: Mask of Truth",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13633_00_006B40F4B8631FF6D5E6B9E4D914328F33B3BFC1B3/C006706BD225A2A8D7E5C938D061FF8896707F50.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 4,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR13634_00": {
+        "npCommunicationId": "NPWR13634_00",
+        "trophyTitleName": "Archangel\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13634_00_0072A6F9C3B5F8997FCE77C2EEC78F36F545708B2F/B8FBA9C9CB514FC16DE4035A04B508C0F971397B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 0,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR13635_00": {
+        "npCommunicationId": "NPWR13635_00",
+        "trophyTitleName": "Rabi-Ribi",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13635_00_0040BBE3FA48AA1A960B9CEDEA16BC1706EB793C87/D53271E3B0D3368B8B0E6BEF31C97601744699B4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR13637_00": {
+        "npCommunicationId": "NPWR13637_00",
+        "trophyTitleName": "Rabi-Ribi",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13637_00_00D77235143D57734B64555EACB8D5B94B10BC6450/4F7DFEF236FA247B021B4CEA43CC7AA656E9EE57.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR13639_00": {
+        "npCommunicationId": "NPWR13639_00",
+        "trophyTitleName": "Divide",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13639_00_00CF15BA83B68931763E6DE593FE526446D1015876/F2E112323BA2DB79C11A7235A605A0F6358B14AF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR13640_00": {
+        "npCommunicationId": "NPWR13640_00",
+        "trophyTitleName": "Antiquia Lost",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13640_00_00BBEB87C966274E6540E689CB7F9266F0A440575F/6FCBD878BCDDCF30E1A2B244EC46520943E27659.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR13642_00": {
+        "npCommunicationId": "NPWR13642_00",
+        "trophyTitleName": "The World of Nubla",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13642_00_00FF84AB219F53F183ACD538BE33C186373AA145B7/8932152E87F5EA39F1820948B2AEB6ECDFBC4D2C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 0,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
