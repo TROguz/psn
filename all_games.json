@@ -43158,5 +43158,135 @@
             "bronze": 13
         },
         "service": "trophy"
+    },
+    "NPWR08135_00": {
+        "npCommunicationId": "NPWR08135_00",
+        "trophyTitleName": "魔物獵人FRONTIER Z",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08135_00_00121C580A8AA7F58E713DBBCA26B3FDE2804BFFC0/89686DFB18AF225CEB3E4992428C6E8B1DF9A61B.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 29,
+            "bronze": 57
+        },
+        "service": "trophy"
+    },
+    "NPWR08137_00": {
+        "npCommunicationId": "NPWR08137_00",
+        "trophyTitleName": "Never Alone",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08137_00_00C486413B8D4F4787B936E88FE8D17EE7459EEED3/BD72E19529C96CCBAF91DFA8BBDA091A1364BCC4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR08138_00": {
+        "npCommunicationId": "NPWR08138_00",
+        "trophyTitleName": "J-STARS Victory VS+ Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08138_00_00690FECC43A3BA28A096960924DDF29DE539C00F7/8EE59BD2EE0B6B5F54D800D55DD162C50F9B601F.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR08140_00": {
+        "npCommunicationId": "NPWR08140_00",
+        "trophyTitleName": "Orcs Must Die! Unchained",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08140_00_001652AA6CE139F3B532C7EACBFCEF88E9720974A8/AC056BEAC8E611EBC0A4E2590690B55575D9E6B5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR08141_00": {
+        "npCommunicationId": "NPWR08141_00",
+        "trophyTitleName": "LEGO® Jurassic World™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08141_00_003C85B395A757CCFDDE3360B72FA065B2538D1BA8/4AE0824C882C45D35FB0B5DB4B997DBA18FFC173.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR08142_00": {
+        "npCommunicationId": "NPWR08142_00",
+        "trophyTitleName": "LEGO® Jurassic World™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08142_00_003D563207D426EE2C1EE01C4653A61E17BDA2D40E/D5E13578C8B737B985357130994DBC58D1C27443.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR08143_00": {
+        "npCommunicationId": "NPWR08143_00",
+        "trophyTitleName": "LEGO® Jurassic World",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08143_00_000DB030285A66963B1C24FD1B42856FEDBAE8B330/C11739657E3C7FA2003937ABC3E807B543BBD13D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR08144_00": {
+        "npCommunicationId": "NPWR08144_00",
+        "trophyTitleName": "Cabela's® African Adventures",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08144_00_00608ABD5A84BB0159053D4BDB4CE54E626BCE82DE/F88E297EE70DAB628EA69BA91306A5A3EC630A0C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR08145_00": {
+        "npCommunicationId": "NPWR08145_00",
+        "trophyTitleName": "[PROTOTYPE® Biohazard Bundle]",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08145_00_00C23FDF724FECF0C001442E9048D7AF3BCE9810F1/82D7D04930033EC50C393CCBACB4245EDA42FF23.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR08146_00": {
+        "npCommunicationId": "NPWR08146_00",
+        "trophyTitleName": "[PROTOTYPE®2 Biohazard Bundle]",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08146_00_0003A986CD93C0C4A0F5F00DDF15741B1BAE814163/32B62E3D032601E5F17068AA256710C0ABE5E06B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 15,
+            "bronze": 26
+        },
+        "service": "trophy"
     }
 }
