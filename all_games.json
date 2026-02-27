@@ -77868,5 +77868,135 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR13085_00": {
+        "npCommunicationId": "NPWR13085_00",
+        "trophyTitleName": "Redout Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13085_00_003EE560EA96063F63D24A311E268DA4A0769D889C/375701581108E06E4FA6812586FA775662C6E02B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 16,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR13087_00": {
+        "npCommunicationId": "NPWR13087_00",
+        "trophyTitleName": "A Way Out",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13087_00_00A7567C744FA8B835869441FDD512B6295AFF204B/B743ECEC0B6036F07039195DBF0D2675E56107CE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 4,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13088_00": {
+        "npCommunicationId": "NPWR13088_00",
+        "trophyTitleName": "Tinertia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13088_00_000BB1D5DC4A8D4F3BA79426D6EAFEA72D50204580/DBFD79F64FEEC8CBFBD2CF7B782D70F9E49E913F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 2,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR13090_00": {
+        "npCommunicationId": "NPWR13090_00",
+        "trophyTitleName": "Paddle vs Paddle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13090_00_00B95D5A146F3838A460DF854DC36AB40039490FDA/7B71B26E978C070E0850049DD55B00B74F3237E4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 1,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13092_00": {
+        "npCommunicationId": "NPWR13092_00",
+        "trophyTitleName": "絶対絶望少女　ダンガンロンパ Another Episode",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13092_00_00915E89F468686C139E2CF2911EDF558D92E22763/287F80DA9D6C6E071434C671CD148D3B9498CC46.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR13093_00": {
+        "npCommunicationId": "NPWR13093_00",
+        "trophyTitleName": "Danganronpa Another Episode: Ultra Despair Girls",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13093_00_00A8F478AB4314BCC3B549FF5A1B37922D2B9F016B/5718BC7BAF611311D78A276759323CB6EBCB086E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR13094_00": {
+        "npCommunicationId": "NPWR13094_00",
+        "trophyTitleName": "DeadCore",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13094_00_0080C92B38E3BEA2D70470B38DC25F2D18EA2F3779/46B1E575394006AC75DD5CB5794E0CAAC3663D1E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR13096_00": {
+        "npCommunicationId": "NPWR13096_00",
+        "trophyTitleName": "The Inpatient",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13096_00_006506E339C90273E9D5BCFA1F7FBF5790E79E286E/296DFE7CF653DA6D8A9E3FCAB8A88A0AA059B9AB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR13100_00": {
+        "npCommunicationId": "NPWR13100_00",
+        "trophyTitleName": "Puzzle Showdown 4K",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13100_00_00878ACAA350CF78559BD6F389E77148AD3510F176/7C104F16D8F7F40F7594931CBB9CF81B13A144E3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR13101_00": {
+        "npCommunicationId": "NPWR13101_00",
+        "trophyTitleName": "Defenders of Ekron",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13101_00_00F88F5025AA00CE13562493125704AB9E398E6C18/0FBCBB66B5061416A4518AFECF4785F894133CDD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
