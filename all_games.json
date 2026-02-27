@@ -44198,5 +44198,135 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR08294_00": {
+        "npCommunicationId": "NPWR08294_00",
+        "trophyTitleName": "2013: Infected Wars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08294_00_0072F9654D7FF3EE13E42C2F3C222FDCA06869E1BB/E840ADD1913ABCAEC2FCA88A8D836A76E9E17189.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR08295_00": {
+        "npCommunicationId": "NPWR08295_00",
+        "trophyTitleName": "Friend to Lover ～フレラバ～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08295_00_00E2CC7D0A119EB5FEADA236679CB052BCCE1199DB/96CE8F179613042951DFFD0DB261334DFAF32B36.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR08297_00": {
+        "npCommunicationId": "NPWR08297_00",
+        "trophyTitleName": "ドラゴンクエストヒーローズ　闇竜と世界樹の城",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08297_00_007EE67B0DF291D74B43D9F97143A7700122C73C30/99171B55AAFF01114E9732699C055C96E3878329.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR08298_00": {
+        "npCommunicationId": "NPWR08298_00",
+        "trophyTitleName": "ドラゴンクエストヒーローズ　闇竜と世界樹の城",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08298_00_00FC4C16CDEBACE86444CD66D22606D8671EBB4406/78BBDCE8A15BF5181930F3AC1BD8EC70F71E3562.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR08300_00": {
+        "npCommunicationId": "NPWR08300_00",
+        "trophyTitleName": "舞力全开® 2015",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08300_00_00BF4BDF30FE959DE9727A6C524E27E91E0212421C/ACD973C83D28538E51216978A34C689880C3996D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR08301_00": {
+        "npCommunicationId": "NPWR08301_00",
+        "trophyTitleName": "雷曼：传奇",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08301_00_005E43871A7FA2DB15DD635A799902583F5C590CAB/575F85A70EDAC5D6BB88BD56DFC4118C2BC4DB2D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR08303_00": {
+        "npCommunicationId": "NPWR08303_00",
+        "trophyTitleName": "バレットガールズ２のトロフィー",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08303_00_004ABDEA4FC270F140AF3A93B4CE268E18065E32C3/02CEC6CD9DB0ACC01B22B91697640D2569E4E06C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR08304_00": {
+        "npCommunicationId": "NPWR08304_00",
+        "trophyTitleName": "Titan Souls",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08304_00_00B67D93227CDC447B8A639C1906661E3CF63BD018/16B20296EC5B8069250C4C40D9F1F6C0B0B96E4D.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR08306_00": {
+        "npCommunicationId": "NPWR08306_00",
+        "trophyTitleName": "Tom Clancy’s Rainbow Six® Siege",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08306_00_00409A8E5600C6C1C8E023931C4DE6809D305498D9/4BF4C12FB5DE77A8947E7676D2D09AA7F54DA662.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR08307_00": {
+        "npCommunicationId": "NPWR08307_00",
+        "trophyTitleName": "PAYDAY 2: CRIMEWAVE EDITION",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08307_00_002AE1751C95E2C5DFC9EBBAA565A8761C394A0A24/A40960A86B581359853904019BD1AC5DEADA62C9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 22,
+            "silver": 33,
+            "bronze": 55
+        },
+        "service": "trophy"
     }
 }
