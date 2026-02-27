@@ -23138,5 +23138,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR04007_00": {
+        "npCommunicationId": "NPWR04007_00",
+        "trophyTitleName": "MLB® 13 The Show™ (PS3)",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04007_00_00E48A65F66D5A992EC0EA5FC3939F3459F7D751B3/5E639FE7C7958034686E372AD45FD1419AA17807.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR04008_00": {
+        "npCommunicationId": "NPWR04008_00",
+        "trophyTitleName": "The Walking Dead : Survival Instinct",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04008_00_00DFC9630CC2E58E90A0C0D352034F5D97C1DB4792/958D0402717E43EBFF6404FC0F1F78B0DEB7278C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR04011_00": {
+        "npCommunicationId": "NPWR04011_00",
+        "trophyTitleName": "ガンダムブレイカー",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04011_00_0037F63CD5BB114C51A19EC7A15DD5174AEAD0EE34/07070442C83F939530F399B14D28E04968448372.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR04013_00": {
+        "npCommunicationId": "NPWR04013_00",
+        "trophyTitleName": "Oddworld: Stranger's Wrath HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04013_00_009A2EB3B2C7A7F30A835F730C25081FA4587C9225/4967D194E32A2D93400ABBC116D17D0F69D8825A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR04018_00": {
+        "npCommunicationId": "NPWR04018_00",
+        "trophyTitleName": "テイルズ オブ ハーツ R",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04018_00_00A70DE478D1FF17C3ABF00E3D03111369E69E2DD5/EE67DACC5A17251620026DA4CD363CC61E3F4290.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR04019_00": {
+        "npCommunicationId": "NPWR04019_00",
+        "trophyTitleName": "FARCRY CLASSIC",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04019_00_00FDD9D6960B8E4818590F612A543D91A46768DC68/4DBB2F147DF17B8A341A8DD3EFA6A229DE988B83.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR04020_00": {
+        "npCommunicationId": "NPWR04020_00",
+        "trophyTitleName": "NAtURAL DOCtRINE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04020_00_002A517EB11DE66F6DF0F296EF274C2B76B332A38C/AA08D64B4C0267DBD673F5683E6A2984A6E96E82.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR04021_00": {
+        "npCommunicationId": "NPWR04021_00",
+        "trophyTitleName": "さくら荘のペットな彼女",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04021_00_00C204FB4D3F6F1F6932CAF49B3244865D1B36001A/10CF103CD84DEBB8139002CDEDCC4BC8B6C14E76.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR04024_00": {
+        "npCommunicationId": "NPWR04024_00",
+        "trophyTitleName": "A-men 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04024_00_0065E354FF3F34C564BC9ADC069BCDF66CFF0352D1/7C35818856E8485634FF2DF69D43C7CE0187C69D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR04028_00": {
+        "npCommunicationId": "NPWR04028_00",
+        "trophyTitleName": "GUILTY GEAR XX ΛCORE PLUS R ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04028_00_0032531DF2BAAA0C3775FB135657B2DEB4E025CE4F/CE493D3511FFC5166C2AF086D5695CD7BA75EA1E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
