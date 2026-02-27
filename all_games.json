@@ -32368,5 +32368,135 @@
             "bronze": 19
         },
         "service": "trophy"
+    },
+    "NPWR05891_00": {
+        "npCommunicationId": "NPWR05891_00",
+        "trophyTitleName": "シェルノサージュ～失われた星へ捧ぐ詩～トロフィーデータ２ ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05891_00_00312A3719541C8109F7540F89D0F7274EA6EA8D37/B6CCFFD1A8FCB04523298D4BB83B12571051DBE1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR05892_00": {
+        "npCommunicationId": "NPWR05892_00",
+        "trophyTitleName": "Hyperdimension Neptune Re;Birth2 SISTERS GENERATION",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05892_00_003F921BFC6D343D915938A5E4BD2242BC5FFA9EB8/3082C4B422562B210B8E7FC024267592E08A6106.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR05894_00": {
+        "npCommunicationId": "NPWR05894_00",
+        "trophyTitleName": "Bound by Flame",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05894_00_004D7DCD8DD53DDFA85CD0E266E15597B761E34AC0/D2A6B29944A75FACEC9D283E40291E37420CDD4B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR05896_00": {
+        "npCommunicationId": "NPWR05896_00",
+        "trophyTitleName": "ブラザーズ 2人の息子の物語",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05896_00_00FBC0071D4CBA783913DA65DAE0A9D8F89F14FF48/C5F795262D253C80B34B301FBB09B7C184C3384A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR05897_00": {
+        "npCommunicationId": "NPWR05897_00",
+        "trophyTitleName": "Jet Car Stunts",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05897_00_00902209245036F0B489B6A2C370DAAB7553A788E5/130664123B8AD99C7A294D0D4ABA491D326B2984.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR05898_00": {
+        "npCommunicationId": "NPWR05898_00",
+        "trophyTitleName": "Jet Car Stunts",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05898_00_0000657A8DBD26915BA8EA0CCC59DAB38094E02F3E/2D0683C3450016E889A3BEE7C3BE69357D0DCBAB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR05899_00": {
+        "npCommunicationId": "NPWR05899_00",
+        "trophyTitleName": "いますぐお兄ちゃんに妹だっていいたい！",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05899_00_000584B8B04174CFBC5FF2A47B88E6B6AD574A758B/A5A2F8C8335E751BA81DF873E7155212F316AD1F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR05900_00": {
+        "npCommunicationId": "NPWR05900_00",
+        "trophyTitleName": "LOVELY QUEST Unlimited",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05900_00_004F12C95B7D485B048804DE92EE6965A54D32CFB4/B1C2988127DA882417F721213C35E6EA3536A2A4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 49
+        },
+        "service": "trophy"
+    },
+    "NPWR05901_00": {
+        "npCommunicationId": "NPWR05901_00",
+        "trophyTitleName": "ドリームクラブ\nホストガール　オンステージ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05901_00_00C4DFC603058BFAEE09106D05147310009633E3D9/FDC8B42A28117EDF117C988CAEF06E21356F5A58.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR05905_00": {
+        "npCommunicationId": "NPWR05905_00",
+        "trophyTitleName": "LEGO® The Hobbit™ ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05905_00_0040B95F65A1C85CB8C66EA88C05D45977510173EE/9C59CB5F5EC71CCB12777AA70C6CA5A0D5C5D2E9.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 4,
+            "bronze": 42
+        },
+        "service": "trophy"
     }
 }
