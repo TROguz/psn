@@ -75658,5 +75658,135 @@
             "bronze": 24
         },
         "service": "trophy"
+    },
+    "NPWR12785_00": {
+        "npCommunicationId": "NPWR12785_00",
+        "trophyTitleName": "Jak X: Combat Racing",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12785_00_00CEF9D498DA773AFE3D80431130907A74BE439BC1/EDDA1E1C96A47384BCDC5A86C7B1B995A72FB1F4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 17,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR12786_00": {
+        "npCommunicationId": "NPWR12786_00",
+        "trophyTitleName": "Jak 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12786_00_00419731C4F05F453AD825D6D9677036A553AB4BE4/2338E14F1CDF4E7B895E14BE7F489AA2584DB545.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR12787_00": {
+        "npCommunicationId": "NPWR12787_00",
+        "trophyTitleName": "Marvel’s Guardians of the Galaxy: The Telltale Series",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12787_00_0088A5C75B49DCBDDDEDD799779BD0C58655403181/2603A24F47E1C00DA441248537CF384E58D1F02B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR12791_00": {
+        "npCommunicationId": "NPWR12791_00",
+        "trophyTitleName": "Jak II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12791_00_00F656AC2612B9EF66FEC2BBBBD2D51F5F00E1ECFD/CA72AED2E7AE925E608F9FA8E033C0C562CE6BB8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR12792_00": {
+        "npCommunicationId": "NPWR12792_00",
+        "trophyTitleName": "Mary Skelter: Nightmares",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12792_00_00477BA7960C28AA0ABD4AFBFBF8AD38806A143609/416A71BCD55993150C64C1A9252125A2BCA656C8.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR12793_00": {
+        "npCommunicationId": "NPWR12793_00",
+        "trophyTitleName": "Mary Skelter: Nightmares",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12793_00_00803EC9036B3846614B3D879326E38A68D171EC42/86A7BF391D4092CD93C004C057A3D4C3C2F98C7A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR12795_00": {
+        "npCommunicationId": "NPWR12795_00",
+        "trophyTitleName": "Root Double -Before Crime * After Days- Xtend Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12795_00_00C62BFE87E8EC0D6A3512FB519A4E9A44E598F1E5/EABA1BA4345D02F562EBB6D9D5BF676D4B7E096F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR12796_00": {
+        "npCommunicationId": "NPWR12796_00",
+        "trophyTitleName": "アイドルマスター ステラステージ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12796_00_00EF38BF44AFFE6DB618CF866AF141187FECCCB411/4FF22DD19EE9BF426AA1F716A5F1EBF083D4EE9D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 55
+        },
+        "service": "trophy"
+    },
+    "NPWR12797_00": {
+        "npCommunicationId": "NPWR12797_00",
+        "trophyTitleName": "Revenant Saga",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12797_00_0091F36F0E99994F25119FC216DD2C8C27AF973844/4E3F57031EF123FFA6D9257705E9AD037FFC6FDF.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR12798_00": {
+        "npCommunicationId": "NPWR12798_00",
+        "trophyTitleName": "BOKOSUKA WARS II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12798_00_003EA6797A2F5AAF328BFB626931B50B1FBCC37B90/265F1B7458BCF1FAD15D601F16E65924A9282866.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 41
+        },
+        "service": "trophy"
     }
 }
