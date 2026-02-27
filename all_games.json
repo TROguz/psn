@@ -34058,5 +34058,135 @@
             "bronze": 39
         },
         "service": "trophy"
+    },
+    "NPWR06258_00": {
+        "npCommunicationId": "NPWR06258_00",
+        "trophyTitleName": "PvZ Garden Warfare",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06258_00_0066299C52F89CA3AC3E8B3F03052EBBF3EBF0CFC1/0BF49CC40CB8D8AB2B7D2F59C76ECEAC8C54D41C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR06259_00": {
+        "npCommunicationId": "NPWR06259_00",
+        "trophyTitleName": "Syberia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06259_00_0025F562308C8873441B059226916CE6EB036B3354/B8857DB542D88F4E6F2A7BB32290B49D41235A69.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR06264_00": {
+        "npCommunicationId": "NPWR06264_00",
+        "trophyTitleName": "Falling Skies: The Game",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06264_00_00BAC4FB9AA51D1F929BFD14C1C809850EC686E3DB/9397A909E368D0DF689300199542BD2F4B8D8AD0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR06265_00": {
+        "npCommunicationId": "NPWR06265_00",
+        "trophyTitleName": "How To Train Your Dragon 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06265_00_0052BC9DA3DB44AD2698F568C2DA90C18520F12E2E/0B221DB1FA5ECCC8AAC0A73A2FAFA72E95E58568.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR06268_00": {
+        "npCommunicationId": "NPWR06268_00",
+        "trophyTitleName": "Day D Tower Rush",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06268_00_00ECA52D52689317A57446F5A3EB5CD45A103C6DD6/2A994F8EB1B7EAE72CA2B79F2720418E1FB85376.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR06277_00": {
+        "npCommunicationId": "NPWR06277_00",
+        "trophyTitleName": "Day D Tower Rush",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06277_00_002FC6BB95CD80D910BBBA9BCE8D630B4EBC30554A/09C9F725888FD1A690AB28BE6E1A10F153977B5D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR06278_00": {
+        "npCommunicationId": "NPWR06278_00",
+        "trophyTitleName": "SteamWorld Dig",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06278_00_003548C63BB836A70EAD9EE115B3B13D8A62A6ECCA/611834F8AF8FD482EDF72BEB7470690B0A0385EB.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR06279_00": {
+        "npCommunicationId": "NPWR06279_00",
+        "trophyTitleName": "SteamWorld Dig",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06279_00_0080AD554512859B1FBC19B808AD2A68FDE60DE5F4/DE1123C66B27B4FDC9AE146F0D714548F4AE4EDF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR06280_00": {
+        "npCommunicationId": "NPWR06280_00",
+        "trophyTitleName": "Strike Suit Zero",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06280_00_00EA6E7ACEDD7D963BFC7BD97F8D638A8EEE7AA2DE/90C0D7EA76F4EF0F9F8A0FF22B5B1BB8DE21C097.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR06281_00": {
+        "npCommunicationId": "NPWR06281_00",
+        "trophyTitleName": "NHL® 15 Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06281_00_00DA5BABC7FA9ADCEEE267FD7FD11E8AB78D245A3B/EBC16BA865CEFC1279A70CCC42D1460A4235E8A0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 13,
+            "bronze": 35
+        },
+        "service": "trophy"
     }
 }
