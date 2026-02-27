@@ -48488,5 +48488,135 @@
             "bronze": 5
         },
         "service": "trophy"
+    },
+    "NPWR08980_00": {
+        "npCommunicationId": "NPWR08980_00",
+        "trophyTitleName": "Xeodrifter™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08980_00_002D518C28A60A4CEABC8EE7DD5C1A48559C46B60B/8545D16AD9DFF475115FDB1E420E240579BABCF0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR08981_00": {
+        "npCommunicationId": "NPWR08981_00",
+        "trophyTitleName": "Xeodrifter™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08981_00_005CB7B5E610E6F839A623FB005ABC3D4F841FAC19/0B730A0418E7A32EA8E2C73AE9EC5708A0111C30.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR08982_00": {
+        "npCommunicationId": "NPWR08982_00",
+        "trophyTitleName": "Wander",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08982_00_00BB4BE85D6E1CE41438FA3062A3A469D664847159/68A2744BB1A8D8601C29BD317E2CDC4F37766BB7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR08983_00": {
+        "npCommunicationId": "NPWR08983_00",
+        "trophyTitleName": "NieR:Automata",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08983_00_0028401200C35DF79459606ABAD48478BB4ED49539/E1BD1DCC141217DFB0A7180EB6EFF8A63156B4AC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR08984_00": {
+        "npCommunicationId": "NPWR08984_00",
+        "trophyTitleName": "SUPERBEAT XONiC",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08984_00_0092E93872B42A2BD17FC399A8394B729E71AC59CC/6FB4768C96CB35E5C2C7F30638DB542F3EB96CE3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR08985_00": {
+        "npCommunicationId": "NPWR08985_00",
+        "trophyTitleName": "Chariot",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08985_00_0067BBD728D9A4A688ED0EC081F8FA45A73D461A67/7D0DDAEEDCF08449A4DC97DB5CE4522BB7FC9B06.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 19,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR08986_00": {
+        "npCommunicationId": "NPWR08986_00",
+        "trophyTitleName": "Back to Bed",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08986_00_006E46D3EE39BA6AE75E0E48DF65AF65EFBE739879/B89226DD9B1345E2B24483CF964F98DE416EAB2B.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR08992_00": {
+        "npCommunicationId": "NPWR08992_00",
+        "trophyTitleName": "オメガラビリンス",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08992_00_007A7F6C679C490E741CB1CF06AFF064E4FFCF547E/93B9543332B13B2EAD32687A52E5CA10B812F6BF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 18,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR08993_00": {
+        "npCommunicationId": "NPWR08993_00",
+        "trophyTitleName": "Doodle God",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08993_00_00351F92B76486B8D011C18F74D9BD2FC02C4B4B9B/1B8778D7942FC874B243CB76087374B249A77FF5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR08994_00": {
+        "npCommunicationId": "NPWR08994_00",
+        "trophyTitleName": "Space Hulk",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08994_00_00C42C1DDFACECED9E8036B979783138DB56BFA1EE/8933D7A464856BDD7DC98EF706E9077625216AED.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
