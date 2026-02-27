@@ -61488,5 +61488,31 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR10996_00": {
+        "npCommunicationId": "NPWR10996_00",
+        "trophyTitleName": "Steredenn",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10996_00_000FC398CE9793E1957859886D44A071F43395ED0F/1A384482B7F957D55D6390A0A19FEB2A40DC1C86.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR11000_00": {
+        "npCommunicationId": "NPWR11000_00",
+        "trophyTitleName": "Hammerwatch",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11000_00_008B79189001CE0674078FBC633DEE14780A65CF05/D954CBC167272680F13F1E75BA39A57907749E6A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 27
+        },
+        "service": "trophy"
     }
 }
