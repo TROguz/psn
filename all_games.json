@@ -27688,5 +27688,135 @@
             "bronze": 30
         },
         "service": "trophy"
+    },
+    "NPWR04893_00": {
+        "npCommunicationId": "NPWR04893_00",
+        "trophyTitleName": "Angry Birds™ Star Wars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04893_00_00892DB7E53B35692708ED40ED2BA2942749732A9D/BDFD62843CEBFCDC4BFBB90D0166C2B6D39730C6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR04894_00": {
+        "npCommunicationId": "NPWR04894_00",
+        "trophyTitleName": "Cabela's® Big Game Hunter®: Pro Hunts",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04894_00_00403F153AED3A36E03FB874634DEFC982F7E8D37B/430869CE4946CD5A9C8D3EBF7C93567F710248B4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 30,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR04895_00": {
+        "npCommunicationId": "NPWR04895_00",
+        "trophyTitleName": "Cabela's® African Adventures",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04895_00_0046A9B216FD4E2C8D47E27C5A7E2631BC81469046/1A462F8CFF965B6070EF613F5404C643ACA3505C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR04897_00": {
+        "npCommunicationId": "NPWR04897_00",
+        "trophyTitleName": "MLB® 14 The Show™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04897_00_00964BEE3EE53140C1CCEF6DCE00F07B214E4B477A/D47F01B9243E15F7B83D315783F9643A2335DF45.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR04898_00": {
+        "npCommunicationId": "NPWR04898_00",
+        "trophyTitleName": "ONE PIECE: PIRATE WARRIORS 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04898_00_00A93C3E9F29921379CBA32CFC4D7FA7D83A1D30F9/C42798D324B1DAEAE60B263E0EB20DB656578C46.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR04905_00": {
+        "npCommunicationId": "NPWR04905_00",
+        "trophyTitleName": "MLB® 13 The Show™ Home Run Derby™ Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04905_00_00133D788603B5F92E94C10E10D5F8AFC1B9227E14/1D66864BE8A9C89CA48E6F168998E2253F1535C8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 0,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR04910_00": {
+        "npCommunicationId": "NPWR04910_00",
+        "trophyTitleName": "PAC-MAN and the Ghostly Adventures",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04910_00_000DE14BB9B83D6904F0E02CA8248266A35ACFAB60/7D8BD84ED9907E228B939D8EF48F862DE8AFD894.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 18,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR04911_00": {
+        "npCommunicationId": "NPWR04911_00",
+        "trophyTitleName": "スーパーロボット大戦OG INFINITE BATTLE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04911_00_0046CA7881A7C5B352CCE261690B54FA49C62EFC8A/5F9E32F0273AB32FA6DF8DBB72AA1846F9BD64FE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR04913_00": {
+        "npCommunicationId": "NPWR04913_00",
+        "trophyTitleName": "No Heroes Allowed: No Puzzles Either!™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04913_00_000CC5088C704FF11D6F1CF7028C6E776E2EAE177C/731F1A1F996023F7A119B1016C83B07C3A4B6584.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR04914_00": {
+        "npCommunicationId": "NPWR04914_00",
+        "trophyTitleName": "THE PLAYROOM",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04914_00_001D0CE7578DC8E90303E24F162B9C8AD3632C9F0F/82EC059112FCA6B1A86F80C300D8BD201F9ADFE2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 19
+        },
+        "service": "trophy"
     }
 }
