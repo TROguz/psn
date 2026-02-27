@@ -76178,5 +76178,135 @@
             "bronze": 4
         },
         "service": "trophy"
+    },
+    "NPWR12859_00": {
+        "npCommunicationId": "NPWR12859_00",
+        "trophyTitleName": "Cursed Castilla (Maldita Castilla EX)",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12859_00_00A3667B4C7928DBF0F8126984A8A5828DF49FC69B/D20E68D7A766699DEC550AC63F48ABFB70EEC62F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12862_00": {
+        "npCommunicationId": "NPWR12862_00",
+        "trophyTitleName": "Wolfenstein® II: The New Colossus",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12862_00_002FEB4B660CAAA3282690DA48169C95DA2411B7E2/BBBBF61EA9D3E3B6C48C47D6A65CF43631EA0EF9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 62
+        },
+        "service": "trophy"
+    },
+    "NPWR12864_00": {
+        "npCommunicationId": "NPWR12864_00",
+        "trophyTitleName": "The Persistence",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12864_00_003880FDF8F8206E07008A41651472094783AF956E/7BA94C4AD4FE56DCD701193A3468C95A754A59C0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR12865_00": {
+        "npCommunicationId": "NPWR12865_00",
+        "trophyTitleName": "The Persistence",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12865_00_00A854482BB21B8199B5242D70455D3A95E3E6BCCA/6D37B59D7479D5ED45F83B49398D08E79C26AFC5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR12866_00": {
+        "npCommunicationId": "NPWR12866_00",
+        "trophyTitleName": "Ninja Usagimaru: Two Tails of Adventure",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12866_00_00B0EB99DB61A0615D4C198187B2C07EF4783B256F/32A06042FCF6FB931EC652D9076904FC22325614.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR12869_00": {
+        "npCommunicationId": "NPWR12869_00",
+        "trophyTitleName": "Super Mutant Alien Assault",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12869_00_0067A9B5DC8B597E10684734CB1408B3ABD0A04875/48B7197B44BC5852669E1FFB84649CE2C0793285.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR12871_00": {
+        "npCommunicationId": "NPWR12871_00",
+        "trophyTitleName": "SUMMON NIGHT6 LostBorders",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12871_00_00158FA2A62A93BB5756BA35AAE88F575AD0FBC396/84552B0EB8F6FAE64D518115E9A8FDCB387D684D.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR12874_00": {
+        "npCommunicationId": "NPWR12874_00",
+        "trophyTitleName": "Butcher",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12874_00_00F26EC0BE70A0B7F183C6A65E59D187A5E26FC03F/FA7DE272F87378729966083578721DE56B45B83A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR12875_00": {
+        "npCommunicationId": "NPWR12875_00",
+        "trophyTitleName": "FIFA 18",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12875_00_005D05677E3694DEE9216DE1E93D302A8080FEF9AD/FD18D7CEF5DF894CB305DC9C8153D996EA36A118.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR12877_00": {
+        "npCommunicationId": "NPWR12877_00",
+        "trophyTitleName": "What Remains of Edith Finch",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12877_00_002B13806E7B1EEC3B6B92BE4780AAC7F0AD1655C4/F1D51FB0E2D58CF2AD914B95516ACAEDE6FE6FD2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 6
+        },
+        "service": "trophy"
     }
 }
