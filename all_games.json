@@ -61228,5 +61228,135 @@
             "bronze": 26
         },
         "service": "trophy"
+    },
+    "NPWR10957_00": {
+        "npCommunicationId": "NPWR10957_00",
+        "trophyTitleName": "Oxenfree",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10957_00_001806CBE2578CCACA87367A6662FA5892DA74CADC/33FC26E713CC0445F5B8269E00B3CF15BAB20E5A.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR10962_00": {
+        "npCommunicationId": "NPWR10962_00",
+        "trophyTitleName": "√Letter\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10962_00_0044AEEE9FA8F668081586598AF2EA0291AD26E8F2/67623EC796C044DEE0DD1C2F63D0E636157F8F56.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR10963_00": {
+        "npCommunicationId": "NPWR10963_00",
+        "trophyTitleName": "最终幻想15",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10963_00_00A556831B1EEF6272129B68B4821D7F23A10460CF/FCF6D5129C32F6BF3C47DD20C27B17B2B4D63D61.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 11,
+            "bronze": 77
+        },
+        "service": "trophy"
+    },
+    "NPWR10964_00": {
+        "npCommunicationId": "NPWR10964_00",
+        "trophyTitleName": "Eagle Flight",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10964_00_003186979A9F285CA2A053D64D90503097A127EC06/A56A28868B3334076AEBE9C029A2E98C7F5D7E2F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR10970_00": {
+        "npCommunicationId": "NPWR10970_00",
+        "trophyTitleName": "RIVE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10970_00_009F20121723D9BB8C04AEAFBE82140479D7F18771/676539ED5ECB001632FAE00DACBC96786E11B2E4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 14,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR10971_00": {
+        "npCommunicationId": "NPWR10971_00",
+        "trophyTitleName": "Daydreamer: Awakened Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10971_00_0035F64E6889D522F054B294B56639617BECFD05CF/9BD6EA442AEE9093517E7748B124180F0CBA12AF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR10974_00": {
+        "npCommunicationId": "NPWR10974_00",
+        "trophyTitleName": "Xenoraid",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10974_00_00FECFEDD850CA453775E02FE0DF05DBF35524B549/063E4C154FEB4E2889F2070E7E3F15C14F4DB967.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 7,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR10975_00": {
+        "npCommunicationId": "NPWR10975_00",
+        "trophyTitleName": "Xenoraid",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10975_00_00A7163EB5691E53B4B0731FAD639DAFF3568A758F/EECA5020B5265F464205E407D47D5DE4E0E2DE71.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 7,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR10976_00": {
+        "npCommunicationId": "NPWR10976_00",
+        "trophyTitleName": "かまいたちの夜 輪廻彩声",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10976_00_00E6C7E8A03EAF4FD8AD8BA35581786650943D11E4/CA233DB134AD33DA89C9BA914E400D98710EA18E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR10979_00": {
+        "npCommunicationId": "NPWR10979_00",
+        "trophyTitleName": "Brawlhalla",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10979_00_00B56D7900147A80DF060E64B22FD716A96ECDA724/4B7924D3FD5CE9A4D19DF70E79D01DC2A732E24C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 47
+        },
+        "service": "trophy"
     }
 }
