@@ -42638,5 +42638,135 @@
             "bronze": 28
         },
         "service": "trophy"
+    },
+    "NPWR08026_00": {
+        "npCommunicationId": "NPWR08026_00",
+        "trophyTitleName": "Venus Project",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08026_00_00BB5D3DA48D45D803FCF4CB344DF5656B21BB7A9E/9D50FE3B2410D9AF9D4258684976CB128FD4189C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR08027_00": {
+        "npCommunicationId": "NPWR08027_00",
+        "trophyTitleName": "Nihilumbra\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08027_00_0096594AB0D501CC9D04686AD472B3641691015101/BC64FBA22F3A8F1C35A6761EEB2D647B08D82BC7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08028_00": {
+        "npCommunicationId": "NPWR08028_00",
+        "trophyTitleName": "新装版お菓子な島のピーターパン～Sweet Never Land～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08028_00_0051FBEBC0AA6B21B383F74EC30C7B5C388E3551E6/5A676B7F0E102067CD9FB2C519C8AB46D5F1E8C4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 19,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR08029_00": {
+        "npCommunicationId": "NPWR08029_00",
+        "trophyTitleName": "White Night",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08029_00_008C1D3033959C12EE04AD07342F0328AA96A4C878/EBC21E9893BF93D5511910D71DB4221548CE53A0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR08030_00": {
+        "npCommunicationId": "NPWR08030_00",
+        "trophyTitleName": "Breach & Clear",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08030_00_00C9F400051B91E3AC22F39F8F0940E46A181F854E/52B8F318056783FA139C9FCF80711776A61384FA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR08034_00": {
+        "npCommunicationId": "NPWR08034_00",
+        "trophyTitleName": "Justy×Nasty ～魔王はじめました～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08034_00_00A816D838BC5B0C88EC06C61AD8B6F68A1F7E620D/A3E1269AA78DA864A8EFBB025BACF477F7E61576.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR08036_00": {
+        "npCommunicationId": "NPWR08036_00",
+        "trophyTitleName": "Arcade Archives Mr.GOEMON",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08036_00_003755AB95C1337C6ECC0DF21A6451B9F9BD4AE7DB/27E594959DB08F8E0577253C94DACE45AB6499FC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08037_00": {
+        "npCommunicationId": "NPWR08037_00",
+        "trophyTitleName": "Rewrite",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08037_00_00A6CA09D4043A2416B5C60F1DEDF3166F25D40659/A23074E6C8D0DB26412F24768E70C9206D3C9AD8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR08039_00": {
+        "npCommunicationId": "NPWR08039_00",
+        "trophyTitleName": "DIABOLIK LOVERS DARK FATE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08039_00_004E0F05CD12F8D38FB052CCDA5A974D878963D1EB/CBDD60B805899E43D1AF13307BF402299CE8DDA3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 24,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR08041_00": {
+        "npCommunicationId": "NPWR08041_00",
+        "trophyTitleName": "The Binding of Isaac: Rebirth",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08041_00_00F2C8472E8988D36B6C3803E3C616A3F2FB5A1B75/4A1D846AC30CDEA9CED066E4E3216AD1CB3A0522.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 69
+        },
+        "service": "trophy"
     }
 }
