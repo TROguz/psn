@@ -79948,5 +79948,135 @@
             "bronze": 9
         },
         "service": "trophy"
+    },
+    "NPWR13335_00": {
+        "npCommunicationId": "NPWR13335_00",
+        "trophyTitleName": "Wreckfest",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13335_00_00ABD81555C00BD51AA0CB540C3BCCD8A326DA55CC/E72FB5AEDB78CBD4C102223C55581BCCCBD51EED.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 11,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR13336_00": {
+        "npCommunicationId": "NPWR13336_00",
+        "trophyTitleName": "ハロー・レディ！ -Superior Dynamis-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13336_00_003ACFFCC96D25BE7D7799476561E2B9F7C067C0E4/9B619486B0D5923BB11E15F265900301ED0AE03D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 15,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR13337_00": {
+        "npCommunicationId": "NPWR13337_00",
+        "trophyTitleName": "DreamBreak",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13337_00_0006F6450ECD05B38F56B3F6145089F9226E3027CF/A12315D0825E553574B0B614954E2CC95AA302CF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR13338_00": {
+        "npCommunicationId": "NPWR13338_00",
+        "trophyTitleName": "DreamBreak",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13338_00_00E681FA94990BA3B76FFF162F66A1F2F3D6F83E93/4AB6405B3FE8B7CCAFF150C7E445D552D9339460.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR13340_00": {
+        "npCommunicationId": "NPWR13340_00",
+        "trophyTitleName": "Gintama Rumble",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13340_00_00D971E2DAA4E3ADE0700A80B02F495D1F45EC3D44/0BA45190566D606A958F8A0447F5FC0F9B07B3E5.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR13342_00": {
+        "npCommunicationId": "NPWR13342_00",
+        "trophyTitleName": "Arizona Sunshine",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13342_00_00A3C2BA2D0FFF0DBAC1F66D98C4D2DF1EBAE8838B/064E5269FD15864EA38CC4BA2B8A0074D24F5960.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 16,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR13345_00": {
+        "npCommunicationId": "NPWR13345_00",
+        "trophyTitleName": "Leap of Fate",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13345_00_00ED8FC7AA6336CE1B895037A0BC0D1ADB8743A1E3/1944D20EA7F5F402B4A77554EDC27E3E34EF5945.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR13346_00": {
+        "npCommunicationId": "NPWR13346_00",
+        "trophyTitleName": "Crash Bandicoot 2: Cortex Strikes Back",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13346_00_00E33B5BD1E778F6C21091A008393FE2C3EF8D92B5/496A1E711652807DD8485E78C6E465652D6146A2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR13347_00": {
+        "npCommunicationId": "NPWR13347_00",
+        "trophyTitleName": "Crash Bandicoot: Warped",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13347_00_0036293E6DD67F13C7646A36FFE992312CE5954D69/ED518435C5134121DA5A702898FAD47A38197536.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR13348_00": {
+        "npCommunicationId": "NPWR13348_00",
+        "trophyTitleName": "The Last of Us™ Part II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13348_00_00B23E79CB15709D3B459815B6DE97B0885530CFC3/4F0195E8FBCEF12F5410716F3E4C409DB6A098CF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
