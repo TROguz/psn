@@ -51608,5 +51608,135 @@
             "bronze": 43
         },
         "service": "trophy"
+    },
+    "NPWR09430_00": {
+        "npCommunicationId": "NPWR09430_00",
+        "trophyTitleName": "Trine 3: The Artifacts of Power",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09430_00_0007C9FBC28397CDBC37628636B710271FC7394031/6C19955DCDCC2FB6389D85A0A9B8ECAA43C0BB54.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 20,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR09436_00": {
+        "npCommunicationId": "NPWR09436_00",
+        "trophyTitleName": "シチズンズ　オブ　アース",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09436_00_00C561C4C6D2AE705F4E3688EA7BEA559C3460EF7B/B372B02C0C44AF295D33F852EFE0703C852B0AEB.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09437_00": {
+        "npCommunicationId": "NPWR09437_00",
+        "trophyTitleName": "The Quiet Collection",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09437_00_00FC2AAD9B4C2F0A17585820D71FDAF7A924F0B4C0/38905EC33B0BB7C4B2DD32081F4D6B60E4F99131.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR09438_00": {
+        "npCommunicationId": "NPWR09438_00",
+        "trophyTitleName": "The Quiet Collection",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09438_00_00D97C1C55C250EFA329C47496BDB54369DB1D82C9/BCD808B9BA9939112F8AE907AE712E27B2AEEEB6.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR09442_00": {
+        "npCommunicationId": "NPWR09442_00",
+        "trophyTitleName": "Screencheat",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09442_00_00AB94936E51CB835585AC5E81A760155557D04557/F128B87D0F22A41844891D52B270C7D1AB9E1103.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR09443_00": {
+        "npCommunicationId": "NPWR09443_00",
+        "trophyTitleName": "Baboon!®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09443_00_00AA142AFF2103D735015AB450CFA2A67AF6814248/7C67BA2A7739101A7F5BEE97EC3B67748D26BA29.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR09449_00": {
+        "npCommunicationId": "NPWR09449_00",
+        "trophyTitleName": "Mega Coin Squad",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09449_00_000BC4D6639FCF5AC139F602C2C2DAB16716E6A045/F6F2BFF25486CDCA6BF63D726FFF14AE27DCEE55.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR09450_00": {
+        "npCommunicationId": "NPWR09450_00",
+        "trophyTitleName": "JumpJet Rex",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09450_00_00419CA468B2CC79C1F2D8BB2F200237DD4D2A197B/CA4E782F2F7768793F38F5AB4EF68B32FD639F10.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR09452_00": {
+        "npCommunicationId": "NPWR09452_00",
+        "trophyTitleName": "Back to the Future: The Game",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09452_00_0094892033DD550335DF88B6E5AB777A6D42632632/33A31234B5536DAD872D180E342C54CBFBCDAED4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 52
+        },
+        "service": "trophy"
+    },
+    "NPWR09453_00": {
+        "npCommunicationId": "NPWR09453_00",
+        "trophyTitleName": "Goosebumps: The Game",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09453_00_00A5087485D327D6503CD06B5C88D8001F2085B1FC/DB31A5F0A8C0CEA149906C3A3FD7DF74AB0C8C4B.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 17,
+            "bronze": 21
+        },
+        "service": "trophy"
     }
 }
