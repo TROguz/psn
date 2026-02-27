@@ -67338,5 +67338,265 @@
             "bronze": 16
         },
         "service": "trophy"
+    },
+    "NPWR11743_00": {
+        "npCommunicationId": "NPWR11743_00",
+        "trophyTitleName": "Spear of Destiny",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11743_00_00D218FEBB0B97678D7F31F45493FE8EEFBB0868C5/01FC507582C37722112A9948B008499678E08079.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR11745_00": {
+        "npCommunicationId": "NPWR11745_00",
+        "trophyTitleName": "Kyurinaga's Revenge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11745_00_006D367D3E8F8B601F371C7093A00E17C67D7B76A4/BF04865B2B65A31DBFBB15108C66279DF55AFB6D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR11751_00": {
+        "npCommunicationId": "NPWR11751_00",
+        "trophyTitleName": "Tokyo Twilight Ghost Hunters Daybreak: Special Gigs",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11751_00_00FEC8CC931813C5CCCD1EFDF9F514D8E61D937423/A4AC262E9E288D7B94C7A0D8B6FD180A34020F72.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR11752_00": {
+        "npCommunicationId": "NPWR11752_00",
+        "trophyTitleName": "Tokyo Twilight Ghost Hunters Daybreak: Special Gigs",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11752_00_0002D99B6414F536597EDEF19F949E51B9578A7799/0932C8AB30D990EBC5AD96F2A963374400D66B01.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR11753_00": {
+        "npCommunicationId": "NPWR11753_00",
+        "trophyTitleName": "Tokyo Twilight Ghost Hunters Daybreak: Special Gigs",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11753_00_004A2B0ED75663BFD71C357794516B64647B75F468/8C6931683316618040AB527E16A9FA35BFEF872D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR11756_00": {
+        "npCommunicationId": "NPWR11756_00",
+        "trophyTitleName": "The Evil Within® 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11756_00_00C181745B52D2E08670D8CE88BCCBA1B44F2A250C/C021605AD4965B60548986ABE38B1C7C3F7BCE62.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR11757_00": {
+        "npCommunicationId": "NPWR11757_00",
+        "trophyTitleName": "VirZOOM Arcade",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11757_00_007AE898ED3C430155FD0669FED7B17D039BEAC73D/CC0995FFBC89C37246613F9025F1A465557F0B0F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR11758_00": {
+        "npCommunicationId": "NPWR11758_00",
+        "trophyTitleName": "HoloBall",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11758_00_00695A78D08F4B5BB400A071BA094330A0D93472AE/F2611058865795AA533965AFFB155D072CE3CD38.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR11759_00": {
+        "npCommunicationId": "NPWR11759_00",
+        "trophyTitleName": "STEINS;GATE 0",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11759_00_002ECD93E680413B2C8D7EA4E8D93FE396852F4A8E/62DE535197246598422DEF6E2B22FF371C0EB3F5.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11763_00": {
+        "npCommunicationId": "NPWR11763_00",
+        "trophyTitleName": "3on3 Freestyle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11763_00_0082D9CD4EA9D8DC7F6848DA3967267805E39A15A3/A1BA1143020595D19FC46DBF00752F96FDC6186F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR11765_00": {
+        "npCommunicationId": "NPWR11765_00",
+        "trophyTitleName": "ニューダンガンロンパＶ３　みんなのコロシアイ新学期",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11765_00_00E4EC2802C9B7C323A78A8CB5E574E40D3EE47357/DE55EAC3264B75FD923085958DED4121F9418CE3.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR11766_00": {
+        "npCommunicationId": "NPWR11766_00",
+        "trophyTitleName": "Xuan Yuan Sword: the Gate of Firmament",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11766_00_00C1D51746BF98AD90F88EEF61699662CFBAE2420F/1F9A6084D8ED14CA927A5BA1D9DD9FEF3065C58B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR11767_00": {
+        "npCommunicationId": "NPWR11767_00",
+        "trophyTitleName": "Momonga Pinball Adventures",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11767_00_00035FEB30F4A85C727C97213B7DA38DB8C142A352/D071FD0F775E3A4FA95C2DB633D83C1BF339D28A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR11769_00": {
+        "npCommunicationId": "NPWR11769_00",
+        "trophyTitleName": "DOGOS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11769_00_00E9714B074B4A32F49A43A3663A9BB4CD395E68B1/48B7F21B6BD5DE91F4F049DEBD986A40B6F917FB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR11771_00": {
+        "npCommunicationId": "NPWR11771_00",
+        "trophyTitleName": "Fenix Furia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11771_00_00C722DC7A85542F9AAAEAACEC4B1C9642F88E9390/783309D3FBD32CF54072517FF018DE7A5A710E25.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 20,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR11777_00": {
+        "npCommunicationId": "NPWR11777_00",
+        "trophyTitleName": "Resident Evil Revelations",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11777_00_0092A74ABE33219E8F2A1A7382A6C9190BBB01BB7F/175CCF5CDF725EBBFC3770C15A1B5869668975B0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR11779_00": {
+        "npCommunicationId": "NPWR11779_00",
+        "trophyTitleName": "PixelGear",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11779_00_000A7044818506C3DBD40F4581ABBA75DBDA67E119/2A4A3D8F4C240408D4CBF8885B94416DC837690A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11781_00": {
+        "npCommunicationId": "NPWR11781_00",
+        "trophyTitleName": "Chronicles of Teddy : Harmony of Exidus",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11781_00_00A6CAFDE1A790410F677249E874793099EF1BC829/62BBD9A0B897B303C5D6A2061D403DA93035C0AE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR11782_00": {
+        "npCommunicationId": "NPWR11782_00",
+        "trophyTitleName": "Robinson: The Journey",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11782_00_00EB91ABF7129C23CDEC3CFC22040BEAC5A2A74ACB/1E77F4367D7AADAFC68E2859C1C33223012D224E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR11783_00": {
+        "npCommunicationId": "NPWR11783_00",
+        "trophyTitleName": "Victor Vran",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11783_00_0014F4ED80ACF59CBDD6F2D8DAF254B99E1D8B1814/463F610C90FC5412C4FF18B655B9652FC4CD0E42.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 52
+        },
+        "service": "trophy"
     }
 }
