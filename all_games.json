@@ -39908,5 +39908,135 @@
             "bronze": 35
         },
         "service": "trophy"
+    },
+    "NPWR07519_00": {
+        "npCommunicationId": "NPWR07519_00",
+        "trophyTitleName": "Woah Dave!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07519_00_00EBC7127E57C1AE444B1A01507DEB2A306842487F/AFE027BAD43216943C8E9D855CCCF9B57F6B4244.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR07523_00": {
+        "npCommunicationId": "NPWR07523_00",
+        "trophyTitleName": "Unmechanical",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07523_00_00A1DF57D14C3DB4BD36BCBC5ED48EEA119450C931/80275FCEDABC09E15B5F59C15D25B0CEA0458810.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR07525_00": {
+        "npCommunicationId": "NPWR07525_00",
+        "trophyTitleName": "Unmechanical Extended",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07525_00_00CEFD14FD1A298DB99468F8EF5774D248749E4170/064E596A52D0FEF7B948738A1992240615DBC7C8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR07526_00": {
+        "npCommunicationId": "NPWR07526_00",
+        "trophyTitleName": "Snark Busters: High Society",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07526_00_00B65A88FB2B47655F8BB20EEEBA75DCBE02044EAF/CB2A61D4C9E850692F3C314DE37925DCE8D752B3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR07528_00": {
+        "npCommunicationId": "NPWR07528_00",
+        "trophyTitleName": "AKIBA'S TRIP: UNDEAD ＆ UNDRESSED Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07528_00_00B5600071689A3E7ECB776FDBEA72347D5990F9CC/F0C7913AA02D6260DE44F85B78D9BF052A0B09D9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR07529_00": {
+        "npCommunicationId": "NPWR07529_00",
+        "trophyTitleName": "Home",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07529_00_00D2AC7CD1DD1CD96F3A9B077736F3DA1B7B05AA6E/6FEFA8F3A9ECB687BA365ADAF254F90840A3C280.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR07534_00": {
+        "npCommunicationId": "NPWR07534_00",
+        "trophyTitleName": "The Evil Within",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07534_00_009DD21BEB437FD262C7C8BC21BCA347BCA8122E6E/134317A0F97C778F3AEC40E9D3E5FC2E742E9A29.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR07535_00": {
+        "npCommunicationId": "NPWR07535_00",
+        "trophyTitleName": "The Evil Within",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07535_00_0047D74B0EFDF6B8AC225AE33DCC4512BF151C610B/42261155E0861B8042DFC56DD59E7D96ADB98AA4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR07536_00": {
+        "npCommunicationId": "NPWR07536_00",
+        "trophyTitleName": "KLAP!! ～Kind Love And Punish～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07536_00_0069F6CF9DFE8F7BF8E2EB63991E2F545B1D6818E1/8659799709C2C3A8554A4124896692074A743DEE.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR07539_00": {
+        "npCommunicationId": "NPWR07539_00",
+        "trophyTitleName": "LEGO® Ninjago™: Shadow of Ronin",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07539_00_00ABCB63635FD700B40FE53CF280F0EF7F74EDF499/100CEECA664847A58FE90299907FE2484090913F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 20
+        },
+        "service": "trophy"
     }
 }
