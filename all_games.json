@@ -67598,5 +67598,135 @@
             "bronze": 52
         },
         "service": "trophy"
+    },
+    "NPWR11784_00": {
+        "npCommunicationId": "NPWR11784_00",
+        "trophyTitleName": "Dreadnought",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11784_00_003725FFA2C36EDB6B4A583CE20E4C3671120665E5/AE0A173E61718D666F3BD273B03987F76BB02605.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR11785_00": {
+        "npCommunicationId": "NPWR11785_00",
+        "trophyTitleName": "ATV Renegades Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11785_00_0084CE0A303ADCAA7B35BCA5ED9B1D145691A1F307/578B3F18546C99A4C5318A14FD9735A7D75BBCE6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR11789_00": {
+        "npCommunicationId": "NPWR11789_00",
+        "trophyTitleName": "FATED: THE SILENT OATH",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11789_00_0091F5E490CB3905C5C471876C57CD1B4C5E907FB8/C058D35F0A4FDF4E9A935BC6CD540EF649B4C8C1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 1,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR11790_00": {
+        "npCommunicationId": "NPWR11790_00",
+        "trophyTitleName": "The Jackbox Party Pack 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11790_00_00679E3197B8EF3CBEB5E4BBF46EBADE15A3CD3ED4/53042AEF6D325228ECA9572B9A8A59814839198A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR11791_00": {
+        "npCommunicationId": "NPWR11791_00",
+        "trophyTitleName": "薄櫻鬼 真改　風之章",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11791_00_0025BDBC7A5B815EC96A95EFA6F4F2EB0A783B3EDD/700EB267154947C377BAA3E8880C055428F689F7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR11794_00": {
+        "npCommunicationId": "NPWR11794_00",
+        "trophyTitleName": "A Bastard's Tale",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11794_00_00A3E35F8990A5B028647D1C181100E9B5BFA23D37/ED0D60A95EF271F33ADF4BFBAD7AC6FCFB7C8B3C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11797_00": {
+        "npCommunicationId": "NPWR11797_00",
+        "trophyTitleName": "Runner2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11797_00_0089E1A2AC283891A7C467A0933A38A5608B3ADC14/A4F971168E3393E5EBFE393B18AE85EFFA11FFBE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR11798_00": {
+        "npCommunicationId": "NPWR11798_00",
+        "trophyTitleName": "Runner2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11798_00_0012B0ED406C1A557EEBB183DCD5E305C171FAD81B/3D45295D8358871263344BCB259A63F595A954E6.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR11799_00": {
+        "npCommunicationId": "NPWR11799_00",
+        "trophyTitleName": "THE BIT.TRIP",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11799_00_00022399F93EBBA3181878578144A48481DE4C3AAC/9680516CEAF11DEC924B83473C22CAF32093F6FB.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11800_00": {
+        "npCommunicationId": "NPWR11800_00",
+        "trophyTitleName": "Loot Rascals",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11800_00_00FEB00FADAF2EB509AFEFB19D322721B729D7DABC/47AD611FFE75D01F905EAF71B5F3B864797D08BA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 6
+        },
+        "service": "trophy"
     }
 }
