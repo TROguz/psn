@@ -30548,5 +30548,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR05506_00": {
+        "npCommunicationId": "NPWR05506_00",
+        "trophyTitleName": "Killzone Shadow Fall",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05506_00_00484C26373EBD73895C66E4E5FD1F91432F176895/CB728C2FC4AEF61F48C5C7866BF00D1931FF6C9D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 10,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR05508_00": {
+        "npCommunicationId": "NPWR05508_00",
+        "trophyTitleName": "DCUO Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05508_00_0098E4D8CACDE1563929ABD40C7A057FC9DD0430C0/3C6DEBDA031041381E331C836D04EC9B36570B57.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 13,
+            "silver": 59,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR05514_00": {
+        "npCommunicationId": "NPWR05514_00",
+        "trophyTitleName": "Demon Gaze Global Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05514_00_0080D7F10BDBCCA2EFF529AD4701FD5C5E071B317D/7735DEE53737A56696E4547261E7393FBC6F8EC4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR05516_00": {
+        "npCommunicationId": "NPWR05516_00",
+        "trophyTitleName": "SingStar® SuomiHelmet",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05516_00_00F352382B8B1163DBA0714AE3C582C88BA3EF617B/86D0938EE7EA99AC54009B9555857FA438DF5090.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR05517_00": {
+        "npCommunicationId": "NPWR05517_00",
+        "trophyTitleName": "Divekick",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05517_00_001C3B446A6B3DB59DEAA5BE0A98335F5757309DEC/C8FECA972D7042826EE4CD4447217F6B022D8ACB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR05519_00": {
+        "npCommunicationId": "NPWR05519_00",
+        "trophyTitleName": "ソードアート・オンライン ―ホロウ・フラグメント―",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05519_00_002385040B5B19AF84C6EF3C3F5E5EF6D61DE1F7C6/6CCA6ABB1966B29F30EEF31C289261509F0C5950.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR05520_00": {
+        "npCommunicationId": "NPWR05520_00",
+        "trophyTitleName": "Zombie Tycoon 2: Brainhov's Revenge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05520_00_006485082E204879E629EC5605BFA9A50717A7CA22/D56FE4704B413B1C19DD07CCA03B256952582DFA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR05521_00": {
+        "npCommunicationId": "NPWR05521_00",
+        "trophyTitleName": "Fort Defense Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05521_00_008E4A7A776C7851FB8CD83D9651B87498A63E5E74/29021564E630488351984C27E240982F38A93FC0.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR05524_00": {
+        "npCommunicationId": "NPWR05524_00",
+        "trophyTitleName": "Backgammon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05524_00_002273344B4D372072C0A0D46A1657500592140597/A018BD8EF39E3365D48E99BB44CC56DF825C9393.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR05526_00": {
+        "npCommunicationId": "NPWR05526_00",
+        "trophyTitleName": "FEZ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05526_00_0085EC163FE0BC2DDB5DB55195197043392BB23A50/E863E7A8B266C4EA61E14BF73245C14CF522176C.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
