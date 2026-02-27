@@ -24438,5 +24438,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR04227_00": {
+        "npCommunicationId": "NPWR04227_00",
+        "trophyTitleName": "Painkiller Hell & Damnation",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04227_00_004157A571A4B97A4F66D131F24463079898657188/17B3853928DFC0FBCF19C271D70A83698A22EA1B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 7,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR04231_00": {
+        "npCommunicationId": "NPWR04231_00",
+        "trophyTitleName": "Persona 4 Golden",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04231_00_002E6EEB75286C8CFF70DA9E7120BE3ED99BF3AE0F/D0231F67ACB8B3EB9BBC60D496D34C93C8BD3212.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR04234_00": {
+        "npCommunicationId": "NPWR04234_00",
+        "trophyTitleName": "プロ野球スピリッツ2013",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04234_00_00C3BF7E1544934173198EB9C4F4034ACDD4E4B0F1/28A65D929972AC76970F54D7D14EDE5675BE0A4A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 14,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR04235_00": {
+        "npCommunicationId": "NPWR04235_00",
+        "trophyTitleName": "プロ野球スピリッツ2013",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04235_00_000A26178EC5AB1D1BFF5153F69DCFFCE17240040D/D7DE442E6777352865F93380C50D54DCD485EC7E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 14,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR04248_00": {
+        "npCommunicationId": "NPWR04248_00",
+        "trophyTitleName": "Tearaway™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04248_00_0075B4590E956EC128FEAB58F805E1807515875E81/52A2AA48DE2A92B004DBF8AB357CE08217076B89.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR04251_00": {
+        "npCommunicationId": "NPWR04251_00",
+        "trophyTitleName": "AKIBA'S TRIP 2 トロフィーセット",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04251_00_0004ADB6545E032F82A1FBEE4A7DE992AD17BDE435/3388AE43012ADD82EE9D380695467E5883183452.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR04252_00": {
+        "npCommunicationId": "NPWR04252_00",
+        "trophyTitleName": "Starlight Inception",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04252_00_005B9BB26F3C78E54C093510FA6A7BB58DFA5BE8D9/ED736FA3F56FD5A02BFA29AD6A4EC04CA0A14BF2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR04263_00": {
+        "npCommunicationId": "NPWR04263_00",
+        "trophyTitleName": "AKIBA'S TRIP 2 トロフィーセット",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04263_00_0068926DEAEC8A64817DD9C742031BD4CA9E7D9240/90D494093EFB5293F6A4B5DCA5E912811B87A336.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR04268_00": {
+        "npCommunicationId": "NPWR04268_00",
+        "trophyTitleName": "Farming Simulator",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04268_00_0001FA854E85841FBAA97A70639E9ACC919936292E/A026AF782F001D178012F90052ADD4EE9AB95D23.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR04269_00": {
+        "npCommunicationId": "NPWR04269_00",
+        "trophyTitleName": "機動戦士ガンダム エクストリームバーサス フルブースト",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04269_00_00F44F4594B3C359F9ECAF4C60FF0D76BE54E6A3BA/4A26F140D479576BC21D91359C1B261487C48F79.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
     }
 }
