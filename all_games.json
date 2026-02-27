@@ -55248,5 +55248,135 @@
             "bronze": 1
         },
         "service": "trophy"
+    },
+    "NPWR10017_00": {
+        "npCommunicationId": "NPWR10017_00",
+        "trophyTitleName": "World of Tanks",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10017_00_00228272EFA6A802232358DE8F3B531C0B00E6188A/9C9E7571B35939EC37B43D036846AE79BF74E8B6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 38,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR10019_00": {
+        "npCommunicationId": "NPWR10019_00",
+        "trophyTitleName": "GUNS UP!™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10019_00_00308F0695CE74353C5D7A79B67EF1D9134F0752D3/D28DF5CFB83EC2782DC6EC6043C5806B69558860.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR10020_00": {
+        "npCommunicationId": "NPWR10020_00",
+        "trophyTitleName": "Stardust Vanguards",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10020_00_0009D1F44CF72790E224DB01900BA46523FDB28B2F/3A934EC69F099C314D8EF6059EBE51B998D34010.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR10021_00": {
+        "npCommunicationId": "NPWR10021_00",
+        "trophyTitleName": "DEAD OR ALIVE Xtreme 3 Fortune",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10021_00_0005279BFC1A240882B0F4D68D620BAB253BDAD360/EC7ACD2B4332C6A59BC6C87BCC175E8A67DCCF7D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR10022_00": {
+        "npCommunicationId": "NPWR10022_00",
+        "trophyTitleName": "DEAD OR ALIVE Xtreme 3 Venus",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10022_00_00360B148D42256E87111919541FC4A40FE3150385/505EB6D326B5B37ED7FA91D7A47957B9A83ABBBF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR10023_00": {
+        "npCommunicationId": "NPWR10023_00",
+        "trophyTitleName": "PSYCHO-PASS Mandatory Happiness",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10023_00_004BED3F0E5FC05372BC3E013CCD4A941E96D2BDC8/91373B22AB6A03EDEED3C34D4F9773C46CB67F34.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR10024_00": {
+        "npCommunicationId": "NPWR10024_00",
+        "trophyTitleName": "PSYCHO-PASS Mandatory Happiness",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10024_00_0002A77D1E3EA7E893B7073FF59A01358B00CF3565/6E40135CAE4A3D6453E7C17BC93835FC8EDD0BB4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR10025_00": {
+        "npCommunicationId": "NPWR10025_00",
+        "trophyTitleName": "Games of Glory",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10025_00_00952501DE0D6CB32475764B67B8FD1995C0152B5A/938AA9B119060A0334A0D61E4599E757CEB60D0B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10026_00": {
+        "npCommunicationId": "NPWR10026_00",
+        "trophyTitleName": "Total Jigsaw\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10026_00_0030FB412FFE10952B4F7ECAC33AB5217E130FEAB4/87C737E1BBF68F25D1BFBFAEA2B4C903793D6FF8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR10029_00": {
+        "npCommunicationId": "NPWR10029_00",
+        "trophyTitleName": "Grand Theft Auto: San Andreas™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10029_00_00B5310563FC0681D224AC1876B92E1F031FF8EC54/A695C462CC0AFEB1B82396F02BEDDB6D10694D60.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 16
+        },
+        "service": "trophy"
     }
 }
