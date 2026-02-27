@@ -84368,5 +84368,135 @@
             "bronze": 15
         },
         "service": "trophy"
+    },
+    "NPWR13946_00": {
+        "npCommunicationId": "NPWR13946_00",
+        "trophyTitleName": "ECHO\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13946_00_005CE2859E01A8583DCFD69959A2D26B9EE7A01D34/BDD638337C6F3264F9F97C834F0DFB19B9A41DEF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 4,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR13950_00": {
+        "npCommunicationId": "NPWR13950_00",
+        "trophyTitleName": "MXGP PRO",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13950_00_0090380DC903D47A675C3D712F8E4623DDB4B8A0F2/C6D5A789371E61B59D5A0564003DC656FAF7A3E3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR13951_00": {
+        "npCommunicationId": "NPWR13951_00",
+        "trophyTitleName": "Beast Quest\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13951_00_006E5367B55F9488F8BE6E467F5096E4F2D4B6D443/B08421CCC6A8E7FF72433CDB6FF38BB05BA4B18B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR13954_00": {
+        "npCommunicationId": "NPWR13954_00",
+        "trophyTitleName": "ONRUSH™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13954_00_00226CB350D147F2F454C694F18BF5DA1986B6AC7E/5FBCB95B787AE68E8DD62975590516DEC703E1EF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR13955_00": {
+        "npCommunicationId": "NPWR13955_00",
+        "trophyTitleName": "Shio",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13955_00_00E3A28219B4B303660BC7F1F12ADE014D76391A2B/7140C65116B4EC7AF43D9703FE3F8080BA56045D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR13958_00": {
+        "npCommunicationId": "NPWR13958_00",
+        "trophyTitleName": "Mahjong Carnival",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13958_00_00590AB407E72D3BFBEDFBFACB2B6D79C6142D7F31/9A27C88482444250FC2A00D85390E003A23C6A56.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR13961_00": {
+        "npCommunicationId": "NPWR13961_00",
+        "trophyTitleName": "Expand",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13961_00_00F415B87097E5AD1C2BF4CBC3FCA874631C646432/F8587E132E2F6E4F5B696D6635CA23ED05231737.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR13962_00": {
+        "npCommunicationId": "NPWR13962_00",
+        "trophyTitleName": "RobotRiot Hyper Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13962_00_0039EC7A91AFD9DC2BA2B690BF633F79212341D51B/B44524DAE452F5099646364D54A89C0F77E094C9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR13964_00": {
+        "npCommunicationId": "NPWR13964_00",
+        "trophyTitleName": "Yooka-Laylee",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13964_00_00FB0C17957A6B8644AB5F4E502AD591174877D6D7/7D4567454062BCD980BBE6598E9316A00557B36A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR13965_00": {
+        "npCommunicationId": "NPWR13965_00",
+        "trophyTitleName": "Hidden Dragon Legend",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13965_00_0070C9871976D1944C27DAAFC9B805E7C8B432A4D2/8874D51CCD796B0E1F0057AB724FEDD4183839A0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 30
+        },
+        "service": "trophy"
     }
 }
