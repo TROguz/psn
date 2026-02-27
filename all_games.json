@@ -74228,5 +74228,135 @@
             "bronze": 28
         },
         "service": "trophy"
+    },
+    "NPWR12608_00": {
+        "npCommunicationId": "NPWR12608_00",
+        "trophyTitleName": "Back to Bed",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12608_00_00BEA35908C597E1C327B3C56F65A5D58E72E640A8/F28B5A3D52C3A097B790A0D3CA961C429906ECD9.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR12611_00": {
+        "npCommunicationId": "NPWR12611_00",
+        "trophyTitleName": "ArmaGallant: Decks of Destiny EU",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12611_00_00B3D14FCAFFBCB070CFAA89C8409AABEA71AC4CCA/A7D85F508F35894C47E94FA9463F1415DFB939D3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR12613_00": {
+        "npCommunicationId": "NPWR12613_00",
+        "trophyTitleName": "忍び、恋うつつ ― 甘蜜花絵巻 ―",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12613_00_004727D675164AF514C6FD6155397305FE84501889/8D1C548567D029308BC7E1E1D64B1B6EB633645F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR12614_00": {
+        "npCommunicationId": "NPWR12614_00",
+        "trophyTitleName": "X-Morph: Defense",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12614_00_00D92A6AB8C32F060E52BCBDA49765A01C8CBE9279/6491983C5AC5F87CEB18B3E32FF3BC863BCDEC17.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR12615_00": {
+        "npCommunicationId": "NPWR12615_00",
+        "trophyTitleName": "ZERO ESCAPE 刻のジレンマ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12615_00_001FC1F624FA6505FF8D5E5A0D3089FC460907E602/15F9C695E2949C114899185226F464AB71D698C9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR12617_00": {
+        "npCommunicationId": "NPWR12617_00",
+        "trophyTitleName": "Bad Apple Wars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12617_00_007F090D4468DDDE6306D070A701239E640DDCC384/EBC5D785D93C8FB59D3E8DD3B6E5C3D8B8785DB2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR12618_00": {
+        "npCommunicationId": "NPWR12618_00",
+        "trophyTitleName": "Taiko no Tatsujin - Drum Session!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12618_00_00584154153A7F7DD4342A08EE34D583D99A17DAB8/1BB1D53241F3887E15D6847424346CAE863585C9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR12619_00": {
+        "npCommunicationId": "NPWR12619_00",
+        "trophyTitleName": "罪喰い～千の呪い、千の祈り～ for V",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12619_00_00BBDD899BA0F6420D1D71902B3D7E70DCE356021C/B1AD37D38E86A8683AEDAD9D12448AFC54CFF394.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 6,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR12620_00": {
+        "npCommunicationId": "NPWR12620_00",
+        "trophyTitleName": "ラビ×ラビ-パズルアウトストーリーズ-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12620_00_00C9CB80324E3A488E82EB3EDBD2813AE9DCC414D5/DC7BAF470C14B789A6E271A39BB147329DEC8BD1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR12622_00": {
+        "npCommunicationId": "NPWR12622_00",
+        "trophyTitleName": "Blackguards 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12622_00_0064951BE6111CA1AED44FA728DEB3877C03F23F5D/BA897ACAB06FC92F6F98E409301821A97AF5CA97.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 12,
+            "bronze": 36
+        },
+        "service": "trophy"
     }
 }
