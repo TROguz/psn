@@ -89568,5 +89568,135 @@
             "bronze": 21
         },
         "service": "trophy"
+    },
+    "NPWR14627_00": {
+        "npCommunicationId": "NPWR14627_00",
+        "trophyTitleName": "Flynn And Freckles trophies\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14627_00_004F69677436FA311EA0ED887C26E5B480355DCA1B/FBA68F95836DE3EE626280F50D239BEE6551BE35.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR14629_00": {
+        "npCommunicationId": "NPWR14629_00",
+        "trophyTitleName": "Can't Drive This",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14629_00_00E71588F3122F24631D3BB530D80DC8FD1ACA9DEE/01C42F400650CA07F0A634021EC400B69B041914.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR14630_00": {
+        "npCommunicationId": "NPWR14630_00",
+        "trophyTitleName": "Super Dungeon Tactics",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14630_00_00DFC579062AF027DA4D600E6B7DDD4F2420763B17/62946549D06C92E6D2BD3064182149A154DF102E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 5,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR14631_00": {
+        "npCommunicationId": "NPWR14631_00",
+        "trophyTitleName": "Bridge Constructor Portal trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14631_00_00D0BD645FA7E71A1E121E1BE7CE2123CC03CC5B5F/53A8CFA74C3A68818681DFC1132CECA2B68F1EDA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 4,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR14632_00": {
+        "npCommunicationId": "NPWR14632_00",
+        "trophyTitleName": " BulletGirls Phantasia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14632_00_002086B8F559519E2B7E4E97ABE8F31B1431FDF968/5AE806A83AC71926848EB7DFEF0442D58520F9F4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR14633_00": {
+        "npCommunicationId": "NPWR14633_00",
+        "trophyTitleName": "Gal*Gun 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14633_00_00643CD146ECA2208021E010E7C8AEECCCDE23F305/EEDEEC1D03EBE789E5448B8FC26A7EEC56B91910.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR14634_00": {
+        "npCommunicationId": "NPWR14634_00",
+        "trophyTitleName": "CHAIN MAN",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14634_00_00EBB62E6B2904EDE5711D87E310B030813E44D453/A6C23913CED532DD0D94F32748708CC41BCBD4B7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR14635_00": {
+        "npCommunicationId": "NPWR14635_00",
+        "trophyTitleName": "The Council",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14635_00_00D983DCF1E83039A9426BA013C6EBC04B1DF4BD79/4B0BD0DA0183E4AEA0347DADB05829C833276B70.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR14636_00": {
+        "npCommunicationId": "NPWR14636_00",
+        "trophyTitleName": "Hero Defense",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14636_00_00EB8C790FE9B5445BB0501227D22DE2C3BF76891F/5B462EE9ADCC6252898C79621A917E54E2250302.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR14637_00": {
+        "npCommunicationId": "NPWR14637_00",
+        "trophyTitleName": "Hero Defense",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14637_00_005025CE0F952432374A67263F30D89C8F85098CEB/74A79146FF5A24CCC9528A22C95DD80248C0E97B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
     }
 }
