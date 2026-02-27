@@ -80598,5 +80598,135 @@
             "bronze": 24
         },
         "service": "trophy"
+    },
+    "NPWR13425_00": {
+        "npCommunicationId": "NPWR13425_00",
+        "trophyTitleName": "Robonauts",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13425_00_000FC9C6FD3BC92401C15B2258FD27A793E4D94120/F4653149EC77E800C202A104C5B208ECA56D97CA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR13426_00": {
+        "npCommunicationId": "NPWR13426_00",
+        "trophyTitleName": "Dishonored®: Death of the Outsider™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13426_00_002F0204AC458E7351992601B652C9FC985840A23A/2C26C88234401F3E9CC21068BF329B2261C3CB90.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 6,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR13427_00": {
+        "npCommunicationId": "NPWR13427_00",
+        "trophyTitleName": "Shadow of the Colossus",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13427_00_00E2ABB2A7677C776A0D3949075E086668343A20AD/CB33787AD3F9A03EEEA729D27058A97DBE93FAD9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 7,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR13428_00": {
+        "npCommunicationId": "NPWR13428_00",
+        "trophyTitleName": "Blade Strangers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13428_00_000DB4B64C07DE8F55D73A8D5C537E46DC41C48E70/D7AD5FFCF1B20BF50FCA8E4C443D5E5450D79AC1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR13429_00": {
+        "npCommunicationId": "NPWR13429_00",
+        "trophyTitleName": "Utawarerumono: Mask of Truth",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13429_00_0060BD80AC377E105535D86EA3C20A43EB87A277A6/972968E11B5626EF11D4C2A2B8CE4F8E57D00479.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 4,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR13430_00": {
+        "npCommunicationId": "NPWR13430_00",
+        "trophyTitleName": "Touhou Kobuto V: Burst Battle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13430_00_00D37F13373023BE1693D747902AAC09292CED7F0D/0DE971F4CBC9F11E25004943C0180E243DDEA7A4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR13431_00": {
+        "npCommunicationId": "NPWR13431_00",
+        "trophyTitleName": "Touhou Kobuto V: Burst Battle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13431_00_007E27623055C688C9A34F4E8CA1ECFCCCE6DE6E8A/550C4C5CA72DFE5B35BE75EE0D0529A53880A432.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR13432_00": {
+        "npCommunicationId": "NPWR13432_00",
+        "trophyTitleName": "Touhou Kobuto V: Burst Battle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13432_00_00DFD73355A3DE127ADC8F34DADCB05EBDCCBDFDC8/49734C641F2ADF27C0023FBDE55FC398505877DB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR13433_00": {
+        "npCommunicationId": "NPWR13433_00",
+        "trophyTitleName": "Touhou Kobuto V: Burst Battle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13433_00_00010621EA32F0E16AD70F7810445EACEB0BCD058C/8F820BAA261D3DF5EC90E07E3AF34D0F8363FA9D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR13460_00": {
+        "npCommunicationId": "NPWR13460_00",
+        "trophyTitleName": "ACA NEOGEO AERO FIGHTERS 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13460_00_00D4EEC3AB168E55BCBFB5B810C9105BAFAA7DC278/102FEB5662D1BEACB9C66115A888EFA74B810C96.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
     }
 }
