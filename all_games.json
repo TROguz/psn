@@ -53038,5 +53038,135 @@
             "bronze": 12
         },
         "service": "trophy"
+    },
+    "NPWR09670_00": {
+        "npCommunicationId": "NPWR09670_00",
+        "trophyTitleName": "Spelunker World",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09670_00_00FB952C1DB3158A49C21E54D7ACAF8AD63862BCB7/D1D4E65C146EDCAF4023120E0AD42CB5276149A0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR09671_00": {
+        "npCommunicationId": "NPWR09671_00",
+        "trophyTitleName": "南瓜先生大冒险",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09671_00_00099C020D383AD782CD383D15BDDE291CAD3ADC18/0DBB27AB408A3172D1FDFAF510E1BDCB31669C96.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR09673_00": {
+        "npCommunicationId": "NPWR09673_00",
+        "trophyTitleName": "キスアト",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09673_00_0045934B2B9C5392C2183D9D9590F26A5DE3C4CD7B/A484FDEBC75263BC97CB6B9D2205F2283CD3A3FF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR09674_00": {
+        "npCommunicationId": "NPWR09674_00",
+        "trophyTitleName": "Persona 4 Dancing All Night",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09674_00_0017F7DFB3C7B2F0F752FECD8FACA87194F8B3247E/08C4B148539E5E80EA0BBCDBA73C6C204233F8A6.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR09677_00": {
+        "npCommunicationId": "NPWR09677_00",
+        "trophyTitleName": "ONE PIECE BURNING BLOOD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09677_00_008B48844BA30A5B66484659413239E2BD15C88850/7EE3FD783A611E79717BD6FB90DD6BC513617B3D.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 16,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR09680_00": {
+        "npCommunicationId": "NPWR09680_00",
+        "trophyTitleName": "英国探偵ミステリア Ｔｈｅ Ｃｒｏｗｎ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09680_00_00030E44EB24F02E285823B9CD2D2201913E171E28/D1D70A8BF03E76BA8E955F888274BAFA61E0C6A0.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 4,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR09683_00": {
+        "npCommunicationId": "NPWR09683_00",
+        "trophyTitleName": "Battle Trivia Knockout",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09683_00_004BE406B8BC6ABE837ED7449540D794A0BF3CD590/92F986AB856A27A1C337E16374B5FD0F477686DB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR09684_00": {
+        "npCommunicationId": "NPWR09684_00",
+        "trophyTitleName": "Barbie and Her Sisters Puppy Rescue",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09684_00_00E2BBF7F24ADCFD2B270EC2328E45C928A7EB30A5/7B67C7420AB61C39F38CF7453691398C9E268122.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR09685_00": {
+        "npCommunicationId": "NPWR09685_00",
+        "trophyTitleName": "FIFA 17",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09685_00_007FD31D8986A531650BA5B71EE31565D864CE8A50/D1DC076E090ADB57543472A35E29F5BCB136D1D2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR09687_00": {
+        "npCommunicationId": "NPWR09687_00",
+        "trophyTitleName": "Far Cry® Primal",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09687_00_0090890723F98AD458C3F4EC288C1888A48F880D21/08B0C827B453E9D45ED0DCBE0CB6FFA59BFFD53E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
     }
 }
