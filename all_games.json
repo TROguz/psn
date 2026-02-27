@@ -68248,5 +68248,135 @@
             "bronze": 36
         },
         "service": "trophy"
+    },
+    "NPWR11880_00": {
+        "npCommunicationId": "NPWR11880_00",
+        "trophyTitleName": "My Name is Mayo",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11880_00_006F82D27943086EF245545D58A6784A07676E363A/22C215247822FB9D3EB42D4FE668D572B272283E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 0,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR11881_00": {
+        "npCommunicationId": "NPWR11881_00",
+        "trophyTitleName": "My Name is Mayo",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11881_00_001DD30435132CA06759263D5F5914B309118A2BAE/F39EB6FF641E001AFEEC78132A49C906718E859B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 0,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR11884_00": {
+        "npCommunicationId": "NPWR11884_00",
+        "trophyTitleName": "NBA LIVE 18",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11884_00_00F6B46123813F7CD52501D53AC9DC41593820ABF2/72045538893B76CC10A327236C217D6665526B54.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR11885_00": {
+        "npCommunicationId": "NPWR11885_00",
+        "trophyTitleName": "TERA",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11885_00_00F7BCDE3C2F9CED641E337B44238FB4B871AFE2F8/4C1601B3EE154A3204599A10EA9EA9BB268C7BE6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11886_00": {
+        "npCommunicationId": "NPWR11886_00",
+        "trophyTitleName": "ダマスカスギヤ 西京EXODUS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11886_00_0031FBB7264569F5005EEC4D84DAD8FDABA55C3ECD/29A859D701F357ED77AE202EE74C1EF7A9C7155E.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11887_00": {
+        "npCommunicationId": "NPWR11887_00",
+        "trophyTitleName": "Pox Nora",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11887_00_00CD1763C5BA6E0DDF29AB99E756B89FB23C049656/4DD0155C1D10FADA0A092365A910E243E433C281.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR11888_00": {
+        "npCommunicationId": "NPWR11888_00",
+        "trophyTitleName": "剣が君　百夜綴り",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11888_00_008DC1180FDA4BECF25F97A1F374AC2666949ECEE7/C067665EBF3359C5323981842BEB03139A3314B5.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 14,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11889_00": {
+        "npCommunicationId": "NPWR11889_00",
+        "trophyTitleName": "Unearthing Mars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11889_00_00682E26F254311B81D04955F1A497A7DA2A966226/3FE2ACF4AC808D857AA25AB239D9DB8BBCBF2053.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11890_00": {
+        "npCommunicationId": "NPWR11890_00",
+        "trophyTitleName": "遙かなる時空の中で３ Ultimate",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11890_00_0070CB144E49C4B06E731C8555EF98B15581C0B93C/6AEDD218423A1D630A4FC7252B28DB4F51500BAF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR11892_00": {
+        "npCommunicationId": "NPWR11892_00",
+        "trophyTitleName": "The Dwarves",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11892_00_009ECCC344EAA14EB9C5304C03863B6EFF719DE753/8E7550F6D2620D962F10CB724194C190E993C418.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 15
+        },
+        "service": "trophy"
     }
 }
