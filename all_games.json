@@ -56158,5 +56158,135 @@
             "bronze": 20
         },
         "service": "trophy"
+    },
+    "NPWR10147_00": {
+        "npCommunicationId": "NPWR10147_00",
+        "trophyTitleName": "FU'UN SUPER COMBO",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10147_00_0060C46799434CBF55ECD9C69EFA51A7214A781E6E/AC12E946F6F09E4DAAAF5802836B539B66F09460.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR10150_00": {
+        "npCommunicationId": "NPWR10150_00",
+        "trophyTitleName": "Jetpack Joyride",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10150_00_0017D27ACEB79B4C8FE149379DF64AB7E906F2A763/4ED3B23DDA80C7487B1931B9F6BA41047E7B30D2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR10151_00": {
+        "npCommunicationId": "NPWR10151_00",
+        "trophyTitleName": "Baseball Riot",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10151_00_00184D5CFED0417D708B4A6066AB0F65C986F99928/374090C4917EFD4B68F15BC7CC612339A9F0CF00.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR10152_00": {
+        "npCommunicationId": "NPWR10152_00",
+        "trophyTitleName": "Madden NFL 18",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10152_00_00A64E6844A77DAFA6B41C5239FC1AB7B1F87418C5/8B2CA06E37B38EDE9910C0405BAC654AD928922F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR10153_00": {
+        "npCommunicationId": "NPWR10153_00",
+        "trophyTitleName": "ARSLAN: THE WARRIORS OF LEGEND",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10153_00_00EB8692E99247EA838E55DE282131A147D864708B/B7871707664BFD0EC24D18341C064A948045E59B.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR10154_00": {
+        "npCommunicationId": "NPWR10154_00",
+        "trophyTitleName": "Dogchild",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10154_00_009248DD38D5145EF9EE32E3915BD45A4B7774539E/28DCB252F71F3DAC6285E5738A39B96872A7BBB9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR10156_00": {
+        "npCommunicationId": "NPWR10156_00",
+        "trophyTitleName": "Prison Architect: PlayStation®4 Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10156_00_003B9C6F21A618DAB87FA61A5670830954F5717BF0/A00FDDE52532B5D00AEAB14030B39C21CEDB34EF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 20,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR10157_00": {
+        "npCommunicationId": "NPWR10157_00",
+        "trophyTitleName": "Valkyria Chronicles",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10157_00_0078085EAD347A4F2F6323E6C59B3BAFEB8E2E889B/81CACF355F36958AA7FE879AA355406CFA521E22.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR10158_00": {
+        "npCommunicationId": "NPWR10158_00",
+        "trophyTitleName": "Nuclear Throne",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10158_00_00075B2378C639E9A6F5E18619CEF460A6EF7820C4/AC88C0EDF2963041251B596FA508FD71F1A8CEF5.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR10164_00": {
+        "npCommunicationId": "NPWR10164_00",
+        "trophyTitleName": "Miko Mole",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10164_00_003F54D4946E8D5C0EFB13D47D6E62152015B52C07/1D965C5F30FE8FFC46053421ECDA6274D943D682.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 6,
+            "bronze": 9
+        },
+        "service": "trophy"
     }
 }
