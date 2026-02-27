@@ -45108,5 +45108,135 @@
             "bronze": 23
         },
         "service": "trophy"
+    },
+    "NPWR08419_00": {
+        "npCommunicationId": "NPWR08419_00",
+        "trophyTitleName": "STEINS;GATE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08419_00_00694B176CF97ACA71AD3B46F4D0AE80F3FF8214C4/8F2BE6777E7B29E3994EA04353CDDB4877DB0D30.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR08423_00": {
+        "npCommunicationId": "NPWR08423_00",
+        "trophyTitleName": "LET IT DIE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08423_00_00595CB934E1924B455318080AC5C19FBB03342C33/60CCD7F4104091ADEFB8A51B30B13AA0FE114C0B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR08424_00": {
+        "npCommunicationId": "NPWR08424_00",
+        "trophyTitleName": "The Escapists",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08424_00_00F6124DDE47FC8E7699C3F1A663E1114D5E885948/70C541A10CFB4905C5EB44E5144E2B05A5EB5247.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 18,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR08425_00": {
+        "npCommunicationId": "NPWR08425_00",
+        "trophyTitleName": "Toren",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08425_00_00C2227730E13E1A60CD3FC1FCAC0F792C28252FB9/FB6078B13965C750853540A8C9C413DE4BD08FBB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08426_00": {
+        "npCommunicationId": "NPWR08426_00",
+        "trophyTitleName": "Vamwolf Cross†",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08426_00_0063AD32D0EF2775C619A2B0ABDD21BEE127C4A7EB/7C5F938042F3229D9D84AB51A7BC5F399D135748.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR08427_00": {
+        "npCommunicationId": "NPWR08427_00",
+        "trophyTitleName": "スクール・ウォーズ～全巻パック　本編＆卒業戦線～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08427_00_008DEC051847B0298FB4EDBE9BB23A268D7BDCC121/ECEAE2823DFDC0CF202DC10763F3B157D937B1FA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR08428_00": {
+        "npCommunicationId": "NPWR08428_00",
+        "trophyTitleName": "Arcade Archives Cosmo Police Galivan",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08428_00_002451750BBE055748F54DA6C5A2BBB93B9EB776BB/1844AA9943740AA262C78C449F25D7D655D8FA9C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08436_00": {
+        "npCommunicationId": "NPWR08436_00",
+        "trophyTitleName": "魔物獵人FRONTIER G",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08436_00_00AD1B8E569B2B3997E6939C174AA2D0976280F452/74FDAC9CAAF3C96D05740F3952441C14BDA0A57E.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 23,
+            "bronze": 53
+        },
+        "service": "trophy"
+    },
+    "NPWR08437_00": {
+        "npCommunicationId": "NPWR08437_00",
+        "trophyTitleName": "BLADESTORM: Nightmare",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08437_00_00C045F197C8FCE8AE7C99B0B90B25479D72A41E87/9A7085120715AC3A56311DC36EBAECE149BE929A.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR08439_00": {
+        "npCommunicationId": "NPWR08439_00",
+        "trophyTitleName": "LA Cops",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08439_00_0012D361DCD1BA4C872602F7308B702498E453B96E/6D1834F88649F6799DF3B8FE033B04BF00A9464E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 1,
+            "bronze": 2
+        },
+        "service": "trophy"
     }
 }
