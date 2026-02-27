@@ -92428,5 +92428,135 @@
             "bronze": 16
         },
         "service": "trophy"
+    },
+    "NPWR14961_00": {
+        "npCommunicationId": "NPWR14961_00",
+        "trophyTitleName": "어떤 마술의 버추얼 온 트로피 세트",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14961_00_004BFC5C88EFFA9B864C1C7558A18D401E9004D2C4/EB3DCC023664A11853D07467B918EEC89DCA5C86.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR14962_00": {
+        "npCommunicationId": "NPWR14962_00",
+        "trophyTitleName": "魔法電腦戰機",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14962_00_0023BBFB79C1E28677C43BC812CF42B359BF3CE153/E45AC30647599C6486E2541193AEF2DB799E2C4F.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR14963_00": {
+        "npCommunicationId": "NPWR14963_00",
+        "trophyTitleName": "Atelier Lydie & Suelle ~The Alchemists and the Mysterious Paintings~",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14963_00_008D7C6CA43429CE54D7B9A1E725E3768686A9330D/AD54FD9F90242D160A4C8B398585BC81443E6451.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR14965_00": {
+        "npCommunicationId": "NPWR14965_00",
+        "trophyTitleName": "永远消失的幻想乡",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14965_00_006C22E7D889A7BCDC3615966590BF264B13E4E45D/22D20A6C74D19ED7491B030A9749C0350715E197.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 5,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR14967_00": {
+        "npCommunicationId": "NPWR14967_00",
+        "trophyTitleName": "Redout Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14967_00_009449D88185AD5E0F3D05A9DEFA2D0C542EB506DC/E3EC4DAA3166042CB8084561FFD1604D9A837009.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 16,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR14968_00": {
+        "npCommunicationId": "NPWR14968_00",
+        "trophyTitleName": "Salary Man Escape",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14968_00_000F436F80C41239951947E750B80770086926A3D4/D094E388154446A32A93F24E91185C63CF6DA34A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 14,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR14970_00": {
+        "npCommunicationId": "NPWR14970_00",
+        "trophyTitleName": "Warface",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14970_00_001B49DF339B0A68B2642011631DBA6E3C3E3A44A7/CB9F35E8EED6BD342B52F11ADE1B93982CE69572.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 14,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR14971_00": {
+        "npCommunicationId": "NPWR14971_00",
+        "trophyTitleName": "ChromaGun",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14971_00_0025F879FFF83064DF5658A21E96AE140B8B0A8ABE/4FAF08763E85099F9803FC66B380C182ECC3E7EF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 1,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR14972_00": {
+        "npCommunicationId": "NPWR14972_00",
+        "trophyTitleName": "Symmetry",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14972_00_00653A6E439D22E121A9D2882CCFF0AC9835F8CD05/84681536019B3BE78D49CA6967A5AAF98C8C8565.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR14973_00": {
+        "npCommunicationId": "NPWR14973_00",
+        "trophyTitleName": "The Exorcist: Legion VR\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14973_00_00F81CE55D098900EA0508220DC0F5B1930275234E/A8BE4369B12E96B7BAEDA85A3D76D8E750841938.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 15
+        },
+        "service": "trophy"
     }
 }
