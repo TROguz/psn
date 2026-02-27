@@ -90218,5 +90218,135 @@
             "bronze": 9
         },
         "service": "trophy"
+    },
+    "NPWR14693_00": {
+        "npCommunicationId": "NPWR14693_00",
+        "trophyTitleName": "実況パワフルプロ野球２０１８",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14693_00_00458DBC6CD42C7F8C4188AF0572FEAF679F43D20F/D122DF51EF0C4CE0A29D59D4F1ABFDCA07680F65.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 7,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR14694_00": {
+        "npCommunicationId": "NPWR14694_00",
+        "trophyTitleName": "Tropico 6",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14694_00_0090E1B9E927B3E02D5CB010B66ACBA024EA6267D3/87B87644F1E435B61582A3D0C497AD1F7D57408F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR14695_00": {
+        "npCommunicationId": "NPWR14695_00",
+        "trophyTitleName": "YAKUZA KIWAMI 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14695_00_0015D4C0999E8C830568B3D60B8ECFCFB1A4367938/A7AB6B260CA1A002170D44F69398EAC2800BD9A6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR14696_00": {
+        "npCommunicationId": "NPWR14696_00",
+        "trophyTitleName": "Manifold Garden",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14696_00_00DCE4339557591030EDF2D51ACB0D60D8646F332C/EDB028D0AED2B16B515DD9C3ED5F6F1FFB3E3EDD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR14698_00": {
+        "npCommunicationId": "NPWR14698_00",
+        "trophyTitleName": "ナデレボ！",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14698_00_003D7EC16BECA2DEBF609CF01A2295DD9E8BE7F815/A786E104401022FA44EA6E94D8669981E222AEF3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 5,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR14701_00": {
+        "npCommunicationId": "NPWR14701_00",
+        "trophyTitleName": "Hover",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14701_00_0047B5EA920EA01EB14495BAB56E0FE51CA09B1FB5/2BB5AA9EC6E2A760B25870F9C438C4A2904AF825.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14706_00": {
+        "npCommunicationId": "NPWR14706_00",
+        "trophyTitleName": "Call of Duty®: Modern Warfare® 2 Campaign Remastered",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14706_00_0029C4E3C5E3C900EE9AD926F72BCCE4ED27262D1D/599BA3A49BC4AC1CE5BE76CF35A6B606217F86ED.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR14707_00": {
+        "npCommunicationId": "NPWR14707_00",
+        "trophyTitleName": "ProjectLUX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14707_00_005370BC56F01026D76F356F7CC5BE08222D470F0B/C4AB6C02E056AE3E4DB5DFCB690355D24B304D45.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14708_00": {
+        "npCommunicationId": "NPWR14708_00",
+        "trophyTitleName": "Pop-Up Pilgrims",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14708_00_00D6509A8D2FDD712D995D8A476B391E2592111826/C253949929560F777AEF120B2996ED0AF7239982.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR14709_00": {
+        "npCommunicationId": "NPWR14709_00",
+        "trophyTitleName": "Pop-Up Pilgrims",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14709_00_000DFF58756ACF2CD63A6FFECFA93757334BFC41DC/72BCDF260CCB32CD5291288435A229BB7E7080EB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 6
+        },
+        "service": "trophy"
     }
 }
