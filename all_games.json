@@ -76828,5 +76828,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR12949_00": {
+        "npCommunicationId": "NPWR12949_00",
+        "trophyTitleName": "Dead by Daylight 1/3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12949_00_00EE8EF7D16B205FF2A7A8700CE77906831C83D694/9F2BE3019C6AA29C6178B3A1CF81849346E6EEF9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 24,
+            "bronze": 99
+        },
+        "service": "trophy"
+    },
+    "NPWR12950_00": {
+        "npCommunicationId": "NPWR12950_00",
+        "trophyTitleName": "Nightmares from the Deep 2: The Siren's Call",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12950_00_00B8D49F114B4BE314E7247F092C464A637D085FFC/82FC1C0222D3A6F0E42B703597A8540527147611.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR12951_00": {
+        "npCommunicationId": "NPWR12951_00",
+        "trophyTitleName": "Dying： Reborn",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12951_00_00295DE5F328F7097FC8D6048BB1294655275E4F57/A181FFE736546799AC89A9EF9B71F770EC566D64.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 6,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR12952_00": {
+        "npCommunicationId": "NPWR12952_00",
+        "trophyTitleName": "DYING : Reborn VR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12952_00_0091A9871C70E9A40DA662E2E42BA1C927615364C0/F845353C2675B1983D6E1DC64700FAD455311FCE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR12953_00": {
+        "npCommunicationId": "NPWR12953_00",
+        "trophyTitleName": "Transcripted",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12953_00_003ED022F7077E66238F905AC3AEC3FCF1ECA7F7B6/5CE226E11DB700E300A0F0615BEDAE354E72DD91.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR12954_00": {
+        "npCommunicationId": "NPWR12954_00",
+        "trophyTitleName": "Hunting Simulator",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12954_00_003C7DB9C14D98581FEEA1244CC3CB6C8EE4029F57/3D0126641D9FDE64B64820190E6E268514CA7B48.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 17,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR12959_00": {
+        "npCommunicationId": "NPWR12959_00",
+        "trophyTitleName": "Lili: Child of Geos",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12959_00_000B8C43B081EF6CE975A403DCE71312761D72E4D4/C2BF2D1F89B722A68A94F07568421197E3B616F9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 5,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR12960_00": {
+        "npCommunicationId": "NPWR12960_00",
+        "trophyTitleName": "Lili: Child of Geos",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12960_00_00530873F89F97BAC1FFF5C3D4EBF140599DDC17CB/4112334B5AC35109D24E6319B02F3DFCC14A518A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 5,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR12961_00": {
+        "npCommunicationId": "NPWR12961_00",
+        "trophyTitleName": "WARRIORS ALL-STARS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12961_00_00BC3E8CFF7788630851D06466C305372854919760/7D0F33CACACB0B99C58A654EF9898A73449DC736.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 2,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR12962_00": {
+        "npCommunicationId": "NPWR12962_00",
+        "trophyTitleName": "WARRIORS ALL-STARS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12962_00_0086DBC7AEEDCCFDEB193F0E7714C9C20EBF7ADF10/79816B5F54B115AFF7B6D84E57B4A67523C7F0DA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 2,
+            "bronze": 29
+        },
+        "service": "trophy"
     }
 }
