@@ -42768,5 +42768,135 @@
             "bronze": 69
         },
         "service": "trophy"
+    },
+    "NPWR08043_00": {
+        "npCommunicationId": "NPWR08043_00",
+        "trophyTitleName": "真·三国无双７：猛将传 完全版",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08043_00_007E610A3ECAB2F1C902C24AFEEFFEEC6E67FE1591/4D1D1C3C71496BB23A71D57F7434015E4AC2B944.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR08047_00": {
+        "npCommunicationId": "NPWR08047_00",
+        "trophyTitleName": "STARWHAL",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08047_00_00A126623604FF130F4577058B4042066C5990418B/4020CCFED59C06473D6F7B16AEECCD37D09FCD76.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR08052_00": {
+        "npCommunicationId": "NPWR08052_00",
+        "trophyTitleName": "Ride",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08052_00_0069D8E6F58E33E0E8ABD426F0761CF6C6CA95B83A/0B029E0457EF40F6586BA7632D074EC0ED8FE0B3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR08053_00": {
+        "npCommunicationId": "NPWR08053_00",
+        "trophyTitleName": "War of the Monsters™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08053_00_00D879DBABA794644EB1A0834E85A3C9F3F4274F4A/05784E8B4D4BD1A7773300952AA388EF59DDEF21.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR08059_00": {
+        "npCommunicationId": "NPWR08059_00",
+        "trophyTitleName": "Ride",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08059_00_00DD2D35385D51D82654F2372F2F39571ADD0AC539/9E77400016E7D77833941466A1A8F4D9DA85905A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR08060_00": {
+        "npCommunicationId": "NPWR08060_00",
+        "trophyTitleName": "Sketchcross\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08060_00_00C2D2F7FE20572FF60680794E3CADC35D01BEE631/54024A347A7E200911EE776E179E165D602F37D8.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR08061_00": {
+        "npCommunicationId": "NPWR08061_00",
+        "trophyTitleName": "Atelier Escha & Logy Plus ~Alchemists of the Dusk Sky~",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08061_00_00DA857CA98DBED566EC6622E6B5F90EA6B8D1F093/5150CC6DD7A373A62FE22F7DC9EB0CDFC9EDAB78.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR08062_00": {
+        "npCommunicationId": "NPWR08062_00",
+        "trophyTitleName": "TorqueL",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08062_00_00527296740F9BF9F3F9FD9DFBE45FADBBA4BA01E4/49C407D5A97B0AF8AAFF7B95888F06E95FECA05E.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR08064_00": {
+        "npCommunicationId": "NPWR08064_00",
+        "trophyTitleName": "ChuSingura46+1 -忠臣蔵46+1- V",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08064_00_002940BA255B1BE912AD03D93CA42EF2B6E71F02CF/B72F15E3C44655A3A5E607058792897877EDA660.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR08067_00": {
+        "npCommunicationId": "NPWR08067_00",
+        "trophyTitleName": "Saints Row IV: Re-elected",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08067_00_00EB42BCCB2ED6B76ABDFC571806E0595CD947BBCB/B72B2F17AE8F552582F1C52009D6282DAB60E6DA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 56
+        },
+        "service": "trophy"
     }
 }
