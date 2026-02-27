@@ -89958,5 +89958,135 @@
             "bronze": 15
         },
         "service": "trophy"
+    },
+    "NPWR14663_00": {
+        "npCommunicationId": "NPWR14663_00",
+        "trophyTitleName": "HiQ Ace",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14663_00_00896E1E019FB03F6858AD4E60E7FB0CD331EBD0A4/30D9AE5FD1238D6BA75192EC83AA4617D588D1A1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14664_00": {
+        "npCommunicationId": "NPWR14664_00",
+        "trophyTitleName": "Mulaka Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14664_00_0026A0AE9F653CE6AD630FE7E7323D11AC4EB6B50F/E8072A1F38CFA420DAE5C3E74CB520E07684CC81.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14668_00": {
+        "npCommunicationId": "NPWR14668_00",
+        "trophyTitleName": "Where Are My Friends?",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14668_00_0095FCA7241941C52263ABABBD3F1FFD102D269519/6558F98AD9C940CBDCC884F078824E53FAEE2320.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR14670_00": {
+        "npCommunicationId": "NPWR14670_00",
+        "trophyTitleName": "Agony",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14670_00_005C3EA772252E0D6A80434F946AC80B4420456FB3/E9D35BF4DB1FB6A7CB96133436D4149D544DDE41.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR14672_00": {
+        "npCommunicationId": "NPWR14672_00",
+        "trophyTitleName": "あざやかな彩りの中で、君らしく",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14672_00_0046C29AF5495369DEC1AC46B5ABA6D7ACD1167F65/56FFA059C982C664C9477CCAE7EB0ED5A1544631.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR14673_00": {
+        "npCommunicationId": "NPWR14673_00",
+        "trophyTitleName": "Abo Khashem Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14673_00_00B636FDD00B7A554922F41260C652E68C1C1C11F9/DC152E69E16B4489C2610DD4768E7E7700E5FC3B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR14675_00": {
+        "npCommunicationId": "NPWR14675_00",
+        "trophyTitleName": "Project Nimbus: Code Mirai Trophy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14675_00_006BDF2C485A4DEBF042ADDA5EE6600A5260F688D1/7B1E45BFE13B6651606B3A3F845F3A1167F28142.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR14676_00": {
+        "npCommunicationId": "NPWR14676_00",
+        "trophyTitleName": "Heroine Anthem Zero Episode 1",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14676_00_00D17A6EEB772C0CDBB1E07C227AE90341759B63E1/AA7B165331108EACB636939D8370BD0E2420DF39.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR14677_00": {
+        "npCommunicationId": "NPWR14677_00",
+        "trophyTitleName": "Heroine Anthem Zero Episode 1",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14677_00_004F6727C8167F72F2E9727E5E83867510665147BE/58FBB0364953457B5BA4829067ACD82413E5369F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR14678_00": {
+        "npCommunicationId": "NPWR14678_00",
+        "trophyTitleName": "カタハネ ―An' call Belle―",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14678_00_009A9A81E091999CD005F5CA3AA6CC5AD4106B240F/DEA1A0E90F3CDEC4F20AD707F42CCA65B6AA44E2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 0
+        },
+        "service": "trophy"
     }
 }
