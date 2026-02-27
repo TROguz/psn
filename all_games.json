@@ -55508,5 +55508,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR10045_00": {
+        "npCommunicationId": "NPWR10045_00",
+        "trophyTitleName": "SuperMagical",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10045_00_00B3937FC7D096C46F62DDEA477DF37DDF767E8C43/A404A8D0F16F8B5149224094309BD01AFFC3C00E.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR10046_00": {
+        "npCommunicationId": "NPWR10046_00",
+        "trophyTitleName": "Stranded: A Mars Adventure\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10046_00_00D442ED3FC9366980ECADF305645DDB08C8DD2489/E9C18F853BB3A6984B50AD03D9089FC1C667841D.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10048_00": {
+        "npCommunicationId": "NPWR10048_00",
+        "trophyTitleName": "Ninja Senki DX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10048_00_009CE3FBC338C855AC1EDF18928996A52674E319E3/8A019CC4897D2D85262BC908CD80E1D1FF848426.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR10049_00": {
+        "npCommunicationId": "NPWR10049_00",
+        "trophyTitleName": "Old Time Hockey",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10049_00_004D44501FF91278D91ADFD17AAB5EC30F35AAFD2D/C22E46273F465F06EC74DC9AEBCD0A2D47749FE2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR10052_00": {
+        "npCommunicationId": "NPWR10052_00",
+        "trophyTitleName": "Thumper",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10052_00_00870E7DAC2800E85D47D18734EC2DC3C175A21D64/BF03FBA7C277D1334680F5F4D050C031E104DF67.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 1,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR10057_00": {
+        "npCommunicationId": "NPWR10057_00",
+        "trophyTitleName": "Battle Trivia Knockout",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10057_00_0002FA037B6663EEB7C159B59A91818B5BBF6537EF/E73087E682D5D7F067113DEA787853FDDFA2A98A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR10059_00": {
+        "npCommunicationId": "NPWR10059_00",
+        "trophyTitleName": "薄桜鬼 真改　華ノ章",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10059_00_00A1A6C470DA179245AC1CE8D48788592F727BAA17/79F700E16F61A301C15DE8131E8C1B7348D7AE4E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR10060_00": {
+        "npCommunicationId": "NPWR10060_00",
+        "trophyTitleName": "Broforce",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10060_00_00EC1ED745CB0FA6C9F3AD2A02773B24145756A1B5/B528DDE1B11EB03F261C838052827D47F3A9DFD4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR10062_00": {
+        "npCommunicationId": "NPWR10062_00",
+        "trophyTitleName": "Honor and Duty: Arcade Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10062_00_002D729BE1599C11C716F95797EAC737B78691C08D/920AFD5DED260DF6B113F1CF92A683DCEE246B42.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR10063_00": {
+        "npCommunicationId": "NPWR10063_00",
+        "trophyTitleName": "灰鷹のサイケデリカ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10063_00_003570FC344664B97FCA987E5C433B46BA2EE7C918/B6E4AE1B7B78DE704409A383249CA61F512B62EE.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 18,
+            "bronze": 14
+        },
+        "service": "trophy"
     }
 }
