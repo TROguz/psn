@@ -28988,5 +28988,135 @@
             "bronze": 21
         },
         "service": "trophy"
+    },
+    "NPWR05189_00": {
+        "npCommunicationId": "NPWR05189_00",
+        "trophyTitleName": "Tiny Brains",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05189_00_00DF6BF7A7102D87D30D7AFF727FA07C9A77CBC7D8/0CD286C32F7BA2121A062660E4371C76EAEC947F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR05194_00": {
+        "npCommunicationId": "NPWR05194_00",
+        "trophyTitleName": "Aabs Animals",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05194_00_00F87B562AF5A0837222F1E7B7EFE08DB79BB454A4/138DF9DF7A8709351BDD81AD3D1FAEE329587786.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 1,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR05197_00": {
+        "npCommunicationId": "NPWR05197_00",
+        "trophyTitleName": "Angry Birds™ Star Wars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05197_00_00E477247485943B6E7EE35903A666E7E664A8A64E/3D6ED25E132C5C341B24C0608ABAB785D8937FFE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR05198_00": {
+        "npCommunicationId": "NPWR05198_00",
+        "trophyTitleName": "SingStar™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05198_00_00336F077BEFAA280EDC8735B0ADED6EC5C84BF0D7/A8F1F3373D5D57FF2EB303848C7F835A79C46A5D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR05200_00": {
+        "npCommunicationId": "NPWR05200_00",
+        "trophyTitleName": "Super Motherload",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05200_00_002A4392FC5C2AAC283AFB7250E1C6CA9F8A344E6D/053FCEDD02EF1E659BE3F125D8D6425CA30D20C2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR05207_00": {
+        "npCommunicationId": "NPWR05207_00",
+        "trophyTitleName": "第３次スーパーロボット大戦Ｚ　時獄篇",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05207_00_00496D8BD9D086EAE84E346A643D52FBC4E68C8F9B/6301535BB08DC84D6E6E1587B7D82CCFE60D95A0.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR05208_00": {
+        "npCommunicationId": "NPWR05208_00",
+        "trophyTitleName": "スーパーロボット大戦",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05208_00_00C3F26B9A25827FC2C4ABD70656C6E70D09A26364/EC49B9FFAA4BB1E233C0A8263F9F2CC8BF8FDB3B.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR05209_00": {
+        "npCommunicationId": "NPWR05209_00",
+        "trophyTitleName": "SOULCALIBUR Ⅱ HD ONLINE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05209_00_00A56CA8FF00BA242837013F978515898444C36A6F/221515BECE5B714204114468B2B10867E3F1847C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR05210_00": {
+        "npCommunicationId": "NPWR05210_00",
+        "trophyTitleName": "The LEGO® Movie - Videogame",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05210_00_00475E33993A70A9FF65158B4BDE4082389AAA3CAD/B4944814277A1613F4CFB24D5A223A30231B8734.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR05212_00": {
+        "npCommunicationId": "NPWR05212_00",
+        "trophyTitleName": "WATCH_DOGS™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05212_00_00452624979CAE2F1D56AB42E5FEDA24608E37E706/B6B667B6C1DE7C2574F260B46EF092C230481D9C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 19,
+            "bronze": 28
+        },
+        "service": "trophy"
     }
 }
