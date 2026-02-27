@@ -30158,5 +30158,135 @@
             "bronze": 15
         },
         "service": "trophy"
+    },
+    "NPWR05422_00": {
+        "npCommunicationId": "NPWR05422_00",
+        "trophyTitleName": "The LEGO® Movie - Videogame",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05422_00_00C3285600C7D0FB99977D7B56B5728510315A724E/563C4398F9110D613503E77A3FCDFA0D4F2DD4FA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR05423_00": {
+        "npCommunicationId": "NPWR05423_00",
+        "trophyTitleName": "Guacamelee! Super Turbo Championship Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05423_00_00AF9D7164FCBC6D9221AEB0300163E6BCC410D9B6/7EADCDCFFE566205DF10125B67FFF96E2362892E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR05424_00": {
+        "npCommunicationId": "NPWR05424_00",
+        "trophyTitleName": "Battlefield 4™ Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05424_00_0079D3A7D09DC0290E8C4768B457E1E74B3187007B/1A675DE737EB2AAF7B5B0ACA34F48651F855A203.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 22,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR05426_00": {
+        "npCommunicationId": "NPWR05426_00",
+        "trophyTitleName": "Flower",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05426_00_00C86582C4A78AB2A7C3A93D85A0D4188D5758E9C5/BC6397A09319940B2AD0055982968939A462FD46.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR05431_00": {
+        "npCommunicationId": "NPWR05431_00",
+        "trophyTitleName": "Vessel",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05431_00_00CF17CA82A26D623171C905E8D3BD32EFF396540F/3350FC57430F8719398E8C6542A5B1357C6FC967.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR05433_00": {
+        "npCommunicationId": "NPWR05433_00",
+        "trophyTitleName": "Dead Nation™: Apocalypse Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05433_00_009D35918ECA62D82662D160E3BA51115A2AAD19DF/C77AE9D49F109EEA49C97CB2D68348728EB92E24.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR05434_00": {
+        "npCommunicationId": "NPWR05434_00",
+        "trophyTitleName": "Worms Battlegrounds",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05434_00_00C5175197F08973414544ABADD7E17AE9128BCE7E/541FA3617FA440C02286C055E077DE6B46EC498A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 12,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR05438_00": {
+        "npCommunicationId": "NPWR05438_00",
+        "trophyTitleName": "Table Top Racing",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05438_00_00DAEEF0E25364B49BAC4CA45459EEB034DFFCBA56/6CC603434E8E70775D9AC5669313B9EE9EE408FC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR05439_00": {
+        "npCommunicationId": "NPWR05439_00",
+        "trophyTitleName": "XBLAZE CODE : EMBRYO",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05439_00_0069BF5090B0271DEA03A171B55C83048872E35918/6CD51EC86AB66C1664A880A4EC387AB25AB03E9F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR05440_00": {
+        "npCommunicationId": "NPWR05440_00",
+        "trophyTitleName": "XBLAZE CODE : EMBRYO",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05440_00_008DA7AA8C237A219C02577D81D21713AD9AFA094C/B6C8F88D9FEE640A52ED79B82E2906C13B674E17.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 26
+        },
+        "service": "trophy"
     }
 }
