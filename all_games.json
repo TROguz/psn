@@ -31068,5 +31068,135 @@
             "bronze": 1
         },
         "service": "trophy"
+    },
+    "NPWR05647_00": {
+        "npCommunicationId": "NPWR05647_00",
+        "trophyTitleName": "影牢 ～ダークサイド プリンセス～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05647_00_00D28F8EB143BFEEC04B0C829901C4BC77EA5E1717/0A819C9A5D3E9DB78EF424DBE673F9BC37FEDD52.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR05648_00": {
+        "npCommunicationId": "NPWR05648_00",
+        "trophyTitleName": "超ヒロイン戦記",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05648_00_00AB92C3C9355B3026C2BF06195591993DC07FBB1F/D5CDB8473D16B8F43B08BB3635FE6173AA13576D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR05649_00": {
+        "npCommunicationId": "NPWR05649_00",
+        "trophyTitleName": "超ヒロイン戦記",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05649_00_00938F3CD6EE4A8AF2EDB1AF51FE06B158B27353F6/F6C51177151036249279A3BB9B14E556A690EC4A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR05650_00": {
+        "npCommunicationId": "NPWR05650_00",
+        "trophyTitleName": "Backgammon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05650_00_005DB84C59C4F30ABF4ADC0E4252D28AA630F1BC7F/10A3BBAC31090116E087D001E4D755A6D01F9D81.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR05651_00": {
+        "npCommunicationId": "NPWR05651_00",
+        "trophyTitleName": "Backgammon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05651_00_00A0FC9B25B11C36EEE767C70AFFB7766978F7DAA0/FDE8722028323F35BE17210E69F33CC2135468A9.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR05652_00": {
+        "npCommunicationId": "NPWR05652_00",
+        "trophyTitleName": "DCUO Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05652_00_0012E15D6B95D576FD9E4E04A4B2DA9116967155EF/6EC54720A8B1D66D5405BDB9E2902952550978BF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 13,
+            "silver": 59,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR05654_00": {
+        "npCommunicationId": "NPWR05654_00",
+        "trophyTitleName": "ＣＶ ～キャスティングボイス～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05654_00_007AE6E5DC89F032F93861D606ECFC50C298BF5BBB/B03C5F63B89256500524D910A122268FD6BD4FBA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR05655_00": {
+        "npCommunicationId": "NPWR05655_00",
+        "trophyTitleName": "Ar nosurge: Ode to an Unborn Star",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05655_00_00421A5FD9DA19E6828AF639FE913801030C3C03C4/612A91975B7ECCE3B71D6E3B1ABF2FDD623C1A77.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 14,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR05657_00": {
+        "npCommunicationId": "NPWR05657_00",
+        "trophyTitleName": "Trials Fusion",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05657_00_004927B1E362B5E65A067490AD5A74B122E2B9A8FE/3D12EA7AE4C0FFE719FF3A5DBB674B18FCC7E521.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 7,
+            "silver": 18,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR05659_00": {
+        "npCommunicationId": "NPWR05659_00",
+        "trophyTitleName": "Dying Light",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05659_00_00E860F5334098230AE4381F20597847411D67981E/D9BBA0E08F3AC5104AA00346C8B3462A15F4322D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 50
+        },
+        "service": "trophy"
     }
 }
