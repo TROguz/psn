@@ -31198,5 +31198,135 @@
             "bronze": 50
         },
         "service": "trophy"
+    },
+    "NPWR05661_00": {
+        "npCommunicationId": "NPWR05661_00",
+        "trophyTitleName": "IS＜インフィニット・ストラトス＞2\nイグニッション・ハーツ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05661_00_009C456F3303FA42E6BB84471D2BCFEA0B995DDB93/B33C34834D1516D82B7D0EA34EC327592082F35E.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR05663_00": {
+        "npCommunicationId": "NPWR05663_00",
+        "trophyTitleName": "∼성마도이야기∼",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05663_00_00545966A6829ADEE210DA05DBF0E79AA19FDBDC0B/64890C458E8AC09021DFC32439E04EEB9E61C549.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR05666_00": {
+        "npCommunicationId": "NPWR05666_00",
+        "trophyTitleName": "Rugby League Live 2 - World Cup Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05666_00_006DA4DB88F06E7FC184EC9938F8B794D1A13D6210/32266375DBB8711C16E9AD2634AEE1AA30F997A6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR05667_00": {
+        "npCommunicationId": "NPWR05667_00",
+        "trophyTitleName": "Tadeo Jones",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05667_00_00D38F7DE003121D20162A855ACDCE3270EAC5132F/64BD990DEFE30412B4865109F57189196697BCE2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR05668_00": {
+        "npCommunicationId": "NPWR05668_00",
+        "trophyTitleName": "とってもE麻雀ぷらす",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05668_00_00FD7DB5C31D36C6E492A9FCF23B724E8FE395EEEA/A80ECD98DCA2413F0CADEAE0FE0179091B32C721.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR05669_00": {
+        "npCommunicationId": "NPWR05669_00",
+        "trophyTitleName": "薄桜鬼SSL ～sweet school life～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05669_00_002278EECE286AD5F8E8CC9AE0640694FA84E08742/3C8E492B0FA49CBBD0ABA3223E3AC6F7AA9C438C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR05670_00": {
+        "npCommunicationId": "NPWR05670_00",
+        "trophyTitleName": "Kick-Ass 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05670_00_00F5EC5BACB3C17647C0708FEC9C1DB77406634335/09356A93720197852631E549CB3021297579BBDB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 15,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR05671_00": {
+        "npCommunicationId": "NPWR05671_00",
+        "trophyTitleName": "Dragon Age™: Inquisition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05671_00_00FC3ED45668217274BEF5DBA90B6A2ECCB5475B6C/1C30EABDA3A29BCBF8964F65E1322129BABD79EB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 54
+        },
+        "service": "trophy"
+    },
+    "NPWR05674_00": {
+        "npCommunicationId": "NPWR05674_00",
+        "trophyTitleName": "真・三國無双７ 猛将伝",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05674_00_00F1E85708F6A395B1A17F213FA04C3A32CEF723B2/C0598D22060BE039C648CCFE80F37CE2E2E50E43.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR05676_00": {
+        "npCommunicationId": "NPWR05676_00",
+        "trophyTitleName": "真・三國無雙７ 猛將傳",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05676_00_006534D60D5678813A542806F5E43E88E1C1D2AEB8/682903CDBF043F004B771585FA417C4AA63C62A4.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 28
+        },
+        "service": "trophy"
     }
 }
