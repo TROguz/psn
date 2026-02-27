@@ -69028,5 +69028,135 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR11967_00": {
+        "npCommunicationId": "NPWR11967_00",
+        "trophyTitleName": "anywhereVR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11967_00_00FC8470FE4749AB53E46284A38AE0262E9543ED7B/7BF73AFF3DF5B806CCBA12F641CF23A58FE8F5AB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11969_00": {
+        "npCommunicationId": "NPWR11969_00",
+        "trophyTitleName": "WonderBoy Returns",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11969_00_00AD5603ED4287E0AC63A110D7A244BE7CCDF64904/5CC0509643DECEAADED05FDFA4E083A6F2430EFF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR11972_00": {
+        "npCommunicationId": "NPWR11972_00",
+        "trophyTitleName": "フィギュアヘッズ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11972_00_00305F4EDF6CB4A3EA638A5D0F17955A14B9306551/3E295F9C706F101AD5616D12014E67AFE5296512.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR11973_00": {
+        "npCommunicationId": "NPWR11973_00",
+        "trophyTitleName": "四女神オンライン CYBER DIMENSION NEPTUNE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11973_00_0023CA2095E7B213261D2C6FA912810B0BDA2AEF7D/11BDE7A7B2B705F35E653AEDA70D7CCD2C709F10.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR11974_00": {
+        "npCommunicationId": "NPWR11974_00",
+        "trophyTitleName": "Little Nightmares",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11974_00_00F8E589325CE5C9E4BC479997BE6E9AE9A3214781/61E5D1B9BE30031957EB8CBC7FB15ACD538730F2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR11976_00": {
+        "npCommunicationId": "NPWR11976_00",
+        "trophyTitleName": "Cursed Castilla (Maldita Castilla EX)",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11976_00_00E3B6687E6F0373E326BB89F9F48C3C3F3916727E/5B124F367E7949ECCDD81616EE9267D7DEFFA2BC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR11977_00": {
+        "npCommunicationId": "NPWR11977_00",
+        "trophyTitleName": "Tethered\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11977_00_00CC7E797D2D9E16729F6DE37B919FC8C9669438B3/A133E55E342E83C1520154284CDECB6DF2A56530.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 17,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11979_00": {
+        "npCommunicationId": "NPWR11979_00",
+        "trophyTitleName": "Proton Pulse",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11979_00_00A0F15E7C0E295C07D6554A943CCC1FDB86F5A259/5BFE8C146CAD6073CE40C263D9685974CA49A845.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11980_00": {
+        "npCommunicationId": "NPWR11980_00",
+        "trophyTitleName": "Paranormal Activity\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11980_00_0022F94D6518374E09353C41E5896131D2688A5A88/F6C2F85E0A062CC1047DE2A76DBF2067ACC27E70.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR11981_00": {
+        "npCommunicationId": "NPWR11981_00",
+        "trophyTitleName": "真・三國無雙 英傑傳",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11981_00_009359BFBD7948723B35378E724EB17D11AA3BEF0A/D520FF0D707E9B8C9077267ED676ADFEFE16C067.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 28
+        },
+        "service": "trophy"
     }
 }
