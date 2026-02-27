@@ -87098,5 +87098,135 @@
             "bronze": 17
         },
         "service": "trophy"
+    },
+    "NPWR14281_00": {
+        "npCommunicationId": "NPWR14281_00",
+        "trophyTitleName": "Game Tengoku CruisinMix\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14281_00_00E32D244B7F1A64460A1489BFA1EF704B1E8599A8/72BCDF3AFA1A042C63D421B0B8F9ECCA5BD556B2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14282_00": {
+        "npCommunicationId": "NPWR14282_00",
+        "trophyTitleName": "Cruz Brothers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14282_00_00A45EEF285BDA87C98BA0E171D721BEC9BD099F01/298B87C711EA760B87772F65C8DA848DDDEEB4E5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 9,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR14285_00": {
+        "npCommunicationId": "NPWR14285_00",
+        "trophyTitleName": "Detention",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14285_00_003EE2BAFFC541C3568D1D3AE4B18506CFAB3CFB4E/205C325BD73A7FCAE0D47A2E0EADDB0991181E0F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR14286_00": {
+        "npCommunicationId": "NPWR14286_00",
+        "trophyTitleName": "Hob",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14286_00_0031C357AF5139F81FA848F39B3601B7988AD8F33F/E7CD0843C65B84CEC39FD951B15B9D2A7EF37AA3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR14287_00": {
+        "npCommunicationId": "NPWR14287_00",
+        "trophyTitleName": "Jurassic World Evolution",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14287_00_00E58FB610AA57A31A8C8C261586AB40B38B6C4275/1645C3D94367E2AFCB89449B96AE9B7E6C4504DF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 53
+        },
+        "service": "trophy"
+    },
+    "NPWR14288_00": {
+        "npCommunicationId": "NPWR14288_00",
+        "trophyTitleName": "8-bit Adventure Anthology: Volume I",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14288_00_00B9E1FE635051F767C9E7215AE60E6A3364ED8256/C52CDA43474374B0FDE72D806EA8A399A81D3EE7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR14289_00": {
+        "npCommunicationId": "NPWR14289_00",
+        "trophyTitleName": "LEGO® The Incredibles",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14289_00_00C698EC92706CE85A6CABB6D20878101913A872D0/7E5E17CBB7B8B85C74AB7C7F588A80E238E6B211.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR14290_00": {
+        "npCommunicationId": "NPWR14290_00",
+        "trophyTitleName": "黑蝶幻境",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14290_00_0098DC12423D5B713504F20FC1F3FFC843B57CF75B/583F9AC4A624DD001E5404447BB124E59F5ACDBC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 17,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR14291_00": {
+        "npCommunicationId": "NPWR14291_00",
+        "trophyTitleName": "BLAZBLUE CROSS TAG BATTLE Trophy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14291_00_00346689C822E6896C0EE69CA9381A1ED253564501/982C31F547662A92A37D49DCD03BF0A7E75D085A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR14292_00": {
+        "npCommunicationId": "NPWR14292_00",
+        "trophyTitleName": "Unbox Trophies\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14292_00_00D9D23CE58AA18E2CC2BCB8B06CB593368F47BD3B/58AD6C6A3F4741956A67FDFE1E3F00B0A8DCBF9F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 14
+        },
+        "service": "trophy"
     }
 }
