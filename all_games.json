@@ -79298,5 +79298,135 @@
             "bronze": 30
         },
         "service": "trophy"
+    },
+    "NPWR13253_00": {
+        "npCommunicationId": "NPWR13253_00",
+        "trophyTitleName": "Dead Rising 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13253_00_0072AC14E8A62717ADBAFF6550EF5603F1E075E495/2ACC0887EDE43160C5B369F36EA8F610732A311D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR13255_00": {
+        "npCommunicationId": "NPWR13255_00",
+        "trophyTitleName": "Happy Drummer",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13255_00_000A63FFCF5DE7191112C78F7AE98E3830C59D4310/B6B1E64CA20C095CC416E4A3B115F90DBD909B4D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR13258_00": {
+        "npCommunicationId": "NPWR13258_00",
+        "trophyTitleName": "猛獣たちとお姫様 ～in blossom～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13258_00_0032C042ACE55BF5E3EBD08C45A9DD9337462705F2/B53CE678C2BC768FFB084C67A739FC5CBDDBB240.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR13260_00": {
+        "npCommunicationId": "NPWR13260_00",
+        "trophyTitleName": "Chaos on Deponia Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13260_00_0040D37D9DF4E94A4371C7A9817ED08C3D32826325/1D4811B08DDB4A7B12811BC48EC4A66DA905BF27.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 16,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR13262_00": {
+        "npCommunicationId": "NPWR13262_00",
+        "trophyTitleName": "Bloody Zombies\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13262_00_0044F4B0241BEE37C2372F12259E9300D67D1DF062/859A095B9CCC74ED082CEF52089318113098A508.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR13263_00": {
+        "npCommunicationId": "NPWR13263_00",
+        "trophyTitleName": "Danganronpa V3: Killing Harmony",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13263_00_00D3D3103C8A4ADBB4C404EEB2C3F79083B7999674/3D83A6D5BD7430205B037F7DC7612DDD3AF9D1D1.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR13264_00": {
+        "npCommunicationId": "NPWR13264_00",
+        "trophyTitleName": "Code：Realize ～彩虹の花束～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13264_00_003D8B2FE1FC432397100E4BD2D8A860B6059B7C9B/F12EFA83A0B080A04905223004E6164005F09F9C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR13275_00": {
+        "npCommunicationId": "NPWR13275_00",
+        "trophyTitleName": "God's Trigger",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13275_00_00DAFE0B3659EA2A9FFFD17BA3C2A7257D1B97F086/1B8DF575074A2DFA8C5606F3ACF7C09E62DADF17.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR13278_00": {
+        "npCommunicationId": "NPWR13278_00",
+        "trophyTitleName": "Zenith",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13278_00_0060BEF129A27CFBDDD4BA66437FDFBC58E5E6FD83/2284B9B11737CBA7F2315D69BB93108F1CF3CB73.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR13279_00": {
+        "npCommunicationId": "NPWR13279_00",
+        "trophyTitleName": "アイドリッシュセブン　Twelve Fantasia!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13279_00_0067372F7F7DA22D3A931A4A3784A01177A560978C/AE017A65CFBC033331C8DF85757A25410F913995.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 20
+        },
+        "service": "trophy"
     }
 }
