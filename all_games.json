@@ -36008,5 +36008,135 @@
             "bronze": 20
         },
         "service": "trophy"
+    },
+    "NPWR06714_00": {
+        "npCommunicationId": "NPWR06714_00",
+        "trophyTitleName": "Magical Beat",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06714_00_00625C053FB736063BB1C8FC4A7A863CB46CCC7E70/26DE8FDCE5EA4C30AF0083E2251F3DD9AC9E27AF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR06715_00": {
+        "npCommunicationId": "NPWR06715_00",
+        "trophyTitleName": "Just Dance® 2015",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06715_00_00C897883C8904E83ACC64E717A9C8E9C8ACAFDBCE/19EF186E8007F77CD0EA2BFD29F2D4B00428CA98.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR06717_00": {
+        "npCommunicationId": "NPWR06717_00",
+        "trophyTitleName": "Skylanders Trap Team",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06717_00_009625DB3A7CA73D3D614F125D019A9D9DA57A18DA/F135F9B3B1A021254A82D951E28905DD55035264.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 4,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR06719_00": {
+        "npCommunicationId": "NPWR06719_00",
+        "trophyTitleName": "相州戦神館學園 八命陣 天之刻",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06719_00_009010A6A26C8652D61CF099A7053904D6A4D10A2A/72BEF5FE0AFAAA0AD14FBCAF36BCC9E056EB52CF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 5,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR06723_00": {
+        "npCommunicationId": "NPWR06723_00",
+        "trophyTitleName": "東京新世録 オペレーションアビス",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06723_00_00E7144F6E4EA24B9FBDC32C1ABE5F837EC7F36C04/009A880625242CFB91B3843022FCA1319C11FF0A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR06724_00": {
+        "npCommunicationId": "NPWR06724_00",
+        "trophyTitleName": "Rogue Legacy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06724_00_00413F8DECFF6B4A13EBCA1CAF1BDEFB054AFC276C/F7490482548439AE2843D0449F20A7011B606581.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR06729_00": {
+        "npCommunicationId": "NPWR06729_00",
+        "trophyTitleName": "Chivalry: Medieval Warfare",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06729_00_00ACA4B97927CB4794BC564782511036C4BB3BCFE0/450123E300FED5915890F33ED0446F417145D080.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR06731_00": {
+        "npCommunicationId": "NPWR06731_00",
+        "trophyTitleName": "Fat Princess - Piece of Cake",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06731_00_002A9C1F8574C8D02BBFF3142E68D42CD1DD541D87/C11C5AB00FAB21E94BEC9AAD8FC7EDF675EC2513.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR06733_00": {
+        "npCommunicationId": "NPWR06733_00",
+        "trophyTitleName": "My Singing Monsters",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06733_00_009074FF44AC5C8BA0CC7BC07E2FE1359FBA82CF71/FB36D95A6ECF221DD2DFEEA9128B66931EA46EBC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR06736_00": {
+        "npCommunicationId": "NPWR06736_00",
+        "trophyTitleName": "Race The Sun",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06736_00_00A4D1584F87F8674C84A5E72BDE92FB6C65F0C4C6/D372553789974B7942AE67FB748B40AD93F5B61F.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
     }
 }
