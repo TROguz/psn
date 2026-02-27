@@ -20668,5 +20668,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR03505_00": {
+        "npCommunicationId": "NPWR03505_00",
+        "trophyTitleName": "魔女と百騎兵",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03505_00_00B52AE116B1FA29721A7DEF23532D3E948AA19708/8AC153E86C51CB92F94A4055668D15DC8CB45F53.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR03506_00": {
+        "npCommunicationId": "NPWR03506_00",
+        "trophyTitleName": "ネクレボ ITパスポート試験",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03506_00_00CCF0D52C70C4784AC8E75D916E7BC2D2189B6555/EA68D6AB850C5A133E9B28070312919391798ECA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR03507_00": {
+        "npCommunicationId": "NPWR03507_00",
+        "trophyTitleName": "ネクレボ 基本情報技術者試験",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03507_00_00EF0CD238C765F1E0EA55751AC0321C358C155BBC/CCEF18201753CC7C39EDE6A268BDA008912BD028.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR03508_00": {
+        "npCommunicationId": "NPWR03508_00",
+        "trophyTitleName": "ネクレボ 応用情報技術者試験",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03508_00_00AFC177A74E2220CACE84B83A6918552483563287/CC4B5B006ED4636FF73821D544245D762FD9CB15.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR03509_00": {
+        "npCommunicationId": "NPWR03509_00",
+        "trophyTitleName": "LittleBigPlanet™3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03509_00_00F91FD90145C6B183A6BA36D2F2967CEF3251F805/5EA47F1D026EF97DD80384968BFC4BA75861A688.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR03511_00": {
+        "npCommunicationId": "NPWR03511_00",
+        "trophyTitleName": "International Snooker",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03511_00_00E11761B8C00673142CF2A1BF8D451F097CA90CCB/783724F284A132AC99B2D7A280F182903D006FFC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR03514_00": {
+        "npCommunicationId": "NPWR03514_00",
+        "trophyTitleName": "Dragon Ball Z Budokai HD Collection",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03514_00_00C3C9F1E5928B81561EFABF911AC031121E405725/60F3CA0AEB15E45E9183996605D70FD3CAD00CE2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 15,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR03519_00": {
+        "npCommunicationId": "NPWR03519_00",
+        "trophyTitleName": "F1 2012™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03519_00_007D478F11D255FAEE08C7135FCD151058BF6BD5B6/958EC3E74774AD7C4B76795FFA6B7B62ABCA900E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR03520_00": {
+        "npCommunicationId": "NPWR03520_00",
+        "trophyTitleName": "BEN 10 OMNIVERSE™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03520_00_00FFCB0C6B380D5F62E884C9A3873DCF5E1C44781C/BF475512BCCCF14A3479FC49566F12228CE94611.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 3,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR03522_00": {
+        "npCommunicationId": "NPWR03522_00",
+        "trophyTitleName": "Crysis®3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03522_00_009C3F49A693A17BE657340AF1B9444266FA603F15/A6147872E0CABD699FC3CA349E8DC7E81B41FA87.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 18,
+            "bronze": 41
+        },
+        "service": "trophy"
     }
 }
