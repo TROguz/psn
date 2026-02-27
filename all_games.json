@@ -84758,5 +84758,135 @@
             "bronze": 13
         },
         "service": "trophy"
+    },
+    "NPWR14005_00": {
+        "npCommunicationId": "NPWR14005_00",
+        "trophyTitleName": "Ben 10",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14005_00_00441217CD76D01E787A75010B0D5FC5B4B82322DA/C0807D031908980FEEC8DD36C3D35CCFEAE88829.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR14008_00": {
+        "npCommunicationId": "NPWR14008_00",
+        "trophyTitleName": "Slayaway Camp",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14008_00_00A9BCE301C59A2E9B5B75EF395DCC1C2DF695932B/7711E7B71F03701A3B891E358D818700F4DC9D74.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR14010_00": {
+        "npCommunicationId": "NPWR14010_00",
+        "trophyTitleName": "End Space",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14010_00_004ED74BFD2FBA24CC8A8F280182BE657B0B438CBD/D06B8BC8D371E0EEB7646548BCDE9D01DDA64313.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR14011_00": {
+        "npCommunicationId": "NPWR14011_00",
+        "trophyTitleName": "Night Trap - 25th Anniversary Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14011_00_0093C211EB97C48D49FBF78D21C3C9BCD99B8BB12C/58941711FFF233A94E82E4411C33F87F36D4F0C2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 6,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR14015_00": {
+        "npCommunicationId": "NPWR14015_00",
+        "trophyTitleName": "Obduction",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14015_00_00CD8AE9A92F0612BC70791917609BB27D3C114752/DD6518E2EC90B997550600159F52ED5714097AA7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 1,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR14016_00": {
+        "npCommunicationId": "NPWR14016_00",
+        "trophyTitleName": "Bubsy: The Woolies Strike Back",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14016_00_003E8FB71B638EBD34191142205C6442D36A2424A7/DAD3836CC8A3E6081B4A10A8FA00030918F1724D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14017_00": {
+        "npCommunicationId": "NPWR14017_00",
+        "trophyTitleName": "Bubsy: The Woolies Strike Back",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14017_00_006E941F72101453D27247C06E58CEBAAE3B73DFDC/7D27A2B328592DB609EA873095E815AAAE0EC94E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14019_00": {
+        "npCommunicationId": "NPWR14019_00",
+        "trophyTitleName": "Dusty Raging Fist Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14019_00_00B748BCA092FF31864ECCA448A0E596782A0A93B8/7B00BC646B8A167472AC9B004B3FB152A605022F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14020_00": {
+        "npCommunicationId": "NPWR14020_00",
+        "trophyTitleName": "EARTH'S DAWN",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14020_00_008F69719A546AA54A69C99166EC7BCA3CF5B31982/F6C6293AF10FAAE01FEDB5E078BA627D1B07C716.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR14023_00": {
+        "npCommunicationId": "NPWR14023_00",
+        "trophyTitleName": "最终幻想15: 深渊魔兽",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14023_00_00EF6E735BD1C87E399C2F281AFB0E4B489940B912/C5C43CB1262D82CA9CA82992EF52F3C07479C788.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 21
+        },
+        "service": "trophy"
     }
 }
