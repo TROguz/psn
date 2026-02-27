@@ -22618,5 +22618,135 @@
             "bronze": 13
         },
         "service": "trophy"
+    },
+    "NPWR03869_00": {
+        "npCommunicationId": "NPWR03869_00",
+        "trophyTitleName": "Sonic the Fighters",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03869_00_00BA8F41D091EFF291A1783EE89777E0AE68637ABA/89B6C30FAD097AD1649ADA3773733366E24ABF95.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR03875_00": {
+        "npCommunicationId": "NPWR03875_00",
+        "trophyTitleName": "Call of Duty® Black Ops: Declassified",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03875_00_009781B9F690F628E4E531621728A57611BBCC4697/F99C1E22E5E299A85DAD172CE5FD44F403EEB40D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR03880_00": {
+        "npCommunicationId": "NPWR03880_00",
+        "trophyTitleName": "STEINS;GATE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03880_00_00E961DD6179ECDD6CDBC6DABC36A3FB7136B800A3/DE330A8AF2A117C0B97F84AAA3C24CC69DD79A46.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR03885_00": {
+        "npCommunicationId": "NPWR03885_00",
+        "trophyTitleName": "Grand Theft Auto V",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03885_00_006D0E2FCAF8F452269011A1D6E3A52E16290E404F/A368147A58136F1834993996296A61535E897D56.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 47
+        },
+        "service": "trophy"
+    },
+    "NPWR03888_00": {
+        "npCommunicationId": "NPWR03888_00",
+        "trophyTitleName": "STEINS;GATE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03888_00_0074CEE1803BD338C60A095B91FA552F0DBC4EE610/E33DF391DE838FDBEAAE4B58874A2206F74A8989.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR03895_00": {
+        "npCommunicationId": "NPWR03895_00",
+        "trophyTitleName": "Persona 4 Golden",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03895_00_00181B3808917032FC0B2C3837AAE699F8D436ACDF/57EE30F8541203F28896589C1369E6D859FA04F1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR03896_00": {
+        "npCommunicationId": "NPWR03896_00",
+        "trophyTitleName": "HAKO！ -OPEN ME-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03896_00_00B9A3C837D69C2D0B892B59AC4884D4A1FF476285/C42881DB2CE0AF26B60B2F1A2BD5990784AEEA45.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR03899_00": {
+        "npCommunicationId": "NPWR03899_00",
+        "trophyTitleName": "A-men 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03899_00_0095EF9CE84B6FA1AF74DF277C0BA4480A8D889B38/5847AB9A16ADFC0438EE016C5770E939569D75D3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR03900_00": {
+        "npCommunicationId": "NPWR03900_00",
+        "trophyTitleName": "ALIEN BREED",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03900_00_0018E598C213D9582CD5D51CE952FF83C034B7E2C9/2B16D91017041C82633E6C2C7E1C0C862C235D29.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR03903_00": {
+        "npCommunicationId": "NPWR03903_00",
+        "trophyTitleName": "Resident Evil Revelations",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/D65A754CFC2DB232D64DF32AD259FE76FD425E20.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
     }
 }
