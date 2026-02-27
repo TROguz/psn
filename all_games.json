@@ -68638,5 +68638,135 @@
             "bronze": 20
         },
         "service": "trophy"
+    },
+    "NPWR11925_00": {
+        "npCommunicationId": "NPWR11925_00",
+        "trophyTitleName": "LocoRoco™ Remastered",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11925_00_00C6ACF20D185616E471F1B9F495A791EDF77B07E9/9ABCE9FEC2E4845C14EC7981B81C3844B5B9B5C3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR11927_00": {
+        "npCommunicationId": "NPWR11927_00",
+        "trophyTitleName": "Iron Sea",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11927_00_00D6260111F7EBB41A3D2CF1F126528C46CA07D0C1/3812AB1D0819171E10A0F72D844375E18D11296A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11929_00": {
+        "npCommunicationId": "NPWR11929_00",
+        "trophyTitleName": "Keep Talking and Nobody Explodes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11929_00_001C2702B14AE20FDF27582E0633E50F82AD68E109/867D008371DBA73175AA6F7C943D0FA939B36066.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR11930_00": {
+        "npCommunicationId": "NPWR11930_00",
+        "trophyTitleName": "The Brookhaven Experiment Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11930_00_0030D631421A54244F5BA7DC7F874B5C78A4F4E56C/1871F24225611D64AAF310902E9E348EB8363DBE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR11931_00": {
+        "npCommunicationId": "NPWR11931_00",
+        "trophyTitleName": "Riftstar Raiders",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11931_00_000E17B985BCB82C189BE782D77B6A1DCF6E4D7152/2C844D12D985BD214357380E51420CA51704845B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR11932_00": {
+        "npCommunicationId": "NPWR11932_00",
+        "trophyTitleName": "Industry Giant 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11932_00_006E6320956E36A9AA935CCD7AB0176BEAB204E8F1/CBB6BD63B07D396B740DA2C0AC4C3970C46F8FD3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR11933_00": {
+        "npCommunicationId": "NPWR11933_00",
+        "trophyTitleName": "Surgeon Simulator: Experience Reality",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11933_00_00F4E7CDDABD285C4AF1283965A8D1B91837D280AB/01D4B52B9C45FA1124C5BCC3BCD48EE7B6763DFD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 2,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR11934_00": {
+        "npCommunicationId": "NPWR11934_00",
+        "trophyTitleName": "The Little Acre",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11934_00_0004BD60594F1D719E2C72FDDC51E28994B1B7D0CA/44BAA28423314445F06FDC931F06880F3B84D234.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11935_00": {
+        "npCommunicationId": "NPWR11935_00",
+        "trophyTitleName": "Blue Rider",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11935_00_0085D5B29F62A33DC049C8F1465C6C5794F9E2AF67/B0FB53BCAD0F52BA7BD1500DC3CC25540B60012D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11936_00": {
+        "npCommunicationId": "NPWR11936_00",
+        "trophyTitleName": "Party Golf\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11936_00_008F9B71D9B047CBD1D97726C0EFC0517045171AF5/4D5A76B4923EB11EBAB073677E28BFBEAEBC472B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 8,
+            "bronze": 48
+        },
+        "service": "trophy"
     }
 }
