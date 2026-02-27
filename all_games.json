@@ -62918,5 +62918,135 @@
             "bronze": 12
         },
         "service": "trophy"
+    },
+    "NPWR11173_00": {
+        "npCommunicationId": "NPWR11173_00",
+        "trophyTitleName": "DYNAMIC CHORD feat.[rêve parfait] V edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11173_00_0009CC533D0D247E39C6DF2E28D7CF0C621C25348B/F000F1D3481BABCA46C152122F18D427574E2A17.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR11174_00": {
+        "npCommunicationId": "NPWR11174_00",
+        "trophyTitleName": "NEW GAME! -THE CHALLENGE STAGE!-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11174_00_0083583BD752BF8925A8BC75DF5B1F2A95CAEDE09E/FB3F7A26F751A3C11B05BBC9EA163D5DFA64FE2D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 18,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11175_00": {
+        "npCommunicationId": "NPWR11175_00",
+        "trophyTitleName": "DYNAMIC CHORD feat.Liar-S V edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11175_00_0027506999B80443A47E7458D2A93B78159E0C9504/BD45BBFACC966BEAFB6CB163FEBCA2C36ECBEA59.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR11176_00": {
+        "npCommunicationId": "NPWR11176_00",
+        "trophyTitleName": "DYNAMIC CHORD feat.KYOHSO V edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11176_00_008A592D01D495C576460632868B89FDBC1849ABBD/C41ECACA4522DF0FF7440451C23044CFCB1270B0.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR11181_00": {
+        "npCommunicationId": "NPWR11181_00",
+        "trophyTitleName": "ZHEROS Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11181_00_00DE1846C7A5189EA9353A8FBCC059A14F252DBB8E/D838299FA68B2163CA47DC374218D3A8F8FD9EF5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR11185_00": {
+        "npCommunicationId": "NPWR11185_00",
+        "trophyTitleName": "Orc Slayer\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11185_00_00611667410F56687862AE7AC40B24A3135918C530/4626FC5780F8E16864425031F8BAC6F24B6149FE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11187_00": {
+        "npCommunicationId": "NPWR11187_00",
+        "trophyTitleName": "Elite Dangerous",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11187_00_005192C0F845E54E04E0B5FCC96F4E72AC889D7162/A12D40FC3FCCF228CD4AC5733481F93A8ACA1644.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 17,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR11189_00": {
+        "npCommunicationId": "NPWR11189_00",
+        "trophyTitleName": "The Last Guardian™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11189_00_002E23CDE65F9517721AB3F33175284660F2870326/95CD92E78B21DC633BFB2EF52C89D5E38A7D6DF7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11191_00": {
+        "npCommunicationId": "NPWR11191_00",
+        "trophyTitleName": "Blackwood Crossing\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11191_00_009D3ED75CF8E92E4C4E4BCD971CDB658A46D2FF60/C3D2FA3A72621DCE3D984FAEF0F888C30C10E8DA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 5,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11192_00": {
+        "npCommunicationId": "NPWR11192_00",
+        "trophyTitleName": "2Dark",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11192_00_00002D5DD47F961C7A3DDA41540F4F242DD50BEB5E/18918C7AA3585AD4BD03B3C209A1DF27483147A7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
     }
 }
