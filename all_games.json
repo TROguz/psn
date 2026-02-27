@@ -80208,5 +80208,135 @@
             "bronze": 14
         },
         "service": "trophy"
+    },
+    "NPWR13366_00": {
+        "npCommunicationId": "NPWR13366_00",
+        "trophyTitleName": "Ninja Usagimaru: Two Tails of Adventure",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13366_00_004DA41AFB0C30EBDC7BA32EE8205EF09372BC9DCF/489643884E1C6D855357FE0DFE4728C4952607EA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR13368_00": {
+        "npCommunicationId": "NPWR13368_00",
+        "trophyTitleName": "Dark Arcana: The Carnival",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13368_00_0053FDE3EE2A0ECF30568CADD3CE326F97DFFA3547/E0710DB1101BA8FD3BCE8E07EC1ABC7995399A7F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR13369_00": {
+        "npCommunicationId": "NPWR13369_00",
+        "trophyTitleName": "Baskhead Training",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13369_00_0063CFE496EDB7537B4D75F6E869635A464F2151F0/0281AB1E6A7964C11A421EFDD51250AA8DD2D01A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR13371_00": {
+        "npCommunicationId": "NPWR13371_00",
+        "trophyTitleName": "帝國カレイド -革命の輪舞曲-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13371_00_00E11F3904295C1F33379BD67ACD591EEB849A310A/56B822200140B22D7EE1A87F385B229D672DC177.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 6,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR13374_00": {
+        "npCommunicationId": "NPWR13374_00",
+        "trophyTitleName": "The LEGO® NINJAGO® Movie Video Game",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13374_00_006750A9D329A1D7D6419314224C04A7075B03EED0/241AFD0FA167D9B12ACB8F71FBB545B04AA617E4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 11,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR13376_00": {
+        "npCommunicationId": "NPWR13376_00",
+        "trophyTitleName": "Bulb Boy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13376_00_000FA7341C76AF6A2596787F8E8249531B9CB65E89/79FB9A357EFE752CB198F17260DFF4650737EF9E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR13377_00": {
+        "npCommunicationId": "NPWR13377_00",
+        "trophyTitleName": "ペルソナ５ ザ・ロイヤル",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13377_00_00EFAA02D775291219319827DC812FC99ADF562BE7/7ADC36967FECAF74D78583F10EA248B9BBEB5861.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR13383_00": {
+        "npCommunicationId": "NPWR13383_00",
+        "trophyTitleName": "NBA 2K18",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13383_00_002924135D25F34528D5B9E674BD8F5804C0D07114/9C2CF9F3D4D8D25BDEA304D4FB5A7B1DD37CC0C5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR13384_00": {
+        "npCommunicationId": "NPWR13384_00",
+        "trophyTitleName": "Lost Grimoires: Stolen Kingdom",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13384_00_00D304759F4E45EC1FEC2F1B890EDEC3EA548CDDA7/11381FBE65954B61E527B8CDBE8E962817A15A12.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13385_00": {
+        "npCommunicationId": "NPWR13385_00",
+        "trophyTitleName": "The Metronomicon: Slay the Dance Floor",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13385_00_002F5BDF97A6B6D66B60952FBAF6B49EE89389434D/DE172D23AB7638A95AA3999CB009F9F60847E187.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 15
+        },
+        "service": "trophy"
     }
 }
