@@ -26648,5 +26648,135 @@
             "bronze": 42
         },
         "service": "trophy"
+    },
+    "NPWR04655_00": {
+        "npCommunicationId": "NPWR04655_00",
+        "trophyTitleName": "BigFest™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04655_00_00BA64425A1C08E59E68985D90A6FA13AA52AFF081/69A48B231AE2BF03BE0A3FED9A662B0CB51CCE7D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 2,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR04656_00": {
+        "npCommunicationId": "NPWR04656_00",
+        "trophyTitleName": "WRC 4 FIA WORLD RALLY CHAMPIONSHIP",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04656_00_001E0C2AC9BDDDBC072C0F1C575CB8BA7E6057F5F5/2D7CC046ECD4C1877935F30B2E4FAD4B9316E559.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR04657_00": {
+        "npCommunicationId": "NPWR04657_00",
+        "trophyTitleName": "F1® 2013",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04657_00_00AE05599F5957C73A69B448F16C6811F7228262EA/70CDEF70C929B5D8B218D5FCF62E81FFF34A5A9B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR04660_00": {
+        "npCommunicationId": "NPWR04660_00",
+        "trophyTitleName": "DYNASTY WARRIORS 8",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04660_00_0052336DD4715F787B1F99838318A11E9CD907DE4A/7454496D84E2A81DC86C073F6CC92CC88DBDB34C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 20,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR04668_00": {
+        "npCommunicationId": "NPWR04668_00",
+        "trophyTitleName": "OPEN ME!™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04668_00_0025F6ADB2D34755F1BA504552E74A092F3EE24A72/0EA85FCC7F58F574430D8CF3113D5643C12D75A3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 8,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR04669_00": {
+        "npCommunicationId": "NPWR04669_00",
+        "trophyTitleName": "Open Me!™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04669_00_0032820F45BD47B8F945A2A5F41735AF40E75EAC04/96242642FF4E6193977B1F56469B4687BCB5D0E1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 8,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR04670_00": {
+        "npCommunicationId": "NPWR04670_00",
+        "trophyTitleName": "Pro Foosball",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04670_00_00A66CCD35771EC52C224670F375D07805368AE7DD/69CAA187A73ACC92E626733A942B283B69158A74.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 5,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR04671_00": {
+        "npCommunicationId": "NPWR04671_00",
+        "trophyTitleName": "WRC 4 FIA WORLD RALLY CHAMPIONSHIP",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04671_00_00B5F034F1BE0323A5138E7A5256A7D163CCA7967F/A64B03378AEDFD723E73784405C832C273FD032D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR04672_00": {
+        "npCommunicationId": "NPWR04672_00",
+        "trophyTitleName": "英雄伝説 閃の軌跡",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04672_00_00FC8646B9512642650A7574F8A4DD972F0971FF96/34E65854B9920BE7F8F3DFF5E659F78FC7D0B179.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR04679_00": {
+        "npCommunicationId": "NPWR04679_00",
+        "trophyTitleName": "Hatsune Miku: Project DIVA F",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04679_00_008BA3B3F058EF66B9848004EB689112590B8010B9/99C8B58AC497C365336861125B4E2E2A5E8D0173.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
