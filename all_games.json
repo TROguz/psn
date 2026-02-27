@@ -81638,5 +81638,135 @@
             "bronze": 0
         },
         "service": "trophy"
+    },
+    "NPWR13588_00": {
+        "npCommunicationId": "NPWR13588_00",
+        "trophyTitleName": "NASCAR Heat 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13588_00_003FBCC6B3F2555F7C8F7565D8EFF1CA7D2FE28CA6/8DB593BEEF0426A1E626DB9A72EDF3F47CD0F3DF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 45
+        },
+        "service": "trophy"
+    },
+    "NPWR13590_00": {
+        "npCommunicationId": "NPWR13590_00",
+        "trophyTitleName": "Hidden Dragon Legend: Shadow Trace",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13590_00_00D599E686471D06FB00054A08EF0B659886DD8655/43F24CFACEB0BD8A50682BA72ABAA459B0D3078E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR13594_00": {
+        "npCommunicationId": "NPWR13594_00",
+        "trophyTitleName": "Mahou Daisakusen",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13594_00_00593D6223B0EABE1F52882C6904B2B3406875F141/DCCBD133D2C52F0EF1FE52B569A957B4E970F197.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR13595_00": {
+        "npCommunicationId": "NPWR13595_00",
+        "trophyTitleName": "Ketsui Deathtiny -Kizuna Jigoku Tachi-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13595_00_00A4F52E2C4284105A0C20974BCA5A0A82407656C6/90B872E8FA81C2EE9DDA94BC62E6AE654443B54B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR13599_00": {
+        "npCommunicationId": "NPWR13599_00",
+        "trophyTitleName": "Save the Ninja Clan",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13599_00_00EB115CC91533C9C71C74847EDB70B30C2E2F0899/CBC04C2F533C8E5F761FEEB78ED64C2B4EB95209.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR13600_00": {
+        "npCommunicationId": "NPWR13600_00",
+        "trophyTitleName": "ノラと皇女と野良猫ハート",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13600_00_008BC4FF62063165BA0029D5178CF3EA3FCAD162A0/D9E52A2584CAF259B936F18403B8056EB1D864F2.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR13601_00": {
+        "npCommunicationId": "NPWR13601_00",
+        "trophyTitleName": "Wheel of Fortune®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13601_00_0082C03D5B9A6F8F2EE669162146F265937FF3B0CF/92C0B8A62013E8BED5D56DE68A6CCD8B2BC39CF5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR13604_00": {
+        "npCommunicationId": "NPWR13604_00",
+        "trophyTitleName": "FINAL FANTASY VIII Remastered",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13604_00_00C655091B38D0C9F36DCEFE0D9240977A79DAC3FC/9B6528D11282F6305338501A94B1D8E10F35E060.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 16,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR13606_00": {
+        "npCommunicationId": "NPWR13606_00",
+        "trophyTitleName": "Dino Frontier",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13606_00_00D3C43D1A0FF61EDDEDAAC868AC849F4C8C682645/00C080B94A78BD1D117960EB137FC289BE01BD8D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR13607_00": {
+        "npCommunicationId": "NPWR13607_00",
+        "trophyTitleName": "Dino Frontier",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13607_00_007686C4698B2F67EB06101585B31D6663230D88E1/309910CB8DB10017DCA12C7BF4497758CCD99A22.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 8
+        },
+        "service": "trophy"
     }
 }
