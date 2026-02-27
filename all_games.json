@@ -90608,5 +90608,135 @@
             "bronze": 30
         },
         "service": "trophy"
+    },
+    "NPWR14747_00": {
+        "npCommunicationId": "NPWR14747_00",
+        "trophyTitleName": "Mega Man X Legacy Collection",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14747_00_008BA8B900D41CBD3FA1C047AAFE064A136C8BB368/806AF729440773C3E7E036CA0C318BFFED9E107D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 13,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR14748_00": {
+        "npCommunicationId": "NPWR14748_00",
+        "trophyTitleName": "Mega Man X Legacy Collection 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14748_00_00F36CD35B28B4D352DE1844BD24AD4131BAFA9055/C25C099FBF52016DEB3EBBAA132A2DE85101FDB5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 13,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR14751_00": {
+        "npCommunicationId": "NPWR14751_00",
+        "trophyTitleName": "A Plague Tale: Innocence",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14751_00_002569CB2F5B3413F289EBDDCA75FFD32873DDC938/EE9463EA9F19AB4DE336E3CFC4728EE316CACCD9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR14753_00": {
+        "npCommunicationId": "NPWR14753_00",
+        "trophyTitleName": "天涯ニ舞ウ、粋ナ花",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14753_00_00F8539276904E76AD4575F6717A45D1D59B1BD067/16514EF27EF3A7E434555A8796F8E4008B7D7D2B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR14754_00": {
+        "npCommunicationId": "NPWR14754_00",
+        "trophyTitleName": "TINY METAL",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14754_00_007E617F99F2BAF1050FD653612EF0C62D64AFFA9F/E1A78872973E1428E4BDDFA3ECE2774A9D0C5E48.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14755_00": {
+        "npCommunicationId": "NPWR14755_00",
+        "trophyTitleName": "Dead Secret Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14755_00_003217525231ED4B91C43B788920616DFF81523F7D/E03689906B40C0E9A542CA30961E10D5530737C2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 1,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14757_00": {
+        "npCommunicationId": "NPWR14757_00",
+        "trophyTitleName": "Transference Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14757_00_0075ECF4F03017F053A37F7359CBC3C48056374B72/EB1949E61F4DED1F04A7C05956D3583CC243A63D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR14759_00": {
+        "npCommunicationId": "NPWR14759_00",
+        "trophyTitleName": "One Eyed Kutkh",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14759_00_00027978237CB502DFAFD21985CCCB81C9154E233E/CA084AD1EDF4A1E806F37762C7B71476B278A49F.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14760_00": {
+        "npCommunicationId": "NPWR14760_00",
+        "trophyTitleName": "Deep Ones",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14760_00_00C295AE620F31D01302DEAFD16E3E4612B7D0309F/3658A4BD2FCB9CF06AAFF838E1F07778D03915BD.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 10,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR14761_00": {
+        "npCommunicationId": "NPWR14761_00",
+        "trophyTitleName": "Deep Ones",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14761_00_0005A7481F37863948631D4D8FD1EEC554574A9E4F/DAC94CA2AF38FB8D08945CA0E50F75BB6C8399E9.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 10,
+            "bronze": 2
+        },
+        "service": "trophy"
     }
 }
