@@ -25088,5 +25088,135 @@
             "bronze": 38
         },
         "service": "trophy"
+    },
+    "NPWR04352_00": {
+        "npCommunicationId": "NPWR04352_00",
+        "trophyTitleName": "ARMORED CORE VERDICT DAY",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04352_00_00E8E64E47EF816C85B69EDB8D9D6ECEF4277C0C09/A5FB86F8DC224C5FC13BF9BA00101DFBDB9F3C7D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR04353_00": {
+        "npCommunicationId": "NPWR04353_00",
+        "trophyTitleName": "MOBILE SUIT GUNDAM BATTLE OPERATION",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04353_00_004D8CDC8D04AA3E7899F7AFFDA76283A6E3F1FE81/B079E4FCC5AE19795DF469A2D0A49E91E04A6C3A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR04361_00": {
+        "npCommunicationId": "NPWR04361_00",
+        "trophyTitleName": "NINJA GAIDEN Σ2 PLUS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04361_00_00F940C0ADDD296823629428A3AC1C8A2B8F1ABB1C/CE61B955D47679A069A7F3CAB1B05083CE79AB35.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR04363_00": {
+        "npCommunicationId": "NPWR04363_00",
+        "trophyTitleName": "Thomas Was Alone",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04363_00_0095A539D18D6872855BEB7DA4D3A67F8BB49E1AF9/F61FA9D80A55D4BF4C08368BF26A63439CE38C73.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR04365_00": {
+        "npCommunicationId": "NPWR04365_00",
+        "trophyTitleName": "ケツイ ～絆地獄たち～ EXTRA",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04365_00_005AF25CB078B3A4D1819B484BAE7F9488B0BE70B8/7BF8F69B6CA2F009DCBA253EF5B936557E617E9C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 15,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR04367_00": {
+        "npCommunicationId": "NPWR04367_00",
+        "trophyTitleName": "MIND≒0",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04367_00_00BEE28C6A46F65A462178396464848BB25CF2DFE5/80688D376F1C2EB885FFBE5AD131EFB6D29BAB02.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR04368_00": {
+        "npCommunicationId": "NPWR04368_00",
+        "trophyTitleName": "神咒神威神楽 -曙之光-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04368_00_008FB6DE9080FE85D7A42770303294ECAE5271A7EE/AF62DB0C675B3E97718A951F34A3738A0636AFEB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 5,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR04371_00": {
+        "npCommunicationId": "NPWR04371_00",
+        "trophyTitleName": "God Mode",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04371_00_00D770C13D44E8DF70BFEF6104239BC340ED1D72D4/7014854D1CFA550A97A25B2DE1967CBCD47429E5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR04372_00": {
+        "npCommunicationId": "NPWR04372_00",
+        "trophyTitleName": "Strider\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04372_00_00F83A943E859285B1C97D895B8F79C2E4D802DB96/1BE6B47000628EE7B0C303C73F8CEEFA1D526FE0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 20,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR04374_00": {
+        "npCommunicationId": "NPWR04374_00",
+        "trophyTitleName": "KILLER IS DEAD™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04374_00_0008BE88A118B54E7A228DF837BBBEAA5BD46BBB49/49FA006D9AE57D0318E094E51043DDF83DC38D9A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 32
+        },
+        "service": "trophy"
     }
 }
