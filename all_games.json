@@ -71628,5 +71628,135 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR12298_00": {
+        "npCommunicationId": "NPWR12298_00",
+        "trophyTitleName": "Planar Conquest",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12298_00_0017181C36CEB5C1D89429AD072E9FF8202472A32B/EC42AE2E14F619074C2204375D3F6E2340936A22.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 64
+        },
+        "service": "trophy"
+    },
+    "NPWR12299_00": {
+        "npCommunicationId": "NPWR12299_00",
+        "trophyTitleName": "Anoxemia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12299_00_00E1C94D1E477CADCBEAFA7126EA355C21085E10A6/7CE5A547AD99BA1503FC7F40BD5ABCFA2812AA43.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR12300_00": {
+        "npCommunicationId": "NPWR12300_00",
+        "trophyTitleName": "The Town of Light",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12300_00_009D75EE14C033507A2A21E511102840FE9DE85C24/47C1B54CD264B2A65B1A086B2502327001D17406.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 12,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12302_00": {
+        "npCommunicationId": "NPWR12302_00",
+        "trophyTitleName": "Rain World",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12302_00_007F974FF110ADEE7D5FD178A982A66A7567372CA8/E38EE840A7F4EC122CEC305B913B1BE4F19B6D3D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 14,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR12304_00": {
+        "npCommunicationId": "NPWR12304_00",
+        "trophyTitleName": "Statik",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12304_00_0013801EECC262AB8C75520EE6CC80725FFC7A8902/4676FA44BF8E9552B711585B0054210540F4D94D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR12305_00": {
+        "npCommunicationId": "NPWR12305_00",
+        "trophyTitleName": "Rogue Aces",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12305_00_00D81509EA3281B63A796A71A44EEE5750EEB3BBEB/840241FF6FBEE768CD8A525281AE0B0D6A3BCB43.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR12306_00": {
+        "npCommunicationId": "NPWR12306_00",
+        "trophyTitleName": "The World of Nubla",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12306_00_00749166244A50AD60BD286ACD41E0FC5B4DBBB86E/759A3282A51E26E9C8A53DC0B3125F1C7D195ADA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 0,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR12310_00": {
+        "npCommunicationId": "NPWR12310_00",
+        "trophyTitleName": "RESIDENT EVIL™ CODE: Veronica X",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12310_00_0094A4C01FD204CA4A8FAFF2C76C4058213C35ABB7/8F8BB9AAD0C8BA821451698074CFDEAB0FE75292.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR12319_00": {
+        "npCommunicationId": "NPWR12319_00",
+        "trophyTitleName": "Wailing Heights\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12319_00_00E0E2FD5F23550A297765418B5D154EED8D1C1332/FA3E5CCF9B3F2A37B70755230F9CBCD7D4F954AE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR12321_00": {
+        "npCommunicationId": "NPWR12321_00",
+        "trophyTitleName": "Un:BIRTHDAY SONG～愛を唄う死神～another record",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12321_00_00EAD122D3309704715B770A3A29ABA277F634A842/07F73F6FC63017C48B9B22C60F8E1F001FCEF638.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 4,
+            "bronze": 2
+        },
+        "service": "trophy"
     }
 }
