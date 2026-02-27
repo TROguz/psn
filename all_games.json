@@ -59538,5 +59538,135 @@
             "bronze": 9
         },
         "service": "trophy"
+    },
+    "NPWR10700_00": {
+        "npCommunicationId": "NPWR10700_00",
+        "trophyTitleName": "Collar×Malice",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10700_00_00780BC9C3B81E3337617DBC5D0E1EEB9579BC1426/73FA5A20E3CF6E11BCBC18F95714A8C7D7A543DE.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 4,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR10704_00": {
+        "npCommunicationId": "NPWR10704_00",
+        "trophyTitleName": "BioShock 2 Remastered",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10704_00_008C2F7D5FA7E18E2706F00F3BDFD64C2D4B4F739E/D1341C9C4049E1737A550F94B14373B390DE1221.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 17,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR10705_00": {
+        "npCommunicationId": "NPWR10705_00",
+        "trophyTitleName": "Salt and Sanctuary",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10705_00_00F0327430C6555B89F6341FF3369C67841E32FAF9/BC541C2427F04C158DBC4D090816DE9216D30808.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR10706_00": {
+        "npCommunicationId": "NPWR10706_00",
+        "trophyTitleName": "Vostok Inc.\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10706_00_00141E3B39C0BA07C5C7E12A31CB38596C7A359134/DBAC6169E6EA5F52D5A11FB1CBCBBFC648E4ABD6.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR10710_00": {
+        "npCommunicationId": "NPWR10710_00",
+        "trophyTitleName": "Eternal Ring",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10710_00_00AD9A241ACE064B5AC0027FAA291739D41E37498C/55BB8C590D42531DCDD7FDB9FE2F927DA4E4A2A2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR10717_00": {
+        "npCommunicationId": "NPWR10717_00",
+        "trophyTitleName": "life of black tiger",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10717_00_00EC599E38A41746F58DA8BBE42C59936B47048051/FF4AEAB8A7996FF66E18231D2F2CF4C7A89835E4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR10719_00": {
+        "npCommunicationId": "NPWR10719_00",
+        "trophyTitleName": "Hyperdimensional War : Neptune's Platoon VS SEGA HARD GIRLS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10719_00_006AE80777DB5DE505FDA6D01656F33CF2CF18B6F9/81C8792392F9665F8B7FB5B01E43B65AB6ECCEE4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR10720_00": {
+        "npCommunicationId": "NPWR10720_00",
+        "trophyTitleName": "Doodle Devil",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10720_00_0072745F998264CD6C91D48F03AFFFD107B16FEF67/5E4B98B83E54233251383B7E53CC0542EDB3E6DC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10721_00": {
+        "npCommunicationId": "NPWR10721_00",
+        "trophyTitleName": "Doodle Kingdom",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10721_00_00F8825120ED21A64F068FC34D5CD80DA5E32199CC/43D232F28B3E9B11435050276A912AA718D69E70.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR10722_00": {
+        "npCommunicationId": "NPWR10722_00",
+        "trophyTitleName": "Doodle God",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10722_00_002FF0E5DCF92A04D69CEA4489FE6844A0FBDEB609/6605C853A1F7BADF428B1C4C329AC7C53A034EBC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
     }
 }
