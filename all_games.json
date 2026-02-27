@@ -80728,5 +80728,135 @@
             "bronze": 1
         },
         "service": "trophy"
+    },
+    "NPWR13463_00": {
+        "npCommunicationId": "NPWR13463_00",
+        "trophyTitleName": "Call of Duty® Modern Warfare®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13463_00_006ABB71B1E32457171EDC8FABBA39213164972DE2/BF8D1D967A7560E420CB73F41D1F845E6399F287.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR13464_00": {
+        "npCommunicationId": "NPWR13464_00",
+        "trophyTitleName": "Demetrios",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13464_00_00ACF47B8000603EF27B00EE8AD6CE9D15CA2ED8EA/17814E1268264335466A118852BD79A4D2D308C7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR13465_00": {
+        "npCommunicationId": "NPWR13465_00",
+        "trophyTitleName": "R.B.I. Baseball 18",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13465_00_00A29A52EC96FA38421A22FD90A194A6DA98A493BE/0E707D79B2DA33855546AF562CEC4ADD37CAA919.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR13467_00": {
+        "npCommunicationId": "NPWR13467_00",
+        "trophyTitleName": "Fallen Legion: Flames of Rebellion",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13467_00_0015B9552ADDD47B12EA324AFEF895B098267D8CBD/78433881F17A4D06112027C6F3DF831F756D7BD4.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR13474_00": {
+        "npCommunicationId": "NPWR13474_00",
+        "trophyTitleName": "Perception ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13474_00_000C050BE7EDEFBEBF70BB76DB5E82925F5FF97430/5D0938766E61A2BEFBE695F7A2661807CEB84219.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR13475_00": {
+        "npCommunicationId": "NPWR13475_00",
+        "trophyTitleName": "Perception ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13475_00_00772416B350A0D70B19370CCC5E65BF877B68B173/6B3C8A1B458843F3493202265DEB7D0C938FF63E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR13476_00": {
+        "npCommunicationId": "NPWR13476_00",
+        "trophyTitleName": "ワガママハイスペック",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13476_00_00C31451E24C37B707689A2CD71AD6C85A0883EE39/B54D5732529335C7E351B7BC40DDF4A561F081E2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR13478_00": {
+        "npCommunicationId": "NPWR13478_00",
+        "trophyTitleName": "Banana Fighting",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13478_00_00F97D611806F16DFB92A9785955B5E42062C927C9/38A2C65C690392902EDD448CA7248544BE576B38.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR13479_00": {
+        "npCommunicationId": "NPWR13479_00",
+        "trophyTitleName": "Bit Dungeon Plus\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13479_00_00AAA286C8F359C80BAEEF80B94B532877D45A0695/5007FDBE47BFCE978835496986D3C010BE17D520.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR13480_00": {
+        "npCommunicationId": "NPWR13480_00",
+        "trophyTitleName": "Block Builder DX\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13480_00_00FAC7C65D1D98B039EB3D71F8664111451223B142/AC628BDD2FA268774E3C56647B53A1ED07576CB3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 0,
+            "bronze": 1
+        },
+        "service": "trophy"
     }
 }
