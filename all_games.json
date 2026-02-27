@@ -28468,5 +28468,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR05082_00": {
+        "npCommunicationId": "NPWR05082_00",
+        "trophyTitleName": "Azkend 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05082_00_00184ABEF99A8C1510A73283B44328477200C86610/DA950D04749322ED3B2C8ACDA13011C9EE55CC4E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR05083_00": {
+        "npCommunicationId": "NPWR05083_00",
+        "trophyTitleName": "Die! Die! Die!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05083_00_007584C04FD8A8694DA61ADE0B0F7555E1D48794F8/8BE17C6F8AE8DF424AFEB53380816D4FA787A1F0.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR05088_00": {
+        "npCommunicationId": "NPWR05088_00",
+        "trophyTitleName": "内定！就活完全対策(ES・SPI・面接)",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05088_00_0022887CED83740BE0B244E48337D402265F88FB80/6840F11955195E38ED651C25927D7BD8CE96B52C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR05091_00": {
+        "npCommunicationId": "NPWR05091_00",
+        "trophyTitleName": "Enemy Front",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05091_00_0035E2B341B8DEBA39E7430F860B719A280A163B6F/1F6AF23335BA812A9D53BD3C7D560BF7A18C8B92.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR05092_00": {
+        "npCommunicationId": "NPWR05092_00",
+        "trophyTitleName": "Sorcery Saga: Curse of the Great Curry God",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05092_00_009A325225ADDA8E49506343990257109A68350828/35ABADBB59B2E71B812CA4B09F55277E9879C58A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR05094_00": {
+        "npCommunicationId": "NPWR05094_00",
+        "trophyTitleName": "King Oddball",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05094_00_00304A91EA9CA4476346E28E3D5A393F214913BE70/4227C299E3047E6CED21AFBCBA283168434BAA9C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR05095_00": {
+        "npCommunicationId": "NPWR05095_00",
+        "trophyTitleName": "超女神信仰 ノワール 激神ブラックハート",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05095_00_0008279664BD685A59F82CDE9953D0BF13F69D34F0/F09F0F39918305A8D0B8660D4A760ECBB22D6522.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR05099_00": {
+        "npCommunicationId": "NPWR05099_00",
+        "trophyTitleName": "Runner2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05099_00_004863F0623DDF6A9EE84CB74575C94080DBA2565E/BB9C0015357B616C4E82AD6914646C0F55467C9C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR05102_00": {
+        "npCommunicationId": "NPWR05102_00",
+        "trophyTitleName": "Magus",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05102_00_00D0023E40F5DF83A25E14986C3F788D43867BF3AD/4AA8D64E221790BD039AC1A5E7145223BC28DDFF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR05108_00": {
+        "npCommunicationId": "NPWR05108_00",
+        "trophyTitleName": "花咲くまにまに",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05108_00_0050C6E9E34119CE1B487CDF0032A27A6767953635/02EE672F795FC175303DF3A13E19A3DADD375A93.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 14
+        },
+        "service": "trophy"
     }
 }
