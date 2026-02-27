@@ -39258,5 +39258,135 @@
             "bronze": 19
         },
         "service": "trophy"
+    },
+    "NPWR07398_00": {
+        "npCommunicationId": "NPWR07398_00",
+        "trophyTitleName": "ROCK BOSHERS DX: Director's Cut",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07398_00_000D97153AB35D11DBC7D0F28D4C2D41DB22BE8DEC/C332C5027D2C437DFE9F3C1ACC4EA35FF57ED924.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR07399_00": {
+        "npCommunicationId": "NPWR07399_00",
+        "trophyTitleName": "XBLAZE LOST : MEMORIES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07399_00_00C2C9F8EE8D0203C4F9018B5C8ADA209DE7FEFA26/6C7DA8D0542A16332A9A8B4EEFACA1AEA3BBC702.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR07400_00": {
+        "npCommunicationId": "NPWR07400_00",
+        "trophyTitleName": "XBLAZE LOST : MEMORIES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07400_00_00DD5875B2E9AE85972688E0EBCFE103EAA6E51BC1/78A8BD85215693A582F088A03CB8ECCB35F7F3BF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR07404_00": {
+        "npCommunicationId": "NPWR07404_00",
+        "trophyTitleName": "グリザイアの迷宮-LE LABYRINTHE DE LA GRISAIA-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07404_00_006188BBA29435A5F7CB64A00D6F45AFE0B4684E76/FB88F9E837432C36B842E102400E79276C60BC8F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR07405_00": {
+        "npCommunicationId": "NPWR07405_00",
+        "trophyTitleName": "FLOWERS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07405_00_00E17FB03192FDFEE230A3A5BD9361F2C840BCCE5F/7448DB3733E291F3FF3169930BFC8F7A5553E738.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 6,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR07406_00": {
+        "npCommunicationId": "NPWR07406_00",
+        "trophyTitleName": "グランキングダム",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07406_00_009D213F23AEC3FF2956B3EDE91985EB25425BEA95/9CAE63A60916E6AC8075D2375A50ABE75F934E06.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 15,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR07408_00": {
+        "npCommunicationId": "NPWR07408_00",
+        "trophyTitleName": "Pix The Cat",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07408_00_0040971E077986263D7232FBC5F549FFF5B938BD3D/65445A58CAA0629DF076713F1371CEE2F17C9C7C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR07410_00": {
+        "npCommunicationId": "NPWR07410_00",
+        "trophyTitleName": "Saints Row IV: Re-elected",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07410_00_00032469631F4101B5104C2D219E17C4CABBCDB276/668D3E4103339E8C13B523E304CCBE1ED6C18C32.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 56
+        },
+        "service": "trophy"
+    },
+    "NPWR07413_00": {
+        "npCommunicationId": "NPWR07413_00",
+        "trophyTitleName": "戦極姫5～戦禍断つ覇王の系譜～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07413_00_00B8DEF82061291997B1CBFE4F0AB66EFA424518F5/DB27C90E220AF62A27A4BB1476D5A613C7A378A8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 3,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR07416_00": {
+        "npCommunicationId": "NPWR07416_00",
+        "trophyTitleName": "地球防衛軍２PORTABLE V２",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07416_00_00D18254502815A18C9CC4097A3DA2B0E51558983B/1ADFC00CD8E0FE3177DD131A0F0ECED2B7968A19.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 58
+        },
+        "service": "trophy"
     }
 }
