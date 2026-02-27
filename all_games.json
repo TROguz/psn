@@ -28598,5 +28598,135 @@
             "bronze": 14
         },
         "service": "trophy"
+    },
+    "NPWR05109_00": {
+        "npCommunicationId": "NPWR05109_00",
+        "trophyTitleName": "戦国無双２ Empires HD Version",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05109_00_00D6277D90FBD4A470CBF9A3608E7C3EB32EAB01CA/5EF3BE5DFB9B57439F005033B245F2B1077CC551.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR05110_00": {
+        "npCommunicationId": "NPWR05110_00",
+        "trophyTitleName": "戦国無双２ with 猛将伝 HD Version",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05110_00_00099B78ED510ACE00C7E92AF24C4629945620829F/B4ED38B6989061230D57ECD5AC26A933121B559A.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR05112_00": {
+        "npCommunicationId": "NPWR05112_00",
+        "trophyTitleName": "Fieldrunners 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05112_00_0062C26E34EBD3D167C946645656352192E2B29D0F/CA56E3A8D9F7B9DA63B616407D20D3AB4429F532.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR05115_00": {
+        "npCommunicationId": "NPWR05115_00",
+        "trophyTitleName": "Deus Ex: Human Revolution - Director's Cut",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05115_00_00E7EDB3F8D539CC02D6B96A3A00A89AB2ADCEF6A5/2064F520721F07D77B51694311AAB9C0B496D975.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 54
+        },
+        "service": "trophy"
+    },
+    "NPWR05116_00": {
+        "npCommunicationId": "NPWR05116_00",
+        "trophyTitleName": "魔界戰記D2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05116_00_0058945E26B9F7F430E59924F18DFA8C50A832F469/09CCA44C1EA8F58D23160885A71D04CF354AC061.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 66
+        },
+        "service": "trophy"
+    },
+    "NPWR05120_00": {
+        "npCommunicationId": "NPWR05120_00",
+        "trophyTitleName": "圧倒的遊戯 ムゲンソウルズＺ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05120_00_000AF47B478DABFD4117EDB65A75B61A0FE45CB66A/79E6F65D12D0EE25C18775CD52D82554365D78B6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR05122_00": {
+        "npCommunicationId": "NPWR05122_00",
+        "trophyTitleName": "Lost in the rain",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05122_00_00972708DE6854327F33565BF4A9EB51970EBCAAAA/65B9FC5797381AFAB8990A9F15C0257219F98160.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR05131_00": {
+        "npCommunicationId": "NPWR05131_00",
+        "trophyTitleName": "Anna - Extended Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05131_00_009700387E8C2072F0ED71F78CC0FD70159511DA06/E55F41F3DA7D7AEE00FEFCDB5CF6B8FFEA92147F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR05132_00": {
+        "npCommunicationId": "NPWR05132_00",
+        "trophyTitleName": "Gunslugs",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05132_00_008B7C718335B33CC5ED7D086CEA5C8C34F6AE4208/579B7068A0EC6B28D7BAA5A4F4F8271D7C14E83A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR05136_00": {
+        "npCommunicationId": "NPWR05136_00",
+        "trophyTitleName": "Pacific Rim",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05136_00_00CD3E662C5B7DB9DE8AC608CA76ACCA37F95A10E4/447F07A47502510232E352F3BEBD80FFD7F39DA1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
