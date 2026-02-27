@@ -85538,5 +85538,135 @@
             "bronze": 3
         },
         "service": "trophy"
+    },
+    "NPWR14114_00": {
+        "npCommunicationId": "NPWR14114_00",
+        "trophyTitleName": "Psychedelica of the Black Butterfly",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14114_00_0007146A854C01841444601735893AED5B845C45FD/CBD8E28E27F31259BF7504041B7FCF381F16CB05.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 17,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR14115_00": {
+        "npCommunicationId": "NPWR14115_00",
+        "trophyTitleName": "2064: Read Only Memories",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14115_00_007F3E983AE99E3B16B5B0BB2B3DDAB9337CB8C2E4/DADA8659C56AD640D1B57F965B09DFB615474D87.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 62
+        },
+        "service": "trophy"
+    },
+    "NPWR14116_00": {
+        "npCommunicationId": "NPWR14116_00",
+        "trophyTitleName": "Gnomes Garden 3: The thief of castles",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14116_00_00417BA4C9630790D116CAE94881C5E2948F58568D/25C0E2631D4D15687051EB663900AF34A68940D4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14118_00": {
+        "npCommunicationId": "NPWR14118_00",
+        "trophyTitleName": "Oure",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14118_00_005AD9F5FD95CA9FE9186FEBC8A87C4A875F873C49/2B27DCE17EDA9088F7D1116A11F07DA6FF5D05D6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR14119_00": {
+        "npCommunicationId": "NPWR14119_00",
+        "trophyTitleName": "SQUAREBOY VS BULLIES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14119_00_009A8C5FDD3B0B87CEC7D22B15FC1C7850CD1F0ED7/6B5750703FD4D0496597AE3D50A941EE5AE6E943.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR14120_00": {
+        "npCommunicationId": "NPWR14120_00",
+        "trophyTitleName": "SQUAREBOY VS BULLIES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14120_00_00A2D72D13868C558D29FB6388304326431254D8D4/0F961B56095DA1D478FC9BD29ABA20A1FA920897.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR14121_00": {
+        "npCommunicationId": "NPWR14121_00",
+        "trophyTitleName": "PieceFallVR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14121_00_0062FAA44C180D38C1D0B5881FF8742E1A2B1661B0/1014B7E7C37C4CB023A67FE44DA63DBCF7E8159E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR14125_00": {
+        "npCommunicationId": "NPWR14125_00",
+        "trophyTitleName": "DEMON GAZE II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14125_00_00FB01F81C5FC7C9F3F131CE724D80CA9EF64EE6F9/2959E1E4C3FE071C5EDF9F7EB6BEF8B35081A1C4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR14127_00": {
+        "npCommunicationId": "NPWR14127_00",
+        "trophyTitleName": "Super Robot Wars X",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14127_00_00E978BD5B37A698FDCB91A3E9DE29546B6C1E2CD8/E4737DB271212ACB937E53623F544456FA850927.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR14130_00": {
+        "npCommunicationId": "NPWR14130_00",
+        "trophyTitleName": "Fallen Legion: Sins of an Empire",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14130_00_0019C4DE141CC7564E87B42B8E0D678657EEAA7DC5/016505CBE2E15A28D9B09655829C32F1CC09339F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 30
+        },
+        "service": "trophy"
     }
 }
