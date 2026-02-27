@@ -57978,5 +57978,135 @@
             "bronze": 21
         },
         "service": "trophy"
+    },
+    "NPWR10471_00": {
+        "npCommunicationId": "NPWR10471_00",
+        "trophyTitleName": "Shadow Complex Remastered Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10471_00_002A5E918D563F81B6D93B630D4A9945CBCBAF845E/342E8A80C4D7A1D59E4B73474217F25D18D81D9D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR10475_00": {
+        "npCommunicationId": "NPWR10475_00",
+        "trophyTitleName": "激次元組合　戰機少女VS喪屍軍團",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10475_00_00FCFF5654C8494BE8E6EE219C81B23D79AD45FC87/4F55CA3BDA6B0DFDAF89D0F6E8B3BBD265B59DF5.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR10477_00": {
+        "npCommunicationId": "NPWR10477_00",
+        "trophyTitleName": "雷子‐紺碧の章‐",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10477_00_0031F43F1A50246F73D233F71D81277F6ABD83A429/C310DE83FEB35947EBED5722BA02266EE7FAFC93.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 3,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR10481_00": {
+        "npCommunicationId": "NPWR10481_00",
+        "trophyTitleName": "RETSNOM",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10481_00_0065AE0D30888615F679327CD12F6BDCFBFFB36976/30AA4754E0A3F3ABA7703973522CAC936D25179D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR10482_00": {
+        "npCommunicationId": "NPWR10482_00",
+        "trophyTitleName": "Sheltered",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10482_00_00CD3F22A118E42CE0765DC2E4F0841FE34AFCC1E4/26842837F843B62E7E452A103057B843589AF327.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR10483_00": {
+        "npCommunicationId": "NPWR10483_00",
+        "trophyTitleName": "Broken Bots",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10483_00_0027D334F1ED2A70F2FC2A41FB6CA87A29D10BEC6A/97032708070FFBB16CE9221503C54458387B986B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR10486_00": {
+        "npCommunicationId": "NPWR10486_00",
+        "trophyTitleName": "Semispheres trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10486_00_0072BC971D62F1434AFF6F93436DB7CF5B25483F71/84A858A3C5CE09FD64E2D85E64F9AB142210CCD3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR10488_00": {
+        "npCommunicationId": "NPWR10488_00",
+        "trophyTitleName": "Emerald Shores",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10488_00_00C31F93CCADB0D66B49225A7B9AF97194C41A31EE/340C171D9C9BFB94224F21A2530C4EA820A09558.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 6,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR10489_00": {
+        "npCommunicationId": "NPWR10489_00",
+        "trophyTitleName": "Machinarium",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10489_00_004403D65089A31F95EF898B801E7E29523FB9F92D/D5B444F5FC67D7E9252AFA7A0E41F4AEA1DEC1D3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR10490_00": {
+        "npCommunicationId": "NPWR10490_00",
+        "trophyTitleName": "Last Wings",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10490_00_0042FE3CA11DB905068B74BA0A045DED6D5DB7656E/F84FE94232CD20FBE5D266B3C8A52557578630C7.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
