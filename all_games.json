@@ -36528,5 +36528,135 @@
             "bronze": 34
         },
         "service": "trophy"
+    },
+    "NPWR06837_00": {
+        "npCommunicationId": "NPWR06837_00",
+        "trophyTitleName": "Second Chance Heroes Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06837_00_00E89F75CFCF817044452C963AF8E5B3C9CF1BAC94/B811196FD978C6359416D8A65BAD98622AF6DA43.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR06840_00": {
+        "npCommunicationId": "NPWR06840_00",
+        "trophyTitleName": "レンドフルール",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06840_00_0052B46F1E233C814BF32D903EC360408EA6E31D5E/72CAC82F6F6DF700FB8AA6CADE94646885C45351.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR06842_00": {
+        "npCommunicationId": "NPWR06842_00",
+        "trophyTitleName": "ダンジョントラベラーズ2 トロフィー",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06842_00_0054D02D8B8FC683CE5209372A298B84CFCEED2203/DC366CD716CB3C01B3B323564295265F46FC3E15.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR06843_00": {
+        "npCommunicationId": "NPWR06843_00",
+        "trophyTitleName": "カデンツァ フェルマータ アコルト：フォルテシモ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06843_00_00666338C6B82958BE2D1CF74F6FED263D2A444951/68310D5A4893FD8BF0964636EB95DC190DB1BAC8.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 47
+        },
+        "service": "trophy"
+    },
+    "NPWR06847_00": {
+        "npCommunicationId": "NPWR06847_00",
+        "trophyTitleName": "ハイスクール DxD NEW FIGHT",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06847_00_0027A28957C94196533F83A855740DBF6BF1DE487F/4EDA9EB8E30FC9EBA7FD3D69F65EA9B030B01CF6.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR06848_00": {
+        "npCommunicationId": "NPWR06848_00",
+        "trophyTitleName": "迷宮クロスブラッド インフィニティ ULTIMATE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06848_00_00806B3D82BC82222E957A5A88607C706ED0D3614D/CB19D2B44D65584DA71D54C21000E93ACDBF6DCC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR06849_00": {
+        "npCommunicationId": "NPWR06849_00",
+        "trophyTitleName": "Fluster Cluck",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06849_00_00992CE104A902E6B181CDCAE8E81E0870C4B31F17/0FA050BF3D1BF44D8AC1451346880960F857356F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR06855_00": {
+        "npCommunicationId": "NPWR06855_00",
+        "trophyTitleName": "Battlefield™ Hardline Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06855_00_0051D73971786BA5C6D8C82742A9864F4043F7E684/D9BF4B23368496C002EED525A727EA750931DCC2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 24,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR06857_00": {
+        "npCommunicationId": "NPWR06857_00",
+        "trophyTitleName": "Shadow Warrior",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06857_00_00D95EC7912F0C7BCBE2F0E8AE7917248BAD0F2D81/5859707C2878977A6491AE99964B7294270BDB88.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 13,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR06859_00": {
+        "npCommunicationId": "NPWR06859_00",
+        "trophyTitleName": "Minecraft: PlayStation®Vita Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06859_00_00FEB77ED0AB7D6098CDC18CEBB92A61DFB448A087/50F26D00916A6CBD8EBFDFACE8A42974D87D9361.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 23,
+            "bronze": 63
+        },
+        "service": "trophy"
     }
 }
