@@ -19238,5 +19238,135 @@
             "bronze": 31
         },
         "service": "trophy"
+    },
+    "NPWR03201_00": {
+        "npCommunicationId": "NPWR03201_00",
+        "trophyTitleName": "orgarhythm",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03201_00_00E7B56C61FC3A8F41EBF13EF117B04809406280FF/D6827C2FA125A48028D09C290901215ED61D0988.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 45
+        },
+        "service": "trophy"
+    },
+    "NPWR03204_00": {
+        "npCommunicationId": "NPWR03204_00",
+        "trophyTitleName": "SingStar™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03204_00_00E2F6B60D4E88DC658B5FEC5184BA0E4EB7F04B6B/259D62AC555A746F8775F615B8B9B11BDE5902C5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR03207_00": {
+        "npCommunicationId": "NPWR03207_00",
+        "trophyTitleName": "Sound Shapes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03207_00_00F4DDE6F48CB412E3D9CD4871469A9417BD9C7999/D441C58D13EDC48AA0691F25A8F94632E5364BFA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 87,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR03208_00": {
+        "npCommunicationId": "NPWR03208_00",
+        "trophyTitleName": "ニコリのパズルV カックロ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03208_00_00B8BC6FCB2597A4B1D010E8212D86D71B44B7C082/FC2FA13164486BE49B3B36BAD4A87DB463AE6468.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR03209_00": {
+        "npCommunicationId": "NPWR03209_00",
+        "trophyTitleName": "ニコリのパズルV スリザーリンク",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03209_00_006644EEA03C046B8A87BA6A44B0F1011154E8C6C4/805F448A8D5FEFBD9A75E570A41276FD07A667F0.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR03210_00": {
+        "npCommunicationId": "NPWR03210_00",
+        "trophyTitleName": "時と永遠～トキトワ～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03210_00_0078F2756A5CE6CEEC94B6C3E528BBC246B3A38AC6/26C54F5406E95DB4479C824C00340F6BEEB514D9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 6,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR03213_00": {
+        "npCommunicationId": "NPWR03213_00",
+        "trophyTitleName": "Closure",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03213_00_0077D1D3B8AD83375ABC1805298544D6BDA6A9B46C/D1ECF2FDA9691E83094DC1D4522A941E1320DBD8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR03214_00": {
+        "npCommunicationId": "NPWR03214_00",
+        "trophyTitleName": "城堡风暴",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03214_00_007674DC1790C84DAA2C210384CD09A54009D17BD1/CCE0DD272BD4DBFC95714B40C1942F637C9F43FE.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 8,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR03217_00": {
+        "npCommunicationId": "NPWR03217_00",
+        "trophyTitleName": "LEGO® The Lord of the Rings™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03217_00_0039B892A73982161574355CAB67131F102DB993A8/AEEBB2960750AD6480511078C18ACC6880ACC0BD.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 6,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR03218_00": {
+        "npCommunicationId": "NPWR03218_00",
+        "trophyTitleName": "LEGO® The Lord of the Rings™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03218_00_00BC6972C1AA9E8258D6741047E8A8FCD693D4BC28/41B1D1C4725F7BEBFBA4F7069422F729DD0A07BF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 40
+        },
+        "service": "trophy"
     }
 }
