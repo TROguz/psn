@@ -53948,5 +53948,135 @@
             "bronze": 21
         },
         "service": "trophy"
+    },
+    "NPWR09804_00": {
+        "npCommunicationId": "NPWR09804_00",
+        "trophyTitleName": "アルカナ・ファミリア Ancora",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09804_00_005FD9940D9DAA1D319F10B27E19DE32493E0FF7DF/EEB40231F092342329E16648BA824DACD4B31664.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR09805_00": {
+        "npCommunicationId": "NPWR09805_00",
+        "trophyTitleName": "Siralim",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09805_00_0007E0D680CA795335B6A8B93948364F0131D44E2F/7F5685B3AA145A7BD7D365D2ADC067F4DE241BA8.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR09806_00": {
+        "npCommunicationId": "NPWR09806_00",
+        "trophyTitleName": "Siralim",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09806_00_0094D3AE23867AC304D113FB944C4174BAD672A166/0043995ED701A05DA6CB1A7CF27A5BA234C215BC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR09808_00": {
+        "npCommunicationId": "NPWR09808_00",
+        "trophyTitleName": "5 Star Wrestling",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09808_00_002F39550515F94B26BB61C81A50F4D22B87B3C7F9/3B51A86FC7BFA9F3E59ACF5516622DEAEF3DCDB7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR09812_00": {
+        "npCommunicationId": "NPWR09812_00",
+        "trophyTitleName": "LEGO® STAR WARS™: The Force Awakens",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09812_00_008A4017743D813F37824923027D9F5D280FABB81D/B61E4DB3C4F8BF3870573E395EC330670B65DC75.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 60
+        },
+        "service": "trophy"
+    },
+    "NPWR09813_00": {
+        "npCommunicationId": "NPWR09813_00",
+        "trophyTitleName": "LEGO® STAR WARS™: The Force Awakens",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09813_00_00DD85C84A0C0C1AA6A69DC2D11769EC1F0A585904/87DEC493B3CBBF6C346469B5BC8FB71CB581B758.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR09814_00": {
+        "npCommunicationId": "NPWR09814_00",
+        "trophyTitleName": "LEGO® STAR WARS™: The Force Awakens",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09814_00_00FEAC715DFCD0B64A435929950B67F01F912455EC/3348AE483FD96EF4733A02C8DA144B63E34566C5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 60
+        },
+        "service": "trophy"
+    },
+    "NPWR09815_00": {
+        "npCommunicationId": "NPWR09815_00",
+        "trophyTitleName": "THE LEGEND OF HEROES: TRAILS OF COLD STEEL",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09815_00_00076E1F93EB1E0B68B0156C792EA4E858A10F8C78/A26ED59DFE2AD1819039519AB45B644228EA2DD5.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR09817_00": {
+        "npCommunicationId": "NPWR09817_00",
+        "trophyTitleName": "Neon Chrome",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09817_00_008B6E4BFC1A80E7E1B80409F94AA33D507D7354E0/98D55D78498594482B1C3B88C35A0B1331A8351F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR09818_00": {
+        "npCommunicationId": "NPWR09818_00",
+        "trophyTitleName": "Red Game Without Great Name",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09818_00_0057BD84A255AA503FE8778D05CEDACB15C0A8287F/D5777E52B0A90F6391FAFD16DD606D94045BEABE.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
     }
 }
