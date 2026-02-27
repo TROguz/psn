@@ -64088,5 +64088,135 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR11329_00": {
+        "npCommunicationId": "NPWR11329_00",
+        "trophyTitleName": "Sherlock Holmes: The Devil's Daughter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11329_00_0026454D13A01DCA404D68C7E371C495A184277BF7/C3C31FB752803861830733820DF9ED35BF76B7A7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR11332_00": {
+        "npCommunicationId": "NPWR11332_00",
+        "trophyTitleName": "STEEP",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11332_00_00721F944BD138F71D29A5466BAD604C9D48C90228/A58C4C2AEA8CF64154AD28D1FC51489AAA549052.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 16,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR11335_00": {
+        "npCommunicationId": "NPWR11335_00",
+        "trophyTitleName": "SYBERIA 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11335_00_004AB5912BC80A75C7DFF58AB1AD6C6229FE8A1431/EFD15C2AA028A8401169F4E25DB5EE19B89C8FD6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR11337_00": {
+        "npCommunicationId": "NPWR11337_00",
+        "trophyTitleName": "Asemblance",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11337_00_003F248E176B9D72911621BA232E368C625F10AE32/8F07D17ECCF1A369DF8F6ECCC3121C7CE6FDE4F2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR11338_00": {
+        "npCommunicationId": "NPWR11338_00",
+        "trophyTitleName": "Injustice 2 Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11338_00_00A7F97446EBD6A26682047666076BA8173FA899BE/8FCCCD2ACE5F0AC5E0C8B0C82E27CD84EA354E33.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 71
+        },
+        "service": "trophy"
+    },
+    "NPWR11339_00": {
+        "npCommunicationId": "NPWR11339_00",
+        "trophyTitleName": "BLACK WOLVES SAGA -Weiβ und Schwarz-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11339_00_00087D8EEF158D7F87000F9ABC61C283FD05FEA756/37D2F63840FD5FAF0C4A5B906F131646FC5BF827.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR11341_00": {
+        "npCommunicationId": "NPWR11341_00",
+        "trophyTitleName": "Starry☆Sky～Autumn Stories～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11341_00_00942119B4164E63C5581B5FFA35161908542C759B/7FEDDF356E0B8E7986E85CCBE759FC3A1C9E350F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11342_00": {
+        "npCommunicationId": "NPWR11342_00",
+        "trophyTitleName": "140",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11342_00_00BB743AF5E8DE7CDB7C5D988C8FDD277710014B09/54DAD93B6BBAE7290CD5A4D2FCFF97521744BBB0.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR11343_00": {
+        "npCommunicationId": "NPWR11343_00",
+        "trophyTitleName": "Starry☆Sky～Winter Stories～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11343_00_00005C2079262D4BC88B8FD391D85630C4192AE257/7DDCB2D2DD4F7144E6EFFA95966C452D960C1E18.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 11,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR11344_00": {
+        "npCommunicationId": "NPWR11344_00",
+        "trophyTitleName": "√Letter-方根書簡-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11344_00_000785B3EC09493EAAEB9F50B4F0C7E48B4CFE4292/188DDD838CF9D6CF5FA83F8ACE911BE08A0EDF31.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
