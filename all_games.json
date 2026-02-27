@@ -71238,5 +71238,135 @@
             "bronze": 24
         },
         "service": "trophy"
+    },
+    "NPWR12250_00": {
+        "npCommunicationId": "NPWR12250_00",
+        "trophyTitleName": "Shred It!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12250_00_00D2F78BAE57AD35B944A83584DBE72BD9D204F7F0/EE26F9BD3E78988BB8C25FECBABF20041A6185A1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR12251_00": {
+        "npCommunicationId": "NPWR12251_00",
+        "trophyTitleName": "THE TURING TEST",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12251_00_00A740B04E298E33DD67DFB95C99817CC9E2EB0D11/2728C048D1870777B40B9A852BFBF28455236EFC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR12252_00": {
+        "npCommunicationId": "NPWR12252_00",
+        "trophyTitleName": "Pressure Overdrive",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12252_00_005289CD550DE2D6EA60F7DE9FC531C1B793735AF2/365BB1787BF368ECD4C46898C59B438B641EECD5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR12254_00": {
+        "npCommunicationId": "NPWR12254_00",
+        "trophyTitleName": "VR Ping Pong Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12254_00_0042A12E888D1EE57DED404425450BEC4A52189B88/15F8E3F4E7E4FB26EA87CE06116B8D08E7277105.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR12255_00": {
+        "npCommunicationId": "NPWR12255_00",
+        "trophyTitleName": "VR Ping Pong Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12255_00_006CCB5764506082DF45D93D903EC4EEF17885EE8D/11F8996019E3FB275750DBA8DD8F35F313D6A509.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR12257_00": {
+        "npCommunicationId": "NPWR12257_00",
+        "trophyTitleName": "How We Soar",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12257_00_00100DF5465B6D11638F9F4CE06B0103B4CF9DCA91/A3BF05DF530EF4CE065BF1CDE63AB5B16B6BE315.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR12258_00": {
+        "npCommunicationId": "NPWR12258_00",
+        "trophyTitleName": "How We Soar",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12258_00_00E5A45D42CA8CD22628B864A53B04109B8A98B629/5C36A55B76BBE4865DD4743B4F4AD114770CCBC6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR12259_00": {
+        "npCommunicationId": "NPWR12259_00",
+        "trophyTitleName": "STEEL COMBAT",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12259_00_0027EF643EF1218EB363CCD37444FA3B4BDB5310D8/E4DC9D337C0E67A394DB6709602193E9FADC2444.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 1,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR12260_00": {
+        "npCommunicationId": "NPWR12260_00",
+        "trophyTitleName": "MARGINAL#4 ROAD TO GALAXY",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12260_00_005AB2DBD471EE39E6D8ECD3F6166D3D922FA27433/DED31E2E54C1AFDB144A8EA7CCD0D2E4D6AD46DB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR12261_00": {
+        "npCommunicationId": "NPWR12261_00",
+        "trophyTitleName": "The Elder Scrolls Online Additional Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12261_00_00DF14AACE527D518BF89FF1A55792260652936DAA/154746564C84148DED8C8D59C0ADD495102F688B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 21,
+            "silver": 24,
+            "bronze": 13
+        },
+        "service": "trophy"
     }
 }
