@@ -25738,5 +25738,135 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR04461_00": {
+        "npCommunicationId": "NPWR04461_00",
+        "trophyTitleName": "Serious Sam 3: BFE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04461_00_000E97C20210988E4F2EC2E30E3353ECA81C1B1C80/B16DB0B6363B0D070C66A8E9D7EE2FB6B33CC0DE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR04463_00": {
+        "npCommunicationId": "NPWR04463_00",
+        "trophyTitleName": "Disney Infinity",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04463_00_00DD532CD63050DF72EA1322CF66E7B45B96574CE7/037055AE276E949C48218AEEB4C26BDF443AE395.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR04465_00": {
+        "npCommunicationId": "NPWR04465_00",
+        "trophyTitleName": "RUGBY CHALLENGE 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04465_00_00B3EE6D7A8D1F578DD52404953AA9E9F9D8FAB923/8B7C19D4A6F10E8FC5791944AE0F79F08640C838.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 14,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR04468_00": {
+        "npCommunicationId": "NPWR04468_00",
+        "trophyTitleName": "Disney Epic Mickey 2: The Power of Two",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04468_00_00687563550C80E336D492E9F9BA604182E429C5A3/BE193FABCCC908099C52D2EC7C57884AEBEBF23A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR04470_00": {
+        "npCommunicationId": "NPWR04470_00",
+        "trophyTitleName": "The Last Bounty Hunter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04470_00_00BC7E64876E63C0B40CCBACC53881DE156A400236/DAE3B16F95B00B7D8F258AA86DCBC00960E43C37.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR04472_00": {
+        "npCommunicationId": "NPWR04472_00",
+        "trophyTitleName": "MURAMASA REBIRTH",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04472_00_001BB4F6EB5722C45394839E2B96BB8C8F8D3B875E/185BDFB403A716F147EBC139EAF6925E42C8C34F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 20,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR04479_00": {
+        "npCommunicationId": "NPWR04479_00",
+        "trophyTitleName": "Machinarium",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04479_00_00540DB22A16E1514D903AE4189C114124124089BE/718D5ACF86771F4DB7B1930902BE862DF74E0BE9.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR04483_00": {
+        "npCommunicationId": "NPWR04483_00",
+        "trophyTitleName": "スロッターマニアＶ 絶対衝激Ⅱ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04483_00_001730BC28AF7696AE2E1A6BDBBF68A40B82C21BF2/FD70E933434BB847EE5D565170F59C4CCA695F1D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR04487_00": {
+        "npCommunicationId": "NPWR04487_00",
+        "trophyTitleName": "ネクレボ 英検",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04487_00_0088C7A9FC3B0403A0E080980840075474050B590D/40E3993B3327725B7B8B3DAD18996DD0C5CB2D89.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR04488_00": {
+        "npCommunicationId": "NPWR04488_00",
+        "trophyTitleName": "TOEIC(R) TEST 実戦特訓2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04488_00_00F9D809B4F7A3BA5EE1DF286E9EFFFA3C1FE4B4E0/B0C21F782FAA6064D9269EC4E619E8E7C9A0E25D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
     }
 }
