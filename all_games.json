@@ -42118,5 +42118,135 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR07964_00": {
+        "npCommunicationId": "NPWR07964_00",
+        "trophyTitleName": "Just Cause 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07964_00_00131DD4D585ABC9D26813AFD52FFE731176D434A3/A0BC289B1F6B0AAE7C202912E536CE73E6607E10.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 14,
+            "bronze": 47
+        },
+        "service": "trophy"
+    },
+    "NPWR07965_00": {
+        "npCommunicationId": "NPWR07965_00",
+        "trophyTitleName": "Q*bert: Rebooted",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07965_00_005273A66BC07CF8BC0D67F8085FC8C729ADFC72EA/B62423C8288F5DF526EA48DB8B915976DFCFB6CA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR07966_00": {
+        "npCommunicationId": "NPWR07966_00",
+        "trophyTitleName": "Q*bert: Rebooted",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07966_00_00A8A831C6B071321C2E410C284FA98D46253159B4/278C1C49C1481C026BC69664160182C15928DDD3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR07967_00": {
+        "npCommunicationId": "NPWR07967_00",
+        "trophyTitleName": "Q*bert: Rebooted",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07967_00_00073A3E067863B71DAAE67BD1DDA9CE3DF25F105F/F60A8BE7F184C8BC704157155151C319A209D2FF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR07968_00": {
+        "npCommunicationId": "NPWR07968_00",
+        "trophyTitleName": "Q*bert: Rebooted",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07968_00_00E2548C60C6A089F777E62CBE24179586B0CB90A3/BDDF1220A9BF0DFD48251B7D2FCE7A738A8FEE70.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR07969_00": {
+        "npCommunicationId": "NPWR07969_00",
+        "trophyTitleName": "Adventure Time: the Secret of the Nameless Kingdom",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07969_00_00E659589558493BDDEC452DB7A4276807E744158E/4CD54AC6AB31AB9EB9C8BFCCD84AE4BB96DE03FA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR07970_00": {
+        "npCommunicationId": "NPWR07970_00",
+        "trophyTitleName": "アイドルマスター シンデレラガールズ\nグラビアフォーユー！ VOL.1",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07970_00_003AA7D4FEA81C25BC1599227317EF872F428C0842/8F88E8BE7F79AC12871E2F97ED357E9032E6FC2D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR07971_00": {
+        "npCommunicationId": "NPWR07971_00",
+        "trophyTitleName": "アイドルマスター シンデレラガールズ\nグラビアフォーユー！ VOL.2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07971_00_007BE3334F6FBAB7AC37C9495F1478AEB95356B7E1/C0593153892B4B81944404503815D6B2346E4F9D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR07972_00": {
+        "npCommunicationId": "NPWR07972_00",
+        "trophyTitleName": "アイドルマスター シンデレラガールズ\nグラビアフォーユー！ VOL.3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07972_00_00051A700948A2BA6B2B7548E0483BEEA94949BC64/AC8C8A13F241C79DF97AE5D37B1EBF1605075CC6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR07973_00": {
+        "npCommunicationId": "NPWR07973_00",
+        "trophyTitleName": "アイドルマスター シンデレラガールズ\nグラビアフォーユー！ VOL.4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07973_00_00F67AA5A09BDDBF5F156E191B3891089CC11E1224/0C1246D6E1501D71B6B6F7429B525F66598AEE74.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
     }
 }
