@@ -75788,5 +75788,135 @@
             "bronze": 41
         },
         "service": "trophy"
+    },
+    "NPWR12799_00": {
+        "npCommunicationId": "NPWR12799_00",
+        "trophyTitleName": "BOKOSUKA WARS II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12799_00_00F088FD42B3256421380F4FC888F0FA20A38EAAE7/CAAA4D1397172B29427D465D56ABF3C29012711C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR12800_00": {
+        "npCommunicationId": "NPWR12800_00",
+        "trophyTitleName": "龍が如く 極２",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12800_00_00ED3F6097325A748A9F99564D841F47D30926D2B0/33192EAEEB3A757558044DFB174E5CE8B0420744.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR12801_00": {
+        "npCommunicationId": "NPWR12801_00",
+        "trophyTitleName": "Special Delivery",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12801_00_0088E139EC274464D7E3A0024179099F94F7C8D394/6CF3D46FF3837227A267425BE5D7180269AE7D74.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 5,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR12803_00": {
+        "npCommunicationId": "NPWR12803_00",
+        "trophyTitleName": "Utawarerumono: Mask of Deception",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12803_00_0036E0C07ECFB151CC515DA73C355FDC4347941A86/D1EDC83FCEDEFDFC526D559C1A8D41D4F1058944.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR12804_00": {
+        "npCommunicationId": "NPWR12804_00",
+        "trophyTitleName": "Deathstate",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12804_00_00F3A882E33C34D6E3B423886177B2051FF0C99A45/0725CA20E367E008970DBA8C239D891F454A1429.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR12805_00": {
+        "npCommunicationId": "NPWR12805_00",
+        "trophyTitleName": "Hakuoki: Edo Blossoms",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12805_00_00D5170D5AA6A4EB2C1DE99CD9A41DC85296FC8AD9/213951B5BF009CFFDAAB3DA1F97907AA2852B12C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR12806_00": {
+        "npCommunicationId": "NPWR12806_00",
+        "trophyTitleName": "Hakuoki: Edo Blossoms",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12806_00_0057383A0389286B2C34477ABFA233B34A70E14C4E/FDFE66500A9C48A0E18BDFB702E737514D0F4109.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR12811_00": {
+        "npCommunicationId": "NPWR12811_00",
+        "trophyTitleName": "追放選挙",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12811_00_0007D9420A57DC6E294117647397C138B3FD2FB548/5407993EE470CA4162FA8DCA66AB0EA5C7E126AB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 28,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12812_00": {
+        "npCommunicationId": "NPWR12812_00",
+        "trophyTitleName": "Dreadnought",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12812_00_00DAE39CA6C1AE0F969B7ACBB280844CF6CAE50898/A5F3DE9D5095B0B2B1F4C5DB4F900363D197B7B1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR12813_00": {
+        "npCommunicationId": "NPWR12813_00",
+        "trophyTitleName": "Elliot Quest",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12813_00_000E0FE0764E74695D0EAE5F31B48AD7A5D4455B50/B6DEDE3EFD01898610EC45DE9DB649C2C5A9361D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 3,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
