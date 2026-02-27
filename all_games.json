@@ -33278,5 +33278,135 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR06071_00": {
+        "npCommunicationId": "NPWR06071_00",
+        "trophyTitleName": "Assassin's Creed® Freedom Cry",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06071_00_006E1635FD20EC4AEE9E66952B4E502807D90C353B/A413D7ED643CBF2C1E3DA19637B773E5ECE5680F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR06079_00": {
+        "npCommunicationId": "NPWR06079_00",
+        "trophyTitleName": "Don't Starve: Console Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06079_00_00BD38E473D178352541176E3C76AFB1DE6970DC83/55D74311278D763241F63A2718B067FCBCA5D11F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR06085_00": {
+        "npCommunicationId": "NPWR06085_00",
+        "trophyTitleName": "Crimsonland",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06085_00_00A3415B7C7B4D890F68160420D68942C7B7EA3DA6/2C31D08CA8E529F456716386EA90D2FCEA7D4A02.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR06087_00": {
+        "npCommunicationId": "NPWR06087_00",
+        "trophyTitleName": "Stealth Inc.",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06087_00_003AA7E77F16E884687B31D72B168A64E8F3CAE15B/35980300AA45CBF557F1D49AD10E7836A3A0562B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR06090_00": {
+        "npCommunicationId": "NPWR06090_00",
+        "trophyTitleName": "Danganronpa 2: Goodbye Despair",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06090_00_0079A8496C637820425E0F02A34B36A65FB1496C31/BB25DA5F6B512EDCD0488FA65B25EF4832BEA18D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR06091_00": {
+        "npCommunicationId": "NPWR06091_00",
+        "trophyTitleName": "仮面ライダー バトライド・ウォーⅡ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06091_00_008317FAD79566F31DB81D82952B95A3320B13B5AA/B94A5ED44C9BB963001A0AFDC1EBCAFCC7DAB8DC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR06094_00": {
+        "npCommunicationId": "NPWR06094_00",
+        "trophyTitleName": "LEGO® The Hobbit™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06094_00_004D2B897104E9AD3AA7151E84035C238CB41C69CF/530620D07428DA2A669F1E3F1D5D69FBC9C48431.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR06103_00": {
+        "npCommunicationId": "NPWR06103_00",
+        "trophyTitleName": "1001 Spikes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06103_00_000C744FAAD6EF0B841F1B4B8504744A0647D8F20E/08BBD97C1C248E077411AAFED86936A3455DE337.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR06108_00": {
+        "npCommunicationId": "NPWR06108_00",
+        "trophyTitleName": "htoL#NiQ -ホタルノニッキ-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06108_00_006CCF202EC7F79C57658D6790DD85DFC97C41458D/6A4CCB05E997B466FDFD0AE25D2217AA06666879.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR06110_00": {
+        "npCommunicationId": "NPWR06110_00",
+        "trophyTitleName": "ONE PIECE Unlimited World Red",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06110_00_005256B16EE3FA84722EAB7897C3234C6AB14C7E68/CE2EE5B761F311A7DFDF801280844E97FC87C330.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 9,
+            "bronze": 46
+        },
+        "service": "trophy"
     }
 }
