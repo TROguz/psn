@@ -58368,5 +58368,135 @@
             "bronze": 14
         },
         "service": "trophy"
+    },
+    "NPWR10527_00": {
+        "npCommunicationId": "NPWR10527_00",
+        "trophyTitleName": "執事が姫を選ぶとき",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10527_00_001C1E42B21D7922AE69C938CF4F1D13374643A8C9/860EEE7590C709C1978C45A039EB1FC13BA79C68.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR10528_00": {
+        "npCommunicationId": "NPWR10528_00",
+        "trophyTitleName": "Azkend 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10528_00_00D597AF55DD72BDD8B1D7F65858BF775658AFBAE1/BDECCF1F72C3597270E623C2899ED74F2BDF6EC4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR10529_00": {
+        "npCommunicationId": "NPWR10529_00",
+        "trophyTitleName": "Emerald Shores",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10529_00_00456DF403F0FBE3F74660E91D6AB00FF12E9379DC/51065C096B9A4F864718A705756ACDFCCB600B4E.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 6,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR10533_00": {
+        "npCommunicationId": "NPWR10533_00",
+        "trophyTitleName": "The Incredible Adventures of Van Helsing",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10533_00_00E7E989D1292659AABE450F8FD34BB7E2FE864485/DC5E42E6CD6AAD0406667DA03794B3B00D7A86F2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR10534_00": {
+        "npCommunicationId": "NPWR10534_00",
+        "trophyTitleName": "Dangerous Golf",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10534_00_00CFE813C5D9BE379FB5972CD52E77176EDA4245F1/28B981AE4AE1AD93A00D17E3C0C0CF63DC86C483.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 10,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR10535_00": {
+        "npCommunicationId": "NPWR10535_00",
+        "trophyTitleName": "RobotRiot Hyper Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10535_00_0057864065076C5C1218B6BF26ADE4FDBDC27A4192/D9924C13F70A5ED2B63B81591C3336E7AE7FC39C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR10536_00": {
+        "npCommunicationId": "NPWR10536_00",
+        "trophyTitleName": "Candlelight",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10536_00_00D86B2B83F52438C0A47490A5D929C62415E510F9/BDD28EBC1B107B52D2BBFFA6B8C4305B7953A51A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR10537_00": {
+        "npCommunicationId": "NPWR10537_00",
+        "trophyTitleName": "マジきゅんっ！　ルネッサンス",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10537_00_00BAE6BB57546CFFC22F26EFFBFDF63880A547575C/209CDCA63A5B4AA460E3A117142EE36C89BCEFEE.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR10538_00": {
+        "npCommunicationId": "NPWR10538_00",
+        "trophyTitleName": "花朧 ～戦国伝乱奇～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10538_00_00741C81E23612A54F2AAEF1933C401C97950C66E7/3B8D41DAB4A5B135D7625EC260F8886332F543AA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 6,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR10540_00": {
+        "npCommunicationId": "NPWR10540_00",
+        "trophyTitleName": "Ziggurat",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10540_00_00690B4A232219175412F0D1A1F6E5851611DB5258/4540433CEE07B0C222457592FBE81EE09DE93BFC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 23
+        },
+        "service": "trophy"
     }
 }
