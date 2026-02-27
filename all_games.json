@@ -31458,5 +31458,135 @@
             "bronze": 53
         },
         "service": "trophy"
+    },
+    "NPWR05712_00": {
+        "npCommunicationId": "NPWR05712_00",
+        "trophyTitleName": "EA SPORTS™ UFC®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05712_00_00E86DC04AACEA6CF2A0197B936D00DD8AD5DF68AF/CCBF1C93E2A8AD47DBBCF15BE1C7F8B1554E9E68.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 19,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR05718_00": {
+        "npCommunicationId": "NPWR05718_00",
+        "trophyTitleName": "Broken Sword 5 - the Serpent's Curse: Episode 1",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05718_00_00A64BF2FDE6DF76F27996AF2FE8FA2B3386759A9B/CD00533D86DDCD08BE4278231B770A7793CF8DE5.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR05719_00": {
+        "npCommunicationId": "NPWR05719_00",
+        "trophyTitleName": "TRANSFORMERS: Rise of the Dark Spark",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05719_00_009833D8E5208A822A48DBB0171BE5A3BD98F78108/31610D22E83207CFE648AB9728105A8DB054B104.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR05721_00": {
+        "npCommunicationId": "NPWR05721_00",
+        "trophyTitleName": "Don't Starve: Console Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05721_00_0047DE5F481D496ED3AE26A0D1D146E0B662EAF819/DC87B6889C42CB2089431D616F49FAED0763EE9F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR05724_00": {
+        "npCommunicationId": "NPWR05724_00",
+        "trophyTitleName": "Putty Squad",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05724_00_00F36B53130EF4F401DEC6ABDD68F011BA4782FE48/6901EE425498EFFDA029B5E59E09376C1E140E17.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 16,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR05729_00": {
+        "npCommunicationId": "NPWR05729_00",
+        "trophyTitleName": "Eufloria HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05729_00_0051F6EDDE8F590CAD2F501CAF9E6A077EE3541A71/63EAF1FE702BD2ED5C285C9A3BCE3390265B79B2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR05732_00": {
+        "npCommunicationId": "NPWR05732_00",
+        "trophyTitleName": "コープスパーティー BLOOD DRIVE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05732_00_00BDC288A720380DACD4C63F920D8C6FA949715A0F/6F23D41D6EF1DD902CCBC43C513A271B46C13C5F.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR05735_00": {
+        "npCommunicationId": "NPWR05735_00",
+        "trophyTitleName": "The Cube",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05735_00_005BAE75329ABB58312390DAE7CB9FAE2A6189C658/E1F0708805C0BAC9617B236FF57CB5599D62C137.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR05737_00": {
+        "npCommunicationId": "NPWR05737_00",
+        "trophyTitleName": "Monster Monpiece",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05737_00_0042326C75DC08887A2FC650A59C0EE1A90AFD6663/67552A414FDB36A19CCA17B9EB7C42DF359EFEE4.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR05738_00": {
+        "npCommunicationId": "NPWR05738_00",
+        "trophyTitleName": "Thief",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05738_00_005CF20744AFD7A6E1C94DEB60ADF92CE36B378190/E805F9A622A2773CA31A5DB96EEB9E283089F573.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 24
+        },
+        "service": "trophy"
     }
 }
