@@ -30028,5 +30028,135 @@
             "bronze": 24
         },
         "service": "trophy"
+    },
+    "NPWR05403_00": {
+        "npCommunicationId": "NPWR05403_00",
+        "trophyTitleName": "Middle-earth: Shadow of Mordor",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05403_00_00B07604D4ECD2D438F2A95C1060CF61DCE3F7F544/D66987774E48791E93B33550080DCBA28077887F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 17,
+            "bronze": 56
+        },
+        "service": "trophy"
+    },
+    "NPWR05409_00": {
+        "npCommunicationId": "NPWR05409_00",
+        "trophyTitleName": "Surge Deluxe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05409_00_0027DE8D1BA39E45118A7FE31C69591FC0437D3BD9/C3D0AC216C06C3BF367C2AB6B87AA820FC3535AC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR05410_00": {
+        "npCommunicationId": "NPWR05410_00",
+        "trophyTitleName": "クドわふたー Converted Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05410_00_00ACC7131ABD23C332457AF021F65AB296D993E69B/AD56FF66EA43BF127749AEF4E30E4E46CC7060E6.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 14,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR05411_00": {
+        "npCommunicationId": "NPWR05411_00",
+        "trophyTitleName": "蝶の毒 華の鎖～大正艶恋異聞～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05411_00_00F1D5F678BF618C6C36AE22C22925F5AD2954D9C4/591FBA9CE710164DBD0DF38C74F2F5A8FD0589F6.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 2,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR05412_00": {
+        "npCommunicationId": "NPWR05412_00",
+        "trophyTitleName": "Velocity®2X",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05412_00_00C1BD1A65EC9D4AFA3D36B4670AD428069455A353/4736342D6CC33FD627E77ED73869FE4BB14045D9.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 14,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR05415_00": {
+        "npCommunicationId": "NPWR05415_00",
+        "trophyTitleName": "Tales of Symphonia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05415_00_00995458129AF066C3FB4A8E01C8E37B3824892B8D/7D44509F3400958BC883344FC5D55DE495224C70.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 14,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR05416_00": {
+        "npCommunicationId": "NPWR05416_00",
+        "trophyTitleName": "Tales of Symphonia Dawn of the New World",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05416_00_0083651F46107E65BA42C494108143D3FE88D5FF5B/092E2FB63E16518474157030A4E0205D88B601DB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR05418_00": {
+        "npCommunicationId": "NPWR05418_00",
+        "trophyTitleName": "ゴールデンタイム Vivid Memories",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05418_00_00155D0BD076BE8F1ED7D6CF948AD7018D36E4AD2E/DBA3A96F5C31C31486266D218D205CD8DBD9C3FA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR05420_00": {
+        "npCommunicationId": "NPWR05420_00",
+        "trophyTitleName": "Stick It To the Man",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05420_00_00E517BC274575A6279DC5899FB90D03D1B75183E5/6C443169C4F0F9A5C527EBE808A710CE17603356.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR05421_00": {
+        "npCommunicationId": "NPWR05421_00",
+        "trophyTitleName": "Stick It To the Man",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05421_00_00D18E4CDD51065BCA5B4DAE9DF5F887B8931143AF/9C8BC29B8EF54D1776A2AF42D8DE876DCF322B58.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
     }
 }
