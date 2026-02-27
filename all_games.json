@@ -42482,5 +42482,31 @@
             "bronze": 12
         },
         "service": "trophy"
+    },
+    "NPWR08002_00": {
+        "npCommunicationId": "NPWR08002_00",
+        "trophyTitleName": "咲-Saki-全国編",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08002_00_00DB8ADC2803D605AB833E2D665D2A4D388C67AF52/89843388257F0DCD4CEFA88E6035C1CFAD872DB5.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR08004_00": {
+        "npCommunicationId": "NPWR08004_00",
+        "trophyTitleName": "SteamWorld Heist",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08004_00_0069093D1D3A147C9DD27583914043615BE762C6C9/AAB52EFFB344BD959B49B7853960F301DAE45032.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 30
+        },
+        "service": "trophy"
     }
 }
