@@ -85148,5 +85148,135 @@
             "bronze": 1
         },
         "service": "trophy"
+    },
+    "NPWR14057_00": {
+        "npCommunicationId": "NPWR14057_00",
+        "trophyTitleName": "Race The Sun",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14057_00_002D94C3D048AC0771D5313F38B16A14EC12054133/294E11C224C1C2FB27552EA4C4712DED842964AA.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 2,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14058_00": {
+        "npCommunicationId": "NPWR14058_00",
+        "trophyTitleName": "Black Clover: Quartet Knights",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14058_00_0050A14B81D13ACD5D47B7EB9F77C4698465A2290F/12BA951E7FF2B6263C6659A7067EAC8C4DAF4624.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 21,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR14060_00": {
+        "npCommunicationId": "NPWR14060_00",
+        "trophyTitleName": "箱庭公司創造記",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14060_00_00C964FE5B48BCD00EA651E63F0B3F6CA61D79BB98/BE0E7BBC5847C39D22DEDDA2BB1C9D216EB855F9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR14063_00": {
+        "npCommunicationId": "NPWR14063_00",
+        "trophyTitleName": "Tokyo Tattoo Girls",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14063_00_007CE93942EB4D9E6CA7E0F5D117262443BE82308B/42720DD5C0323F1919ABF1CF8D42839644DC9D29.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR14065_00": {
+        "npCommunicationId": "NPWR14065_00",
+        "trophyTitleName": "SOULCALIBUR™Ⅵ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14065_00_0081B13789DB6C21CD12AB090A2404C18701C3D44F/6041F0E64D6ADA00424CA5EFFCE636604D030D8B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR14066_00": {
+        "npCommunicationId": "NPWR14066_00",
+        "trophyTitleName": "Past Cure",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14066_00_005F19D46109CEA950B23F168E811781C93763206D/73FAF12B4E9A7C790790FEDC5AFCABA63A31D87A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR14072_00": {
+        "npCommunicationId": "NPWR14072_00",
+        "trophyTitleName": "Sprint Vector",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14072_00_00AD86FB5A56A735E79625D3A7E3A7270B0952B8A8/C0BCB74BCA72B624141F07FFD1B0D1ECD184EA89.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 4,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR14073_00": {
+        "npCommunicationId": "NPWR14073_00",
+        "trophyTitleName": "Vroom Kaboom",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14073_00_00AE5375198749A98BCDE6C207A31702F9EBBFC7B6/93430D8606F54DB942222509214137C5C7CCA9C4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR14074_00": {
+        "npCommunicationId": "NPWR14074_00",
+        "trophyTitleName": "うたわれるもの斬",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14074_00_001F3FDC44616C2B82B13AFDA5FD3C34355848CF71/B580F9A653DFFA53E14E75DF4036F984012F1F2F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR14075_00": {
+        "npCommunicationId": "NPWR14075_00",
+        "trophyTitleName": "DISSIDIA FINAL FANTASY NT",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14075_00_00EC7E439572B10425EC0F8D01B5FB951A9D144FF9/9CE44787014035143C53087266260AF536E2B4AD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 48
+        },
+        "service": "trophy"
     }
 }
