@@ -40688,5 +40688,135 @@
             "bronze": 21
         },
         "service": "trophy"
+    },
+    "NPWR07687_00": {
+        "npCommunicationId": "NPWR07687_00",
+        "trophyTitleName": "Ring Run Circus",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07687_00_00A2B9482DE1FBD52A8938BCEF7C370665777F85F2/C610464CC568C89E3D945627EF363E3FC3F816B5.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR07688_00": {
+        "npCommunicationId": "NPWR07688_00",
+        "trophyTitleName": "Retro City Rampage™ DX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07688_00_007425772461A59246DD31DF4814BE35D8D5FF3860/A3F17609DDFF4713DB68162B9F3A4923F418D2DA.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR07689_00": {
+        "npCommunicationId": "NPWR07689_00",
+        "trophyTitleName": "ブレイドストーム　百年戦争＆ナイトメア",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07689_00_00D43D93EED359FD109C20D89FF57E9222756999C5/50B992732150E20C28BFC8E76DBF3CA0254C35A6.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR07690_00": {
+        "npCommunicationId": "NPWR07690_00",
+        "trophyTitleName": "Dust: An Elysian Tail",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07690_00_00E90733961F9CB12342145F07A9FE7BCDDCA73552/B7C9C2A1C58DFA8FA0D4618149DEFED035F15B50.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR07693_00": {
+        "npCommunicationId": "NPWR07693_00",
+        "trophyTitleName": "Arcade Archives Karate Champ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07693_00_00FCB77FFC72BFFB989A2FBF06AABE1783AC19E248/AE8688644AE97B52B22167CA09A4CB0D65D64D10.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR07695_00": {
+        "npCommunicationId": "NPWR07695_00",
+        "trophyTitleName": "Rabbids Invasion: The Interactive TV Show",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07695_00_0033674973B69BB7DF2A0F1C8F4676E8D6486712DB/F7C580C5EDF03AE58EA829FB2C3179CC2585BE3E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR07697_00": {
+        "npCommunicationId": "NPWR07697_00",
+        "trophyTitleName": "Tears to Tiara Ⅱ Heir of the Overlord",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07697_00_0087DC4CB74C32D2E9DA4BB2E52520ED79DCCAC85A/B77C98E6127A6729791C444CFC18D8A81BF15326.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 51
+        },
+        "service": "trophy"
+    },
+    "NPWR07698_00": {
+        "npCommunicationId": "NPWR07698_00",
+        "trophyTitleName": "Medieval Defenders",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07698_00_009691F6F6552CB3B1DC584DCAEF8D027AC1C6ADC4/92F514E9862848053E9F1167F384ED0A78DB3423.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR07707_00": {
+        "npCommunicationId": "NPWR07707_00",
+        "trophyTitleName": "カエル畑ＤＥつかまえて",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07707_00_0018A8A22CF416D6DA9A552EA6350B9091F444DE09/169743C7BB85B7072FD5FBD2233BA2163CAFFEE9.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR07709_00": {
+        "npCommunicationId": "NPWR07709_00",
+        "trophyTitleName": "Hyperdimension Neptunia Re;Birth2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07709_00_0067400C797B0013FDDBBB2A933385FA2BD10A6FFE/EEDAC0747E2019CEA2EDD104754147879F3E4504.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 27
+        },
+        "service": "trophy"
     }
 }
