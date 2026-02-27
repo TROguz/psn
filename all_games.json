@@ -39778,5 +39778,135 @@
             "bronze": 12
         },
         "service": "trophy"
+    },
+    "NPWR07486_00": {
+        "npCommunicationId": "NPWR07486_00",
+        "trophyTitleName": "Trine Enchanted Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07486_00_0095D8FBEBAA38E6A4017EB8794273464E6699274E/50F341E136EF21C5AD2B2C007890B5731ACE7C20.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 4,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR07494_00": {
+        "npCommunicationId": "NPWR07494_00",
+        "trophyTitleName": "DIABOLIK LOVERS MORE,BLOOD LIMITED V EDITION",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07494_00_00114BD0BC93A5544E40ECC9E429529B7B3482AC11/DB96ABE15209E2D3AA820D2988F4FE5344662957.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR07503_00": {
+        "npCommunicationId": "NPWR07503_00",
+        "trophyTitleName": "htoL#NiQ -The Firefly Diary-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07503_00_00F91ED9612AB1AFEFD8553C2445DA6715677C2717/C88594B48D62F0A99CAEA8B8819355C1751DAC34.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR07504_00": {
+        "npCommunicationId": "NPWR07504_00",
+        "trophyTitleName": "MXGP - The Official Motocross Videogame",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07504_00_00794C7B839BE8F2F7FB238423E2641393C4ED7497/4227C6DAE17F20149A6FCB606F405B1A5D477B53.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR07509_00": {
+        "npCommunicationId": "NPWR07509_00",
+        "trophyTitleName": "Rugby 15",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07509_00_001E9D6C6A1FB277E0CBB74DEA93515C997344E038/A55DE876128A70AAC955B0782BC22CA2A6C6C753.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 4,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR07510_00": {
+        "npCommunicationId": "NPWR07510_00",
+        "trophyTitleName": "Flame Over",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07510_00_0025952325AE1AD369DDC496B34304E62CFEE7C972/225BCEC7FB774EC5A748391FE121787A8D48AF40.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR07514_00": {
+        "npCommunicationId": "NPWR07514_00",
+        "trophyTitleName": "Rugby 15",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07514_00_001635A1FE867148F406302A1AEC31616DB57CEFF7/5E30DE13F7711B2881F8565511AAFE3C2AA40A04.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 5,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR07515_00": {
+        "npCommunicationId": "NPWR07515_00",
+        "trophyTitleName": "Rugby 15",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07515_00_00C9F1C2A6DC911E8F240F3E052B92AA446BE16F42/9364A25018BAEA05BFB8CE0B9CB6E8EE21835B79.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 4,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR07517_00": {
+        "npCommunicationId": "NPWR07517_00",
+        "trophyTitleName": "Tennis in the Face",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07517_00_00E59ED7DC29D704A2F2EB37C4BA08DE4C9C39BA99/28BFA35F2B43F499C8F75103B09039331E562CF7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR07518_00": {
+        "npCommunicationId": "NPWR07518_00",
+        "trophyTitleName": "STREET FIGHTER V",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07518_00_003EB126E90C0DE22541DA328FA61D21CFDDBC33E3/5945FDA3F95C69F80B2DA559657898DECFE58BC2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 35
+        },
+        "service": "trophy"
     }
 }
