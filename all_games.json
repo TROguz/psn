@@ -80988,5 +80988,135 @@
             "bronze": 29
         },
         "service": "trophy"
+    },
+    "NPWR13498_00": {
+        "npCommunicationId": "NPWR13498_00",
+        "trophyTitleName": "BLEED",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13498_00_00F86917B94D779B127BB3A58DBC0E00C9558CB143/8DD3C1831449C963D71DF52EE1518AE4EE11D66F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 16,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR13499_00": {
+        "npCommunicationId": "NPWR13499_00",
+        "trophyTitleName": "BLEED",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13499_00_00A57C13A00E9D11A9F2C82B85FDE81649244C17BD/4E969D74246FC586BD83BF2FFC17668D46E9B44F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 16,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR13500_00": {
+        "npCommunicationId": "NPWR13500_00",
+        "trophyTitleName": "Nidhogg 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13500_00_00FFFE71698F475EFD32AB7E6C2D7BD017E8C51F5C/3CCCEE56DF12FA506E61F183A76057697DDC9242.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 6,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR13502_00": {
+        "npCommunicationId": "NPWR13502_00",
+        "trophyTitleName": "Super Blackjack Battle 2 Turbo Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13502_00_001AEAF7DF6271830780087F4F1F80136052F015D3/9181492E60FC170809AAE49ADCB25D19366FA761.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 22,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13503_00": {
+        "npCommunicationId": "NPWR13503_00",
+        "trophyTitleName": "Anarcute",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13503_00_00670489C3A16548ECFC99EA0B3601626C378FC904/7B5E19069C60EF1E874F760AEDDD750E811F651B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR13504_00": {
+        "npCommunicationId": "NPWR13504_00",
+        "trophyTitleName": "Earth Atlantis Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13504_00_00C39455595CE740253B7684E19D230EF362509DF8/8B2B2FA668536AD57DECC5F5B07DF0E91DBAB432.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR13505_00": {
+        "npCommunicationId": "NPWR13505_00",
+        "trophyTitleName": "Earth Atlantis Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13505_00_00447EEE3A66CA85BC47CAEFB9AC6EAA325D1F94CF/18BCCAB2ADC688947F57F6856D0E851CB3257783.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR13511_00": {
+        "npCommunicationId": "NPWR13511_00",
+        "trophyTitleName": "Always Sometimes Monsters",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13511_00_008E368E0566ED95FAF9A52C3C49871EB96DD6E0AC/FFC033280ED8D708D52BB7C9362C6C6CE590F5C7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR13513_00": {
+        "npCommunicationId": "NPWR13513_00",
+        "trophyTitleName": "Steven Universe: Save the Light",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13513_00_0070B1C84A19F5B98D7A08BEA8E6282A6F2577857C/F17541B9D2924188E6FF42F19337EAFE5184D546.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 9,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR13514_00": {
+        "npCommunicationId": "NPWR13514_00",
+        "trophyTitleName": "Battlestar Galactica Deadlock Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13514_00_00E6D3F7DBD9D8ED99FD80FFD53CCCB4F80680E84B/BDFE426465BBB9533F7350BE938BE4B706DBCF1C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 18,
+            "bronze": 4
+        },
+        "service": "trophy"
     }
 }
