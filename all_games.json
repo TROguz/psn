@@ -38478,5 +38478,135 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR07253_00": {
+        "npCommunicationId": "NPWR07253_00",
+        "trophyTitleName": "ROOT∞REXX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07253_00_009E5BA599CB65A2A4C56BCD367A8DE583C6D11137/80E087DBD534C79AE88D80A3BF969B9FF1DDFFB0.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR07255_00": {
+        "npCommunicationId": "NPWR07255_00",
+        "trophyTitleName": "シェルノサージュ OFFLINE ～失われた星へ捧ぐ詩～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07255_00_006BC7A2D17261332D0B38C61C21481C81F4AFB5C4/FDC1A453689CDC29238FC6E474D5A65A70A29782.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 17,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR07259_00": {
+        "npCommunicationId": "NPWR07259_00",
+        "trophyTitleName": "AR NOSURGE PLUS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07259_00_009B0EA68D5F2DAC121728C2CD57D9CF1043F69373/CF8A9A9DC12253108B0519C9CA1B8CE6D6869EA0.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 14,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR07264_00": {
+        "npCommunicationId": "NPWR07264_00",
+        "trophyTitleName": "新次元ゲイム ネプテューヌVⅡ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07264_00_00397E7F07DCE445B313910A69AB504D9946953D7A/F66BF972E9C43185F4D2CA8BB0B9F43A231EFC43.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR07267_00": {
+        "npCommunicationId": "NPWR07267_00",
+        "trophyTitleName": "聖剣伝説 RISE of MANA",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07267_00_00128CEDA7F81C1A6DEC283341123D4D236A497857/A1D55EE2CE8B4BDBEFC16ACF6A6FC3D5454B1907.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR07270_00": {
+        "npCommunicationId": "NPWR07270_00",
+        "trophyTitleName": "ハナヤマタ よさこいLIVE！",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07270_00_00539D8622112B875E41E83F3441374AD8E6910EB1/B41AA0B8F8BB73EDAFC792C39DE7C61BC3D09ED7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR07279_00": {
+        "npCommunicationId": "NPWR07279_00",
+        "trophyTitleName": "DmC Devil May Cry™: Definitive Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07279_00_002D2C9AC835185480ADB9FE1A5C736E46FD0808AD/91E11B6DF8014BD1E636A380ED7CD7952484C6B0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR07280_00": {
+        "npCommunicationId": "NPWR07280_00",
+        "trophyTitleName": "CHAOS RINGS Ⅲ Prequel Trilogy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07280_00_0013648EDA70C6362EC0AF5A7303CD4272D93B1700/ED12D5175B37B23802042EE2E352A6F840D787D1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR07284_00": {
+        "npCommunicationId": "NPWR07284_00",
+        "trophyTitleName": "SENRAN KAGURA ESTIVAL VERSUS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07284_00_000D0C3D92C4432A0896501B3DDD2C3ADEC6D5FB98/AF34245026397C0B3C1073B24B7B2D152F392F09.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR07285_00": {
+        "npCommunicationId": "NPWR07285_00",
+        "trophyTitleName": "SENRAN KAGURA ESTIVAL VERSUS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07285_00_000B57A54779962FEA34C6EE16046186719252D7CC/B0B7A585805982D0DF42C5FBB48C00B7DA83ADCC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 34
+        },
+        "service": "trophy"
     }
 }
