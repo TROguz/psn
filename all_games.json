@@ -73058,5 +73058,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR12482_00": {
+        "npCommunicationId": "NPWR12482_00",
+        "trophyTitleName": "Sundered",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12482_00_00E2696B8201E884AA7F2C7FDB174E34DAF42420DC/B6C3F123677566194197C9F41F70BD217E7B7BF7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 4,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR12483_00": {
+        "npCommunicationId": "NPWR12483_00",
+        "trophyTitleName": "ツキトモ。 -TSUKIUTA. 12 memories-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12483_00_00015348EF47B6EFC75FDAACB1BB2478AF06AEF3FB/8D8BEC531C4D0C11708D88AC1D2399890DF37A4F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 13,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR12484_00": {
+        "npCommunicationId": "NPWR12484_00",
+        "trophyTitleName": "ヨイヤミドリーマー",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12484_00_008593247015DF90F8D0769A709E7FF98BDECC547D/F0E610C394DF7FE3FF24C25974C27976242FBFA4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR12487_00": {
+        "npCommunicationId": "NPWR12487_00",
+        "trophyTitleName": "Dream Angling",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12487_00_00121252BF2A8C3C91579D5588B665E52BEACFE72D/07FA2B0841C9D3493A40FBFBF39939974232FD5C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR12488_00": {
+        "npCommunicationId": "NPWR12488_00",
+        "trophyTitleName": "Gundemoniums",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12488_00_00E84C0C3C165747E493DF73921E606A36EF5E4D31/CDAD371E528090D4A457C891539E2450C7F47FF4.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR12489_00": {
+        "npCommunicationId": "NPWR12489_00",
+        "trophyTitleName": "WonderBoy Returns",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12489_00_00B4950DD44E7B291130603223F527E0FC65A1BC7D/89C77B8D11664C6BE1EFB4E93D75044AFD91EF08.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR12490_00": {
+        "npCommunicationId": "NPWR12490_00",
+        "trophyTitleName": "Girls und Panzer Dream Tank Match",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12490_00_007937FC7EBB08BF8FBEF9250ECD61F62234D5E45A/FE359863F011EEB50B77CD7C671661C862885868.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR12491_00": {
+        "npCommunicationId": "NPWR12491_00",
+        "trophyTitleName": "SUMMER LESSON: Allison Snow Seven Days Garden",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12491_00_00CF3EDFAE93C2F46DC9CE05219C891793031D695F/43B5F76C6A1F41171E134A966BB67E8A2D5EC616.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR12492_00": {
+        "npCommunicationId": "NPWR12492_00",
+        "trophyTitleName": "SUMMER LESSON: Chisato Shinjo Seven Day Etude",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12492_00_00A530228A5986217CFF511917D0612FD82B99D570/6797EF5FEEF89DC7A01DAE013243422481B2EF14.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR12494_00": {
+        "npCommunicationId": "NPWR12494_00",
+        "trophyTitleName": "Rise & Shine",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12494_00_00B99A12D8B09A1033F93AAF1B662ED8E0F281EC93/7278F002B32667057335C87AB51B39F857294C95.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
