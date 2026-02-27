@@ -34838,5 +34838,135 @@
             "bronze": 13
         },
         "service": "trophy"
+    },
+    "NPWR06460_00": {
+        "npCommunicationId": "NPWR06460_00",
+        "trophyTitleName": "デート・ア・ライブ　或守インストール",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06460_00_00FF8C83C8659E8F867110C80A49D8E72B9DAC3919/0D04F9F5C94CA004E22A8F0092885A9AE1F331A9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR06461_00": {
+        "npCommunicationId": "NPWR06461_00",
+        "trophyTitleName": "The LEGO® Movie - Videogame (GER)",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06461_00_003D0C21F72664834462C30B3E6D3AB445693EC8F9/33A93083107B56E82A73DAC60DD14E32700BEDAE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR06462_00": {
+        "npCommunicationId": "NPWR06462_00",
+        "trophyTitleName": "Stick It To the Man",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06462_00_00FA084F259F92731AAE3812ADC7CE05CF00F3AD59/1F6102AFC57E2DCA0932A6973075EC6A155D64DE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR06468_00": {
+        "npCommunicationId": "NPWR06468_00",
+        "trophyTitleName": "Madden NFL 15",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06468_00_00592AA594C59F1570D7F4DD9582D14967F616C17C/2C99FA8CF7B1647A5C1FD40183C7BF99E54215A0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 17,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR06473_00": {
+        "npCommunicationId": "NPWR06473_00",
+        "trophyTitleName": "ダウンタウン熱血行進曲",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06473_00_005A749FA8D100EC32780DFBDCADED728AE04E0872/BEA7A09E60B17492C7EA091CDEF2F0F2FBEE02BE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR06483_00": {
+        "npCommunicationId": "NPWR06483_00",
+        "trophyTitleName": "『デカ盛り 閃乱カグラ』本体パックＢ (月閃・蛇女)",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06483_00_00F326464FBF07A982CECBD55DDA95D6D2ACF4E7C5/80298BAAA2493CA6E10A3E2D504366845B722059.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR06484_00": {
+        "npCommunicationId": "NPWR06484_00",
+        "trophyTitleName": "Alien Shooter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06484_00_004850630311D91F0ED192FB7625F833B9D78230CB/30BA08261264CD5CE850035A7579537C04AB0D4E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR06487_00": {
+        "npCommunicationId": "NPWR06487_00",
+        "trophyTitleName": "真 流行り神",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06487_00_000A5245CB43FA7A3E81219E53E7C9CF5098228FD9/A58898E35F87BE3907F046EBBF95DF8DD99EC650.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR06493_00": {
+        "npCommunicationId": "NPWR06493_00",
+        "trophyTitleName": "ガールズ＆パンツァー 戦車道、極めます！",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06493_00_0032B6A2F1AA9CEE43979DDFF88A1A33BF65CCE8B0/66E542B3D8BD47D97B5B96ED7EB53BF0FE95AF6A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR06494_00": {
+        "npCommunicationId": "NPWR06494_00",
+        "trophyTitleName": "英雄伝説 閃の軌跡Ⅱ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06494_00_00C15168517FC67FE4F0A9553266D9B81CB7B4857B/8BD7BE63DF29EAA9D93CFAC8EAB7A5E557C763EF.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
     }
 }
