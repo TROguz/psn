@@ -90738,5 +90738,135 @@
             "bronze": 2
         },
         "service": "trophy"
+    },
+    "NPWR14762_00": {
+        "npCommunicationId": "NPWR14762_00",
+        "trophyTitleName": "Defenders of Ekron",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14762_00_006A76995445647671EFBAB57B8DEA235D73005F41/4E89842CF8BAE490A06F8F7FBA1145337BBCAD6A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 1,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14763_00": {
+        "npCommunicationId": "NPWR14763_00",
+        "trophyTitleName": "One Eyed Kutkh",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14763_00_006B1CBB2DC02934FE3D2079A93BE89F155C9A3DF2/55989F64A48A1BCE17621DAF8CDC9FF1973C8B63.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14764_00": {
+        "npCommunicationId": "NPWR14764_00",
+        "trophyTitleName": "Air Missions: Hind Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14764_00_00A7AF6F2A1396FE6EE0880F5AF33566C144102CF3/CF5CFA883C072EF706CF81FC6FCEB24D84620EE7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR14765_00": {
+        "npCommunicationId": "NPWR14765_00",
+        "trophyTitleName": "One More Dungeon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14765_00_00FF49A2F8F7A9BDC66F654F87042B490A224C6DD1/74AE4207B4766928C571E0B6A8F27019C2F1DAF1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR14766_00": {
+        "npCommunicationId": "NPWR14766_00",
+        "trophyTitleName": "One More Dungeon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14766_00_006C8B00DF8CE2EEF4BAA58338F1C5EC8F3F643EF7/1FC0477504F7FCB6DD14245012E96B8C70E73E1F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR14767_00": {
+        "npCommunicationId": "NPWR14767_00",
+        "trophyTitleName": "Trailblazers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14767_00_006046E9EAFCD1D4E321D2531B101EFB7F036C43A9/456C0D76B15957406A352CFD347CE9B8FC75E579.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR14768_00": {
+        "npCommunicationId": "NPWR14768_00",
+        "trophyTitleName": "Deep Ones",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14768_00_002F16FCD71EF717DB75BA2A5372C56D441DE60C14/E47355526DB183EC7AD5D4C3E622A933D81FE02C.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 10,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR14769_00": {
+        "npCommunicationId": "NPWR14769_00",
+        "trophyTitleName": "One Eyed Kutkh",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14769_00_00DB27FF2F4B01CA6F59C40F37B3E275EE619223EE/358B83C438D1C387B214B73EB58B20570A51BE95.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14770_00": {
+        "npCommunicationId": "NPWR14770_00",
+        "trophyTitleName": "Deep Ones",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14770_00_00B1663E50BEDC42CACB610219FC6388A67208538C/6FD16292062FA4172D69A868B96B020048D63B26.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 10,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR14771_00": {
+        "npCommunicationId": "NPWR14771_00",
+        "trophyTitleName": "One Eyed Kutkh",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14771_00_003A2DB8CA4AD27FBEEFC0F8FC4AFF0D6DDD43BD28/1E35573447B8F0D9A0E7650F360BD2464B9D7C64.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 1
+        },
+        "service": "trophy"
     }
 }
