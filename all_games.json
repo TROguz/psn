@@ -92038,5 +92038,135 @@
             "bronze": 9
         },
         "service": "trophy"
+    },
+    "NPWR14915_00": {
+        "npCommunicationId": "NPWR14915_00",
+        "trophyTitleName": "Suicide Guy Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14915_00_00833069F9C04991D0EDBD8826B60F192480843BE1/7B3385AE33EB4A4427EB3E4D3848EDD9AEBD5094.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 2,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14916_00": {
+        "npCommunicationId": "NPWR14916_00",
+        "trophyTitleName": "Fe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14916_00_006106356A95DB2AB8FD60A8B63FF0E7295C031B55/BCB67B31AC9ACA297237A61BBE9C689823C8DC4C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 2,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14917_00": {
+        "npCommunicationId": "NPWR14917_00",
+        "trophyTitleName": "Suicide Guy Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14917_00_0066AEDF76B824038D0D1E7A77282FAA552554D4B7/C5DB382408F458CCD0474322B945BF4C2FD38194.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 2,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14918_00": {
+        "npCommunicationId": "NPWR14918_00",
+        "trophyTitleName": "Hotel Transylvania 3: Monsters Overboard",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14918_00_00D6D8614853EA2DCD2820618182D772EFC2B1B64A/00817DAF97E3D82F3FE734E41DE7BE92041EACCD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14919_00": {
+        "npCommunicationId": "NPWR14919_00",
+        "trophyTitleName": "The Cat and the Coup\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14919_00_008F4E4B197D4272642D8522802BFC4344120CDAC8/DAD2779CAEC7828BC7F1289F47CBB1AE1CB7D7A1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 0,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14920_00": {
+        "npCommunicationId": "NPWR14920_00",
+        "trophyTitleName": "The Night Journey",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14920_00_004D0A8115B59B80B7C870B42624C858CCC9625FE9/C25B1CE91F7CCD0C78FD095E42B6584CB6A05634.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR14923_00": {
+        "npCommunicationId": "NPWR14923_00",
+        "trophyTitleName": "MUSYNX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14923_00_00E8E25733F86905CF0A78AE4987B5ADBFF9372888/ECA50F72966C1C919B5303CC22DCF40B1A270192.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR14924_00": {
+        "npCommunicationId": "NPWR14924_00",
+        "trophyTitleName": "Enigmatis 3: The Shadow of Karkhala",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14924_00_008D7F65A57D66BCFB2CA522C14D2CEF86F6F4305D/1CF8C88D7A64879E3E23EC34D5CFDA72A1A1DC88.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR14925_00": {
+        "npCommunicationId": "NPWR14925_00",
+        "trophyTitleName": "Outward",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14925_00_00F292D748A642791CF7E86AFB7005E6BDFF5296DF/A8529C19CC630276D42CD69A217D7A45C098D149.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 56
+        },
+        "service": "trophy"
+    },
+    "NPWR14926_00": {
+        "npCommunicationId": "NPWR14926_00",
+        "trophyTitleName": "Outward",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14926_00_00ED8EE88395FBDC3579BCC0AFD537D3A51F71F566/061C238019A7C5A67A8CD1D01D97FDFE6C7FF8B2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 56
+        },
+        "service": "trophy"
     }
 }
