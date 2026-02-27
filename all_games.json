@@ -18848,5 +18848,135 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR03120_00": {
+        "npCommunicationId": "NPWR03120_00",
+        "trophyTitleName": "Derrick's Cabinet",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03120_00_00FD41856417C512A4718A8CE5B04B19E98F7159CF/61E467565283FCF5C2FD041CE48635B0B59AA266.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR03121_00": {
+        "npCommunicationId": "NPWR03121_00",
+        "trophyTitleName": "スロッターマニアＶ　BLACK LAGOON",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03121_00_003B9410418315BE33071F004661C959781D0D48A5/4E8B28F746641407D713A4650801696E4DA221D3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 6,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR03123_00": {
+        "npCommunicationId": "NPWR03123_00",
+        "trophyTitleName": "STEINS;GATE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03123_00_0036F2D361A91148A06288F79AFC792202ACA75E90/8BFCD3B03BD38C7C42759F9A6CE9F770047923E2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR03124_00": {
+        "npCommunicationId": "NPWR03124_00",
+        "trophyTitleName": "Metal Gear Solid 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03124_00_00F8E794AF4809EB0426FB08E18745A44B196E93D9/476316D8F4E4F221228F4E1295767FF136B1C580.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR03125_00": {
+        "npCommunicationId": "NPWR03125_00",
+        "trophyTitleName": "STEINS;GATE 比翼恋理のだーりん",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03125_00_00EEF075B86EF508D8E17FF9159F89DE5CFDF3B74B/AE531499ACF9E199162A5D484B58CBB801F7F937.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR03127_00": {
+        "npCommunicationId": "NPWR03127_00",
+        "trophyTitleName": "Next Education TOEIC(R) TEST",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03127_00_0062136B067E0C52031CED77202CCB33BAEC741B66/28596CE577020D03A0EB07987F7AD9330D46382D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR03128_00": {
+        "npCommunicationId": "NPWR03128_00",
+        "trophyTitleName": "Metal Gear Solid 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03128_00_0037A3B2632E54F7BB5A982F0CEE30C7ADD48716D5/B72A6013834332675F05D957D097B513E86A672B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR03134_00": {
+        "npCommunicationId": "NPWR03134_00",
+        "trophyTitleName": "Assassin's Creed® III Liberation",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03134_00_0008206095F67FD3BB385E9E00A7C9CFE6F5A4AB96/5F87A6997DD23D1C4D4CC0D1F958ED79CB905331.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 21,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR03135_00": {
+        "npCommunicationId": "NPWR03135_00",
+        "trophyTitleName": "Rainbow Moon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03135_00_00216BB2BA1C6ED095DFC0E0066C3D1F449EC478EA/4B75D5EB04C4431735A874681531C48B6B15D788.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR03137_00": {
+        "npCommunicationId": "NPWR03137_00",
+        "trophyTitleName": "圧倒的遊戯 ムゲンソウルズ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03137_00_00CE53B393C3D645718A40B46CCA4B956A67A2D605/2A81D9475BFD12F6DAA0610DDFF17372040A111A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
     }
 }
