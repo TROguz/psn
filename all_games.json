@@ -68768,5 +68768,135 @@
             "bronze": 48
         },
         "service": "trophy"
+    },
+    "NPWR11937_00": {
+        "npCommunicationId": "NPWR11937_00",
+        "trophyTitleName": "東方幻想魔録W",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11937_00_00E82EC162E693A8563E65F645A8A2DFD63ACE58C4/D7E8C25FD27818DD9672828BF65782B8EE2DCD95.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11938_00": {
+        "npCommunicationId": "NPWR11938_00",
+        "trophyTitleName": "Space Rift",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11938_00_008091B5D6DEBA8DC258A5497554D7863D5EDCD958/9C77B2E60A0843FC3867F59A76D934BD4EEA8640.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 1,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR11939_00": {
+        "npCommunicationId": "NPWR11939_00",
+        "trophyTitleName": "Space Rift",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11939_00_0089F1389CC1AE16DBDC88FFB8916C4BA5F80DC38D/97C392A92FCB43090942EABFA1D2EBECBAF37B57.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 1,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR11940_00": {
+        "npCommunicationId": "NPWR11940_00",
+        "trophyTitleName": "Job Simulator Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11940_00_00DCCCAF21274887129A063B151B736ABE310CDA78/D7C2E01C8D0D76610549E0CE04865473B0E33144.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR11941_00": {
+        "npCommunicationId": "NPWR11941_00",
+        "trophyTitleName": "Wayward Sky",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11941_00_001FB991C4286D77176C18178176F7598CCCE50332/018F4975C68217ADA9C90BD7B757E5EC6AB8C668.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR11942_00": {
+        "npCommunicationId": "NPWR11942_00",
+        "trophyTitleName": "Magnet Knight",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11942_00_00685D585F87512C0CA9F325153BA6C3A125D232C4/2F7D109DD3F7077D372EB8686AD4367B6ADF752A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR11944_00": {
+        "npCommunicationId": "NPWR11944_00",
+        "trophyTitleName": "Battalion Commander",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11944_00_00BA8E1D0B50DAA6469D443D6E4D255B81763A0F10/C26D6EDD2DD15FAEC725A4DA0F02605420A09E21.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11949_00": {
+        "npCommunicationId": "NPWR11949_00",
+        "trophyTitleName": "双星の陰陽師",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11949_00_003488DA3DC6FCFBB69DC6B8107F703E1E12974F41/57247DFACE89EEA1DE5C1DF89F1A1D21E9D21FD9.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR11950_00": {
+        "npCommunicationId": "NPWR11950_00",
+        "trophyTitleName": "星战钢甲",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11950_00_004451F534FF497C04B02238125B34F2393DDC8152/3872F066F1911589C4DE98D2022D8DFD4CE26590.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11951_00": {
+        "npCommunicationId": "NPWR11951_00",
+        "trophyTitleName": "신 하야리가미2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11951_00_00F9F6A2F8E5AFF638A72CA7D6688AFEBF31186BE3/594882C66534688390C8896E858DB7037C32EFD6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
