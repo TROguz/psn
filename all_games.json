@@ -21058,5 +21058,135 @@
             "bronze": 30
         },
         "service": "trophy"
+    },
+    "NPWR03578_00": {
+        "npCommunicationId": "NPWR03578_00",
+        "trophyTitleName": "Cabela's® Dangerous Hunts 2013",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03578_00_005E04F7C8D0E457FDDD9704B454FF67D480379B54/FE0314271924E1E1F0C002931C2C739F17ED2136.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR03580_00": {
+        "npCommunicationId": "NPWR03580_00",
+        "trophyTitleName": "XCOM: Enemy Unknown",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03580_00_00B99D09CFEC4BD556DCD9D36A6EE4A9A023F0DC94/C272E5FC7C1F30F7BFF84B6F2C483CB9A54EBB37.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR03581_00": {
+        "npCommunicationId": "NPWR03581_00",
+        "trophyTitleName": "Sly Cooper: Thieves in Time™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03581_00_00166D98CDE19468AD3128794E762B1EE14849D570/442C12ABA76E9E3F219B6960F08353471B485F9A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR03586_00": {
+        "npCommunicationId": "NPWR03586_00",
+        "trophyTitleName": "International Snooker",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03586_00_005BBA3A7C144F541F195F64254D4235019C0F3FDE/680E66976CCAEACF8295FE0927054735862D37D7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR03591_00": {
+        "npCommunicationId": "NPWR03591_00",
+        "trophyTitleName": "初音ミク -Project DIVA- f",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03591_00_00DE05F9DACA711CA1F3E496BF3B902FBE2B33455C/0FE7734ACF662FD13DC946765611709AC9432476.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR03593_00": {
+        "npCommunicationId": "NPWR03593_00",
+        "trophyTitleName": "Retro City Rampage",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03593_00_0009511A03DEBD9927A6EC24081685307924CEAED8/3AA02B23EA6540136B87D19EA42CBF746F6D078A.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR03594_00": {
+        "npCommunicationId": "NPWR03594_00",
+        "trophyTitleName": "HEAVY FIRE AFGHANISTAN",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03594_00_0070DEFC3BFD03934F81540900DF786AD43798A4E4/415B6F6AF62A6793A079EA6AB9A0853AFA172E3F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR03595_00": {
+        "npCommunicationId": "NPWR03595_00",
+        "trophyTitleName": "Worms™ Revolution",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03595_00_003B1C60C0B1A506DE213DB3EEC22F2D181350080B/C916B7021AF923630CFC3901DE78BC44031499AF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 15,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR03597_00": {
+        "npCommunicationId": "NPWR03597_00",
+        "trophyTitleName": "Double Dragon Neon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03597_00_00B817C39F5C5A86E4C4CD19602731C12A49331FED/7A26408AFB0340461DBA7397F11E640698A065AA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR03598_00": {
+        "npCommunicationId": "NPWR03598_00",
+        "trophyTitleName": "ドリームクラブComplete Edipyon!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03598_00_00928FC732A36C5ED1FBC6E185EEB18758B3EE0525/507DC033F1FDAC51C0719E1AF866C26C2256F533.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 11,
+            "bronze": 42
+        },
+        "service": "trophy"
     }
 }
