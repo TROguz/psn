@@ -63958,5 +63958,135 @@
             "bronze": 6
         },
         "service": "trophy"
+    },
+    "NPWR11309_00": {
+        "npCommunicationId": "NPWR11309_00",
+        "trophyTitleName": "Re:ゼロから始める異世界生活 - DEATH OR KISS -",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11309_00_008D4745E9D2A29743E94871A04D74603C65FA1716/FCC6F3AAF5B02AA50276C7D1AD87BE48FF2CBB03.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 18,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR11310_00": {
+        "npCommunicationId": "NPWR11310_00",
+        "trophyTitleName": "Re:ゼロから始める異世界生活 - DEATH OR KISS -",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11310_00_009128F1547018DB26B7E7A601B7ED841F90C2B9B3/52D7DC62CE5E7904408ED067C8B8EA8D95A2B286.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 18,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR11312_00": {
+        "npCommunicationId": "NPWR11312_00",
+        "trophyTitleName": "薄桜鬼 遊戯録　隊士達の大宴会",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11312_00_00AC37DADBD0D0EC26F1B48A2C96E1BD3DD3A82742/CAE0AED156D2D8F7617977D048CCEE038AF7615D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 22,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR11316_00": {
+        "npCommunicationId": "NPWR11316_00",
+        "trophyTitleName": "Laser Disco Defenders Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11316_00_0016AED936A30859EA0A151A64F2947F9F0DA94BDE/E94067CD48A36096883B7BBA7F215D014613D0E0.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11317_00": {
+        "npCommunicationId": "NPWR11317_00",
+        "trophyTitleName": "HoPiKo\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11317_00_008F752E19A6D9D6AEBC8310F097855D136CDC6470/210CAADE31659681A4BE5E9CB56D0746FC44B4B0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11319_00": {
+        "npCommunicationId": "NPWR11319_00",
+        "trophyTitleName": "So Many Me",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11319_00_00A31521BB4C09DDCD3B97EF20E75336BEBBB46EDF/7B27D2EE59D14EF91BCDE02EB94FD01B44AAB0D6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 5,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR11320_00": {
+        "npCommunicationId": "NPWR11320_00",
+        "trophyTitleName": "NEW GAME! -THE CHALLENGE STAGE!-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11320_00_0081E7E87BDC66C3E2929039B9B47513EE0D55DDA3/94DF3F1B53BDAC0D7FB53248D2FFA4DA76D427B4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 18,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11322_00": {
+        "npCommunicationId": "NPWR11322_00",
+        "trophyTitleName": "Reus",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11322_00_00A9969649C096C9ABD8411FB262FA21C7E57B07AD/A187A534B899E3DF465294B6F01E23E53CB62C29.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR11323_00": {
+        "npCommunicationId": "NPWR11323_00",
+        "trophyTitleName": "LIVELOCK",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11323_00_005CC8EC53ED9F104A2B0DCFDC9035EDB3E8CCD52E/3494804871CF805A7BC406B66011584571E42550.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 4,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR11327_00": {
+        "npCommunicationId": "NPWR11327_00",
+        "trophyTitleName": "信長之野望・創造 戰國立志傳",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11327_00_00CF95ECE65F66AC8783F9633EE01A0D0E4365DAB2/C97D23368C36DA5B9D95C259703814875779BC79.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
