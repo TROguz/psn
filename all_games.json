@@ -68898,5 +68898,135 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR11952_00": {
+        "npCommunicationId": "NPWR11952_00",
+        "trophyTitleName": "Life Goes On",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11952_00_00D84187B83D526AC3D7654584AEEAC4F1F36A12EB/7B7A2DFDD114CE41E1C7C084E2D6CCACD39AC644.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 5,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR11953_00": {
+        "npCommunicationId": "NPWR11953_00",
+        "trophyTitleName": "探险家斯皮兰卡",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11953_00_002F1CEFA1079E97CFC2D4BE9D852EF910E41E58CE/18504ABAB924A8620C5BBD6590F840C1140009B7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11954_00": {
+        "npCommunicationId": "NPWR11954_00",
+        "trophyTitleName": "VRApocalypse Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11954_00_002D4E4EFC4ABB0CDAE18AFEC5D56A21AFC990B903/78693D9F335DFD04EE20C1C4930372F4915A0333.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 3,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR11955_00": {
+        "npCommunicationId": "NPWR11955_00",
+        "trophyTitleName": "The Keeper of 4 Elements",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11955_00_00DD3AD4FC1FC2515F08C1666032CA3D482DB07457/2254653DCF3EB6823C2E282FAAFAD7B13C25E464.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11961_00": {
+        "npCommunicationId": "NPWR11961_00",
+        "trophyTitleName": "Sylvio",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11961_00_009001A87D087A818F558CCD0044A2198363958E6B/87C9661466565A7D69BB53B352B265EEE4F7FC21.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR11962_00": {
+        "npCommunicationId": "NPWR11962_00",
+        "trophyTitleName": "Psychonauts in the Rhombus of Ruin",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11962_00_004E04B1511E3DD8B6A6C60C60222EA22A55C1A63B/6CA30CE4FC7F19182173AC480AC93DC2F6AD998D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11963_00": {
+        "npCommunicationId": "NPWR11963_00",
+        "trophyTitleName": "Day D Tower Rush",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11963_00_0043AC2C1E68C4C7A1E83D3D501CEBF5718828BE68/70CCBB2AD2B3872992CDDB6198407E27364B8263.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11964_00": {
+        "npCommunicationId": "NPWR11964_00",
+        "trophyTitleName": "Fort Defense",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11964_00_00822B10F3C65AC9B47C64911E57B1D20A036D48BD/BA1C0EBBB486454AD3B9BCECB8DD3F9FB4F6E12C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR11965_00": {
+        "npCommunicationId": "NPWR11965_00",
+        "trophyTitleName": "Fort Defense North Menace",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11965_00_00D207F00A2F655B6990F2FFF5193C36382BB9651E/4DC21827F4541DEE2896E1F831F7813E29B30725.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR11966_00": {
+        "npCommunicationId": "NPWR11966_00",
+        "trophyTitleName": "月影の鎖 -狂爛モラトリアム-\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11966_00_00A21C12DF8F936B2485F2DD5A6578021F6B109C22/08E40B2C37603F135735CBC8E76AC6F937464109.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 19,
+            "bronze": 8
+        },
+        "service": "trophy"
     }
 }
