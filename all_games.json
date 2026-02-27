@@ -64348,5 +64348,135 @@
             "bronze": 22
         },
         "service": "trophy"
+    },
+    "NPWR11357_00": {
+        "npCommunicationId": "NPWR11357_00",
+        "trophyTitleName": "Horse Racing Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11357_00_00FC0390AD78337B7A8F4AACED579ABE685BB214B8/758BA570DEA664CD34C936471C61EADAD79027B5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR11358_00": {
+        "npCommunicationId": "NPWR11358_00",
+        "trophyTitleName": "Castle Invasion: Throne Out",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11358_00_00016EEE48BCCB6411B432E1EEB0F7ADBBC7E4719A/97AB5CA6F860F94BC43B40E61B345B05C1B0EE48.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11360_00": {
+        "npCommunicationId": "NPWR11360_00",
+        "trophyTitleName": "WILD GUNS Reloaded",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11360_00_0005A2F4757DB0C21A664B50846CD02684FDCE7C95/BC72CB8E542A64C8D3D04DB5CDA90B54E04D2A80.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR11361_00": {
+        "npCommunicationId": "NPWR11361_00",
+        "trophyTitleName": "Nex Machina",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11361_00_00C97B650ED3F3BA1F86F572079BBA331B58B81463/C1669212DC0436334EC09EA2396C81556321C1BA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR11362_00": {
+        "npCommunicationId": "NPWR11362_00",
+        "trophyTitleName": "Metrico+",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11362_00_00332C8D24D2B16942B34C972FA9D6F817A04A8645/0B2735A3E6CDC0BAB0066FEE5D5A13ECF6E02D84.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 3,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR11363_00": {
+        "npCommunicationId": "NPWR11363_00",
+        "trophyTitleName": "クランク・イン",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11363_00_002710B6580912DF814F63310D14C5749E54A2894A/95C48778A31FBFA85B2E3D1B4207115675E9203F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR11364_00": {
+        "npCommunicationId": "NPWR11364_00",
+        "trophyTitleName": "Knot",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11364_00_005C2F90A5E9BF0E13036615FF84F2F130B2440362/BDDF0F5099846C3083923FBAE12E0BABDC2E139F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR11367_00": {
+        "npCommunicationId": "NPWR11367_00",
+        "trophyTitleName": "FINAL FANTASY Ⅻ THE ZODIAC AGE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11367_00_00DC6788ADDA02CC1788CFE22C61B83EF652E099A4/5215DEF4A76ED4B482FC68A2F9B45911C7230D80.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR11368_00": {
+        "npCommunicationId": "NPWR11368_00",
+        "trophyTitleName": "いただきストリート　ドラゴンクエスト＆ファイナルファンタジー　30th ANNIVERSARY",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11368_00_0067CEBF8CF15992913960C32B0E1935DA45932AF0/05B3403A93F933DDF083CB975FF25C659396D371.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR11369_00": {
+        "npCommunicationId": "NPWR11369_00",
+        "trophyTitleName": "Ninja Usagimaru: Two Tails of Adventure",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11369_00_00D437D50E28497B0D0A8C644D4A77DA1CD23C6DCB/7372F6417B1DE0D155ED8C333CD87365501B12A8.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 16
+        },
+        "service": "trophy"
     }
 }
