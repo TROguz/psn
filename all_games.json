@@ -33928,5 +33928,135 @@
             "bronze": 48
         },
         "service": "trophy"
+    },
+    "NPWR06232_00": {
+        "npCommunicationId": "NPWR06232_00",
+        "trophyTitleName": "Arcana Heart 3 LOVE MAX!!!!!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06232_00_001F63519DFC1C06F7198CC765657723EF3B766235/59AEDE4C4FD93B0ED95BB5C13EF9A0EE54B0DC9B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR06233_00": {
+        "npCommunicationId": "NPWR06233_00",
+        "trophyTitleName": "Hyperdimension Neptunia PP",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06233_00_0099BBB23BD90C6C82A3D83FF7A763DCF9F05122A9/15EFD8A294845CB491182C79C86CD1685498D275.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR06234_00": {
+        "npCommunicationId": "NPWR06234_00",
+        "trophyTitleName": "Cel Damage HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06234_00_00028D8260CC1B2F916A6EFC3E521C2B5A79A7318E/1B30C69F0965499B73497517B2152F763E9F7C70.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR06239_00": {
+        "npCommunicationId": "NPWR06239_00",
+        "trophyTitleName": "Cel Damage HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06239_00_00ADDDE4C2C0AAB5BF1492FB1B32C9E2CC58B1928F/D7651C95A09EBA626489AB894AD7A75BD42308BC.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR06243_00": {
+        "npCommunicationId": "NPWR06243_00",
+        "trophyTitleName": "KINGDOM HEARTS II FINAL MIX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06243_00_0029232811FE4E13FEE62E3CB361DB22C85D2BEDB7/3C96156CE7E7905B0701F92865F28259A96AE990.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR06246_00": {
+        "npCommunicationId": "NPWR06246_00",
+        "trophyTitleName": "KINGDOM HEARTS Re:coded",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06246_00_00F7EC77A8FEC27B4DD0988BA5F461DC13DB77E4DB/9E85D943FBAE2A954473A59306F78E75F3EC6862.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 0,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR06250_00": {
+        "npCommunicationId": "NPWR06250_00",
+        "trophyTitleName": "KINGDOM HEARTS Birth by Sleep FINAL MIX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06250_00_001490649C7B855E93E19B65D48D1F973A90ED9877/7B0760D08664EA9A14A4D5BB944265E5B022799E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR06254_00": {
+        "npCommunicationId": "NPWR06254_00",
+        "trophyTitleName": "Hotline Miami 2: Wrong Number",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06254_00_00BFFD26B0F26DAA7F97FEB1B2EBA463E461D47BED/B4915F9F2D89FA77987ABDF6CA77A199AA9CA79C.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR06256_00": {
+        "npCommunicationId": "NPWR06256_00",
+        "trophyTitleName": "CONCEPTION II Children of the Seven Stars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06256_00_000A6770EE35591CA0A427FA8ABE6FF146AC7653F9/1274C8AF3A760AA80FC710CB77BA52A20D1D6B08.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR06257_00": {
+        "npCommunicationId": "NPWR06257_00",
+        "trophyTitleName": "PvZ Garden Warfare",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06257_00_00F0B7594C2E1A6E64005E5405DBA0AAFA5AA2FD7E/77C6C15546DE3D6EC7037438ABB4EEED7DF74BCF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 39
+        },
+        "service": "trophy"
     }
 }
