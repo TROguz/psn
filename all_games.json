@@ -65518,5 +65518,135 @@
             "bronze": 40
         },
         "service": "trophy"
+    },
+    "NPWR11510_00": {
+        "npCommunicationId": "NPWR11510_00",
+        "trophyTitleName": "Darksiders Warmastered Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11510_00_00A4ABFC7597DEC41F52A63259B277516B0CFE409C/CEFC845D5D458E059F188D543874EEAF0BF6FB90.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR11511_00": {
+        "npCommunicationId": "NPWR11511_00",
+        "trophyTitleName": "Moon Hunters",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11511_00_00416EAD06F867E73F3EE8C1B3A6B916516C5C33EC/B1BD5A368AC932423561D288740F661D3E99FE49.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR11512_00": {
+        "npCommunicationId": "NPWR11512_00",
+        "trophyTitleName": "Battle Islands: Commanders",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11512_00_000F77EE569F36C2BC976E4E1CD2B9E17C24E468E9/CAA3F1D8EB9271D3D8382AF19F8035FAD317061F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR11515_00": {
+        "npCommunicationId": "NPWR11515_00",
+        "trophyTitleName": "Exile's End",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11515_00_0082B0E52C3C2E6F28531F8B372B678DD603AB9906/48D4333E4BD226AB9A37FBF69992DD4C6FFD2404.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR11517_00": {
+        "npCommunicationId": "NPWR11517_00",
+        "trophyTitleName": "Anodyne",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11517_00_003D0BB4056B56B75B36A2787C0BB48D7EBCB71E62/490372D4F0E9889C6C827C881F92F609A18C4C65.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR11519_00": {
+        "npCommunicationId": "NPWR11519_00",
+        "trophyTitleName": "Songbringer",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11519_00_00A54D584AB845AF95AFFC64FB4F2C560B2EA02D7E/2BEDD6AB3B5627F7179A6932C7F376011A02FB77.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR11521_00": {
+        "npCommunicationId": "NPWR11521_00",
+        "trophyTitleName": "Punch Club",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11521_00_0055871DDAC0770C840DC6A59DFF791156465AD0B5/232CA0EAAD52C830885A868E2847B62239C19A20.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR11527_00": {
+        "npCommunicationId": "NPWR11527_00",
+        "trophyTitleName": "プリンセスは金の亡者",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11527_00_0043B95C1008926CEFA4A9C0E42151EED0C7F50543/D008950931C11155217EE6DB7C740AE7B604F367.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR11530_00": {
+        "npCommunicationId": "NPWR11530_00",
+        "trophyTitleName": "VALKYRIE DRIVE -BHIKKHUNI-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11530_00_00E47ABDB8AED6E757E86D541DB9B6BC5B6368F8B7/933E1E315516F6395700C0C16B2185BC34DE8CE9.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR11531_00": {
+        "npCommunicationId": "NPWR11531_00",
+        "trophyTitleName": "A Pixel Story",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11531_00_002EC496AD760DA8C5601080928F7575151E2C6533/EF7D305095CAE1D6C9FC28CAFBEF66301913750E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 17
+        },
+        "service": "trophy"
     }
 }
