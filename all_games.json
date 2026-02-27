@@ -29118,5 +29118,135 @@
             "bronze": 28
         },
         "service": "trophy"
+    },
+    "NPWR05213_00": {
+        "npCommunicationId": "NPWR05213_00",
+        "trophyTitleName": "The Guided Fate Paradox",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05213_00_003E2EB977630236D91B58C550B86F281152BBCDDF/CCFBD917813316A7984D69A813A5E8411771D9F7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 5,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR05226_00": {
+        "npCommunicationId": "NPWR05226_00",
+        "trophyTitleName": "スーパーロボット大戦ＯＧ　ダークプリズン",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05226_00_004C3D021F9DF91571BD6F4B1ED66D586835033EDD/D1830A18A9E70F69EF853486E1EF77D914E5BF20.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR05230_00": {
+        "npCommunicationId": "NPWR05230_00",
+        "trophyTitleName": "スロッターマニアＶ 学園黙示録 HIGH SCHOOL OF THE DEAD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05230_00_0024E7A307263EF03A278FEC54643E97949F68F8E0/33AEA708BAC21809DB648E760C685FDC93E4C996.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 3,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR05232_00": {
+        "npCommunicationId": "NPWR05232_00",
+        "trophyTitleName": "BEN 10 OMNIVERSE™ 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05232_00_00D22FBC4FEA5E2DAFF8BDB231F421983D6D342A10/ADA24DFC25CB8921F8E84EFD7DD45EFDFD04AA3A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR05236_00": {
+        "npCommunicationId": "NPWR05236_00",
+        "trophyTitleName": "Call of Duty® Ghosts",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05236_00_002386A3DDADBA0A0F839A01927C84D6F4E084CECC/07C97A528C93A988DC1383A56C78A08D523FB87C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 77
+        },
+        "service": "trophy"
+    },
+    "NPWR05240_00": {
+        "npCommunicationId": "NPWR05240_00",
+        "trophyTitleName": "Furmins",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05240_00_001720702B1631325834A0AA7DAA728CB10240188C/6622213D4625A5A1226137B09FC9E7EC62F291B0.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR05241_00": {
+        "npCommunicationId": "NPWR05241_00",
+        "trophyTitleName": "Super Motherload",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05241_00_00EF9ED0D3002CA47F4F19404E8819AF4F47EF2475/2BC710CB9273C5CB54B6A3BABDE84E219E596F2B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR05242_00": {
+        "npCommunicationId": "NPWR05242_00",
+        "trophyTitleName": "Dustforce",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05242_00_005F19920BBF50BA911F94CD84BEB422ADDA6ED49B/AE5E64FD3AD74B6499A82A1F242936B8B776B195.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR05243_00": {
+        "npCommunicationId": "NPWR05243_00",
+        "trophyTitleName": "Doodle Devil Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05243_00_0018494FAD07E883A80A81B7BA33D4349D510EB789/57DA731E7B486D0C4C148F53C1F1DB2D41842B60.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR05244_00": {
+        "npCommunicationId": "NPWR05244_00",
+        "trophyTitleName": "God of War®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05244_00_008F7208D3DB4FB76906BAF55C60EE654F1161C1F5/8A5B0F1773086EB4640D85445CDA1857919ABEF1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
     }
 }
