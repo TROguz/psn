@@ -66558,5 +66558,135 @@
             "bronze": 21
         },
         "service": "trophy"
+    },
+    "NPWR11652_00": {
+        "npCommunicationId": "NPWR11652_00",
+        "trophyTitleName": "RogueStormers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11652_00_0003B29C89F475C8F9D31D3BD0648D9AE2D316E9A0/459F4F3657D6939C0017465319EC448F2FCC1FF0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11653_00": {
+        "npCommunicationId": "NPWR11653_00",
+        "trophyTitleName": "RogueStormers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11653_00_0008950C70C2BD756FB3A6867502747E07AF6470EC/5BB7164C7CAA94D7ADBD078131023D0EC533A28A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11655_00": {
+        "npCommunicationId": "NPWR11655_00",
+        "trophyTitleName": "A Bastard's Tale",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11655_00_008420AA06531D4941342D2DA8C7B5996C08111809/C4BBB635EA81B0EECB6931CD8B8D20AF9F148A39.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11657_00": {
+        "npCommunicationId": "NPWR11657_00",
+        "trophyTitleName": "地球防衛軍５",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11657_00_002752501411E98531D93A21300B02C40FB11D9082/F01816D45F07C0A76E138D2CF7B5D84D4D698B6C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR11658_00": {
+        "npCommunicationId": "NPWR11658_00",
+        "trophyTitleName": "Warhammer 40,000: Deathwatch",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11658_00_00AA91418637EE503A35CFFAFE125AF21D532632BF/69B390BC9D0C18CA8671138DF177585B3BE9C5CD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 19,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR11659_00": {
+        "npCommunicationId": "NPWR11659_00",
+        "trophyTitleName": "The Witcher 3: Wild Hunt – Complete Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11659_00_00FE152270D32C183E5668061360344FF2E486902C/EDF87EA76193FF25BC13EF8902478B5851B978F6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 68
+        },
+        "service": "trophy"
+    },
+    "NPWR11660_00": {
+        "npCommunicationId": "NPWR11660_00",
+        "trophyTitleName": "Troll and I™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11660_00_000A053FD99911B5229751992CA9FDE7F597500703/9564883D7D502036ABDE4AC048DB4CE10E76C15D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11661_00": {
+        "npCommunicationId": "NPWR11661_00",
+        "trophyTitleName": "NBA 2K17: The Prelude",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11661_00_0017093B2464F7BC144A172E5804C38FDC2364606C/8DB8F8D57F3A96AAF29C0051A9E996261F3DEF1F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR11662_00": {
+        "npCommunicationId": "NPWR11662_00",
+        "trophyTitleName": "GAROU: MARK OF THE WOLVES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11662_00_00F00AF2A0E9B8F3B0F777AB5E0F2660269B760EC1/668B7DCFB9B324AC63859ACE08D9A877E5A3D39C.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR11663_00": {
+        "npCommunicationId": "NPWR11663_00",
+        "trophyTitleName": "新星抜擢 ドライブガールズ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11663_00_007C8F5E85A1337935F9AB28F4D9B3AD0F4E704522/18F94C259BE1F0FCC8E03F67F78C9C727E441269.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
     }
 }
