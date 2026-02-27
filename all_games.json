@@ -70068,5 +70068,135 @@
             "bronze": 33
         },
         "service": "trophy"
+    },
+    "NPWR12097_00": {
+        "npCommunicationId": "NPWR12097_00",
+        "trophyTitleName": "クロバラノワルキューレ Black Rose Valkyrie",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12097_00_00CE56416AB83DE6B055E21F16BDE6CA958D075BF4/BE6057F5875E65A2311FD3DB228C9C910A129DC9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 45
+        },
+        "service": "trophy"
+    },
+    "NPWR12099_00": {
+        "npCommunicationId": "NPWR12099_00",
+        "trophyTitleName": "KOIHIME†ENBU RyoRaiRai Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12099_00_005B8687C9D2C421DAD821D680DA24791DF3B05017/031F51252B9E4A3F70052A981971A695D3F8673D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR12102_00": {
+        "npCommunicationId": "NPWR12102_00",
+        "trophyTitleName": "Levantate",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12102_00_00ABAFEBCC57CE3163EF072FDAAAB7D4B21ABEFC5E/EF805E3FB8F826D2AECF598739BF4B31B69FFF79.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR12103_00": {
+        "npCommunicationId": "NPWR12103_00",
+        "trophyTitleName": "DRAGON QUEST HEROES II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12103_00_00FBA502945C3E03A0974CA38DB66D3A8C78FDDED1/BFDAE871F5F627635040481901A47CE03E51CEC2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR12108_00": {
+        "npCommunicationId": "NPWR12108_00",
+        "trophyTitleName": "Winning Post 8 2017",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12108_00_00468ACAF6AFE46B3FDDEE61B64062B6AA9BD7704A/3DFECA4190C339D29865C71E1C6A0B3853974BE9.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR12111_00": {
+        "npCommunicationId": "NPWR12111_00",
+        "trophyTitleName": "Clouds & Sheep 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12111_00_00C3BCE859B68B48AEDD8C29E062F80D5015B0E06F/589F471E9A5EF990FA279414729090F2BB34AA40.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR12114_00": {
+        "npCommunicationId": "NPWR12114_00",
+        "trophyTitleName": "超次元大戰 戰機少女 VS SEGA主機娘 夢幻合體特別版",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12114_00_00F7CEE9558FAB10197508CAEE100CE4BC82987848/403F5B49BBA8107826F247AEA489EF64AA9CCDDF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR12115_00": {
+        "npCommunicationId": "NPWR12115_00",
+        "trophyTitleName": "Full Throttle Remastered",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12115_00_001CA4FEEBBF2C403B7507A259B8E3E81EC9A1E03A/9070B9DF0C2DDC91A6B069F6195028631463BCB4.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 15,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR12117_00": {
+        "npCommunicationId": "NPWR12117_00",
+        "trophyTitleName": "The Disney Afternoon Collection",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12117_00_00567AF4BC9ADEAFA1CFE2406E1B620DDB9DD28BA9/EE691F0A9A19AF5A84CA26DD6DB77DE6A14C1663.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR12119_00": {
+        "npCommunicationId": "NPWR12119_00",
+        "trophyTitleName": "8DAYS - Peace is our Business",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12119_00_009C16676DC7FF11184B5FF8130C174985286DE379/5FF7F4C5D6048431D47F362AA1E3E198C855B4A8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 15
+        },
+        "service": "trophy"
     }
 }
