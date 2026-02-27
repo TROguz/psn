@@ -44718,5 +44718,135 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR08359_00": {
+        "npCommunicationId": "NPWR08359_00",
+        "trophyTitleName": "Disney Infinity 3.0",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08359_00_00C7A7B6B0917CB3FA885AFDB5C11748423D192F40/1296201D2BEA13128EF6F4D3BF38B23F2BEE0D7D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 13,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR08361_00": {
+        "npCommunicationId": "NPWR08361_00",
+        "trophyTitleName": "GODZILLA",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08361_00_0054C79677310E8B893798F05F134A2E146F899ED4/49A720397AC5443A96739DBC5F4199D1DC3B3DE9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR08364_00": {
+        "npCommunicationId": "NPWR08364_00",
+        "trophyTitleName": "Teenage Mutant Ninja Turtles™: Mutants in Manhattan",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08364_00_0073688E9E4F86D178F36A385586C5F4B0D91E155B/49E66E720F4A382988C989F41F83FAF2AB8437CA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR08365_00": {
+        "npCommunicationId": "NPWR08365_00",
+        "trophyTitleName": "Teenage Mutant Ninja Turtles™: Mutants in Manhattan",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08365_00_0003E28CC15F2C7F67CCE7519B18C8F957133F517A/B0003922B6938F61702518761FDB82EE4AE3D55A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR08367_00": {
+        "npCommunicationId": "NPWR08367_00",
+        "trophyTitleName": "TRANSFORMERS: Fall of Cybertron",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08367_00_00BE9DFDDFDCE752188C0246080C4FEBE0564B27CA/3E4727E06BAA71EA5A9B58971CD6354C245187FC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR08370_00": {
+        "npCommunicationId": "NPWR08370_00",
+        "trophyTitleName": "The Lost Child",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08370_00_0003F71176E27481084F32A38A3894A6D3096C8BC7/1779AE71544D99A8CD3B0B5727C8CF4E031EDB05.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR08373_00": {
+        "npCommunicationId": "NPWR08373_00",
+        "trophyTitleName": "BLAZBLUE CHRONOPHANTASMA EXTEND Trophy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08373_00_001212B4F875457202FCD0E2FC28B574A9C66AAD9A/FB17CA0C3321E80A7EAE23FFA4E87F3A86AD8A96.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR08374_00": {
+        "npCommunicationId": "NPWR08374_00",
+        "trophyTitleName": "Krinkle Krusher Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08374_00_00F8D69401BB89A22A0FD562A422B537813E311D33/8A475D42C7F3C932A2A18795031E3856D0F854B8.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR08375_00": {
+        "npCommunicationId": "NPWR08375_00",
+        "trophyTitleName": "Krinkle Krusher Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08375_00_005CA453E20761A46A4E2138FCE33F26C1BF770A36/0CBD7EFECF5E221F1DB85951B8DB6421D1F4C829.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR08376_00": {
+        "npCommunicationId": "NPWR08376_00",
+        "trophyTitleName": "Krinkle Krusher Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08376_00_00312988B8E8FF6A30C76606C3EEEE06BEAE7F4BD6/0C407754574D1859E798DBD2B858FD2564F05E6E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
     }
 }
