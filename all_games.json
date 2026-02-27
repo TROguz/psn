@@ -78258,5 +78258,135 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR13130_00": {
+        "npCommunicationId": "NPWR13130_00",
+        "trophyTitleName": "Spheroids Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13130_00_003291677F84AC56DDF3282E21E4038B37023A19E5/D1A0FCF6D7CE68BE8C105F6391B9491250E0B68E.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR13131_00": {
+        "npCommunicationId": "NPWR13131_00",
+        "trophyTitleName": "Space Jones VR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13131_00_00166C4AE98CB6AE51503BB91BF67D446FAD1FD5AC/771F2FDDFEA13D12551F0E4909FEF990A6B6FE0B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR13133_00": {
+        "npCommunicationId": "NPWR13133_00",
+        "trophyTitleName": "Spacelords",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13133_00_00D1A80A6E841EE4F0510FE1F3D04A693004334EE1/38A032258D85094D76BC2913FC63DED5A69871C7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 13,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR13134_00": {
+        "npCommunicationId": "NPWR13134_00",
+        "trophyTitleName": "Spacelords",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13134_00_0078E561E6EB1AC443E7875E74D1C3B9A5A906E40E/A0CA6C0AB4363DF48420E26496C2A51706C3035B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 13,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR13135_00": {
+        "npCommunicationId": "NPWR13135_00",
+        "trophyTitleName": "Damascus Gear: Operation Tokyo HDEdition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13135_00_00426B4D1469441833FEE9DD4F3FEA386D2B75B0C2/3AA41E2E40A29E554962DF32CBA0AE1F099B42A4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR13136_00": {
+        "npCommunicationId": "NPWR13136_00",
+        "trophyTitleName": "Damascus Gear: Operation Tokyo HDEdition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13136_00_008E966B3A12C9482348D8011DA5036C21BABF05F9/24ACB5FFE4612FAF30CF5535B37EBA1BE106C44D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR13137_00": {
+        "npCommunicationId": "NPWR13137_00",
+        "trophyTitleName": "Senko no Ronde 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13137_00_0016E2C8CA4D207BC427DAC283763C6DDA6B181D1F/220F5977A336D01BFB416A96CE1BF6EE14A39685.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 6,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR13138_00": {
+        "npCommunicationId": "NPWR13138_00",
+        "trophyTitleName": "The Pillars of the Earth",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13138_00_00273D39DD6ED9F07FF1D58B17BFF4D16FBA13646E/B35752CC3BD7C281DDF01B2CE2F5ECC446562FF8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 11,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR13139_00": {
+        "npCommunicationId": "NPWR13139_00",
+        "trophyTitleName": "Dragons Online",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13139_00_00B5516BA69773ED0C55FD26F30884F13FBE3EECB3/5BAE15AD7C7B4CCD7C39497D2DC4D09DFFDC4A82.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR13143_00": {
+        "npCommunicationId": "NPWR13143_00",
+        "trophyTitleName": "Dying： Reborn",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13143_00_00D6CCA12EDBA82401D1F9F3FBBC87EE12E5956F18/9BC5B5C6764542644797F3CDB5708A4E5BB33B38.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 8,
+            "bronze": 0
+        },
+        "service": "trophy"
     }
 }
