@@ -58758,5 +58758,135 @@
             "bronze": 0
         },
         "service": "trophy"
+    },
+    "NPWR10579_00": {
+        "npCommunicationId": "NPWR10579_00",
+        "trophyTitleName": "Tumblestone",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10579_00_00DB83C0E7A1BA27E7F02E8E4C27127D69F4B226FB/C389D1CC3474C442EA1B98A1A554AB06E9A9D18C.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 22,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR10582_00": {
+        "npCommunicationId": "NPWR10582_00",
+        "trophyTitleName": "The Park",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10582_00_00EE3576B08EE73FBCDB0112B0433D80844D97393C/5A4BAD6C97F90685F7055A8B73E7027E70E89A47.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR10584_00": {
+        "npCommunicationId": "NPWR10584_00",
+        "trophyTitleName": "Batman: Return to Arkham - Arkham City",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10584_00_00CA9F6B2C10EFB69A23286B0937E02087EB06371A/157E50F16C2BB417E1F9D5FB9E940921682CAE45.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 21,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR10589_00": {
+        "npCommunicationId": "NPWR10589_00",
+        "trophyTitleName": "THE PLAYROOM VR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10589_00_00458B804782FEFDC125F6EC8C3A9E353EE8C7F8C5/C7F3A642D32E341030569A95C57FFAC59786C5B3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR10590_00": {
+        "npCommunicationId": "NPWR10590_00",
+        "trophyTitleName": "越えざるは紅い花～恋は月に導かれる～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10590_00_00FB1713C7E1CD3C0E69245FBB4D36F9B7215FE343/A979439F0A49CB29E621FB8539E947375BF60E31.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR10600_00": {
+        "npCommunicationId": "NPWR10600_00",
+        "trophyTitleName": "RESIDENT EVIL 5",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10600_00_00A0CF3468337FB7E2039182A26608B0545DE39292/373996777525C090410A0F9540E52E1A28705033.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 16,
+            "bronze": 53
+        },
+        "service": "trophy"
+    },
+    "NPWR10606_00": {
+        "npCommunicationId": "NPWR10606_00",
+        "trophyTitleName": "Koi",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10606_00_0073696546941E56A3E2AF9D80594A39EC003F192E/23B13CA0BBE5DB09B9F5D12942FC159894F8E4D2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR10607_00": {
+        "npCommunicationId": "NPWR10607_00",
+        "trophyTitleName": "Kholat",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10607_00_0005AAD3891D012EE7F98F4952F4C782A267690E75/87036A6D224C3674449ECA7F95BFD24D8C0AED35.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR10610_00": {
+        "npCommunicationId": "NPWR10610_00",
+        "trophyTitleName": "Invisible, Inc.",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10610_00_003CA30804DCFC6F846B35ADFBD3B640C1AD214995/5AC08AFC891220BE294A7D968CC0BC29EDCA19D2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR10613_00": {
+        "npCommunicationId": "NPWR10613_00",
+        "trophyTitleName": "THE LAST BLADE 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10613_00_00C5F2B271FED94835932B8EC69B9AC5051F4C2C3E/B5F5F97201DB0FF961BF7ED4CE7EB219E00D43C9.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
     }
 }
