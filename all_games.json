@@ -59408,5 +59408,135 @@
             "bronze": 18
         },
         "service": "trophy"
+    },
+    "NPWR10685_00": {
+        "npCommunicationId": "NPWR10685_00",
+        "trophyTitleName": "DEAD RISING",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10685_00_0060952784726C74F5F21699D995D1465DCFD2B393/823AFB9BA2C981FBC9E534C72408C9F1EDDA6488.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 3,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR10687_00": {
+        "npCommunicationId": "NPWR10687_00",
+        "trophyTitleName": "The Lost Bear",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10687_00_000851A9558474BBAED7A4449EC270B17FF365C7A4/12956F3D296724C120FDC4FBD89BA574C4726473.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR10689_00": {
+        "npCommunicationId": "NPWR10689_00",
+        "trophyTitleName": "Trove",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10689_00_006E4426993490D78095C3419D724EA391AEBA81AD/25B36BB16F8253496F9DC1D8A1EA2215DFAE126B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR10691_00": {
+        "npCommunicationId": "NPWR10691_00",
+        "trophyTitleName": "Blue-Collar Astronaut",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10691_00_0022E036446C30E69E7E2D9BE8D032BBBA1E5BDD45/16B0E1CEDCD879A5B7C9FDD0604C0857F3F57284.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR10692_00": {
+        "npCommunicationId": "NPWR10692_00",
+        "trophyTitleName": "Space Hulk",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10692_00_00247E564CB154FDA7BA28DBF989A07030F08237BF/9D8C4B456D0A0D255B9025FFCEB87D1D4CE5BE2B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10694_00": {
+        "npCommunicationId": "NPWR10694_00",
+        "trophyTitleName": "Disc Jam",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10694_00_00FBC7EDEBC3218120DCCA0D49506BDEB4BF1CCE57/BE486207AFBEC9A15CDFF02EA23CD85C56882F16.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR10695_00": {
+        "npCommunicationId": "NPWR10695_00",
+        "trophyTitleName": "LOUD on Planet X",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10695_00_001E254F2590C235622A43E68C599360FD2DAA92AD/85F7C3B9341A4CC902FE1501C251765C9242F4AE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR10696_00": {
+        "npCommunicationId": "NPWR10696_00",
+        "trophyTitleName": "Odin Sphere Leifthrasir",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10696_00_000FAF729F10E26B99FB1E51179841937A2658C5B4/4109C5565AE111CA8374AE709615B819EE7D8A96.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 3,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR10697_00": {
+        "npCommunicationId": "NPWR10697_00",
+        "trophyTitleName": "There Came an Echo Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10697_00_008152106B5FA542BB3488071967D6DF7A1F8B7ABD/F05B476EC7136053ACB9BD1F27411B74EDA8DA41.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR10699_00": {
+        "npCommunicationId": "NPWR10699_00",
+        "trophyTitleName": "A Healer Only Lives Twice",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10699_00_00F7C1B0A2D8AE8DD9A9B5E331182797A878EE896C/AAE0E234D64D6FA56F1BBAD9184A5A414B40BA86.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
     }
 }
