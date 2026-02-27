@@ -86448,5 +86448,135 @@
             "bronze": 58
         },
         "service": "trophy"
+    },
+    "NPWR14214_00": {
+        "npCommunicationId": "NPWR14214_00",
+        "trophyTitleName": "Super Life Of Pixel Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14214_00_0042DF30F11CC541ABA1FE1304BBA9DC6C383205F9/D2057CA195CA885B3746EAD45DA63FFD134B3683.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 17,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR14215_00": {
+        "npCommunicationId": "NPWR14215_00",
+        "trophyTitleName": "Super Life Of Pixel Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14215_00_0098B66BD67A673D66FB8AE9CE2AC16C9B8B0ABE45/FD3488DDA0DF83EF3A547DFF49169470C4B44978.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 17,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR14216_00": {
+        "npCommunicationId": "NPWR14216_00",
+        "trophyTitleName": "Firewall Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14216_00_0052C0164665F407E1C8A49AC6D9EB347A203E3941/7FB27004C36B0B2C0076B152BB58D51F2CF1E33C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR14217_00": {
+        "npCommunicationId": "NPWR14217_00",
+        "trophyTitleName": "WORLDEND",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14217_00_003DCC2CEA4B3DB4F78F78AE72EEB74B5360E12AFD/ADE182A30A2C56F685626E02D55B9646BC219C39.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14218_00": {
+        "npCommunicationId": "NPWR14218_00",
+        "trophyTitleName": "WORLDEND",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14218_00_00E3BAD6CFC56800B9E87FD02EF41104CE4F1486C3/CCE3EC1D820C094C71BEFF09C5495E796B662A98.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14219_00": {
+        "npCommunicationId": "NPWR14219_00",
+        "trophyTitleName": "Little Triangle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14219_00_00F921DEA93D2A06AB8FA1B2A80411AE1FDE844880/68159DED9D1D398F42BC253433CFC60896114474.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 4,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR14220_00": {
+        "npCommunicationId": "NPWR14220_00",
+        "trophyTitleName": "The Lost Child",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14220_00_00284C88A4F29D7DD1AB7F815F380FF46207F02756/B19479EBB576A5C15D1814C1E71D79B46C2E078F.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR14221_00": {
+        "npCommunicationId": "NPWR14221_00",
+        "trophyTitleName": "The Lost Child",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14221_00_00F5421AEFB0D6DDC1AF7BAD1215D470154B18041D/7D816C94A82DE9F1B631C04FD9EDC1E959A0E65D.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR14222_00": {
+        "npCommunicationId": "NPWR14222_00",
+        "trophyTitleName": "新次元遊戲 戰機少女ＶⅡＲ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14222_00_00BE41571EDE2633721C7A6101DA0805D76A6FB343/2264A9276A4B495E9F7B2DF078C936DEB7BFBF2C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 18,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR14223_00": {
+        "npCommunicationId": "NPWR14223_00",
+        "trophyTitleName": "forma.8",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14223_00_0076416E7AD0E0905C960B0B196EEC80DADEE9F8D5/E429E3615E265AD98FDA4F1F2A58AE8C79E50165.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 15
+        },
+        "service": "trophy"
     }
 }
