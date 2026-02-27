@@ -83718,5 +83718,135 @@
             "bronze": 5
         },
         "service": "trophy"
+    },
+    "NPWR13849_00": {
+        "npCommunicationId": "NPWR13849_00",
+        "trophyTitleName": "MONSTER OF THE DEEP: FINAL FANTASY XV",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13849_00_000E82A82692D7BCEE1FEAF9CFD87D5EE6C7DB48AF/DEBD075E72FBFB8AA9D58FD458D5775CC2E97E30.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR13854_00": {
+        "npCommunicationId": "NPWR13854_00",
+        "trophyTitleName": "英雄伝説 閃の軌跡III",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13854_00_007B4FFC86974BF65C4318535754C470838CBBB8B9/110063023479E86230539181AE6E7126D1218527.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR13855_00": {
+        "npCommunicationId": "NPWR13855_00",
+        "trophyTitleName": "Disco Dodgeball Remix",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13855_00_00D6A1520AB8EDFD546E1134A5C593BF65426ACEAC/0683C43418BE6FD8072C1CD8CF385C418707272C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR13858_00": {
+        "npCommunicationId": "NPWR13858_00",
+        "trophyTitleName": "Battle Chasers: Nightwar",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13858_00_00C80293DC885A6F99C123B7FCBE51BF90199FD727/AA68FF874EFBF0A5CBA516153BC452CBE242DC7E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR13861_00": {
+        "npCommunicationId": "NPWR13861_00",
+        "trophyTitleName": "World of Van Helsing: Deathtrap",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13861_00_00C34002EAA887AA09445E36ECD550123D9A921BA5/F7FF4E7647FBEC17DCEB464016E4BAABED36AB2E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 10,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR13863_00": {
+        "npCommunicationId": "NPWR13863_00",
+        "trophyTitleName": "L.A. Noire",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13863_00_0047C9BE2B69211FD6C2C09C88B990EDF7FCF2007A/B8181EA4B4F7E03B01F1665CF4073070069CD4AC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 10,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR13864_00": {
+        "npCommunicationId": "NPWR13864_00",
+        "trophyTitleName": "Shakedown: Hawaii",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13864_00_006F716031DD94164F9392F0ED4E41CC5E4997E420/EC0CFAE771513C5FB92519A9DD4A223AE86F0497.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR13867_00": {
+        "npCommunicationId": "NPWR13867_00",
+        "trophyTitleName": "BLEED 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13867_00_00EDCEA20BFB37D5624A2A0B37E237C3BAA902F0EC/8927D09E73E7A4359A71265243EB00DA62514682.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR13868_00": {
+        "npCommunicationId": "NPWR13868_00",
+        "trophyTitleName": "BLEED 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13868_00_00D00C35D0BD52481BAA3F7AFCD4FB3C6D86B8FA79/B78BC1337E86D6F15185E9617C0F7B42FF3FAD19.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR13869_00": {
+        "npCommunicationId": "NPWR13869_00",
+        "trophyTitleName": "DJMAX RESPECT",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13869_00_00719CAA36CD2E1285E799325803AD91A61872044B/FEFFECC9A24EC9E7EA307F0414103DAEB575576F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 17,
+            "silver": 27,
+            "bronze": 83
+        },
+        "service": "trophy"
     }
 }
