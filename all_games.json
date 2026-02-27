@@ -84238,5 +84238,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR13928_00": {
+        "npCommunicationId": "NPWR13928_00",
+        "trophyTitleName": "Sneaky Bears",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13928_00_0023167E9F8C9D52F181D3F55C3D1B909187938F61/7667CA5BEE43EF091F3A08883DFDCACF7BE4AB6B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR13930_00": {
+        "npCommunicationId": "NPWR13930_00",
+        "trophyTitleName": "galaxy hotel",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13930_00_00C13B1843E3622FF09C2576ED04A88A6104D44035/BD16F2327331377DDA35C39CFA9D739A5DCE5B22.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR13931_00": {
+        "npCommunicationId": "NPWR13931_00",
+        "trophyTitleName": "MONSTER OF THE DEEP: FINAL FANTASY XV",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13931_00_001196709EA5F8170F420A056CB25DC19E1DC19D0B/EBD24A486D16FDCF091EB44EE716771012D155AE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR13932_00": {
+        "npCommunicationId": "NPWR13932_00",
+        "trophyTitleName": "MONSTER OF THE DEEP: FINAL FANTASY XV",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13932_00_00D8EED8526756834B074C22593C7E4F165CF6139B/9033632FF707C34C88A19F8A2D806648F890EB56.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR13933_00": {
+        "npCommunicationId": "NPWR13933_00",
+        "trophyTitleName": "MONSTER OF THE DEEP: FINAL FANTASY XV",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13933_00_00F612C258E6B91016B57969BC3A5AA133DBAB1EC9/13F512A1EDACDCA519F33B323B0997196EF61EF7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR13936_00": {
+        "npCommunicationId": "NPWR13936_00",
+        "trophyTitleName": "3D Billiards",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13936_00_003EC6BE85C5042030DEC2FA40BBE18EAB993E79A4/BA28242C64E193E0B770ABF0951ABB6D7880D28A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR13939_00": {
+        "npCommunicationId": "NPWR13939_00",
+        "trophyTitleName": "Shio",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13939_00_00E5C7EFE6DA0376E86324EF4239082701AB277256/4DB5AE635BF0B40461140DD2BD8F362B982414CD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR13940_00": {
+        "npCommunicationId": "NPWR13940_00",
+        "trophyTitleName": "Semispheres trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13940_00_002E4A0ED3EAF15EB199FB57327FCB892DFF85647A/3FD4DD83006DF7FDCC5CBC8798AB9A776DB7E890.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR13942_00": {
+        "npCommunicationId": "NPWR13942_00",
+        "trophyTitleName": "Death end re;Quest",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13942_00_005601A2EF25C8CE49AFAF4638AE788157EBF7B066/1815985A744636D4C2F041CDA038A852B83FDBD8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR13945_00": {
+        "npCommunicationId": "NPWR13945_00",
+        "trophyTitleName": "Out Of Ammo",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13945_00_0053955DB9438A7509F568A30EE7748A25EE079ED8/EA5BCD4D2DB07F8270654807FA1CB7D1BFD94CE8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 15
+        },
+        "service": "trophy"
     }
 }
