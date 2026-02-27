@@ -62008,5 +62008,135 @@
             "bronze": 9
         },
         "service": "trophy"
+    },
+    "NPWR11054_00": {
+        "npCommunicationId": "NPWR11054_00",
+        "trophyTitleName": "Dear Esther: Landmark Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11054_00_00F9FD27C954B80F6D110743C584C84C6EF7F40090/67306253BA7B2FAEB2118DF2ABD587363A65C316.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR11055_00": {
+        "npCommunicationId": "NPWR11055_00",
+        "trophyTitleName": "WWE 2K17",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11055_00_00968403087A71478A7E15AEC747B8885F254E19CB/413AFEACBFCA20B49D7E5A2F07914AAC0A2FFFD0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 17,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11056_00": {
+        "npCommunicationId": "NPWR11056_00",
+        "trophyTitleName": "Destiny 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11056_00_00E38014C97B1CE8D744D1F0D2914F156FD5E7C8C6/33A7DE6FACF18E6C4844EC6F639CDA05035869B1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 4,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR11057_00": {
+        "npCommunicationId": "NPWR11057_00",
+        "trophyTitleName": "Skylanders™ Imaginators",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11057_00_009AB19422078A758337E8AE86C4D5C628CD4E13CE/82D586189FFACDBA11BABF5D66A8B159CA0DFF82.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR11058_00": {
+        "npCommunicationId": "NPWR11058_00",
+        "trophyTitleName": "Dreamals: Dream Quest",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11058_00_0011922EC6038E2DA50C2C25A71C5E4AC82D0D877A/7BEFCA749CC86B45BFBBBA6BD1624948B3A24719.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 13,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR11060_00": {
+        "npCommunicationId": "NPWR11060_00",
+        "trophyTitleName": "삼국지13",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11060_00_00D4583C2949345A63CFF9487C6C6A3CBBE2A81A95/A5B47601D63CAE2CE28B98B2ABB7FB9691FA2DB9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 18,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR11061_00": {
+        "npCommunicationId": "NPWR11061_00",
+        "trophyTitleName": "Attacking Zegeta 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11061_00_0087C4A10FB8AC22F72A06F84A83D4BAD516BDCCDF/F17C1265284BDEA8EEC45855D7088FC6D768445D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 4,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR11063_00": {
+        "npCommunicationId": "NPWR11063_00",
+        "trophyTitleName": "Air Race Speed",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11063_00_0097E0687731974F9F3795F1E74B5BA12F61406A20/183F2464B2F6A5D44901B24470667876C1D74271.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 6,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR11066_00": {
+        "npCommunicationId": "NPWR11066_00",
+        "trophyTitleName": "Orc Slayer\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11066_00_00DB122AFB2B0407B5D456CCD806C2271C997A3C38/78719C625FFDCA675D4C728197C07D79E030BC46.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11067_00": {
+        "npCommunicationId": "NPWR11067_00",
+        "trophyTitleName": "SPACE OVERLORDS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11067_00_00E576DC1F37185DF1D665C8625651E1ED72D193B2/154F7F7C563D0FB337B4B11878F37D6E907CFF4D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 14,
+            "bronze": 4
+        },
+        "service": "trophy"
     }
 }
