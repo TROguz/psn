@@ -83458,5 +83458,135 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR13811_00": {
+        "npCommunicationId": "NPWR13811_00",
+        "trophyTitleName": "MUSYNC",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13811_00_00529625D8E7E728DDB66200952B10F6FFF3FF1B4F/3BCF92D268F0EA6369B31FFB14FC785979E46119.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR13812_00": {
+        "npCommunicationId": "NPWR13812_00",
+        "trophyTitleName": "薄櫻鬼 真改　華之章",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13812_00_00E81C402A50AA5356C5176901511B400D21BB2388/CF064B1D286B077602E5849682524FF1B5FA2DDA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR13814_00": {
+        "npCommunicationId": "NPWR13814_00",
+        "trophyTitleName": "Ys Origin",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13814_00_003B5D936AEE9ABC01DB0E504120CB84559D2F8EC1/78983503CE624590A4AE680AE03A029BEF0ED16C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR13815_00": {
+        "npCommunicationId": "NPWR13815_00",
+        "trophyTitleName": "Guacamelee! 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13815_00_002D7FC25E97DE94706764A42E26744D09B712A831/C181002C4005E40FBE75C5EC1012BB27EE9FF87D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 11,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR13816_00": {
+        "npCommunicationId": "NPWR13816_00",
+        "trophyTitleName": "Splody",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13816_00_007ED7DEE60F301099F70EE7AA82581E65D0AF87D2/FE9A7162FB81BFEA3D6EF48BA25E2A944A1C0CE9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR13819_00": {
+        "npCommunicationId": "NPWR13819_00",
+        "trophyTitleName": "Smash Hit Plunder",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13819_00_005D2303033BBCCA2D5DE81C152D858FBD3A3C8953/8196348CFC89675690BA54DF70CDC1C7F88E8752.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR13822_00": {
+        "npCommunicationId": "NPWR13822_00",
+        "trophyTitleName": "Assassin's Creed® Odyssey",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13822_00_00E63FD8AB71E35431D284C875D26290C020A6ED1A/DEE0D4E5A10A52EA06309E73E38FDA92B759C1DC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 75
+        },
+        "service": "trophy"
+    },
+    "NPWR13824_00": {
+        "npCommunicationId": "NPWR13824_00",
+        "trophyTitleName": "Yomawari: Midnight Shadows",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13824_00_003C90E0F48D2B31C54EC2E241AABAFA93CBD692FF/E57204D71283F1C56ABAB07A761407A0A0366D22.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR13826_00": {
+        "npCommunicationId": "NPWR13826_00",
+        "trophyTitleName": "Batman: The Enemy Within",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13826_00_00AA69BD96EE40A1CAE1DD61A6563B03CE73B4DAB7/B2D7F50863D43DE7882C025D4ECA17CC421F7E69.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR13830_00": {
+        "npCommunicationId": "NPWR13830_00",
+        "trophyTitleName": "Undertale",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13830_00_007F59675B4A098391DE71D49D125882FCC6A81D35/7C414F13F9EF22F6D2834BCD897C1596B7FAC709.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 14
+        },
+        "service": "trophy"
     }
 }
