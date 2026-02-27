@@ -74878,5 +74878,135 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR12694_00": {
+        "npCommunicationId": "NPWR12694_00",
+        "trophyTitleName": "The Golf Club 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12694_00_00E76DF5FAF5B1761FD69DD493A29AF8BC5F0547EC/FD26DE761741C1D98F921B586021E282EF6B2DA6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 5,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR12697_00": {
+        "npCommunicationId": "NPWR12697_00",
+        "trophyTitleName": "カルマルカ＊サークル",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12697_00_0015BBACF9EC9DE425A15509F1823C6DC7BED271FC/A837C95EFDB42424E65D48D394F713F8EFDB74C7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 7,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR12698_00": {
+        "npCommunicationId": "NPWR12698_00",
+        "trophyTitleName": "Symphony of the Machine",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12698_00_00540091DE24D57F3FB55144A441B1D0E8A9E70054/4E76E7B51A08BC492F2CEA397643DBB30D31A684.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR12700_00": {
+        "npCommunicationId": "NPWR12700_00",
+        "trophyTitleName": "STRAFE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12700_00_0020B6261C693E0233EC7E873F5DF5118D5BBE2CA6/064B06EF589D76AA2B6686B804680BB9DA0DB2F9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR12701_00": {
+        "npCommunicationId": "NPWR12701_00",
+        "trophyTitleName": "STRANGER OF SWORD CITY REVISITED",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12701_00_0029081CF978AD17065BF528926C28A040DFC8DFFE/9A852FADE80BED7568D2D14F53C8FFAAB05DB868.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 17,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR12702_00": {
+        "npCommunicationId": "NPWR12702_00",
+        "trophyTitleName": "オメガラビリンスZ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12702_00_00900B9B95A595FF033BBEDC0026EEDACE7F7DE6B3/260FD2A3AFE81A6935453573D0CC97890DA3E54E.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR12704_00": {
+        "npCommunicationId": "NPWR12704_00",
+        "trophyTitleName": "Yonder: The Cloud Catcher Chronicles",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12704_00_0092BC6B11CB89220577AD3DF9110038785DA907E5/329CBFF8FD52EBE2F3BF3E394EFA14B2BEC9EAB7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR12707_00": {
+        "npCommunicationId": "NPWR12707_00",
+        "trophyTitleName": "Pixel Heroes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12707_00_00CCEA999B6B8B5E5CC29AEEE05C64BBCB32B287E7/A6AEDC20032ABFEE13B73B59516B87D4E0C056AD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR12708_00": {
+        "npCommunicationId": "NPWR12708_00",
+        "trophyTitleName": "BRIKS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12708_00_007367C71DF1FFD5A1F6C8ACC71CEBA304BC237881/3EF36936FD9280306C1383743726B94232346330.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR12709_00": {
+        "npCommunicationId": "NPWR12709_00",
+        "trophyTitleName": "RC Airplane Challenge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12709_00_0026B744013DA05D93E1731AD49F1DCC78281DFC2D/7038969224E2978672A9C0ADE4A473540D50987B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 6
+        },
+        "service": "trophy"
     }
 }
