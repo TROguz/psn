@@ -74358,5 +74358,135 @@
             "bronze": 36
         },
         "service": "trophy"
+    },
+    "NPWR12624_00": {
+        "npCommunicationId": "NPWR12624_00",
+        "trophyTitleName": "Mr. Massagy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12624_00_004F81DB70BFDFC010FBAACB19B756F90B02D0FB3E/860C00E76A8E00F00CB7C0200E6EA4432EAF0AFE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR12627_00": {
+        "npCommunicationId": "NPWR12627_00",
+        "trophyTitleName": "Assetto Corsa",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12627_00_004C5F5E1B9237A1561A06C84C1C16B797EEA946BF/5E4CC1C5D5DC38EA693E26B3CE54F600A9E65377.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR12633_00": {
+        "npCommunicationId": "NPWR12633_00",
+        "trophyTitleName": "Semispheres trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12633_00_0006B01CC699B3D7A35033BA447E460B13BE7D3E33/8C616050A5032CFC6FBB123C21243F740603E112.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR12634_00": {
+        "npCommunicationId": "NPWR12634_00",
+        "trophyTitleName": "8-bit Armies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12634_00_00596BA3F49AF8220CA41172AB4F3F6D64CA299D38/4BA31584CC3234A644F6BD1D8F553DFD19F92520.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 18,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR12635_00": {
+        "npCommunicationId": "NPWR12635_00",
+        "trophyTitleName": "Salt and Sanctuary",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12635_00_0079047CE6382E937EC36F20166EC67A2AA28F30E1/BA9F6C353423B2134F528A2880DCCF8D20D62D6C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR12636_00": {
+        "npCommunicationId": "NPWR12636_00",
+        "trophyTitleName": "LIGHTFIELD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12636_00_002B1DC6FC9ADD2A40370162CADA7E276C3F180C97/98DB9AA79A8E6F1AB0F01660A8E71EF3E5813A2F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR12643_00": {
+        "npCommunicationId": "NPWR12643_00",
+        "trophyTitleName": "Masquerada: Songs and Shadows",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12643_00_008ABA57A07762FBD342A2FDF70EC626596AFBE769/3E157D6FC6210917389782BEDF84F0713C10F35C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 20,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR12644_00": {
+        "npCommunicationId": "NPWR12644_00",
+        "trophyTitleName": "Knights of Valour",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12644_00_004D04C421106395533B8C2B7B6DB4B4D89EAAB70B/9CE91581BCF01FC62A935048059B2B0BBE848731.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR12645_00": {
+        "npCommunicationId": "NPWR12645_00",
+        "trophyTitleName": "Has-Been Heroes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12645_00_0007923FD21BD3959D04E2D74DF1D1D65BC891631C/56D34272F9A0C28BD05E4C6B0E75E54638C93D38.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR12646_00": {
+        "npCommunicationId": "NPWR12646_00",
+        "trophyTitleName": "Has-Been Heroes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12646_00_00CEC4181DF3AE8F019D7051BB215826A9193F8942/EA8E304D30804A118262DD21E08F4BA1F3C48972.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
