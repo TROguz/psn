@@ -67078,5 +67078,135 @@
             "bronze": 2
         },
         "service": "trophy"
+    },
+    "NPWR11715_00": {
+        "npCommunicationId": "NPWR11715_00",
+        "trophyTitleName": "Shiness The Lightning Kingdom",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11715_00_00D9681543BB8DE91CC19C3B29836A5DF7AF4D525C/B2582651CA9136F16CCDB2FE585E5459E23771CD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR11716_00": {
+        "npCommunicationId": "NPWR11716_00",
+        "trophyTitleName": "Deer God",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11716_00_0048AF652188FEF652B96397D4859F128301D5AE11/25B114AF04F1BC38D0E45D0F276FE1265D5EBEE6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR11718_00": {
+        "npCommunicationId": "NPWR11718_00",
+        "trophyTitleName": "Four Sided Fantasy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11718_00_00643E5BD8C6C6861D69899348885B164B707B254C/932A90459812417F7D37F7596EDCB804B435FA27.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11719_00": {
+        "npCommunicationId": "NPWR11719_00",
+        "trophyTitleName": "Asdivine Hearts",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11719_00_000B2657ED3A2F4D9DF3BDE261FBB98801CA132E1F/DD0D6CC86ED8A6B5A3BC343948F999657C472CA6.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11720_00": {
+        "npCommunicationId": "NPWR11720_00",
+        "trophyTitleName": "용과 같이 ０　맹세의 장소",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11720_00_0019F24719C1125763E3E92A1E87E801499E5A7338/9FFC4BDE79953255A2CE08DEE0181EBDA9F4FB3F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR11721_00": {
+        "npCommunicationId": "NPWR11721_00",
+        "trophyTitleName": "UNDER NIGHT IN-BIRTH Exe:Late[st]",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11721_00_00C8D58F417F08D025BCC35F51692337231466056C/EF73399996C878A4881C9835FE9E23FE9B2AE930.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR11722_00": {
+        "npCommunicationId": "NPWR11722_00",
+        "trophyTitleName": "id [イド] - Rebirth Session -",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11722_00_00BEAA6636D43832E92CC16A423D6996F7BDCFCE9C/626D17D00F788873F2553DAE2D4F11810F6A6A85.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR11723_00": {
+        "npCommunicationId": "NPWR11723_00",
+        "trophyTitleName": "Timepiece Ensemble",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11723_00_00F124B72686BCC3D107E30CA13AC179937C28223B/C9FE057AD43F6F040703E10CA44B4632F903FE9B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11724_00": {
+        "npCommunicationId": "NPWR11724_00",
+        "trophyTitleName": "終わる世界とバースデイ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11724_00_0006666C84EAE73C4AF7DCFD25170661101951A2AE/547B17EA15587F86494DA95D6E1DFECA4DC4C3DA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11725_00": {
+        "npCommunicationId": "NPWR11725_00",
+        "trophyTitleName": "はつゆきさくら",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11725_00_009DA3A0E4FDFDD8F1543CED4917C2EF5F5E04468D/0D02931CA341CD985C8E3D0AB34D9F15B9A1FF54.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 4,
+            "bronze": 2
+        },
+        "service": "trophy"
     }
 }
