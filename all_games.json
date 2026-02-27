@@ -23528,5 +23528,135 @@
             "bronze": 38
         },
         "service": "trophy"
+    },
+    "NPWR04073_00": {
+        "npCommunicationId": "NPWR04073_00",
+        "trophyTitleName": "Spelunker Collection",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04073_00_00E3D3FDC16860FABE70CBE43706F383D7FECE8C41/EF5BFAE8EDAAA4068C67AF898818C494553A3D7D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR04075_00": {
+        "npCommunicationId": "NPWR04075_00",
+        "trophyTitleName": "天使憑きの少女",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04075_00_00B154F1E35B68522BD21946B4B542B76C82E8E7CD/016C957F78D0A48664F60F1F93B5EB838E41DFBB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 4,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR04077_00": {
+        "npCommunicationId": "NPWR04077_00",
+        "trophyTitleName": "Scourge: Outbreak",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04077_00_009F8D38992321C3047A9A399FA4A59593ED845339/BA3BC5B4980883440A3D95F1EDB0B52E04CEA8E5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR04081_00": {
+        "npCommunicationId": "NPWR04081_00",
+        "trophyTitleName": "American Mensa Academy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04081_00_0029C53BFEC8CEE7D6922012FA8101DC31B8866342/C5D0A554017C1262D131827EE331B6C3040235D1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR04082_00": {
+        "npCommunicationId": "NPWR04082_00",
+        "trophyTitleName": "Let's Fish! Hooked On",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04082_00_00E87A7D58F7A361ADA4A46DDA75141C6B78BAEF41/D74A00926840F17269B1BC4A981ED97596710B0A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR04085_00": {
+        "npCommunicationId": "NPWR04085_00",
+        "trophyTitleName": "ONE PIECE 海賊無雙２",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04085_00_008652BD949B60C86CD9C6B84CBB7FD3AA269E2A4C/0F2E81815DF5EB1FDF29C59B1C271EB7C6FA68ED.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR04086_00": {
+        "npCommunicationId": "NPWR04086_00",
+        "trophyTitleName": "AKB1/149 恋愛総選挙",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04086_00_00BF2D62866681080F2F981652414385391DDFD0FA/141D5F100393377FEDCDD9B76B122BAA87CB4F81.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR04087_00": {
+        "npCommunicationId": "NPWR04087_00",
+        "trophyTitleName": "戦極姫3～天下を切り裂く光と影～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04087_00_009DDF24626C396C4242AFD875043F20C053AEF0E2/E328B366ADFA0FC79A2A7BEDD1CDBBA357B80131.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR04088_00": {
+        "npCommunicationId": "NPWR04088_00",
+        "trophyTitleName": "戦極姫3～天下を切り裂く光と影～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/C66B0DF74B421CB8A3DEC1320113D58DA3B7929A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR04091_00": {
+        "npCommunicationId": "NPWR04091_00",
+        "trophyTitleName": "Call of Juarez® Gunslinger",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04091_00_00CA4271A4DA8B34E79DEDA40135B232B2DBD64CFA/A014356F439789E2C3810E8F1F9EBBC7C117E48C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 13
+        },
+        "service": "trophy"
     }
 }
