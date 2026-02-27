@@ -80338,5 +80338,135 @@
             "bronze": 15
         },
         "service": "trophy"
+    },
+    "NPWR13386_00": {
+        "npCommunicationId": "NPWR13386_00",
+        "trophyTitleName": "The Metronomicon: Slay the Dance Floor",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13386_00_006D7CD3338073C838A5AE2BFB2043D244C3CBEC21/14C10064653EECFC8AF1978AAC6E29A211459C2D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR13387_00": {
+        "npCommunicationId": "NPWR13387_00",
+        "trophyTitleName": "Battlefield™ V",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13387_00_00D6B0FB69485C47618E10F0F190246D4D85AEC3E3/DC622399D70493741D1C282FEE3FC14327C61B25.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 11,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR13389_00": {
+        "npCommunicationId": "NPWR13389_00",
+        "trophyTitleName": "RAID: World War II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13389_00_007011A1C3F5C0EE1086DDC9C6C3579000129201AB/5CA1626610F17B6D3CF66E793C5B250A20F30B71.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR13391_00": {
+        "npCommunicationId": "NPWR13391_00",
+        "trophyTitleName": "Pierhead Arcade",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13391_00_008EB06BC40AB2F46E92AB7593C0BE1E9C9CF90C93/FEF8BBA98C655EE552E7CCA8016FBE539DA04DD4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR13392_00": {
+        "npCommunicationId": "NPWR13392_00",
+        "trophyTitleName": "絕對絕望少女　槍彈辯駁 Another Episode",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13392_00_00951749B57D218AC8A1600BCE47F53605A2CD0864/C518B06646E126CDF412C45FFA4F428F409258CD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR13393_00": {
+        "npCommunicationId": "NPWR13393_00",
+        "trophyTitleName": "Graceful Explosion Machine",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13393_00_003E8FBA9B216B5C2517AE0664D8077189C4E8602E/FEAC2539ED638F292933EDC1C09908615B960AEF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR13395_00": {
+        "npCommunicationId": "NPWR13395_00",
+        "trophyTitleName": "Trophies for Vegas Party",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13395_00_00C75A9A1CB42AE08F9DC0B19A6E7BF1897F45D644/BE3F10E692267338E78CC8E6547F9201A228FAAD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 12,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR13396_00": {
+        "npCommunicationId": "NPWR13396_00",
+        "trophyTitleName": "SteamWorld Dig 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13396_00_0059C7F5582B1CAC36688F7D2FDAE48A4180F1174C/026A32720D5B2D9E34A45D288E4CE47B021B2F00.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR13397_00": {
+        "npCommunicationId": "NPWR13397_00",
+        "trophyTitleName": "Trophies for Vegas Party",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13397_00_00C9057288D49D0D3E2BEB16AD58A7FCF10E5A2F63/E67B11F00601095D29D0B3DE830DEC2933869D3C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 12,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR13404_00": {
+        "npCommunicationId": "NPWR13404_00",
+        "trophyTitleName": "Die for Valhalla!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13404_00_00AD94D788E9C32F82FBD9AFBCF6E23814E8E44245/358A49A0C78D7C03163130C9B1604B6169C656D1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 22
+        },
+        "service": "trophy"
     }
 }
