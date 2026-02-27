@@ -37178,5 +37178,122 @@
             "bronze": 3
         },
         "service": "trophy"
+    },
+    "NPWR06977_00": {
+        "npCommunicationId": "NPWR06977_00",
+        "trophyTitleName": "ラブライブ！ School idol paradise Vol.1 Printemps",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06977_00_00ED67E65D4E5651C6B7482C887F6E95B2E1A3D637/E100BCDB9A28B83FD8E8AD59F78CA3C28375EFDE.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 20,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR06978_00": {
+        "npCommunicationId": "NPWR06978_00",
+        "trophyTitleName": "ラブライブ！ School idol paradise Vol.2 BiBi",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06978_00_000F06778123C2AD4EDBEFE68956D5001C7772DBD1/DA93832ACA68DFB91194C0DC135D7B474E5A5792.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 20,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR06979_00": {
+        "npCommunicationId": "NPWR06979_00",
+        "trophyTitleName": "ラブライブ！ School idol paradise Vol.3 lily white",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06979_00_000F4B83F0AF28F2B4B7346970DF1E2799B7763D3C/50CDD3B747D0D67337F009A1F6C5E2C8153503F4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 20,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR06989_00": {
+        "npCommunicationId": "NPWR06989_00",
+        "trophyTitleName": "Bound by Flame",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06989_00_00783AEF4067D96A3F02CE863C44D11BB41A15F89B/CB70E6C6348AA8118F82F61565C00C6FC5E92F1C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR06992_00": {
+        "npCommunicationId": "NPWR06992_00",
+        "trophyTitleName": "NAtURAL DOCtRINE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06992_00_0001E43A9295E20EA74313A0ECD1AFF07697C8D16C/1330032BC4E9F208502BFC2802EB46854F20076B.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR06995_00": {
+        "npCommunicationId": "NPWR06995_00",
+        "trophyTitleName": "オセロ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06995_00_00BC0B749D29B804875D06E9BD868FBF96CCCF1B8A/1C1F9D1FA8962F4DAA749D6E49664DEA19E18C6A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR06996_00": {
+        "npCommunicationId": "NPWR06996_00",
+        "trophyTitleName": "DRAMAtical Murder re:code",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06996_00_00271849CBF8CEE0EAAD7BEEC424748A168EC4DB48/A6466C99FDB2CBA28D78C74222AB51F5C27C90C1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 17,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR06998_00": {
+        "npCommunicationId": "NPWR06998_00",
+        "trophyTitleName": "NORN9 LAST ERA",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06998_00_0078C2BA36C41BFED925F5C5665B2E7F60B87226CC/271216C3231B1CD06D83816EFAD116D62964BFA7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 17,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR07000_00": {
+        "npCommunicationId": "NPWR07000_00",
+        "trophyTitleName": "恋愛0キロメートルＶ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07000_00_003289EAB51DF3C881A0E77951A763A2539DAE1C1B/FAED23F587B17FF2128E76DCFFFE4E6A0E194219.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 2
+        },
+        "service": "trophy"
     }
 }
