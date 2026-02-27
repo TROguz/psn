@@ -20538,5 +20538,135 @@
             "bronze": 47
         },
         "service": "trophy"
+    },
+    "NPWR03491_00": {
+        "npCommunicationId": "NPWR03491_00",
+        "trophyTitleName": "戦国BASARA2 英雄外伝 HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03491_00_004169A9A1806F45A2AB7F2E3EAB08B35646CB9EBA/62367F9F2B02C11626F99E2B6A9EE2A695303211.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 8,
+            "bronze": 45
+        },
+        "service": "trophy"
+    },
+    "NPWR03492_00": {
+        "npCommunicationId": "NPWR03492_00",
+        "trophyTitleName": "初音ミク -Project DIVA- ドリーミーシアター extend",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03492_00_0040BB3F5B90EC22C6656A7FBFD5D35D48BEDA187F/90E9522230325656CD8DAB20C62022069712E94B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR03493_00": {
+        "npCommunicationId": "NPWR03493_00",
+        "trophyTitleName": "エクストルーパーズ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03493_00_0011AD77220CCE908A927E11A0BD90F26DEF50F4C9/66D0E70780288AAE5B2B497AC0050533433BD77A.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR03495_00": {
+        "npCommunicationId": "NPWR03495_00",
+        "trophyTitleName": "WWE '13",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03495_00_008FAD1025574473AEFCC0DD2F260961BBCACBCAF4/1E7540BFC50E8BF744E9F4B31BBE545B2AD902FC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR03496_00": {
+        "npCommunicationId": "NPWR03496_00",
+        "trophyTitleName": "Defense Technica",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03496_00_0092405239BF4F423EF20F1E27F2320656EFAD67BF/D53886FA2B63410F9F4BB2C8CC9CF3A34A42731A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR03497_00": {
+        "npCommunicationId": "NPWR03497_00",
+        "trophyTitleName": "ToeJam & Earl",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03497_00_00F87B641B8CD2219A908076DE9EF07F4E005C0C87/FEA560D7482191F908EA6397E1E06E7B70FA30C4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR03498_00": {
+        "npCommunicationId": "NPWR03498_00",
+        "trophyTitleName": "ToeJam & Earl in Panic on Funkotron",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03498_00_0098281CDD89EE33A31033862E9D7E3D264FE47DAA/0011D9340BC43F3AB563FEB91D54F2468896921F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR03500_00": {
+        "npCommunicationId": "NPWR03500_00",
+        "trophyTitleName": "Os Cavaleiros do Zodíaco: Batalha do Santuário",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03500_00_0019269DDA6FFF66672F0EB07B7F7F821B6F9652F6/89375C9CFDC2AE5F9DF4FA17B2E7B7F38C917C31.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR03501_00": {
+        "npCommunicationId": "NPWR03501_00",
+        "trophyTitleName": "テイルズ オブ エクシリア2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03501_00_0039885E81AC38E529A235ABF758DB8975966EFA70/0D042F7F1F3FF6457CDD99B5305714FCB190403B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR03503_00": {
+        "npCommunicationId": "NPWR03503_00",
+        "trophyTitleName": "The Unfinished Swan™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03503_00_00C5682CBD335176BD2603C1664BEF430ADE81696C/DB7A4B01E13DE6CA8C7C2AB9BC05945D18A1DEB3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
