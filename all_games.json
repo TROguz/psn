@@ -62268,5 +62268,135 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR11087_00": {
+        "npCommunicationId": "NPWR11087_00",
+        "trophyTitleName": "鳥籠のマリアージュ ～初恋の翼～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11087_00_0079FB2C27CA09DCF48EF638AD8F9F11716C183E14/1130C5780BF751A579E373C4A9E5F920E7559B63.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 11,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR11088_00": {
+        "npCommunicationId": "NPWR11088_00",
+        "trophyTitleName": "プライミニスター",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11088_00_006D15087520D45D70C92C8A3FC8948EC669680082/2038DD781AC72BAF46FEC8CE4AE0E5406BDB1B1A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 7,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR11089_00": {
+        "npCommunicationId": "NPWR11089_00",
+        "trophyTitleName": "さかあがりハリケーン Portable",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11089_00_00F3D5F4B919CE13B268BBF0B1CC7887291BAD57E8/7AF65559997FB07122AACD348F51F113A04292C1.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 6,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR11090_00": {
+        "npCommunicationId": "NPWR11090_00",
+        "trophyTitleName": "君を仰ぎ乙女は姫に",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11090_00_00C1AF82E3DC27961747502969FADA08E9AE7D5E8E/8716F3A40C4BEC8D0D1F4A31861BCE6D40E7085E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 7,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR11092_00": {
+        "npCommunicationId": "NPWR11092_00",
+        "trophyTitleName": "プラマイウォーズV",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11092_00_00E0C8E3D989A621FDC49C0194B7E637E002F8AD8D/04779E1E620639A704A69BAB7D1D808D9690C377.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 2,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11093_00": {
+        "npCommunicationId": "NPWR11093_00",
+        "trophyTitleName": "咲-Saki-全国編Plus",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11093_00_0064FF826AFFFFB9A53B8EF55E692954D86E5E5DFB/CFC3317D82CC39505AA58C01B7AB0CBF4A58E55B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR11094_00": {
+        "npCommunicationId": "NPWR11094_00",
+        "trophyTitleName": "Duke Nukem 3D: 20th Anniversary World Tour",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11094_00_00A9579B8A1F0A691958F900284193D9EF76C06CD6/5EF650B1CF146A8537B82DD592C33CA29E88ABD9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11095_00": {
+        "npCommunicationId": "NPWR11095_00",
+        "trophyTitleName": "Saban’s Mighty Morphin Power Rangers: Mega Battle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11095_00_0050C512CA13B92C9292BEDD923E8DC316338D6787/A3F81AD4A462815380A92428D4985E58D216BAA7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR11097_00": {
+        "npCommunicationId": "NPWR11097_00",
+        "trophyTitleName": "Infinita Strada Hana",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11097_00_00529BA662ECAC7E62912FDA0D78D772547E547BDB/D4B371531C98ACAAD4B087E46AB57337818A311F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11098_00": {
+        "npCommunicationId": "NPWR11098_00",
+        "trophyTitleName": "Anonymous;Code",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11098_00_0099A8632754F8641C4EFB9F82048E035FEFF4A756/AEEFC246D01DA1C86EAF2ED87896FBD021623015.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 16,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
