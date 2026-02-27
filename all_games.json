@@ -38608,5 +38608,135 @@
             "bronze": 34
         },
         "service": "trophy"
+    },
+    "NPWR07287_00": {
+        "npCommunicationId": "NPWR07287_00",
+        "trophyTitleName": "The Last Tinker: City of Colors",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07287_00_00758D521F9DBD7B273576877D89879974E4CB66EB/F4D5E2E45CBA984189A1D33A05A456E426D2DAF8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR07290_00": {
+        "npCommunicationId": "NPWR07290_00",
+        "trophyTitleName": "Until Dawn",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07290_00_00B5670B887541F4DEFCD7AB125CC0333C8D821FA3/17EC3FCFAF91ECD0A2696071DE063351C4E62560.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR07292_00": {
+        "npCommunicationId": "NPWR07292_00",
+        "trophyTitleName": "ゴジラ-GODZILLA-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07292_00_00C26286BF7F96186F39CB2F4B10B2BA1CBE53E336/D49CCBEE4DA021573158A983DADBC3DE6BF13F30.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR07294_00": {
+        "npCommunicationId": "NPWR07294_00",
+        "trophyTitleName": "Invizimals™:\nThe Resistance",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07294_00_00BC7F900B9774C6D2B5A826C57E00D71D481AAFC1/761D44D9CCE7DD40774CD2C2F5CC9D6E23ACCCF2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 5,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR07296_00": {
+        "npCommunicationId": "NPWR07296_00",
+        "trophyTitleName": "Tears to Tiara Ⅱ Heir of the Overlord",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07296_00_0078B5D57C4F68BB7B6AEE7A8668BED6C394778C7A/1798809D9AAB3573A4BB3A1D309ECFC044BA3F70.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 51
+        },
+        "service": "trophy"
+    },
+    "NPWR07297_00": {
+        "npCommunicationId": "NPWR07297_00",
+        "trophyTitleName": "Styx: Master of Shadows",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07297_00_009DD4130CE517542117429D2E233D8F2CF11D1D3F/D83983C513CFC158ABC50375D5ACDEE9FD1CAB0B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR07300_00": {
+        "npCommunicationId": "NPWR07300_00",
+        "trophyTitleName": "Sleeping Dogs: Definitive Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07300_00_00ACC790647EAF6E323DD3F3CE0A360B346E1F72A4/AB916F45CC4F66EDF6AD0AB71F91FAB462522316.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 45
+        },
+        "service": "trophy"
+    },
+    "NPWR07302_00": {
+        "npCommunicationId": "NPWR07302_00",
+        "trophyTitleName": "ペルソナ４ ダンシング・オールナイト",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07302_00_00DBD60C1629EB1FDA8E7A8AC780FD9731A185755B/E8E1218E018C5F25FA2AA0242F8F74FCE12D8B0A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR07305_00": {
+        "npCommunicationId": "NPWR07305_00",
+        "trophyTitleName": "Divekick",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07305_00_00C25B3B1777F4EE1A9B759038DC90B94D0E5609B3/71A9EE5ECB008984A888A00F5B600080CE245AE8.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR07306_00": {
+        "npCommunicationId": "NPWR07306_00",
+        "trophyTitleName": "MLB® 15 The Show™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07306_00_000197ADE2F02A2D245A9455F06906F50126567973/D2CE222101891A9336F69CA90337904DE9396F3E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
