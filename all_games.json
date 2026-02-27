@@ -60448,5 +60448,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR10845_00": {
+        "npCommunicationId": "NPWR10845_00",
+        "trophyTitleName": "VEV: VIVA EX VIVO",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10845_00_0045E438C4481F1F94086180AD8DB09D4C1ED18ADC/2B9D8A755B9B3C9889414E27DC30D7F40616DC72.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR10846_00": {
+        "npCommunicationId": "NPWR10846_00",
+        "trophyTitleName": "STEINS;GATE 0",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10846_00_004755C3498B783B1C2066812ACE1326A02EAAC484/726F97E98846ED5670E57FA605757D50732D5586.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR10847_00": {
+        "npCommunicationId": "NPWR10847_00",
+        "trophyTitleName": "STEINS;GATE 0",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10847_00_00A8CE64595C9729EFCAD9A6EC1FC7580B8FB5DD94/27FBB89BD22B99F25190C66A2D7FC30E5F1D000D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR10850_00": {
+        "npCommunicationId": "NPWR10850_00",
+        "trophyTitleName": "용사 죽다.",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10850_00_00E4B633A8494CCF91C8A07313E81BC6212076D42F/E3C3EB811F3DEDF10F84969034C014123B25D647.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 52
+        },
+        "service": "trophy"
+    },
+    "NPWR10852_00": {
+        "npCommunicationId": "NPWR10852_00",
+        "trophyTitleName": "Aqua Moto Racing Utopia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10852_00_00FD2092EC784C190D1C333FBDD588B8B1A8D0750A/0C31CFA039CDD1299A54A7D3100DBA159212ABCB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 4,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR10853_00": {
+        "npCommunicationId": "NPWR10853_00",
+        "trophyTitleName": "Plague Inc: Evolved",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10853_00_006E03D622B655659223367F5C310A6E23FECC6C6B/13ABF98A0FB8C50D574271455E755B24AE0ED58B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 49
+        },
+        "service": "trophy"
+    },
+    "NPWR10854_00": {
+        "npCommunicationId": "NPWR10854_00",
+        "trophyTitleName": "My Night Job",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10854_00_009EE72B64B14F8A5D66DBAE1D39425CFD79C10691/794741F21044AD45F87C1FA74F16CA314DEB1AE3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR10858_00": {
+        "npCommunicationId": "NPWR10858_00",
+        "trophyTitleName": "クロバラノワルキューレ Black Rose Valkyrie",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10858_00_009042441302AE81CF95834A50B3398A8A30147336/21A77822A6CAA01B25E71EA12C66D2B19EB06DF2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 45
+        },
+        "service": "trophy"
+    },
+    "NPWR10860_00": {
+        "npCommunicationId": "NPWR10860_00",
+        "trophyTitleName": "The Surge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10860_00_00CB0E6CC226FA809B3D90A9A653AF846AEFA9EBAE/70095DF89643F272E8E8A3C45431143D708ECBB1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 17,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR10861_00": {
+        "npCommunicationId": "NPWR10861_00",
+        "trophyTitleName": "Call Of Cthulhu",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10861_00_00A90BAC617B51748B93CD9C38F187F837F1D770FE/1311CFB74E0A0BCE6DF8E7DB27C05720C5D25161.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 34
+        },
+        "service": "trophy"
     }
 }
