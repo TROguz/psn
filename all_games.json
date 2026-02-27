@@ -60838,5 +60838,265 @@
             "bronze": 3
         },
         "service": "trophy"
+    },
+    "NPWR10893_00": {
+        "npCommunicationId": "NPWR10893_00",
+        "trophyTitleName": "Bard's Gold",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10893_00_001DA402C331E17610F83C3A4810BA4E3174A82544/2042ADD5C1B503F6E49C3FA5D36E2C25ED6B54E0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10896_00": {
+        "npCommunicationId": "NPWR10896_00",
+        "trophyTitleName": "World of Warriors ™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10896_00_001B86B095445292E6A923E9048D653ADC16ED398D/587786167B410A1B5504DDC8B9A9C752E562722F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR10898_00": {
+        "npCommunicationId": "NPWR10898_00",
+        "trophyTitleName": "DRAGON BALL XENOVERSE 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10898_00_0019BF2B4BCC79334FA7C8C4EDCCA1B6FA52504B0D/D3A5D909BCD20C90253F13B7701D0E5020709FC4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR10899_00": {
+        "npCommunicationId": "NPWR10899_00",
+        "trophyTitleName": "Ninja Pizza Girl",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10899_00_0090AA5D5797180E797CA7246579D452BE3E852FD1/68B8A6C5ED5B4AF123D2A5650A4311C988A05CBB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR10901_00": {
+        "npCommunicationId": "NPWR10901_00",
+        "trophyTitleName": "Just Dance® 2017",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10901_00_00011ADB88AF1E942E29279A09382CCDABF49E9A27/8DCAB94B0CAD66993F2907190EB9B89EA6504EDA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR10902_00": {
+        "npCommunicationId": "NPWR10902_00",
+        "trophyTitleName": "新釈・剣の街の異邦人 ～黒の宮殿～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10902_00_00F4649D9639A1184378988B519C868B36DB4B1F2D/C8371EF0F512CEDA97035651970A5528013BEA85.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 17,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR10904_00": {
+        "npCommunicationId": "NPWR10904_00",
+        "trophyTitleName": "ZHEROS Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10904_00_004D118F5A0189E6548C751E1E782C3619E539AE68/02D6A6D73422D9010722067D711A3F37178875AA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR10905_00": {
+        "npCommunicationId": "NPWR10905_00",
+        "trophyTitleName": "Survivor Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10905_00_00E138C344139D01EC30E788AA2E5DF2E93897380C/4D2BD9AA9172765A09B73200C24BC8A5C6E82950.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10906_00": {
+        "npCommunicationId": "NPWR10906_00",
+        "trophyTitleName": "Gryphon Knight Epic",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10906_00_0066CBB4B334226BC807BD50B619C41660E337AEB8/3C1A71224D9DC490D60230E09DE91D9D7D4DEB34.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR10907_00": {
+        "npCommunicationId": "NPWR10907_00",
+        "trophyTitleName": "ダマスカスギヤ東京始戦 HDEdition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10907_00_00CC56A481A3E9A5C00E7EDDDFA10E2BDB310229F9/D479D8D765A44CD6BB8BF09F769D373EAE8ED247.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR10909_00": {
+        "npCommunicationId": "NPWR10909_00",
+        "trophyTitleName": "真·三国无双7 帝国",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10909_00_00E6697824FF59611DEBB06834C281F42BB4A4B876/0F5216B85F8B6DDBF430B2C3EFFFFDEE005C0FD4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR10912_00": {
+        "npCommunicationId": "NPWR10912_00",
+        "trophyTitleName": "Samurai Shodown VI",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10912_00_0089AA3F4F46F3862B466C6D90EF7B47112AC68EB1/D8C81A1EC9F080657DB7551C0881E126B0439CCD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR10913_00": {
+        "npCommunicationId": "NPWR10913_00",
+        "trophyTitleName": "Chroma Squad",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10913_00_007B304BB073846C2512EC218EAF5C7DD010BBBE07/BEAEEF414A7074A949AE106904E424E47F7EDE98.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR10914_00": {
+        "npCommunicationId": "NPWR10914_00",
+        "trophyTitleName": "東亰ザナドゥ eX+",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10914_00_002120A816FB136F93629EC3180D2C6E726556EC82/B9A7C9F3F1C2224DEC62F907AEA60208EE13CB57.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR10915_00": {
+        "npCommunicationId": "NPWR10915_00",
+        "trophyTitleName": "世界一長い５分間",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10915_00_001768557CCC6115948B0E86BEF200A9821EBAEAEE/A2B644BF58B4EAFA73C3B3CD728C1C62F3933CA3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR10916_00": {
+        "npCommunicationId": "NPWR10916_00",
+        "trophyTitleName": "PAC-MAN™ CHAMPIONSHIP EDITION 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10916_00_008CD832F8D52CBD415A912EBC564DAB53C8A929B7/D5BCAC63766F10B927ABFAFE954A1357D2409C47.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 7,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR10919_00": {
+        "npCommunicationId": "NPWR10919_00",
+        "trophyTitleName": "She Wants Me Dead",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10919_00_00DF29531E100811BE66B012F33A3A67F0F36BE0BA/6CBBCEE2BA46746D5826B5AA76ACB144ADFA95A5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR10922_00": {
+        "npCommunicationId": "NPWR10922_00",
+        "trophyTitleName": "SUPERHYPERCUBE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10922_00_00DAD46047A963D9F87B870CD2BB6C7CB2B9714604/BB2C7396FBC2114B637BE2A6816E01A129889D13.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR10924_00": {
+        "npCommunicationId": "NPWR10924_00",
+        "trophyTitleName": "Tokyo Xanadu",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10924_00_001576CFDDCDD233372AD5C8C47860588ECE2F6E3A/A3609F60FC5D3E50BEC322FA1B41D19D1FABC1AC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR10928_00": {
+        "npCommunicationId": "NPWR10928_00",
+        "trophyTitleName": "金色琴弦４",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10928_00_005CF7FA9977C7DA29FE181823D9CCEB6CEB1A8C97/1968EBDE35198D53554AFCE2D23F9A1757FD526D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 18,
+            "bronze": 18
+        },
+        "service": "trophy"
     }
 }
