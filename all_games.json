@@ -54078,5 +54078,135 @@
             "bronze": 5
         },
         "service": "trophy"
+    },
+    "NPWR09819_00": {
+        "npCommunicationId": "NPWR09819_00",
+        "trophyTitleName": "Among the Sleep",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09819_00_006E8A94CDD9EF81376B433A347CACCA6152638583/F0D108663846FD6095D84E32A3D3DDD39D67B70D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR09820_00": {
+        "npCommunicationId": "NPWR09820_00",
+        "trophyTitleName": "Kick and Fennick",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09820_00_0076D747971107A036084FE4F812CABACE138E91E9/F1E7B204255B42E6B289A7C5BC285222A266E3DC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR09824_00": {
+        "npCommunicationId": "NPWR09824_00",
+        "trophyTitleName": "ZERO ESCAPE 刻のジレンマ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09824_00_0087754323A0FAC076B70B41A10F0484DEC6458546/0E29EADA12149E1BF0A67FE01A9D0A20E426358D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR09826_00": {
+        "npCommunicationId": "NPWR09826_00",
+        "trophyTitleName": "Let's Sing 2016",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09826_00_0072B3A87B285CCFF0078D1DE7A17CE734E5942D11/0C77C910AFAD8B9B306DEB8B0E3ECFEED5FACC5C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR09827_00": {
+        "npCommunicationId": "NPWR09827_00",
+        "trophyTitleName": "Attractio",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09827_00_0021319DB066761AF996EC4A806572CE260343667F/EA8A6299234A658F13E31C2CCE9542317584B2A2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR09828_00": {
+        "npCommunicationId": "NPWR09828_00",
+        "trophyTitleName": "仮面ライダー バトライド・ウォー 創生",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09828_00_007892FCBCBB0DCDB1B0990AF4DF95D00A3D321EF8/21D9250BFEE51CE04F7A74534763A7ECC00CDF0A.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR09834_00": {
+        "npCommunicationId": "NPWR09834_00",
+        "trophyTitleName": "The Warriors",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09834_00_00922E0B41634960B1E6C41ACB293049CA8289B6EC/74026E05D88B7F63245BBBD658E3F932741692FA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR09839_00": {
+        "npCommunicationId": "NPWR09839_00",
+        "trophyTitleName": "One Tap Hero",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09839_00_00D2ADBA60B6460EEF8BF84304FFB30358F64AB1E1/81E82DA59612D4A4643A9849C90BAC54BD1CCEEB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 4,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR09850_00": {
+        "npCommunicationId": "NPWR09850_00",
+        "trophyTitleName": "101 Ways To Die",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09850_00_007806A78A75CB744F6471A6E4CD10297EB19F50E0/A9DE1B6382BA20FA8DACAE8677A8C9CF76B1D192.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR09851_00": {
+        "npCommunicationId": "NPWR09851_00",
+        "trophyTitleName": "La Voz Vol. 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09851_00_00F9833E4F84DAC7D595D4410B7C6D393E4A6CF1C3/E1FC253769C3908EF4FA3FE227D76FD0D37B9D07.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 1,
+            "bronze": 4
+        },
+        "service": "trophy"
     }
 }
