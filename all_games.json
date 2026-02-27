@@ -51738,5 +51738,135 @@
             "bronze": 21
         },
         "service": "trophy"
+    },
+    "NPWR09461_00": {
+        "npCommunicationId": "NPWR09461_00",
+        "trophyTitleName": "Hatoful Boyfriend - Holiday Star",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09461_00_001307288E7AF7D5BD5ADBFBD31FBB64A7F4D27DC6/A4CB8BAEFCE609BC260149AE7EADC641EADF8097.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR09466_00": {
+        "npCommunicationId": "NPWR09466_00",
+        "trophyTitleName": "Paperbound",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09466_00_00F08AE8F8E86E5BCFFA6DF792A03503E62A8E9985/A9DA61C391BB1304A53B5692289379864F4970A9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR09468_00": {
+        "npCommunicationId": "NPWR09468_00",
+        "trophyTitleName": "Kromaia Ω",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09468_00_00E5AEB2F54A42273B5398A06F21B7E0A7922E02A0/EA48E7E7FDE49BA6D853DD1BFDC6830D94B80061.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 11,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR09473_00": {
+        "npCommunicationId": "NPWR09473_00",
+        "trophyTitleName": "神々の悪戯 InFinite",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09473_00_00A433B630EA3EE92233E52997C8B1E8F24DB38479/EB176A162164EBC6A3471D078C60E0DE1913D445.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR09474_00": {
+        "npCommunicationId": "NPWR09474_00",
+        "trophyTitleName": "うたの☆プリンスさまっ♪ＭＵＳＩＣ３",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09474_00_008E763619A443CA7DF6E0950BE6E43DA6B3CAB3F0/AB631E9F0E0854AA4BEA06AF7777A1BFFF025979.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 14,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR09475_00": {
+        "npCommunicationId": "NPWR09475_00",
+        "trophyTitleName": "Calvino Noir",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09475_00_009AC2FAFC0C0F3F451FE6133D98C18C1F6A20AAFE/82EEAD44B56FDD684549E38C0299971783152ED7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR09476_00": {
+        "npCommunicationId": "NPWR09476_00",
+        "trophyTitleName": "Three Fourths Home: Extended Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09476_00_00F57B0FCA690AA0E93773AB838237DCE1F4873013/2873BF28951A6A67E4D7AD8DC1ED2A70804F10C5.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR09479_00": {
+        "npCommunicationId": "NPWR09479_00",
+        "trophyTitleName": "ぎゃるガンヴォルト",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09479_00_00F3755A9EE81B16461DEEE5B78EFB8361E00CB3C2/EB0454BEDF47BBB052E769B89151CB9C9A0BD1E1.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR09480_00": {
+        "npCommunicationId": "NPWR09480_00",
+        "trophyTitleName": "Killing Floor 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09480_00_00C428F95BE8EAD47702C6A2EE5942A23D57CFDF4B/1095FD9D30C0D0A4B61201E157A97821DE9DC96C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR09483_00": {
+        "npCommunicationId": "NPWR09483_00",
+        "trophyTitleName": "God Eater Resurrection",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09483_00_00084808F2E2C43FBCDFF06CBA47F8D3882C06442B/C11FEE99C91B6B27E338A2EFC6D64B3BBEDEF727.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 19
+        },
+        "service": "trophy"
     }
 }
