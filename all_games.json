@@ -21968,5 +21968,265 @@
             "bronze": 28
         },
         "service": "trophy"
+    },
+    "NPWR03729_00": {
+        "npCommunicationId": "NPWR03729_00",
+        "trophyTitleName": "WHITE ALBUM2 幸せの向こう側",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03729_00_00696F26AA50FD7E20A02DA1B339F73CF6FEF0392C/1173DA282E1913574F5DCC5541103CDFA887CD82.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR03731_00": {
+        "npCommunicationId": "NPWR03731_00",
+        "trophyTitleName": "Sanctum 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03731_00_0001E6B41808F22E7E1346B3E1B5AB38FC9D048AF5/4A9924C5A34687E8E6B88BC5FDD2C21DCF0B70E7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR03732_00": {
+        "npCommunicationId": "NPWR03732_00",
+        "trophyTitleName": "Demolition Inc.",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03732_00_00209BC9AF471B276E66E7A4C35FF369064A67E270/BCC2733EC0533D9FBEE7B1F7C0F74CD97F0DE99E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR03734_00": {
+        "npCommunicationId": "NPWR03734_00",
+        "trophyTitleName": "F1 Race Stars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03734_00_007E50D2A6F01B80E606FE7CEB68B85B702A215FB0/08EFC75EC2A0A7F35CC8A3CAA84EC78AED55F505.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 14,
+            "bronze": 45
+        },
+        "service": "trophy"
+    },
+    "NPWR03740_00": {
+        "npCommunicationId": "NPWR03740_00",
+        "trophyTitleName": "三國志12",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03740_00_00FED766E582502E429E38E01834BDB101668E61A5/DD313EAECD52FC647BFC58C9DB7D748D30EDD140.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR03742_00": {
+        "npCommunicationId": "NPWR03742_00",
+        "trophyTitleName": "ドリームクラブZERO Special Edipyon!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03742_00_004684476DCC50DC649FE11455C770FA85126E5016/7DE03BCB9AB4645BCE8B629694C615CD6D88C213.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 13,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR03745_00": {
+        "npCommunicationId": "NPWR03745_00",
+        "trophyTitleName": "真・三國無双７",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03745_00_003BD3700A0610E73822BEA58F695B297AC4B730BB/7DB9D1A8FF2A0A9942BD5007FAA0EE1AC7AA7876.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 20,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR03746_00": {
+        "npCommunicationId": "NPWR03746_00",
+        "trophyTitleName": "Destiny of Spirits™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03746_00_0028A1E2517CBD175B813959F1D822DC31C3167DAB/C7AF37C23A7F144B225A23DA3C028F2AA2661DB1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR03751_00": {
+        "npCommunicationId": "NPWR03751_00",
+        "trophyTitleName": "地球防衛軍3 PORTABLE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03751_00_00887E531296A850FF91B99BC1BE093B5DD1D00F63/36727F1513F82D7AB490A8B68695D83959EAB94F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 60
+        },
+        "service": "trophy"
+    },
+    "NPWR03752_00": {
+        "npCommunicationId": "NPWR03752_00",
+        "trophyTitleName": "みんなのGOLF 6",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03752_00_007DB8ADCACD856184B72396A540B88E4412E5DE2D/B5C2A193C7AE9F1F4FA5597E33620E9D57C3ABCF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR03754_00": {
+        "npCommunicationId": "NPWR03754_00",
+        "trophyTitleName": "ガンダムブレイカー",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03754_00_00322CF76B6DFA33CC00C752501B7ECDF81311097D/0F68FE36C8649269AAADF5461942B7FC788E343E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR03760_00": {
+        "npCommunicationId": "NPWR03760_00",
+        "trophyTitleName": "Pro Evolution Soccer 2013",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03760_00_0074846B4E00F8A59D5DB9A82963DF24E584F895D3/239DFF0793993B38E45E5D40E607B137DF5A28FC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 21,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR03761_00": {
+        "npCommunicationId": "NPWR03761_00",
+        "trophyTitleName": "여신전생 페르소나4 더 골든",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03761_00_006AE2CCDCCB6F81B08B828F6F41B3E220807B5C27/91C4BE743D6873A81462F743E7D04FAEFD405AE6.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR03766_00": {
+        "npCommunicationId": "NPWR03766_00",
+        "trophyTitleName": "とってもE麻雀",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03766_00_00BABB6508D9AA1DDB45A282DD8325B676C7D39955/5C9729268B1524BF2B34BB97A9589D2A19569B03.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR03768_00": {
+        "npCommunicationId": "NPWR03768_00",
+        "trophyTitleName": "DanceStar™ Party Hits",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03768_00_0043877F2BE2159375184D387842EDCC2CE567BE4F/F7A9BE1A5C4CD01F4898ABC4FF55909C5F956705.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR03769_00": {
+        "npCommunicationId": "NPWR03769_00",
+        "trophyTitleName": "Everybody Dance™ 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03769_00_0003A791F6269AD966412A205EB3BCFDFA8FEB565F/B4CA7022B30218D5FC77FF0E30ADF1458719E0B1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR03771_00": {
+        "npCommunicationId": "NPWR03771_00",
+        "trophyTitleName": "Angry Birds Trilogy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03771_00_009C15C077F24A3921BC6E5EB78D30114306AECBC9/1C193FFD2FD9ED55D91CFDD931AFDB6070056C81.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 15,
+            "bronze": 53
+        },
+        "service": "trophy"
+    },
+    "NPWR03772_00": {
+        "npCommunicationId": "NPWR03772_00",
+        "trophyTitleName": "Fuse™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03772_00_00AD8A60A0FD809178F24BDF50098B01794F692C46/E43331E97D194C6327E466009779D84FB5BA059B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 20,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR03776_00": {
+        "npCommunicationId": "NPWR03776_00",
+        "trophyTitleName": "Guacamelee!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/74B7AB88F435BB82F089A3152CA72AF4B5DCB080.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 47
+        },
+        "service": "trophy"
+    },
+    "NPWR03778_00": {
+        "npCommunicationId": "NPWR03778_00",
+        "trophyTitleName": "Oddworld: Munch's Oddysee HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03778_00_00435EDF91C12EC1D39ACBE0577C5F48816D1F0CB8/2D834EC216F23718BAAB446B7ABE7F4DCBFF8321.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 30
+        },
+        "service": "trophy"
     }
 }
