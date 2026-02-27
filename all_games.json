@@ -52388,5 +52388,135 @@
             "bronze": 1
         },
         "service": "trophy"
+    },
+    "NPWR09565_00": {
+        "npCommunicationId": "NPWR09565_00",
+        "trophyTitleName": "Silence Trophy Pack\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09565_00_0070A113F8E012007F6BD7B5415978144A3C5C3D47/3E0C9C719AF6DADB5A6E3633A0886E5B5EB5FD14.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR09566_00": {
+        "npCommunicationId": "NPWR09566_00",
+        "trophyTitleName": "The Binding of Isaac: Rebirth",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09566_00_006D178F0019189C6040383BEC9A361235A06CCFF4/D47918483E3E14FEA22AF79A51E75C82579CF2E0.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 54
+        },
+        "service": "trophy"
+    },
+    "NPWR09572_00": {
+        "npCommunicationId": "NPWR09572_00",
+        "trophyTitleName": "Never Alone",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09572_00_0005C336EE00056CA1EECE1191152A24E5F5A3E772/49DEBFB669AA4F4BCDF646AEBD59F95ADE13FB4E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR09574_00": {
+        "npCommunicationId": "NPWR09574_00",
+        "trophyTitleName": "UMBRELLA CORPS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09574_00_00C0BC9D80A11771B1347D6EDAEACD7B71D3641AA4/70A3153FC254CC7ECD0A3B521B41CD37C10453C3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR09575_00": {
+        "npCommunicationId": "NPWR09575_00",
+        "trophyTitleName": "PUNCHLINE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09575_00_00BBE39AD11550980A57E955416F980C18777232E1/CDA82CF3D6873CE1D0C932D95BC7DED79345B2F1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR09576_00": {
+        "npCommunicationId": "NPWR09576_00",
+        "trophyTitleName": "PUNCHLINE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09576_00_0034113C415D64D69181DB2915C029CD738A350348/D5D9D9C20F7EB949BA66926F58DC97901AE274FA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR09578_00": {
+        "npCommunicationId": "NPWR09578_00",
+        "trophyTitleName": "AIPD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09578_00_0085CA18C7EB3E82266A9A233DDE5B0AE6C5B31BE4/6950263A8F6B1D48905520FAA058B3338931796C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09579_00": {
+        "npCommunicationId": "NPWR09579_00",
+        "trophyTitleName": "新次元遊戲 戰機少女ＶⅡ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09579_00_00B57F666850C337830DECB563BAF2AC455CB54104/49905ECF02A890F0AFE59AB489D6C09E0FA8D77E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR09580_00": {
+        "npCommunicationId": "NPWR09580_00",
+        "trophyTitleName": "Square Heroes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09580_00_003AB94E63BF06C139BC68D9E7BD17E8679B8275CA/0440860993CB0A02A6B7932DAB7C6D2016040D27.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR09583_00": {
+        "npCommunicationId": "NPWR09583_00",
+        "trophyTitleName": "Deadpool",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09583_00_0027116B1A98BCD5DC8E7EDE7D9043C31AAE71016D/441E72BB5CF65DBAD86A0EED47F3B4095C865618.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
     }
 }
