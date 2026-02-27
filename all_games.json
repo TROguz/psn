@@ -61514,5 +61514,239 @@
             "bronze": 27
         },
         "service": "trophy"
+    },
+    "NPWR11001_00": {
+        "npCommunicationId": "NPWR11001_00",
+        "trophyTitleName": "明治東亰恋伽 Full Moon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11001_00_0083203CEA33BAF7192F0A97846746C9019BF4E150/9437CB738E1204D114D87A3E1CCC2152D26FA593.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR11003_00": {
+        "npCommunicationId": "NPWR11003_00",
+        "trophyTitleName": "한계돌파 모에로 크리스탈",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11003_00_00C28058453C70700A44CD82A2F843785798A3FE52/5820B73193AA8DDC05C863B817B43AC3FBDCF0B7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR11004_00": {
+        "npCommunicationId": "NPWR11004_00",
+        "trophyTitleName": "Duck Game",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11004_00_000327D6D87F82BFF775681814A6DB2238E1830086/4F1C90149DF28CC9749C48460C9A966A7366DD3E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR11005_00": {
+        "npCommunicationId": "NPWR11005_00",
+        "trophyTitleName": "Aer Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11005_00_007F0D7C85316C013456937FAF28A5F02440DD4532/A8CE96E852D1FFEF0B27CBCF1DF5BC26755AF573.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 14,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR11006_00": {
+        "npCommunicationId": "NPWR11006_00",
+        "trophyTitleName": "Planar Conquest",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11006_00_0062CE726A405804EAC167EB361AE3AB8924518B8C/6CBBC760E57E45E556CE862A4C9AA07E8E44D08C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 64
+        },
+        "service": "trophy"
+    },
+    "NPWR11007_00": {
+        "npCommunicationId": "NPWR11007_00",
+        "trophyTitleName": "Seraph",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11007_00_00B37799BC68533BD7618CE554C6F7CCAC19D7E693/D5A4B1DEB112F666AD922054FED0B51303608CC3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR11008_00": {
+        "npCommunicationId": "NPWR11008_00",
+        "trophyTitleName": "Kill The Bad Guy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11008_00_005D94F14343D2502077C45725EF6B90998B7059F0/A4E1D3E49823D6ED575C103E34C077BB19E2787E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR11009_00": {
+        "npCommunicationId": "NPWR11009_00",
+        "trophyTitleName": "Yomawari: Night Alone",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11009_00_00EDA00CD128E40AFD4C398665CF0C81F2FC4B73A9/1878AFA6EB418F8BD58302ED2BE7E684D1900C78.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR11010_00": {
+        "npCommunicationId": "NPWR11010_00",
+        "trophyTitleName": "NBA 2K17",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11010_00_006284222B3C34154A96E811B06E9360CA9EED7378/82771120686882EC24027CDE15FF9F2E6AF6B82E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR11011_00": {
+        "npCommunicationId": "NPWR11011_00",
+        "trophyTitleName": "鯨神のティアスティラ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11011_00_0006F593D213BD23018170119381C98D877681CCFE/FC9C72D72231CA1E56F2F7B01B522B37DC40903E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 3,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR11013_00": {
+        "npCommunicationId": "NPWR11013_00",
+        "trophyTitleName": "Super Mutant Alien Assault",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11013_00_00605CD6D28EA9A6E4441C2B8C1B22D23C4CDDD414/0B06A054AB4A3726970BCF9B54697A076DD7A20E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR11014_00": {
+        "npCommunicationId": "NPWR11014_00",
+        "trophyTitleName": "Battlezone®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11014_00_004C80E71244B82A692C0E5BD36377F9BD974834BE/829AF5538EF176D73E7E650DCBBBA19CD2E2640B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR11015_00": {
+        "npCommunicationId": "NPWR11015_00",
+        "trophyTitleName": "神獄塔 メアリスケルター",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11015_00_0032E502657877547C425EB6721B95529A3B7F6C17/5B89986A3052CBB1F5A331CC5AAD031F05EFC852.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR11018_00": {
+        "npCommunicationId": "NPWR11018_00",
+        "trophyTitleName": "Winning Eleven 2017",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11018_00_008053351117C763B8293018D86A20770A78782496/C3A81AF7301DEF22C7DC786A2E906941865074F4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR11021_00": {
+        "npCommunicationId": "NPWR11021_00",
+        "trophyTitleName": "Awkward",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11021_00_0023309C3CDEB3C9A6F5BCEDAAE39D7841D5317B33/AECBC6ACF29FADEFE0B87A0DB0F886E3C2F0D7F9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR11022_00": {
+        "npCommunicationId": "NPWR11022_00",
+        "trophyTitleName": "Castles",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11022_00_00E4BA24C7D2720E46A64F5D550DFD7571C2D52285/AF56C3758D006D8D1D392D6C81094819B8CFB4D8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11023_00": {
+        "npCommunicationId": "NPWR11023_00",
+        "trophyTitleName": "Pro Evolution Soccer 2017",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11023_00_0007E59DF9A9A7CE036242A1B042CFCF0D9796A7D2/049E122B17CB5E0F3F054337FB863AAEA2FFD92D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR11024_00": {
+        "npCommunicationId": "NPWR11024_00",
+        "trophyTitleName": "Pro Evolution Soccer 2017",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11024_00_0018949C50CC330F648B287CEF35AF86DEA764C91D/84F5554A794DDC8CF331F9A6FCB77029692B452B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 34
+        },
+        "service": "trophy"
     }
 }
