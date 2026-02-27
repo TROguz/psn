@@ -55131,5 +55131,122 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR10001_00": {
+        "npCommunicationId": "NPWR10001_00",
+        "trophyTitleName": "ミスターパンプキンの不思議な旅",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10001_00_00D63F2D327CFC48181B3F07065D284F67696FE70D/82ECFF9EBBCEA8E9D4B4A7F8F848E5B523CD98D3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10004_00": {
+        "npCommunicationId": "NPWR10004_00",
+        "trophyTitleName": "月影の鎖 -錯乱パラノイア-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10004_00_009B46B512F02E0A57765863A2384D6FFC2F8148E6/7EF7DE8F001E6945589361955CEF3E07C37650B2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 55
+        },
+        "service": "trophy"
+    },
+    "NPWR10008_00": {
+        "npCommunicationId": "NPWR10008_00",
+        "trophyTitleName": "Arcade Archives ELEVATOR ACTION",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10008_00_002B5634AAC7B0705E66DA35044C8F5FEB5366C06B/E6FA264C37DE6694284282AB6105269B206A11AC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR10009_00": {
+        "npCommunicationId": "NPWR10009_00",
+        "trophyTitleName": "Arcade Archives KIKI KAIKAI",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10009_00_004AB87A38DE4260D21AC973811EC6593E6D7A6360/F26B1520B6B14EE771C3B192AD06B239E68E9EFD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR10010_00": {
+        "npCommunicationId": "NPWR10010_00",
+        "trophyTitleName": "BELIEVER！",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10010_00_00C75EA8CF6EDC2836F39FB4255FD335E34DC529C9/068545E06CF409F9A36B327FC11E94B46E2FB507.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR10011_00": {
+        "npCommunicationId": "NPWR10011_00",
+        "trophyTitleName": "Arcade Archives BUBBLE BOBBLE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10011_00_007D08689013133609E3F3CAD0AC53A43AEB66307C/E05D09DC1B9FE8318AFA34D8EFECB882757B57D2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR10012_00": {
+        "npCommunicationId": "NPWR10012_00",
+        "trophyTitleName": "Arcade Archives THE NINJA WARRIORS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10012_00_008F55E7F8816A3126A82AFFC9AF1B7F32196CCF81/40C9CCB31D165F7346A856892919677342261112.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR10013_00": {
+        "npCommunicationId": "NPWR10013_00",
+        "trophyTitleName": "Arcade Archives DARIUS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10013_00_0009DDB8992BE9EF5B78E93C4A6B52820DC886462E/66E073A37958CAFC0C5B9BDDA926D32156E760F4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR10014_00": {
+        "npCommunicationId": "NPWR10014_00",
+        "trophyTitleName": "Arcade Archives DARIUS II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10014_00_000FB79B3BE9730C5A86A4A76EA1A69A5C0B262D03/CAB4E6C673004AC4C928D310CA7D4D053EBBE1B4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
     }
 }
