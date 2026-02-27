@@ -52518,5 +52518,135 @@
             "bronze": 38
         },
         "service": "trophy"
+    },
+    "NPWR09585_00": {
+        "npCommunicationId": "NPWR09585_00",
+        "trophyTitleName": "クローズ BURNING EDGE\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09585_00_006F9957C9803D5DD1FEBBA1C2C5F636347077AD68/46629612DF9D3ED656A880592865AC69129DBED2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR09589_00": {
+        "npCommunicationId": "NPWR09589_00",
+        "trophyTitleName": "Wasteland 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09589_00_00D13856532799B276E6D77D176A2CDFFB348324AF/BC223E71FEA9B7739D0E75D849D7DFC3094E8FF0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR09590_00": {
+        "npCommunicationId": "NPWR09590_00",
+        "trophyTitleName": "ACT IT OUT! A Game of Charades",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09590_00_006FD1F7DEF21CD8551F69E850EED824B5F9D20A2B/BFBD359EFAC6D2015D3CDFD8D19844EB2B40CDDD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR09594_00": {
+        "npCommunicationId": "NPWR09594_00",
+        "trophyTitleName": "Mount & Blade: Warband",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09594_00_00EAEF2AFFFC9640F74D7A747FB4E77FC62E800863/46BA6C68A7876658CA446B8D5232E2654BCBDFC3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 4,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR09596_00": {
+        "npCommunicationId": "NPWR09596_00",
+        "trophyTitleName": "Attractio",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09596_00_00C8975335B630570D92B21D063EA7A0F52E6487F6/EAFA8CD3B79A6C62D672AD1A461CA064D3B68426.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR09598_00": {
+        "npCommunicationId": "NPWR09598_00",
+        "trophyTitleName": "Prominence Poker",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09598_00_008EB91C3D587938A7AD5028A640CB80A0E285DBE1/CF32EA92116E4299B0CF2A08519E21CC35865788.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR09599_00": {
+        "npCommunicationId": "NPWR09599_00",
+        "trophyTitleName": "Krinkle Krusher Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09599_00_003BBDC4B10EAB066BB3B842D9F9E0D92E52FF26C1/859F94B42370F3A8E542EEECAAC5A6E9D1F1BF46.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR09600_00": {
+        "npCommunicationId": "NPWR09600_00",
+        "trophyTitleName": "DRAGON QUEST BUILDERS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09600_00_00B64262FF6CA815779869D549A64A2BCAC93EE503/BB9663F59B46D1BD423D886240387AE84F5E00DC.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR09604_00": {
+        "npCommunicationId": "NPWR09604_00",
+        "trophyTitleName": "Virginia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09604_00_00656B24A910ED8A0A103CF92269CB45F8D99B8098/B99A5FED3253E71FF0758870C216BA12D570DEA1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 6,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR09607_00": {
+        "npCommunicationId": "NPWR09607_00",
+        "trophyTitleName": "Viking Squad",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09607_00_00EE27E734EFCC8481F6C79CA02D3582D2BB54526D/603081108CF6ADBE92D8AA729C5305F1521D1F66.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
