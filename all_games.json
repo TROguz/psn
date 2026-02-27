@@ -48098,5 +48098,135 @@
             "bronze": 43
         },
         "service": "trophy"
+    },
+    "NPWR08936_00": {
+        "npCommunicationId": "NPWR08936_00",
+        "trophyTitleName": "Xeodrifter™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08936_00_003AFC6E76279E9DBE35CA9D8A67B38512D974F98B/95D4F46EC5F56B8767D886A96576B8ACA150E043.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR08937_00": {
+        "npCommunicationId": "NPWR08937_00",
+        "trophyTitleName": "Xeodrifter™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08937_00_0083B0B192D16F50AF30BE04A3A4F1DECEBBBE87B3/9BAE99F897CCAB1CC0BBDABECA86A8DD54E44466.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR08939_00": {
+        "npCommunicationId": "NPWR08939_00",
+        "trophyTitleName": "Organ Trail Complete Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08939_00_0095FBC7A8FB2837E9D796F9E2B04511F8B00096A3/94FB86F4EE4583BC6E7AA7EC806C078DB2384341.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR08941_00": {
+        "npCommunicationId": "NPWR08941_00",
+        "trophyTitleName": "太平洋の嵐　~史上最大の激戦　ノルマンディー攻防戦~",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08941_00_003C52700863F0C4253733991F2753AE937F781892/2DB414BAD99720FC5BA971938CA5291AF94D71B7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR08942_00": {
+        "npCommunicationId": "NPWR08942_00",
+        "trophyTitleName": "クロガネ回姫譚 -一期一会-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08942_00_00FB287521D6FC86BDE07626E43FB2B4C4EC3A20BD/C9286B291A534C04B39541BFBBFED09FDA34F32F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR08943_00": {
+        "npCommunicationId": "NPWR08943_00",
+        "trophyTitleName": "太平洋の嵐　~史上最大の激戦　ノルマンディー攻防戦~",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08943_00_00805A33CEDD7EE3AF85AE78706E4390F036A9CB0D/175A98790352E39D089BA444EA1278F41402E6EF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR08945_00": {
+        "npCommunicationId": "NPWR08945_00",
+        "trophyTitleName": "Amplitude",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08945_00_00089EA976775ACEE7AC6AE9CA7BD489927EE7F48D/B05EDF7D7493C0CD3CA8ABA2627A4E5C3CEF5904.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR08948_00": {
+        "npCommunicationId": "NPWR08948_00",
+        "trophyTitleName": "Wander",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08948_00_000325563428A6FB0079819F5C71FF091586D18F67/A5354080736D8752B0AA2CF8F1E28A6172CD3BA7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR08949_00": {
+        "npCommunicationId": "NPWR08949_00",
+        "trophyTitleName": "BlazeRush",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08949_00_00162741F5AC2A2069A0CA8B01C2DC01220ADF5CD3/5E719030FD2E742D19B25702C8484458F11070D2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR08952_00": {
+        "npCommunicationId": "NPWR08952_00",
+        "trophyTitleName": "Quiplash",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08952_00_006A2B3C71378897E51E281B62CE0E6E5AAA1DC7F1/31E102DB480832C200644546A50EF96EE00A7739.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
     }
 }
