@@ -50308,5 +50308,135 @@
             "bronze": 13
         },
         "service": "trophy"
+    },
+    "NPWR09243_00": {
+        "npCommunicationId": "NPWR09243_00",
+        "trophyTitleName": "ひまわり-Pebble in the Sky-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09243_00_007C65980D074408869651576BF781ECDA5B9B3C87/8887AAA37D1280C49FF0400392A08A1B04AFF47C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 6,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR09244_00": {
+        "npCommunicationId": "NPWR09244_00",
+        "trophyTitleName": "Bedlam The Game By Christopher Brookmyre",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09244_00_00EC8E2D04A04F48B161430DEC076383A9D9AA56A1/C4FB9AAC3CCE0C1225D7D3B4CCCA83057C1C3400.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR09248_00": {
+        "npCommunicationId": "NPWR09248_00",
+        "trophyTitleName": "Hatsune Miku: Project DIVA X",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09248_00_0000D0A0B523032C2B8AD6BB6FE113F6D5BC5C89C2/F2465A3679010A8C7FE1FEBEFC01C0CA4D1DD05D.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR09249_00": {
+        "npCommunicationId": "NPWR09249_00",
+        "trophyTitleName": "Deception IV: The Nightmare Princess",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09249_00_00C40EB009550D24F1ED2B6E113040FA009BD40ED2/FDFB1287C835BAAD5EE7F622486F50242426EBA4.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 5,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR09250_00": {
+        "npCommunicationId": "NPWR09250_00",
+        "trophyTitleName": "Deception IV: The Nightmare Princess",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09250_00_00A6A8EF71C1157FBE2306F10B5C44892CDE79D069/A9C4963687191DDF2C0DED9DE4AB7C8CF79CC321.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 5,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR09251_00": {
+        "npCommunicationId": "NPWR09251_00",
+        "trophyTitleName": "Monster High - New Ghoul in School",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09251_00_000B6A4C6F3224B6BCF81D3E09807188C4DF5D2AE7/A621BCAB465C12BECE22DAE010ADF82F023BF36B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR09252_00": {
+        "npCommunicationId": "NPWR09252_00",
+        "trophyTitleName": "MIRACLE GIRLS FESTIVAL",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09252_00_0091CDE3599777AD5D79ABEC9F4F691772110724F5/4683F21BE015590256B36C72BD572892988B5DA6.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR09253_00": {
+        "npCommunicationId": "NPWR09253_00",
+        "trophyTitleName": "夜廻",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09253_00_006947343703D645DEEA27DDADC24F50EF68DBD226/5E05640AC391E2001F78281BFE3BE23776ED20B3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR09254_00": {
+        "npCommunicationId": "NPWR09254_00",
+        "trophyTitleName": "진· 삼국무쌍７ Empires",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09254_00_002F409722C084808D478F341180E6FD71CBD2B5D1/0608B6DA087D3C66A61B3A8D56B92340FFBC1F4E.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR09260_00": {
+        "npCommunicationId": "NPWR09260_00",
+        "trophyTitleName": "英雄伝説 空の軌跡 SC Evolution",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09260_00_00116541C3EA38146B438C06C29E14F2F8FBB7E62D/0AC3E0FAF2AA3AC0803FB953938255984B4F9521.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 4,
+            "bronze": 44
+        },
+        "service": "trophy"
     }
 }
