@@ -39388,5 +39388,135 @@
             "bronze": 58
         },
         "service": "trophy"
+    },
+    "NPWR07421_00": {
+        "npCommunicationId": "NPWR07421_00",
+        "trophyTitleName": "Rollers of the Realm",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07421_00_005C8CAB3AE0670EE711AB05EAEA5A45C83C076479/F0644034B25B5EA4C55FC8D48FAC1703045EC338.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR07423_00": {
+        "npCommunicationId": "NPWR07423_00",
+        "trophyTitleName": "LEGO® DIMENSIONS™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07423_00_00194E038B9C164C0CCD4C26DAF1E09BC07141CFA2/ED7DDFDA2CDAD58FA9F5E33C72622ED6FD4B410D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 61
+        },
+        "service": "trophy"
+    },
+    "NPWR07424_00": {
+        "npCommunicationId": "NPWR07424_00",
+        "trophyTitleName": "LEGO® DIMENSIONS™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07424_00_008C49A4FE84823EA59EAB7D981EA46147EB39D4B3/C72FE1ED0C49F97960FF30923CA0058B9C6D1214.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 61
+        },
+        "service": "trophy"
+    },
+    "NPWR07427_00": {
+        "npCommunicationId": "NPWR07427_00",
+        "trophyTitleName": "Syberia 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07427_00_0012043066CB76071EA27FCE323BB14E835C7135F5/AC08C4999D2BDE08AE91A9CD72977E5D8303A925.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR07428_00": {
+        "npCommunicationId": "NPWR07428_00",
+        "trophyTitleName": "Reel Fishing: Master's Challenge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07428_00_0077AE116DB22E81055CA291B2706B5B157E91312F/2A8630DEA1E2F19F8E99F0F27475FFF838F3BB93.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR07430_00": {
+        "npCommunicationId": "NPWR07430_00",
+        "trophyTitleName": "黒蝶のサイケデリカ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07430_00_00A7BFC94B40C80AB5F2B9212CFAB585A9D96C792B/BF23186230C588B9961667559EEE2FF6D1E6A3FE.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 17,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR07431_00": {
+        "npCommunicationId": "NPWR07431_00",
+        "trophyTitleName": "華ヤカ哉、我ガ一族 モダンノスタルジィ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07431_00_009DB59EA92A6E1B923B752ECE1FD794E443FA78AF/8FD7A7CEAA27D1F1FA2A9D367C61FDD9420397C1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR07433_00": {
+        "npCommunicationId": "NPWR07433_00",
+        "trophyTitleName": "CLOCK ZERO ～終焉の一秒～ ExTime",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07433_00_00C1B4BC23F26D835A2A0DABCFCAE3B959F12B1FB1/D23FB151E4268FADDA7AB3C0BDA11B08F6A9C32F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR07438_00": {
+        "npCommunicationId": "NPWR07438_00",
+        "trophyTitleName": "戦極姫5～戦禍断つ覇王の系譜～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07438_00_00907F52C62B7E63B899D75E59E9A32F4398C2284D/C720B2B6427A432EFA9E0DE313F8DD75008DDFD7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 3,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR07439_00": {
+        "npCommunicationId": "NPWR07439_00",
+        "trophyTitleName": "戦極姫5～戦禍断つ覇王の系譜～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07439_00_00B637BE788B7EBEA7D0D70EB37D4CD98589FE22FF/6D63F3B543701E5616FEC8375320C6478C4F4A87.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 3,
+            "bronze": 30
+        },
+        "service": "trophy"
     }
 }
