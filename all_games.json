@@ -56678,5 +56678,135 @@
             "bronze": 41
         },
         "service": "trophy"
+    },
+    "NPWR10244_00": {
+        "npCommunicationId": "NPWR10244_00",
+        "trophyTitleName": "GodWars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10244_00_00EE954794F8849CD3D056C6311E2DFD799FD7042D/0A52BC800916F0DCE6009E3A64CB49B8B5723C38.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR10248_00": {
+        "npCommunicationId": "NPWR10248_00",
+        "trophyTitleName": "Layers of Fear",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10248_00_009E7624A43E806B449D04A9930635B42DFE72000A/9E222BD8A55DE366E8039E5F67875A3C1444AFC3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR10255_00": {
+        "npCommunicationId": "NPWR10255_00",
+        "trophyTitleName": "金色のコルダ４",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10255_00_00105AD1D8674680300B8D1A1F44C76D7643E28AF5/9D5AE40C367EE90B517D3C49DEE034A0423BF30A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 18,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR10256_00": {
+        "npCommunicationId": "NPWR10256_00",
+        "trophyTitleName": "Toukiden 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10256_00_003C8F37AE1CEE92E427C2E0B849B5645515B70FCA/467CCFA134CE9B2D78B536DEECF94B9CAC4DF093.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR10258_00": {
+        "npCommunicationId": "NPWR10258_00",
+        "trophyTitleName": "Dungeons 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10258_00_0058585F08CB7F2AF947F9EABD6D88FCA35AD5D205/1F68A03ABFCACE82C494917A136F039BE5B3DAE4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR10261_00": {
+        "npCommunicationId": "NPWR10261_00",
+        "trophyTitleName": "Nioh",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10261_00_00CAA2186FFF8ED4ABC8FA441A9B72DB43BFD322F8/B4C5186F0DC63A3704590DCEAC632E16BB3B249F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 73
+        },
+        "service": "trophy"
+    },
+    "NPWR10262_00": {
+        "npCommunicationId": "NPWR10262_00",
+        "trophyTitleName": "No Man's Sky Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10262_00_00D5017B144B34E8009CBF0DD541CCC743605751EB/CC8E8D5518575F6B18E84FA391D963E211D4A80E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR10264_00": {
+        "npCommunicationId": "NPWR10264_00",
+        "trophyTitleName": "BioShock Remastered",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10264_00_007ADC23BE7C337E3EA84DCC36E59D70BAA335DCE1/2E54A384C61109BD2E264E771D08F2737792D1FF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 3,
+            "bronze": 59
+        },
+        "service": "trophy"
+    },
+    "NPWR10267_00": {
+        "npCommunicationId": "NPWR10267_00",
+        "trophyTitleName": "Tales of Berseria",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10267_00_006B1B9C39CCA613437B6243822EBB5DD20BD05DC9/0735F75CFA63A241AB369190769C605522408FE4.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR10269_00": {
+        "npCommunicationId": "NPWR10269_00",
+        "trophyTitleName": "Lovers in a Dangerous Spacetime",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10269_00_00E61CDDC37FF4591C2ABBC2EBB5009654A1AD89F7/ADAEB943ED18F51A72451586D79E87D619BB70E4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 6,
+            "bronze": 15
+        },
+        "service": "trophy"
     }
 }
