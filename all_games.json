@@ -67208,5 +67208,135 @@
             "bronze": 2
         },
         "service": "trophy"
+    },
+    "NPWR11726_00": {
+        "npCommunicationId": "NPWR11726_00",
+        "trophyTitleName": "らぶおぶ恋愛皇帝 of LOVE！",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11726_00_001211326617F287117D1E8E08930E9E2F013DC55A/7DC5C13F2766A8B531B66511979728196C9EF64E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 5,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11727_00": {
+        "npCommunicationId": "NPWR11727_00",
+        "trophyTitleName": "ChromaGun",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11727_00_008008BF8CF20E24C895640B269DDAD0D95B07D12F/8AAA69D6F958A6B57783018E1C5D92E3D676B6DA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 1,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11730_00": {
+        "npCommunicationId": "NPWR11730_00",
+        "trophyTitleName": "Mervils: A VR Adventure",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11730_00_0068632134DFEDEF7B3056BDD689FBDD030BD65560/4926E01F2E5F68D9B125B065E6C1BDE2BEF5EB69.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR11734_00": {
+        "npCommunicationId": "NPWR11734_00",
+        "trophyTitleName": "KLAP!! ～Kind Love And Punish～ Fun Party",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11734_00_00FDB3FAB77FEAB398D6A1FF6CB15263A607A0869B/A81249CDF0AF8CCA586679E0E5FC5C7FDCF059D0.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR11735_00": {
+        "npCommunicationId": "NPWR11735_00",
+        "trophyTitleName": "METAL GEAR SURVIVE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11735_00_001EDDA66131B8F5DA0A558D711A060850E0BFA6B8/17B3A5BD7ACE7EA86C980CAAA0989827C074556C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR11736_00": {
+        "npCommunicationId": "NPWR11736_00",
+        "trophyTitleName": "O! My Genesis VR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11736_00_00517987F4EC80066C35FC0C45944888AF6B661C66/4843B8384B6DED8CE878ACBC551F499C18E5DE44.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR11737_00": {
+        "npCommunicationId": "NPWR11737_00",
+        "trophyTitleName": "Sky Ride",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11737_00_00E2B4C47091A20E6CFD252A0DF4E865EDEBF0E4E5/ED75D237179118ED57E89516B1D0CE8BCD657764.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR11739_00": {
+        "npCommunicationId": "NPWR11739_00",
+        "trophyTitleName": "HEART&SLASH",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11739_00_00422B75131CEE65FBCE7E92CEF770BCD8EACC4190/8F997DABA6E064EE0086942CCB282B7D9DBA6271.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR11740_00": {
+        "npCommunicationId": "NPWR11740_00",
+        "trophyTitleName": "The Escapists 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11740_00_007FEEF742B9D7FF57334A8D844CB1FC32C265CBCC/E14502FD0E84C7C01CD0511A38EBCD2586A397E4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 18,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR11742_00": {
+        "npCommunicationId": "NPWR11742_00",
+        "trophyTitleName": "Warhammer 40,000: Deathwatch",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11742_00_00F0032E84A3DA89D8777C1B5778422DFA87E6599C/0CBD283FD98A5AADDDD9EB0B79B6CF984C2D1C75.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 19,
+            "bronze": 16
+        },
+        "service": "trophy"
     }
 }
