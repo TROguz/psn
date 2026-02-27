@@ -60058,5 +60058,135 @@
             "bronze": 32
         },
         "service": "trophy"
+    },
+    "NPWR10788_00": {
+        "npCommunicationId": "NPWR10788_00",
+        "trophyTitleName": "Call of Duty® Infinite Warfare",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10788_00_004ECD8F1D1DE1D7965C8BCFEE6BC1376C75F192AB/656933E3E465C9C8877CB89B63D53891A71944F1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 25,
+            "bronze": 62
+        },
+        "service": "trophy"
+    },
+    "NPWR10789_00": {
+        "npCommunicationId": "NPWR10789_00",
+        "trophyTitleName": "Gal*Gun Double Peace",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10789_00_00C6E123ADA3FDF52BC85A692A5FBAE94D0A532DEE/386D54839A1B6A6AD316332D7E139755E442AC57.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 17,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR10793_00": {
+        "npCommunicationId": "NPWR10793_00",
+        "trophyTitleName": "Batman: Return to Arkham - Arkham Asylum",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10793_00_001C51C206F64F7E24DC45425E265840126C5B420C/1B863E6C4394F3C084915F80BFF34D3A20711ED0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 18,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR10794_00": {
+        "npCommunicationId": "NPWR10794_00",
+        "trophyTitleName": "미궁의 지하에서 죽다",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10794_00_002B1CBD05F8E9EC3D31D39FC6F8632BB59B2A20F6/C749ABB3F9CCA0B3B68C019BEC43E5861A9D323C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR10796_00": {
+        "npCommunicationId": "NPWR10796_00",
+        "trophyTitleName": "Dreams™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10796_00_00EE9EF6D28CEADB83360266AB593B59FF990C0172/86035042A8D26B0C7BB43EF1A7409BCD568528F3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR10800_00": {
+        "npCommunicationId": "NPWR10800_00",
+        "trophyTitleName": "Star Ocean®:Till The End Of Time™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10800_00_00A8F53513633C366AD02EE0DAA3ED973ABA3F6ABD/54CDFC7744C03BA5A6520D965521C8302DE60CB7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR10801_00": {
+        "npCommunicationId": "NPWR10801_00",
+        "trophyTitleName": "KNACK 2 Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10801_00_00C91EE944342F4730FA455266FCCFF954F920F05A/89F8887805D9B1D280DA33FA2F34F8DFE25F8E85.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR10804_00": {
+        "npCommunicationId": "NPWR10804_00",
+        "trophyTitleName": "Arcade Archives HAUNTED CASTLE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10804_00_00C046B0120B8AF8628E952245633D1CC6157E9E16/3743C5FE124A1C48D35F0CBC05C20CDBCDE6AD29.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR10806_00": {
+        "npCommunicationId": "NPWR10806_00",
+        "trophyTitleName": "Kerbal Space Program",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10806_00_0026A138873388065E2EFD5C61141BDCB3A9826561/D8453AFE973FA5A50543E2326E0F6760120B1B0D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 18,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR10810_00": {
+        "npCommunicationId": "NPWR10810_00",
+        "trophyTitleName": "Grand Kingdom",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10810_00_003A9132145EF195DE36957CBC500BADDDD584C9AA/1C23F2F94BA320E040047CD6A03FED22D11806F4.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 15,
+            "bronze": 28
+        },
+        "service": "trophy"
     }
 }
