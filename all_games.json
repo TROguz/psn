@@ -60578,5 +60578,135 @@
             "bronze": 34
         },
         "service": "trophy"
+    },
+    "NPWR10865_00": {
+        "npCommunicationId": "NPWR10865_00",
+        "trophyTitleName": "7'scarlet",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10865_00_00D60221594D0C6EB985769E9709D36C9280878DD6/0EA9CEED9A8C608D6CB294DBDF5A9688FF8AB3AE.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR10866_00": {
+        "npCommunicationId": "NPWR10866_00",
+        "trophyTitleName": "Ruckus Rumble",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10866_00_00D344BEF36104DD1CA02E2A9FAD37F64A23228476/579A14E5C24E69E97E8074C943FDB92DE89ED26B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR10867_00": {
+        "npCommunicationId": "NPWR10867_00",
+        "trophyTitleName": "Oceanhorn - Monster of the Uncharted Sea",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10867_00_00835557E574A728792006AEDB9470EB4220E30CFE/517A684D84F31440423EAE10FAE8BCE996214770.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR10868_00": {
+        "npCommunicationId": "NPWR10868_00",
+        "trophyTitleName": "Space Hulk",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10868_00_00566FE8B8CD651C87D76081F38975F7492B0578A3/D074B4318769C21E56F63E7B5C4C45D5F8CFCCBA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR10869_00": {
+        "npCommunicationId": "NPWR10869_00",
+        "trophyTitleName": "FIFA 17",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10869_00_0057533219244774A4E5521C5CBD926A7C87739A61/5EC5439FDD73F0E7FC0C79FF829E2B8EDDF353AD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR10871_00": {
+        "npCommunicationId": "NPWR10871_00",
+        "trophyTitleName": "Space Hulk",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10871_00_004D3C92C4B95A4E52B68025C6C54425CFA7787678/D4FD1610E56AAF2BC5CCEEE193C294B8313DF869.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10872_00": {
+        "npCommunicationId": "NPWR10872_00",
+        "trophyTitleName": "イースVIII -Lacrimosa of DANA-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10872_00_00D223D5CB8C64E119C40807ED0C5EA779E73EAD13/3FE98A41F1CF7A4FB22A982C4518A45345D4317F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR10875_00": {
+        "npCommunicationId": "NPWR10875_00",
+        "trophyTitleName": "FINAL FANTASY XV",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10875_00_00136FBC3165E56EDCB5E8D92EA8F09A454BF962A6/BB36542FA045C82A0055CDA7D962FA530C8C3894.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 11,
+            "bronze": 77
+        },
+        "service": "trophy"
+    },
+    "NPWR10876_00": {
+        "npCommunicationId": "NPWR10876_00",
+        "trophyTitleName": "FINAL FANTASY XV",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10876_00_000A3DE70D99E3AD8324211296F15418B1B548B63E/4ABF3231167C4F76D1EA604857CA6EFDEF9B650F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 11,
+            "bronze": 77
+        },
+        "service": "trophy"
+    },
+    "NPWR10877_00": {
+        "npCommunicationId": "NPWR10877_00",
+        "trophyTitleName": "FINAL FANTASY XV",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10877_00_00DD1A23FA873DDA9A58A6C6D3032764E77E2BDD65/FDBCF6150029EF2D74AB2F5ED6686AEF9715B1E1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 11,
+            "bronze": 77
+        },
+        "service": "trophy"
     }
 }
