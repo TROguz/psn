@@ -71758,5 +71758,135 @@
             "bronze": 2
         },
         "service": "trophy"
+    },
+    "NPWR12322_00": {
+        "npCommunicationId": "NPWR12322_00",
+        "trophyTitleName": "Motor Strike: Immortal Legends",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12322_00_0058DD9672D2912449D38AA27F0A567ED1F2D2E736/5E56B37A58ED255D139E3C2C4AC7760663943543.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR12323_00": {
+        "npCommunicationId": "NPWR12323_00",
+        "trophyTitleName": "Splasher",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12323_00_00A324649BF8BBAE6F21B8A23C5E8A58AF28541DE9/38699F809BCE1C5E1A28AA4F28A68C1FD5E68555.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR12324_00": {
+        "npCommunicationId": "NPWR12324_00",
+        "trophyTitleName": "Iron Crypticle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12324_00_009B266645BB6C0BED5BD2D0D4337F8A5DFD5AA7E6/C43A5B496F86512128F00C0C3C75755DFEF266A2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 21,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR12325_00": {
+        "npCommunicationId": "NPWR12325_00",
+        "trophyTitleName": "Gang Beasts",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12325_00_0014A58EE1FB0AF010CAF3034410D311C45F06A18D/5481B72DB7650FD4E8A561AE1150191F7EED020F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR12326_00": {
+        "npCommunicationId": "NPWR12326_00",
+        "trophyTitleName": "God Wars ~시대를 넘어~",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12326_00_004E9AFEEA8BC377B47E554F2996F67F6FD910854B/8355467FA631921E81DB3D4F7517BC63E9F82195.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR12327_00": {
+        "npCommunicationId": "NPWR12327_00",
+        "trophyTitleName": "God Wars ~시대를 넘어~",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12327_00_00801F7C121F30F5405B30841DF869DF2E1FB2B1C0/64B2A41833A161B4CFCF3EF86D5F3DCAA14CA5F4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR12331_00": {
+        "npCommunicationId": "NPWR12331_00",
+        "trophyTitleName": "Mortal Blitz Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12331_00_00BF165F7C44674DA289EE2E20707C62BD4CD3C293/BE472F468ACE779536D0BFC61FA4B1CB15371663.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR12332_00": {
+        "npCommunicationId": "NPWR12332_00",
+        "trophyTitleName": "Lethal VR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12332_00_0030BF46D03F5D651566B587614B510839E8BD533A/EA12E3CFDFE76EE9DD3FFAEA8AA374CF1C28851F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR12333_00": {
+        "npCommunicationId": "NPWR12333_00",
+        "trophyTitleName": "Quiz Night Tonight Trophies!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12333_00_00B1F95B000F4FACDD4B2E896CAF7BA0F21DFD8B02/8206A631368C294057AFBEAE233AAE1715B6174A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR12334_00": {
+        "npCommunicationId": "NPWR12334_00",
+        "trophyTitleName": "KINGDOM HEARTS FINAL MIX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12334_00_003143802A7C7F877557F69CB9F3846B5F6B85FE62/9D335E1CE5127821660269739CB51D92C1F2AACC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 4,
+            "bronze": 49
+        },
+        "service": "trophy"
     }
 }
