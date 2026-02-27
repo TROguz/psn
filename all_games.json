@@ -65648,5 +65648,135 @@
             "bronze": 17
         },
         "service": "trophy"
+    },
+    "NPWR11532_00": {
+        "npCommunicationId": "NPWR11532_00",
+        "trophyTitleName": "Amnesia Collection",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11532_00_0000F25C9B826524AE911502545B3CFD983991A2D8/0AAA950C3D2956E6A7E12A96554DA7017BB5E93A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR11535_00": {
+        "npCommunicationId": "NPWR11535_00",
+        "trophyTitleName": "ベルセルク無双",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11535_00_00B5B1C54341D2B620137AC0FB853F2E96576AEAB4/BF25DA4628C581F167EC276F7726F6D8B10A5774.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 14,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR11536_00": {
+        "npCommunicationId": "NPWR11536_00",
+        "trophyTitleName": "The Witcher 3: Wild Hunt – Game of the Year Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11536_00_00F5F39957CE84E93F3080AAEF4E3821EDEC8487CE/BA92D0E72B2CB43740F146C908FA0923C0B7F690.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 68
+        },
+        "service": "trophy"
+    },
+    "NPWR11539_00": {
+        "npCommunicationId": "NPWR11539_00",
+        "trophyTitleName": "マクロスΔスクランブル",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11539_00_00F875280A579CF6A3E81F656344E238414EC5E895/5F920BA5BABB97A88195A2011181DA6B9677745F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 14,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR11542_00": {
+        "npCommunicationId": "NPWR11542_00",
+        "trophyTitleName": "数乱digit",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11542_00_006E44E33EA0F2977A2CFDA211B4A9243744631DCE/CEE6653DD485D492CDA0CA3FF1069270818E552F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 7,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR11544_00": {
+        "npCommunicationId": "NPWR11544_00",
+        "trophyTitleName": "Fragments of Him",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11544_00_0037AE48058D6DB11F480F0325C5E0C1171BF055E1/6A6175A6163050159C12CCA19D1D525B99BF761E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR11547_00": {
+        "npCommunicationId": "NPWR11547_00",
+        "trophyTitleName": "NASCAR Heat Evolution",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11547_00_001F301D6C781E867A85CF9C7154479419E6CCED2A/EB43D9B4B81B22A825C3E7164202970984190C36.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR11549_00": {
+        "npCommunicationId": "NPWR11549_00",
+        "trophyTitleName": "Fallen Legion: Sins of an Empire",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11549_00_00A12205BE6D631FAEB70039763C54570AAD964C12/956377FC49163DD79FB12249AFEDEA8104C291DE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR11550_00": {
+        "npCommunicationId": "NPWR11550_00",
+        "trophyTitleName": "Cavernous Wastes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11550_00_00372B6744AF2794D14B8CE3F39B54142306C5FA89/D735B55EB737B01283F4B6B03D005BCCF13E0FDA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR11551_00": {
+        "npCommunicationId": "NPWR11551_00",
+        "trophyTitleName": "The Voice of Germany",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11551_00_000D8502A9BB8F949AC1D52C084361295F95DBEBBB/8DBCA1AD0590BC7317AA0E3AC1143CADC04CA04F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
     }
 }
