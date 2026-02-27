@@ -24308,5 +24308,135 @@
             "bronze": 13
         },
         "service": "trophy"
+    },
+    "NPWR04207_00": {
+        "npCommunicationId": "NPWR04207_00",
+        "trophyTitleName": "Saint Seiya: Brave Soldiers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04207_00_00A6D8CB54D3CF96921A51F324E1E47ACF52764DCC/A359788FB78381B20895ED649AE2987D92A0D2C4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR04208_00": {
+        "npCommunicationId": "NPWR04208_00",
+        "trophyTitleName": "メモリーズオフ ゆびきりの記憶",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04208_00_004C36EEFB029708FAAAADE6421981C0EB87E871EE/B12740D5598D19659AF22D13FB82E2A29807E249.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 16,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR04209_00": {
+        "npCommunicationId": "NPWR04209_00",
+        "trophyTitleName": "車輪の国、向日葵の少女",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04209_00_009C84FD92DB1C27850F8AF64ADE3EE405809D4889/222329D518646BF7EE584577D05E36B738DA1D43.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 5,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR04211_00": {
+        "npCommunicationId": "NPWR04211_00",
+        "trophyTitleName": "Iron Sky Invasion",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04211_00_00934E686E855502D2F653009267431DE1AECC2DA5/DB8F139CD4C89D11A31B14F11601CF5B85DB1C15.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR04215_00": {
+        "npCommunicationId": "NPWR04215_00",
+        "trophyTitleName": "Move Street Cricket II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04215_00_002F8EE8D7FBBDF6BAC8027456B51AD349C3BED427/E8B4BB634FF638F5A6ACF0AF9D1B7143AE010F7D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR04216_00": {
+        "npCommunicationId": "NPWR04216_00",
+        "trophyTitleName": "Carnivores HD Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04216_00_0081511EC1CC04DB682BD1DEF41FD1FDDAD4143B75/CF235F67571C2255633E61CDE2A83D0A82A61B9A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR04218_00": {
+        "npCommunicationId": "NPWR04218_00",
+        "trophyTitleName": "鬼武者 Soul",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04218_00_007B52CCA13B05C6A50A22E05B3F59A466AF7A7C79/B2415F2BB6E3D48C4C40FB0E7B6D225604C19A64.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR04221_00": {
+        "npCommunicationId": "NPWR04221_00",
+        "trophyTitleName": "SOUL SACRIFICE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04221_00_005A69ADF5AA9A3E83ECB5E63C6B38F2A99ED4097E/6CC790E72B97D223C4C88E546352647686536280.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR04223_00": {
+        "npCommunicationId": "NPWR04223_00",
+        "trophyTitleName": "Starlight Inception",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04223_00_00DC45DE2E002E486391BA9B9AEC341C1352789DCF/C4DB4796EC9F213CD3DAD9A350386716D3517F04.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR04225_00": {
+        "npCommunicationId": "NPWR04225_00",
+        "trophyTitleName": "Dragon Fantasy Book I",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04225_00_00A7921E23CF33FDFEE5FE8C139D77D8241211A490/5B31C0B64B2EAE4743EF211882CFDFF666664865.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
