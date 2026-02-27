@@ -56808,5 +56808,135 @@
             "bronze": 15
         },
         "service": "trophy"
+    },
+    "NPWR10270_00": {
+        "npCommunicationId": "NPWR10270_00",
+        "trophyTitleName": "UNO®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10270_00_0026A35CEAECDC86E783BCCA3476A497D5ECE70541/90FC4EE7AD38DFA58CC0C8A2C9424E9FC9E6129C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10271_00": {
+        "npCommunicationId": "NPWR10271_00",
+        "trophyTitleName": "弁当の素晴しさをあの２度３度〜生ハムと焼うどん編",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10271_00_003C556A4C9A011FA84B4EAD2E54D578956A9ECF26/CE5698272EFC6A457DC46B0A82AB457196624824.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR10272_00": {
+        "npCommunicationId": "NPWR10272_00",
+        "trophyTitleName": "野犬のロデム",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10272_00_0044D665566944FBB121FCBD6600BEC67AAA793F7F/485A2C1477935FAB0F15CF13F372FCF557BC432C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR10273_00": {
+        "npCommunicationId": "NPWR10273_00",
+        "trophyTitleName": "僕は森世界の神となる",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10273_00_00CCC3F4D43FF7C02E40CD0CFA372B25267983A046/5A3590FF264870FAD386B83C098F445ABA76A0DD.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR10274_00": {
+        "npCommunicationId": "NPWR10274_00",
+        "trophyTitleName": "タイムアベンジャー",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10274_00_00CBBEC999A1CBE9A8A46F6DDBA9FE979672252FAF/E3DF1DA0D214AACE38F687DDBD3CE4B3A2B6A79F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR10276_00": {
+        "npCommunicationId": "NPWR10276_00",
+        "trophyTitleName": "Lovely Planet",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10276_00_006221CA62EB4E6176FD06B86DCDA44F7A4225CBF2/092A911B39D3B541DB05924A2AEA28D6E19917A9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10277_00": {
+        "npCommunicationId": "NPWR10277_00",
+        "trophyTitleName": "The Treasures of Montezuma 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10277_00_009D99C35072A805944EB034A0A6D2FE5C77F48D42/FCC4DEF979736D51605ADF1CA9304C1B602D7287.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR10279_00": {
+        "npCommunicationId": "NPWR10279_00",
+        "trophyTitleName": "SwapQuest",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10279_00_00461EE13BD319F9671E820A8E6C2C8EFCC1DC92AB/94F92158947AA198E37B93B5EDE80FB8ECF17F66.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR10280_00": {
+        "npCommunicationId": "NPWR10280_00",
+        "trophyTitleName": "ワールドトリガー スマッシュボーダーズ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10280_00_00A1A4C6EDFDA1C0F0503EB338635193C6B67C368D/A67590F3E5FD647847CA378E4A7B37A59DB921C2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR10282_00": {
+        "npCommunicationId": "NPWR10282_00",
+        "trophyTitleName": "I am Setsuna.",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10282_00_002B0BE7D50EDFF394CE77E8EF1148B774418620A4/4B35C66F8F57ED13AB98D604DEE06A6BCFF54CA9.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 40
+        },
+        "service": "trophy"
     }
 }
