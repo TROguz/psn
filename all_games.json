@@ -89178,5 +89178,135 @@
             "bronze": 23
         },
         "service": "trophy"
+    },
+    "NPWR14577_00": {
+        "npCommunicationId": "NPWR14577_00",
+        "trophyTitleName": "Candleman",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14577_00_004616CA2D5929FA3B2F18245AEF9B9585928DA85C/1E9AE1AB709F5AA138256A5B69A510CBD8EB2371.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR14579_00": {
+        "npCommunicationId": "NPWR14579_00",
+        "trophyTitleName": "ACCOUNTING+",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14579_00_004FCC45DC9FB169C0AC07876205E70DE8758FFDAC/866EDF40577873AD40F3D847F440CE4453AE208C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR14582_00": {
+        "npCommunicationId": "NPWR14582_00",
+        "trophyTitleName": "Heroine Anthem Zero Episode 1",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14582_00_001DF00CA6EB2C7A51542B5807E12524A5886F14C0/EBC6694A582829BB580976FB2F5343F979A3145E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR14583_00": {
+        "npCommunicationId": "NPWR14583_00",
+        "trophyTitleName": "One More Dungeon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14583_00_0028665EDEE78634816475DD671CEFEC74D444281F/90981847BBE671027323DD59D081F06EEF18A378.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR14584_00": {
+        "npCommunicationId": "NPWR14584_00",
+        "trophyTitleName": "The Journey Down: Chapter One",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14584_00_00BA17D02819CC646420FCA17811B643E79F6CD572/5306A45E97E84A54DC51D05EB840A5C0F85C9986.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR14585_00": {
+        "npCommunicationId": "NPWR14585_00",
+        "trophyTitleName": "Pig Eat Ball",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14585_00_004730316BE525B5EF36F99BBBFCADF7754A239ABE/E50BE66C4B13675BB6A66D1526A3ADA380BA3A14.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 15,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR14586_00": {
+        "npCommunicationId": "NPWR14586_00",
+        "trophyTitleName": "BLEED",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14586_00_00F16FD5E5B4E45B414CCD435066B7DED369451184/1250521E6A3EABFDA8F578E2080A78EE4957927A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 16,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR14587_00": {
+        "npCommunicationId": "NPWR14587_00",
+        "trophyTitleName": "BLEED 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14587_00_004C1502C03F54D24789B3943E8863C1835E8D8FA8/7BB3DA0E8EE216AF874770903601C73D2620FD91.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR14592_00": {
+        "npCommunicationId": "NPWR14592_00",
+        "trophyTitleName": "ときめきレストラン☆☆☆ Project TRISTARS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14592_00_008D382FDAF0433BDC9151F5341B9D3E27B065D041/2F0F1AA37EBC2BE7CDC0946A8C4A93490121D29A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR14594_00": {
+        "npCommunicationId": "NPWR14594_00",
+        "trophyTitleName": "DEILAND TROPHIES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14594_00_00D5F45EFA4C7186F45DFFDCFC020A8BD0877FF8C9/B201C6A5AAC6D27EA7DA11C818EA5481901EABC3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 6
+        },
+        "service": "trophy"
     }
 }
