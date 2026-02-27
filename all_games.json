@@ -24828,5 +24828,135 @@
             "bronze": 2
         },
         "service": "trophy"
+    },
+    "NPWR04313_00": {
+        "npCommunicationId": "NPWR04313_00",
+        "trophyTitleName": "WRC Powerslide",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04313_00_005FBEBB56631B5D2C73A2D55C5A7B0D06A0C90CC7/C29FAB6DC3CF72878A430C4A284DEAF46F06B1B8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR04314_00": {
+        "npCommunicationId": "NPWR04314_00",
+        "trophyTitleName": "Frozen Synapse Prime",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04314_00_007C92B31830D7D9EFCCD464738D488D2CF697C2CC/0CDFD0F1EB71AA66D72DD4C006804B20125C8A5E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR04316_00": {
+        "npCommunicationId": "NPWR04316_00",
+        "trophyTitleName": "Legends of War",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04316_00_00479FBBBD22E1F7BDD7BA92106479CD2537B105CD/DF37ACE427A92E01A78866E2F23B8CEEBE08AC54.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR04317_00": {
+        "npCommunicationId": "NPWR04317_00",
+        "trophyTitleName": "NINJA GAIDEN 3: Razor's Edge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04317_00_00FF2F3D5EDAA09CDDB170FF859C4CD3320D4A6B0E/0C0EC41D5C3126D932ACDAF2E668105C652E7854.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR04319_00": {
+        "npCommunicationId": "NPWR04319_00",
+        "trophyTitleName": "Far Cry® 3 Blood Dragon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04319_00_00F315270A38BCA1EB17584DB403BA9EA5891F719F/40363B4BF984D271C9EADFA9482BCAD602F489F3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR04321_00": {
+        "npCommunicationId": "NPWR04321_00",
+        "trophyTitleName": "ネクレボ 社労士試験",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04321_00_00FBDE9DACE5EEE41131E48C26FE08070C11CA2E2B/B6F21041D60EA9895FD171298A0D7E8F960564E1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR04324_00": {
+        "npCommunicationId": "NPWR04324_00",
+        "trophyTitleName": "Fruit Ninja",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04324_00_004C340E666C14584736C30D1F940D4058BEAF682D/1D926346CC63EE3C1E914266528BE5BBA9E57866.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR04325_00": {
+        "npCommunicationId": "NPWR04325_00",
+        "trophyTitleName": "お姉チャンバラZ～カグラ～ With NoNoNo!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04325_00_0022D3E9F5D73E7EF79A64C4322618E3F53DEE9B1B/A4186EFA095E211C686EAF4AC094C48A061F90CF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR04326_00": {
+        "npCommunicationId": "NPWR04326_00",
+        "trophyTitleName": "Atomic Ninjas",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04326_00_0092BED1343AD969202D29303D34A477D3045E9E9B/8068F446620581FB212BCA76288BF494B8828E21.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR04327_00": {
+        "npCommunicationId": "NPWR04327_00",
+        "trophyTitleName": "Diggs Nightcrawler™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04327_00_0042CB73031CB136F1BC62DF27993AEF8B3CB55B92/29C189F11A93747AB764016140716FE1FB591004.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 23
+        },
+        "service": "trophy"
     }
 }
