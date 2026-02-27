@@ -79038,5 +79038,135 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR13222_00": {
+        "npCommunicationId": "NPWR13222_00",
+        "trophyTitleName": "KOWLOON'S GATE VR Suzaku",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13222_00_00F9A0245049D26A0A0D5E7FCDCD22C7E9E62AB23F/760742D9A2532C4F0350CEF474B523FA2FAF5157.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR13224_00": {
+        "npCommunicationId": "NPWR13224_00",
+        "trophyTitleName": "Sokoban Next",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13224_00_006C4A8CB2E1964D93B799F0AE09E243F8B798F027/710585361960E2E76BA01D6D1A2BA026E22F8BB8.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR13230_00": {
+        "npCommunicationId": "NPWR13230_00",
+        "trophyTitleName": "Just Dance® 2018",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13230_00_0074A53318E38394432BD8D736F58E1A9D902A9EA6/0AF66B1E33A8DF558420B57A7166BF04E93C87C5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR13233_00": {
+        "npCommunicationId": "NPWR13233_00",
+        "trophyTitleName": "Ghost Blade HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13233_00_005B1DBDD18793611500E50F041EDA9DD7C3A7C1FE/31A025F110F25FC39F25A571F1ACB536AE66856E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR13234_00": {
+        "npCommunicationId": "NPWR13234_00",
+        "trophyTitleName": "Semispheres trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13234_00_008C851E954BFE721146B7432373E654EA8F464730/46A778C125EEECC80D9C8C856153A8E0DAE99188.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR13236_00": {
+        "npCommunicationId": "NPWR13236_00",
+        "trophyTitleName": "NINJA SHODOWN",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13236_00_00152B438F565FFF8C5672E2F4DB5153B8D3476F1A/12DB5860CB60D9F807F159CC3950AA819E4F9323.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR13237_00": {
+        "npCommunicationId": "NPWR13237_00",
+        "trophyTitleName": "The Jackbox Party Pack 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13237_00_00CBCAA62B068513912EA6A44AB965B9BAC3570FDE/B9B1ABCD3BE8B3A84CC558A9D86CDEA41C9E5893.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR13238_00": {
+        "npCommunicationId": "NPWR13238_00",
+        "trophyTitleName": "The Bellows",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13238_00_0074EA8CA8920AA3A86EB223062F8204FDA8845D7A/ACFCC8AB5CA2D0FD927D93BF08F7EC6A642428DE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 1,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13239_00": {
+        "npCommunicationId": "NPWR13239_00",
+        "trophyTitleName": "Maize",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13239_00_00876433E8B4A1CE7224B65FB62B70B98D736662D5/A6E87A238CAB6DC15D8ECD087D2AA1A9DEBD023C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR13240_00": {
+        "npCommunicationId": "NPWR13240_00",
+        "trophyTitleName": "Future Unfolding",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13240_00_00FBBC0E4551DACC7DD65D8C0CBB8E6DB27AF6C896/0BEF751CA8DBD0AC7AE787EDD72EC370211D0B31.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 2,
+            "bronze": 0
+        },
+        "service": "trophy"
     }
 }
