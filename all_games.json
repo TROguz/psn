@@ -89048,5 +89048,135 @@
             "bronze": 26
         },
         "service": "trophy"
+    },
+    "NPWR14555_00": {
+        "npCommunicationId": "NPWR14555_00",
+        "trophyTitleName": "ASSAULT GUNNERS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14555_00_00737360533FED1BA983B35AA7AF289147A7902972/C7CA97730E185F86A976AC733A0FB4BC4B895CBB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 14,
+            "bronze": 58
+        },
+        "service": "trophy"
+    },
+    "NPWR14557_00": {
+        "npCommunicationId": "NPWR14557_00",
+        "trophyTitleName": "Loadout",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14557_00_00ED51685A91888EAC5CCD982C5FDA8CF7EB5918F9/73E3A2920CA14A99296D361C7619AC7AFF893305.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR14559_00": {
+        "npCommunicationId": "NPWR14559_00",
+        "trophyTitleName": "Impact Winter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14559_00_00F4BD767EC5D5EAA74115C370FAEF184CE2B2F73E/CC08F9E5A45F643FCFA5DAC1F2893E1AE0E3D2AB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR14563_00": {
+        "npCommunicationId": "NPWR14563_00",
+        "trophyTitleName": "VR The Diner Duo",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14563_00_000A8DB06A952DE0D9343F5D4A5494A19B3C000B1B/271086AB21F77F0043BA1303AE4D2E933C983AA4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR14565_00": {
+        "npCommunicationId": "NPWR14565_00",
+        "trophyTitleName": "Rick and Morty: Virtual Rick-ality",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14565_00_00517A8291E9E5BDA84F80947FCAF0380A0F3C7996/9E5456BE94BB13FDFD046D335A8999D29C702E44.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR14566_00": {
+        "npCommunicationId": "NPWR14566_00",
+        "trophyTitleName": "Rick and Morty: Virtual Rick-ality",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14566_00_0060ED96956A9A8708F8009AE53C2AFBE14B684A09/812A90CE0056D635F9D9F61695EC08412BC42B61.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR14567_00": {
+        "npCommunicationId": "NPWR14567_00",
+        "trophyTitleName": "VirtuGO",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14567_00_00FAE4399C9843FE865516551EE3197CC53321B1FA/DFEA4B33909152B84E2D808D6F10A316AAC9F4D9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR14569_00": {
+        "npCommunicationId": "NPWR14569_00",
+        "trophyTitleName": "Surviving Mars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14569_00_00B54EF8F02F3E1957C582FF29761274F1600A867F/B2B47E73134C01678AD1E949AD2EB1C10FF0FB06.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 17,
+            "bronze": 61
+        },
+        "service": "trophy"
+    },
+    "NPWR14571_00": {
+        "npCommunicationId": "NPWR14571_00",
+        "trophyTitleName": "London Detective Mysteria",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14571_00_00D4703FE04F13527E51FEE2B8E580F566C0880218/5100E80CA60D5155BA2C277B971BB77EAE5CEF05.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 4,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR14576_00": {
+        "npCommunicationId": "NPWR14576_00",
+        "trophyTitleName": "Earthfall",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14576_00_0037D710FFB25DF856B50FCB06C2A61C1DE91D3B16/320C67037E32E15133C21D63F0BAC005169C3B9E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 23
+        },
+        "service": "trophy"
     }
 }
