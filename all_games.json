@@ -48670,5 +48670,83 @@
             "bronze": 6
         },
         "service": "trophy"
+    },
+    "NPWR09002_00": {
+        "npCommunicationId": "NPWR09002_00",
+        "trophyTitleName": "Corpse Party BLOOD DRIVE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09002_00_00C386F730BEB4F19552935AF3A6DD589C11132CF9/C4645621115CC1AE4A44BF5283F74D87EB2D3FF3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR09004_00": {
+        "npCommunicationId": "NPWR09004_00",
+        "trophyTitleName": "Trophies for Snoopy's Grand Adventure\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09004_00_0069584B016EB3F0642F21AC8E2A3226E5B126CCCB/896993EC6B4DCAD41EFF0371125A58FA19D30CEA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR09005_00": {
+        "npCommunicationId": "NPWR09005_00",
+        "trophyTitleName": "콥스 파티 BLOOD DRIVE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09005_00_00996894DCC9785C58C897C5F06FE743E44D1A1715/CB78A8D6C1A01AC8B4D5680D09742C0B6179C926.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR09006_00": {
+        "npCommunicationId": "NPWR09006_00",
+        "trophyTitleName": "ROBOTICS;NOTES ELITE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09006_00_0046ACB96B7B99C0DC8297D5B8B19A1644445A36AA/A081009245810EF27E025BADFEF6C04A6982FFA3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR09007_00": {
+        "npCommunicationId": "NPWR09007_00",
+        "trophyTitleName": "NASCAR '15",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09007_00_009D8CEC56369F338FDFCBF069EA3BBFA70DAA8FFC/9063472DFCDE1B883B26EAC1B6F3A3F0E980E7C1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR09010_00": {
+        "npCommunicationId": "NPWR09010_00",
+        "trophyTitleName": "1001 Spikes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09010_00_00B42506A43050635BE859808C56092F401B03D068/B1FCBB5A9E7DC50EFB197E19E4DF277208A98C1F.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 3
+        },
+        "service": "trophy"
     }
 }
