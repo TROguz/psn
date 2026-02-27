@@ -59148,5 +59148,135 @@
             "bronze": 3
         },
         "service": "trophy"
+    },
+    "NPWR10646_00": {
+        "npCommunicationId": "NPWR10646_00",
+        "trophyTitleName": "ULTIMATE MARVEL VS. CAPCOM® 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10646_00_00F8C86729D6D61068C1DB7C48E2E6D3B9BAEA0FD5/18CD6CF85AFB67A0C0219D25DD5D50490998D4A2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 33
+        },
+        "service": "trophy"
+    },
+    "NPWR10647_00": {
+        "npCommunicationId": "NPWR10647_00",
+        "trophyTitleName": "Mystery Chronicle: One Way Heroics ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10647_00_005976DA5628941232A78D415786F9A18EF765827C/CB8D6A7465612E79B721C7612D64FFED6453F14A.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR10655_00": {
+        "npCommunicationId": "NPWR10655_00",
+        "trophyTitleName": "Nihilumbra\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10655_00_004382F3CB1D115A948F9F0EA204D9C65CCBFB77E4/509ED6F0C1DF9D00691BD0D4ED715F571EC6EE23.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR10657_00": {
+        "npCommunicationId": "NPWR10657_00",
+        "trophyTitleName": "Element4l",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10657_00_00C6486DCD4185B06B684FF58AEBF315360BE020B3/368B5C4755AFCF218CDADEC75A9DE7D8BF162B00.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR10658_00": {
+        "npCommunicationId": "NPWR10658_00",
+        "trophyTitleName": "Nihilumbra\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10658_00_00F2F6A8B9692AAAFAE1C5C434123CA7173E094AF9/E165BD43883D6B12A66CB2D6AB48C0DB1A588B56.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR10661_00": {
+        "npCommunicationId": "NPWR10661_00",
+        "trophyTitleName": "Farming Simulator 17",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10661_00_001B4E9B4AB0AF60519E7CF2CE595D6E3CAA5DA448/2FA6AD0850A23CC0066AE43AEC83B7BA0C4E9EA0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 6,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR10662_00": {
+        "npCommunicationId": "NPWR10662_00",
+        "trophyTitleName": "Riptide GP: Renegade",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10662_00_00FDA8F6027C898FBA137183768083A22658099314/A50DCF5249D4DDC07E95965286EB1F9C671607A6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR10664_00": {
+        "npCommunicationId": "NPWR10664_00",
+        "trophyTitleName": "WATCH_DOGS® 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10664_00_00BAACC91992A4BE505DA8EB812912D69C6213263D/AFCE1FCA1C353496D7CAFBAAE5F89DDC6BFD5356.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 20,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR10665_00": {
+        "npCommunicationId": "NPWR10665_00",
+        "trophyTitleName": "XCOM 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10665_00_0016FD9065AD3AD6D05F9344579341CEE31D67B3B8/C903349724ACD9D6FAFB788D101FD7F683A13B48.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 18,
+            "bronze": 60
+        },
+        "service": "trophy"
+    },
+    "NPWR10667_00": {
+        "npCommunicationId": "NPWR10667_00",
+        "trophyTitleName": "Hatsune Miku: VR Future Live",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10667_00_002C292B26EABA1E3993969B54CBD9932F7ABAD184/432A8AB5D04153C5309688D78D8680661EA511F8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 9
+        },
+        "service": "trophy"
     }
 }
