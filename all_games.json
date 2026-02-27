@@ -30808,5 +30808,135 @@
             "bronze": 0
         },
         "service": "trophy"
+    },
+    "NPWR05569_00": {
+        "npCommunicationId": "NPWR05569_00",
+        "trophyTitleName": "Sound Shapes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05569_00_004BF0F583C1C85359DDC0FD8DECF4EE5B73B7E810/8096957D7F6906E79A8F8BDA0A7813D0103324F9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 87,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR05571_00": {
+        "npCommunicationId": "NPWR05571_00",
+        "trophyTitleName": "真・恋姫夢想～乙女対戦★三国志演義～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05571_00_005EE8CBF8EA3F208AB31F7AD7BAAB548A5EE19473/05422A93E24D79A5058BE101F3824F86B615DD7D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR05594_00": {
+        "npCommunicationId": "NPWR05594_00",
+        "trophyTitleName": "NASCAR '14",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05594_00_00FD8303376EB02A44F52A002AC0888EB0C1458AFA/8CEBF7E68AC2C1AA60548DD47DFA424341C26E58.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR05595_00": {
+        "npCommunicationId": "NPWR05595_00",
+        "trophyTitleName": "Contrast",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05595_00_0069DC36ABD85BF92F451638562D7FA49D6633DEA5/7E82AA1C88122ED880CA240C5914FBCF2FBB27D7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR05597_00": {
+        "npCommunicationId": "NPWR05597_00",
+        "trophyTitleName": "モット！ソニコミ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05597_00_009DD59057DC922A7A4CE5ABCECD7803ADE7C3C985/B4553A4F734271947F9068A4AC3AEF1426152CD5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR05601_00": {
+        "npCommunicationId": "NPWR05601_00",
+        "trophyTitleName": "大乱走 ダッシュ or 奪取!!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05601_00_00455D6684D6E57D8870DDD295F445765E5151A42A/9A7EBC8482F4E505225507E1E8773358DD6E5009.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR05611_00": {
+        "npCommunicationId": "NPWR05611_00",
+        "trophyTitleName": "Zen Pinball 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05611_00_0079F521BC19E8BDE656E62698129ABC1A76C7518F/A76CC6D33954737C67C2F2864A1B6FDEBF26AC4C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 19,
+            "bronze": 103
+        },
+        "service": "trophy"
+    },
+    "NPWR05620_00": {
+        "npCommunicationId": "NPWR05620_00",
+        "trophyTitleName": "Danganronpa: Trigger Happy Havoc",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05620_00_009D0845E82F28ED4DD545C829008660C0F460EBFB/461523DF25BD3948F46245C619993CCE56143020.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR05623_00": {
+        "npCommunicationId": "NPWR05623_00",
+        "trophyTitleName": "Trine 2: Complete Story",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05623_00_00E009296C5DDACC80952C74BD3FC8E21FC86FECF2/B3335C0274E991B81587CE1AED249E895C6A1646.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR05624_00": {
+        "npCommunicationId": "NPWR05624_00",
+        "trophyTitleName": "Strider\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05624_00_00E1767646FC12CFFE1852149CD02DB036DD0B51B2/6C351E469C6AFC5A385B19E5C06C2572CC18BA2F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 20,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
