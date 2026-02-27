@@ -37295,5 +37295,18 @@
             "bronze": 2
         },
         "service": "trophy"
+    },
+    "NPWR07003_00": {
+        "npCommunicationId": "NPWR07003_00",
+        "trophyTitleName": "Skeleton Rider",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07003_00_00FA514DD1FF43A51FE549A7F3D8F1837E6E9E8E53/F647544BFADB78839268A808CEC22FE227FB2350.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 3
+        },
+        "service": "trophy"
     }
 }
