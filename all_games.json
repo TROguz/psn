@@ -45238,5 +45238,135 @@
             "bronze": 2
         },
         "service": "trophy"
+    },
+    "NPWR08441_00": {
+        "npCommunicationId": "NPWR08441_00",
+        "trophyTitleName": "Assassin's Creed® Chronicles: India",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08441_00_00E3463B8211CF8F01C8392BCC9E5AF20AB2D5BAD4/5F6C33F16CCF3DF17BA7F1B1A0A273A90F8C2C65.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR08442_00": {
+        "npCommunicationId": "NPWR08442_00",
+        "trophyTitleName": "Assassin's Creed® Chronicles: Russia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08442_00_0032C1FA85F3D116F47B4A046287757533A1122DCD/59F976D1258BB3F455AE8E3067E72386D51E4A27.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR08449_00": {
+        "npCommunicationId": "NPWR08449_00",
+        "trophyTitleName": "Dungeon Defenders II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08449_00_00FA44F24EB88A5FFDEBF3FA1C9D5B58ABB28FF906/533DE35B388AA7C54A1D195AE7C0D76C4846377F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR08451_00": {
+        "npCommunicationId": "NPWR08451_00",
+        "trophyTitleName": "Civilization Revolution 2 Plus",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08451_00_006BA37347829D789DB3FF8B7AF6E9DCB661C8A578/73C0DF1C6CE5E40769E085A801C975CF735422F9.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 57
+        },
+        "service": "trophy"
+    },
+    "NPWR08452_00": {
+        "npCommunicationId": "NPWR08452_00",
+        "trophyTitleName": "XCOM: Enemy Unknown Plus",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08452_00_00B481EE42292A7C8AF8C0C84695D52D0CF083CC70/070B4A52FCB44DB230D61C38C6398A49F92442D7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR08454_00": {
+        "npCommunicationId": "NPWR08454_00",
+        "trophyTitleName": "タッチバトル戦車SP",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08454_00_00503A0C89F5451EAC92C378D201F233EB3DC88020/0D5484589BD97BBFEE1293BFE04CB8871BC168CD.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR08455_00": {
+        "npCommunicationId": "NPWR08455_00",
+        "trophyTitleName": "I DOLL U",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08455_00_00BEB611991DC087FFE5943F9823342F3D513F8D2B/DF1A3B39B3C7560644D652749F113693C5CC70EE.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 6,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR08462_00": {
+        "npCommunicationId": "NPWR08462_00",
+        "trophyTitleName": "恋姫†演武 トロフィーセット",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08462_00_0072675FAD24190F00E29120E3AC3F95F0B715ED1D/83B7D32A5E55C3BFEEA952806545F7160D664DC5.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR08463_00": {
+        "npCommunicationId": "NPWR08463_00",
+        "trophyTitleName": "ASSAULT SUIT LEYNOS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08463_00_004D624BE9977C95BC41744B76B96DC46B8F3EB1E4/5C99352FE42D2DF6A7F2CF42D273DC623F94EDDB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR08464_00": {
+        "npCommunicationId": "NPWR08464_00",
+        "trophyTitleName": "Space Hulk",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08464_00_007F1A03576132987232CD94DD66829099298C3C5C/B3B3BDFC66855C002711EC9C98D444CC369285A5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
