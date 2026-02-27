@@ -37048,5 +37048,135 @@
             "bronze": 49
         },
         "service": "trophy"
+    },
+    "NPWR06949_00": {
+        "npCommunicationId": "NPWR06949_00",
+        "trophyTitleName": "Geometry Wars³: Dimensions",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06949_00_0022A7573AF58AE009B0C246B72786C19565F6205A/EE7D4F0CA484069899580E9348614289041A3BD4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 17,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR06955_00": {
+        "npCommunicationId": "NPWR06955_00",
+        "trophyTitleName": "Far Cry® 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06955_00_00CCB15655328519EE8FDE60415DD10399A694D81E/D19A128F219F66B45779F045AC5968D4BD011CAC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR06957_00": {
+        "npCommunicationId": "NPWR06957_00",
+        "trophyTitleName": "Digimon All-Star Rumble",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06957_00_0037F7F64D1314489C5C37072D2D9AD756F116D9FF/12FFD3EB7D64B3BB127593AD67FAA616B13E72C1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 4,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR06959_00": {
+        "npCommunicationId": "NPWR06959_00",
+        "trophyTitleName": "ガンダムブレイカー2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06959_00_00025818010EEEB10DF1FD08D8B035AD65A538191C/4A1D7F2159C693477E0BE2EC0D7257D773EE7F6F.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR06960_00": {
+        "npCommunicationId": "NPWR06960_00",
+        "trophyTitleName": "スーパーロボット大戦ＯＧサーガ　魔装機神Ｆ　COFFIN OF THE END",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06960_00_00CBD27D1CC1E0DFF8A21A2088A26854A2140741A9/AA7E8061C9F0EA3CEC9954BD37270F55DCE9D560.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR06961_00": {
+        "npCommunicationId": "NPWR06961_00",
+        "trophyTitleName": "キスベル",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06961_00_0052DF8C97D1879DE54BE2D7C2BE8C0FED29D6334C/ACBA45B4D9068F790FACE3A24CD566090B8388C4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 14,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR06965_00": {
+        "npCommunicationId": "NPWR06965_00",
+        "trophyTitleName": "FIFA 15",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06965_00_00F55938C8F7822E61A123E76CB75B4301916F5A56/9F30252DD4736F39F588F5D4EE42F1C717751ADA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR06967_00": {
+        "npCommunicationId": "NPWR06967_00",
+        "trophyTitleName": "Super Mega Baseball",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06967_00_00CBD20B604D6B17D73138BED7C55C70BE734F9A6D/2969AA160584F3DA0F22436A0B599D3E98817C90.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR06973_00": {
+        "npCommunicationId": "NPWR06973_00",
+        "trophyTitleName": "VVVVVV",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06973_00_00F5A088E0BAFC77817F047AA57C400B63004A2D6C/779B2DE3C99873AD5CC1438F2C5BA254DE219676.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR06974_00": {
+        "npCommunicationId": "NPWR06974_00",
+        "trophyTitleName": "Grinsia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06974_00_00ED7C06957FBDA301AEA0B80538DDD0C5627BC9D6/41F72933CE3C5D20D3E9D3305C7B1D140E8C67DF.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 3
+        },
+        "service": "trophy"
     }
 }
