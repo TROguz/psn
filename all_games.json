@@ -72798,5 +72798,135 @@
             "bronze": 6
         },
         "service": "trophy"
+    },
+    "NPWR12454_00": {
+        "npCommunicationId": "NPWR12454_00",
+        "trophyTitleName": "Bard's Gold",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12454_00_00E69074B234E407C2AB4BBD4F652F311F646DB34C/0ED1997D04C7DE742A0373556401432AFF176391.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR12455_00": {
+        "npCommunicationId": "NPWR12455_00",
+        "trophyTitleName": "GodWars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12455_00_00D0302EEFFCC8FA46C0CF9115A1D89B6A571761F0/60D958B80EDF2DFA1E7BEE7E715212B77046E7E3.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR12456_00": {
+        "npCommunicationId": "NPWR12456_00",
+        "trophyTitleName": "Dreamfall Chapters",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12456_00_00F56A15AAB93FCA4CE3394F6BA862246E5A4E0748/A3732FB06E53825BA68D63550D6C5E9F9F0D99CF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR12459_00": {
+        "npCommunicationId": "NPWR12459_00",
+        "trophyTitleName": "Super Cloudbuilt",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12459_00_00D36E08B552FEFEDEBFE0B804EEA12B8FDDB3E637/656AB2C356F91575FE13F514EBD91E37B9355B51.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR12460_00": {
+        "npCommunicationId": "NPWR12460_00",
+        "trophyTitleName": "秋葉原妄想物語",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12460_00_0003C36CF793F721ED31EAECBD2F25CF4A16970C57/360FBC96624E32484CB15C776018C2FAD1C66CCA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR12461_00": {
+        "npCommunicationId": "NPWR12461_00",
+        "trophyTitleName": "秋葉原妄想物語",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12461_00_009820276350120027F69CCB2C74F9202D09A1D20D/7B93FDC034B479D9A6BEBA5F4F0D85715B6A3C6C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR12464_00": {
+        "npCommunicationId": "NPWR12464_00",
+        "trophyTitleName": "Locks' Quest",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12464_00_004F4B3438D26FF84BD9C3AFCB6732F3D0B24551A4/F2656BCECC1885635DA1974119953272073B58EE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR12466_00": {
+        "npCommunicationId": "NPWR12466_00",
+        "trophyTitleName": "Way of the Passive Fist",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12466_00_00B8EA944E4D9E08A3FE7226E302BF4DAB3F1D21CB/CAB068929A1A24250E644B2072AE3E14F8880ADC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 6,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR12467_00": {
+        "npCommunicationId": "NPWR12467_00",
+        "trophyTitleName": "GodWars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12467_00_00758436A2034B7EEFAFA9EEEEE1F2E97C679D5FE8/25E2BEAD0C764628D86EF992AA5FFBF82695A2EB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR12468_00": {
+        "npCommunicationId": "NPWR12468_00",
+        "trophyTitleName": "ダンジョンに出会いを求めるのは間違っているだろうか\nインフィニト・コンバーテ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12468_00_006033DC546349F1A9D106DB480514B2760006F8DC/CDB017E6F6838B2BB47A351A6A65BACBDB7F0536.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 15,
+            "bronze": 28
+        },
+        "service": "trophy"
     }
 }
