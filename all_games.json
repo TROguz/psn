@@ -87228,5 +87228,135 @@
             "bronze": 14
         },
         "service": "trophy"
+    },
+    "NPWR14294_00": {
+        "npCommunicationId": "NPWR14294_00",
+        "trophyTitleName": "Defiance 2050",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14294_00_006824E3110BF8A18DBDA09F201FE11D589C944BB6/3E763DAD89526E8C93CE8E08F0EFE0D64B0AE16A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR14297_00": {
+        "npCommunicationId": "NPWR14297_00",
+        "trophyTitleName": "Super Hydorah",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14297_00_008C9F6A053F5D9E7D71461D6E532992063B206A8F/262DA30A175DA55554AFA06A87BDA54B2BCC14CB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR14300_00": {
+        "npCommunicationId": "NPWR14300_00",
+        "trophyTitleName": "Quar: Infernal Machines\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14300_00_005976B80B3DC9E2790A3837CEBBDBBDE6709EC82E/7986D4F7CFA6820CC69D8FD97CC470D4BC5530BA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR14301_00": {
+        "npCommunicationId": "NPWR14301_00",
+        "trophyTitleName": "DISTRAINT: Deluxe Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14301_00_00A78550F2F77AAACD2C507B01D0FC820D2C02E2B9/CE99B2B92DEE2E4741C26DB1238EDEE75FC6E98C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 4,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR14302_00": {
+        "npCommunicationId": "NPWR14302_00",
+        "trophyTitleName": "One More Dungeon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14302_00_007422E2A44487C0EFD4813635788249019EBBEC60/DFDAF1C0944224D6953E6A1690E0AA7C79D94DC6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR14303_00": {
+        "npCommunicationId": "NPWR14303_00",
+        "trophyTitleName": "DISTRAINT: Deluxe Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14303_00_002EF7582FAB985C8A93F52CF888D3C1055915F446/B52B4DE9A3AC2F9087F61D81A64028B2B4E20A65.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 4,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR14304_00": {
+        "npCommunicationId": "NPWR14304_00",
+        "trophyTitleName": "Mitch: Berry Challenge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14304_00_000E8D5ED376F1FCAC5B1E47BC396531EA2889C974/C635424CDA290F36E734F7A569086588180DC4A9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR14305_00": {
+        "npCommunicationId": "NPWR14305_00",
+        "trophyTitleName": "METAL MAX Xeno",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14305_00_0055C6BAB067D806932A08BB0F4396E2C24D767063/E1EDD59E56F275B7FAB1992520365C7ACF7792F1.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR14306_00": {
+        "npCommunicationId": "NPWR14306_00",
+        "trophyTitleName": "Monster Slayers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14306_00_00A4ACCCD17F4B5AFC7033394FE8ABBC578029E0B1/49B0D5BCC958C9C0C6D722DAD95289CB2DA76610.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR14307_00": {
+        "npCommunicationId": "NPWR14307_00",
+        "trophyTitleName": "Megaton Rainfall",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14307_00_00382AD6934B39F9016735826579C7007D77CB28A8/0F5018467E45B93A4BC549388DD653B18263F0A9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 13
+        },
+        "service": "trophy"
     }
 }
