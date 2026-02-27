@@ -46278,5 +46278,135 @@
             "bronze": 42
         },
         "service": "trophy"
+    },
+    "NPWR08617_00": {
+        "npCommunicationId": "NPWR08617_00",
+        "trophyTitleName": "ONE PIECE: PIRATE WARRIORS 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08617_00_00307921B270AF215ACAB13CCDD7FF019BD021F434/5BA904C02063EBEFABC9E62D9D156AFD1243D1E4.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR08622_00": {
+        "npCommunicationId": "NPWR08622_00",
+        "trophyTitleName": "For Honor",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08622_00_00DAA2FDE1E3996234E4C635C7B1EED973D544FAF2/743EC0D270F8D6AE3C85B33D03E75DAE5094C8F0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 49
+        },
+        "service": "trophy"
+    },
+    "NPWR08623_00": {
+        "npCommunicationId": "NPWR08623_00",
+        "trophyTitleName": "Trans-Galactic Tournament",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08623_00_005DC58FADD8E48C25DB52BA24CCC519C11B694A64/13CBE95EF1976DD2A117DF424266DFDDF2B46C58.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR08628_00": {
+        "npCommunicationId": "NPWR08628_00",
+        "trophyTitleName": "Lost Sea",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08628_00_00CB6CF315806A0A3904743E275427DBB0E18DB25A/6E3BE37C40E7B7580B07024B83BC70CF832FA70E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR08629_00": {
+        "npCommunicationId": "NPWR08629_00",
+        "trophyTitleName": "薄桜鬼 黎明録 思馳せ空",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08629_00_008ACE0A4FF274143DDDBE946390E9E9925D5A9FA9/6C24E3EB7339421D7B68C9A22C525D2656CEFE18.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR08630_00": {
+        "npCommunicationId": "NPWR08630_00",
+        "trophyTitleName": "東亰ザナドゥ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08630_00_002DDE31BDACEECB567602DF5730E96B3E31CA47A7/43FCA3C1332D9CAFBDD9C30F1361AC70DD0D65B9.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR08632_00": {
+        "npCommunicationId": "NPWR08632_00",
+        "trophyTitleName": "FORCED Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08632_00_009C19E694738C219DC0419B441EF11468A2AB86E5/AA00B0FE82D0D406C9F2D7AE9CF2E786F921468A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 10,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR08635_00": {
+        "npCommunicationId": "NPWR08635_00",
+        "trophyTitleName": "Rally Copters",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08635_00_00722477B3C7F44D31987CBB1F93FCAA68A3F10A0D/02328E0F790EA3DFDC668FEC77CDC09D2943AB1C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR08646_00": {
+        "npCommunicationId": "NPWR08646_00",
+        "trophyTitleName": "TEMBO THE BADASS ELEPHANT",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08646_00_00ECDB1EC8A077A97969476FFABEC6E21849190D36/685D6A6FFB8DC9265EDEAB8C47A15BA00FACD962.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR08648_00": {
+        "npCommunicationId": "NPWR08648_00",
+        "trophyTitleName": "METAL SLUG 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08648_00_00BCE1AE5D427D924F620ED395BCE972FDC7F33012/70F9C8A89075A4E2C45E1D231EDEA3CD31CD8D95.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
