@@ -25608,5 +25608,135 @@
             "bronze": 22
         },
         "service": "trophy"
+    },
+    "NPWR04436_00": {
+        "npCommunicationId": "NPWR04436_00",
+        "trophyTitleName": "Sly 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04436_00_00D10CE5AE260D377345408AFBA5258B7A1CF724CD/7F3B0D7E6C252AD8C6EEC31B1425790182C3A403.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR04437_00": {
+        "npCommunicationId": "NPWR04437_00",
+        "trophyTitleName": "Sly 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04437_00_006CBD39ADE99A9D68F3932A86EB60B05722502A7A/5A06BD70F2C192939C4787B575C9E94BFB9EF072.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR04440_00": {
+        "npCommunicationId": "NPWR04440_00",
+        "trophyTitleName": "Hunter's Trophy 2 - America",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04440_00_00E83D3FCEA5D3EC25DA723944271ECBA848024A91/649C0DDF9494119BBED2F7DF211A97F1A761FC2E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR04441_00": {
+        "npCommunicationId": "NPWR04441_00",
+        "trophyTitleName": "Hunter's Trophy 2 - Australia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04441_00_009DBA4C7C8239A8271F6BFBFE846500E06AB374F4/71C36FBE0A2A26E58DBE480B61932BDE97861CF9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR04443_00": {
+        "npCommunicationId": "NPWR04443_00",
+        "trophyTitleName": "LEGO® MARVEL Super Heroes: Universe in Peril",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04443_00_00EB545CBBE57522817CA5159C611B6947FDBE68CD/65F982A965FF53AD1CB2B4FB15E6BF3471490F02.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 9,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR04447_00": {
+        "npCommunicationId": "NPWR04447_00",
+        "trophyTitleName": "Hot Shots Golf: World Invitational",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04447_00_009514B4D54B8C2EFEA74CA7267CFB85F01D460ED8/A4857F194BF48ABA2576F8594BD1276472770D42.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR04450_00": {
+        "npCommunicationId": "NPWR04450_00",
+        "trophyTitleName": "Ridge Racer™ Driftopia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04450_00_002AEF7BBF39A549395DFAE7F80A3CAB90ECAC3F4E/A488F3FDB5FA8F7CA09174ECDB982D87241A2BB9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR04451_00": {
+        "npCommunicationId": "NPWR04451_00",
+        "trophyTitleName": "Real Boxing™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04451_00_00EF25AF44A8678B60627C3DBE078FA1A25D2B78C3/B2A035AA5506A4D8E8B5CE80222A1EBBB7F3F498.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR04454_00": {
+        "npCommunicationId": "NPWR04454_00",
+        "trophyTitleName": "Hyperdimension Neptunia Victory",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04454_00_00F4CB0CBFC5B887B7E77D1C48EC14DC9FDB5CC80D/C6E5D779496FBCBCC1DA9AC98446F0F6263C7F0B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 15,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR04458_00": {
+        "npCommunicationId": "NPWR04458_00",
+        "trophyTitleName": "Superfrog",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04458_00_00454763250D1EE499D90CB4FF882CA7FD9496AB0F/46E5B70A9758475AAE597B01C1D7A506D3D17BE6.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
