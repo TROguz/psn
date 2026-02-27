@@ -74488,5 +74488,135 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR12650_00": {
+        "npCommunicationId": "NPWR12650_00",
+        "trophyTitleName": "Sparc",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12650_00_005FA7E8BAF84AF658F6DA0E4D8B3B210006B04459/38C695B46CCB8BEFB36570F2788D2A71673CD213.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR12652_00": {
+        "npCommunicationId": "NPWR12652_00",
+        "trophyTitleName": "Unearthing Mars",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12652_00_00CEECA89DC189340F1ABB6C9E7650B6F6A6AA6EE9/68A49DFA3C9625E59579DB4FA9236B257AA7E718.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR12653_00": {
+        "npCommunicationId": "NPWR12653_00",
+        "trophyTitleName": "Typoman: Revised",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12653_00_00777AC153CC4DD21C11800A8E0C19E0328D09C5CD/6E91486809AB90A3670B21D5FD565F09FDDBF267.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR12654_00": {
+        "npCommunicationId": "NPWR12654_00",
+        "trophyTitleName": "Skyforge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12654_00_00D0CEDA2CECF5BC9C8928BE274ED6E62058596338/2ACCF8ED5DFBF506FF139B1A101338E2CF8C471D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 17,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR12657_00": {
+        "npCommunicationId": "NPWR12657_00",
+        "trophyTitleName": "Aaero",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12657_00_0011CD74F2551700ED04C60A98D6E4DB751AE4246B/F55AD4680757003433B1CB10B36D6815E6D0B157.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 63
+        },
+        "service": "trophy"
+    },
+    "NPWR12658_00": {
+        "npCommunicationId": "NPWR12658_00",
+        "trophyTitleName": "Ys Origin",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12658_00_007A68ECDBB43E8EB617036C5FC739E43B68771E69/7BCF7909B2BCD798E2DF560101CB314791829B7D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR12660_00": {
+        "npCommunicationId": "NPWR12660_00",
+        "trophyTitleName": "神獄塔 メアリスケルター",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12660_00_00EF6F93DD0A764929C6766C2EFE7585BD8A1379D4/D94DDFA6462D77C04EC017C2E25A36665997561C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR12662_00": {
+        "npCommunicationId": "NPWR12662_00",
+        "trophyTitleName": "WIPEOUT™ OMEGA COLLECTION",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12662_00_00B7EA559F4B573528AD144F15C83E29F75FF728F7/1662FDC44BD6C0CE72C75642BDC07A84B0C0FC24.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 6,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR12664_00": {
+        "npCommunicationId": "NPWR12664_00",
+        "trophyTitleName": "Conga Master",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12664_00_00228F5602BE1F4A676DC66A4ED0B2FFA50A217FD8/50B3D2BB63963AC47CB3D411DB4DAADDE4254FA6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR12665_00": {
+        "npCommunicationId": "NPWR12665_00",
+        "trophyTitleName": "A Rose in the Twilight",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12665_00_00DF3BDDB1D3F91F4E5C71C36ED63E1A2CCF0DE5DB/DFB0BDAD8AE3F38C8462825BFC5B9960AEDACD97.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
