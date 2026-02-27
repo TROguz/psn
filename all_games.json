@@ -54338,5 +54338,135 @@
             "bronze": 43
         },
         "service": "trophy"
+    },
+    "NPWR09873_00": {
+        "npCommunicationId": "NPWR09873_00",
+        "trophyTitleName": "Arcade Archives The Legend Of Kage",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09873_00_009EA8A6A2DFF061604182CA519902DFF11EC9FA68/97615ECD871FB67C4107750E59DBC97A19E80521.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR09874_00": {
+        "npCommunicationId": "NPWR09874_00",
+        "trophyTitleName": "Arcade Archives LIFE FORCE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09874_00_001480C83EC26BDEFB7CF73C186CB65FDF9CE6F1C6/A915FF1CC92588CE7C8E558FFB5819DDC64339A0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR09875_00": {
+        "npCommunicationId": "NPWR09875_00",
+        "trophyTitleName": "Arcade Archives FRONT LINE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09875_00_0088731455226FC1ABF623EEF575DF753FBCB224BB/590D4645F3FB78EBA5C6317FB560B544A04F326D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR09876_00": {
+        "npCommunicationId": "NPWR09876_00",
+        "trophyTitleName": "Arcade Archives DOUBLE DRAGON II The Revenge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09876_00_00F6E2A64F557661A8707A8E73427C2D4F709DBAF1/59CF655B68ED843CE0D7B5709D57C22D20191E43.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR09877_00": {
+        "npCommunicationId": "NPWR09877_00",
+        "trophyTitleName": "Rainbow Skies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09877_00_00B1F0C41A9ADB416EC109DF6FCFF0045312C26031/4877F893BCB25B1076B1F2186A2AEACE31C3271E.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR09879_00": {
+        "npCommunicationId": "NPWR09879_00",
+        "trophyTitleName": "Dead Island - Definitive Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09879_00_00787C03089E5B13CC6227E4D0B3AFAC6E6C5601D1/F6BB11B8ED3881AAC18B6E9CB8D3AB6F1607851E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR09880_00": {
+        "npCommunicationId": "NPWR09880_00",
+        "trophyTitleName": "7 Days to Die",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09880_00_00D00FFCD099479834CDB96540A1D7CE98D293578B/59EC58649E413594838E31B02C698CBD712C95CA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR09882_00": {
+        "npCommunicationId": "NPWR09882_00",
+        "trophyTitleName": "進撃の巨人",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09882_00_00EF20E0E8410BBA2D0B05C2FB4EC99513EB3A6479/9E7F217064A56C2A39C2DADD23AC83E2D08E6DDF.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR09884_00": {
+        "npCommunicationId": "NPWR09884_00",
+        "trophyTitleName": "巨影都市",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09884_00_00E52AB59C5258E57F05BDF40CE9250799ABC7AAD3/8EBF1F73E4FD22F4F80370CE710D3B5F901D2376.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR09886_00": {
+        "npCommunicationId": "NPWR09886_00",
+        "trophyTitleName": "School Girl/Zombie Hunter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09886_00_0012E7A1471115CAE680207EC3E899E60A320C6044/F4E96AE93C687A3EA9D0EB1F839FD1E54AA2DA12.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 30
+        },
+        "service": "trophy"
     }
 }
