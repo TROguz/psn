@@ -18588,5 +18588,135 @@
             "bronze": 19
         },
         "service": "trophy"
+    },
+    "NPWR03075_00": {
+        "npCommunicationId": "NPWR03075_00",
+        "trophyTitleName": "Marvel vs. Capcom: Origins",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03075_00_00443E8180E79BC64D055E3E19BD90684B45700B89/C72A3B7DA5F4E250C66AB5573E9DA7E91239D80C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR03076_00": {
+        "npCommunicationId": "NPWR03076_00",
+        "trophyTitleName": "Capcom Arcade Cabinet",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03076_00_00A7ABF8AED6B33BC944E6B756C1820CD24E442971/AF143EDD3C794C6A7CA99DFE3B400C09708504E2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 16,
+            "silver": 16,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR03080_00": {
+        "npCommunicationId": "NPWR03080_00",
+        "trophyTitleName": "Doctor Who: The Eternity Clock",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03080_00_00634F9FA0AD10D5FCB1373746406C4C590DBEC82B/F0013131A5BA8982E6E862335CA5EB4C6E185259.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR03081_00": {
+        "npCommunicationId": "NPWR03081_00",
+        "trophyTitleName": "Shinobido 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03081_00_00CB49ADBD2AE4F55FFFCD673A4FCA14D6E105A5A3/696895C52D2D8E4BB309C7C963A3C2B4163DD5A6.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 12,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR03087_00": {
+        "npCommunicationId": "NPWR03087_00",
+        "trophyTitleName": "Sports Champions™ 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03087_00_00442074A2093394B26D5DB5175FA334BE7EB34EEE/971E3A29ED251C09DC603D668C05346CC3FA33B3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR03089_00": {
+        "npCommunicationId": "NPWR03089_00",
+        "trophyTitleName": "Everybody's Golf 6",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03089_00_00ED8C2AA484C1CFE5D989E38857CF58B587BF41D8/4D1980AD38CE065ACFD106A85BB03C2A24D41823.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR03092_00": {
+        "npCommunicationId": "NPWR03092_00",
+        "trophyTitleName": "Doctor Who: The Eternity Clock",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03092_00_00432B4A8C3574C541763DC590930AF15CA8DB1EE0/18747E56F7AAC778934ADEFB0EA9B81F461BCA2E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR03096_00": {
+        "npCommunicationId": "NPWR03096_00",
+        "trophyTitleName": "Winning Post 7 2012",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03096_00_009B9BAD4E9DA85BEB1932126A00E231268FDA9632/647C41FDF185BBBE692A227F6E3B80D8E0D79B8D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 16,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR03098_00": {
+        "npCommunicationId": "NPWR03098_00",
+        "trophyTitleName": "Armored Core V\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03098_00_003D529C452467739DEC727D543769C731F0D5942F/1F6489DB6BA4DD29B5FA4E0E6E279BDF9AEC8998.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR03103_00": {
+        "npCommunicationId": "NPWR03103_00",
+        "trophyTitleName": "Wheels of Destruction.",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03103_00_005E14612E1DBCEFEB195B6C41D260D332B7C23A88/AFBA2F0E996ABD9D6718A786E7F3CA62D5521E24.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
