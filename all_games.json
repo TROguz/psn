@@ -59798,5 +59798,135 @@
             "bronze": 12
         },
         "service": "trophy"
+    },
+    "NPWR10742_00": {
+        "npCommunicationId": "NPWR10742_00",
+        "trophyTitleName": "Professional Farmer 2017",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10742_00_00C833964CFD632116661FEABA6CB5D0B0C3766256/2616070BB71BDE09922791AC4990FAD900DB8007.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR10743_00": {
+        "npCommunicationId": "NPWR10743_00",
+        "trophyTitleName": "Forestry 2017 - The Simulation",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10743_00_008B14D78745C491627D8A62B5D9F4906001605557/7467E7C097466166EAA198420D30912B2E2ECA5B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR10746_00": {
+        "npCommunicationId": "NPWR10746_00",
+        "trophyTitleName": "Gem Smashers™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10746_00_0041F11DE2718BB8065092DA0E3B3BDE74E397D4B6/3B1A42F83DE0C4C40ED1B24026196039890EC851.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 9,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR10747_00": {
+        "npCommunicationId": "NPWR10747_00",
+        "trophyTitleName": "Space Hulk",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10747_00_007EDAC521174241B0FCEA4A19674D822E9EF82E4A/B6ECFF511E4C28C77FE2141DFB552E14F1A211C3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR10751_00": {
+        "npCommunicationId": "NPWR10751_00",
+        "trophyTitleName": "Resident Evil 7: Biohazard",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10751_00_0067A75086AF6955957B0F14790DB6DEDF01270DD1/0F061D22C9840D6AF8BF72E1520F986C13376604.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 19,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR10756_00": {
+        "npCommunicationId": "NPWR10756_00",
+        "trophyTitleName": "Space Hulk",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10756_00_00AD2A1FE321192A2EDF2410F7970618734C4AD614/CB006604A1C46E1B21E6DBB507319F7C2E418AD4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10757_00": {
+        "npCommunicationId": "NPWR10757_00",
+        "trophyTitleName": "Krinkle Krusher Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10757_00_00621F3CD7767C7072234049D0FCF70104D3216C87/3AF97495DF3B986B22D116D0DD86EF4411935684.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10758_00": {
+        "npCommunicationId": "NPWR10758_00",
+        "trophyTitleName": "Krinkle Krusher Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10758_00_00DBF4426A17022CB8239767ED428CF25C5806430E/296F746091BAB1D3E1772F52B07C5A666FB6EDEC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10759_00": {
+        "npCommunicationId": "NPWR10759_00",
+        "trophyTitleName": "Krinkle Krusher Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10759_00_00384FEE9916051DB9852329DB4B8ED0C26BDF084D/457FD25C6F791FC9A494954336539B7F321DDE7D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10764_00": {
+        "npCommunicationId": "NPWR10764_00",
+        "trophyTitleName": "Air Race Speed",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10764_00_00A5DC7F567920FB49C23FA772BCD1BCBCC4EC5F77/81CA34641723357374971A32076757A5D79B5A29.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 6,
+            "bronze": 30
+        },
+        "service": "trophy"
     }
 }
