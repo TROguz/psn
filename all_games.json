@@ -85928,5 +85928,135 @@
             "bronze": 46
         },
         "service": "trophy"
+    },
+    "NPWR14156_00": {
+        "npCommunicationId": "NPWR14156_00",
+        "trophyTitleName": "Get Over Here",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14156_00_004FFFDCDE766B613816C2C0DCAE03EBA2156090D0/AF3D8CC04951F14F302F74439477EA7BDFD0AD90.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR14157_00": {
+        "npCommunicationId": "NPWR14157_00",
+        "trophyTitleName": "The Walking Dead: The Telltale Series - Collection",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14157_00_00C1601FBBF41F42FA13F88DC484E49D94E3D05979/B234850D3DE1C33DB3F55D8F501B0492BD0579F7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 0,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR14158_00": {
+        "npCommunicationId": "NPWR14158_00",
+        "trophyTitleName": "Aegis Defenders",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14158_00_00CECF938097AA268AC0E640446B6002955898F858/91D0721CA35A5FC1408826F6E71AE125C26CB8A7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR14159_00": {
+        "npCommunicationId": "NPWR14159_00",
+        "trophyTitleName": "Outer Wilds",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14159_00_0005D096839E66D5EB50F566EDF7961EA8DE4471C0/E3F81A6ECEDAAA55507E746F92983B17893AE890.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 3,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR14160_00": {
+        "npCommunicationId": "NPWR14160_00",
+        "trophyTitleName": "Amenity's Life -アメニティーズ ライフ-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14160_00_004D9827734A5334D492721713C7E57968B39B8EE9/0F3A002DF6226BE829E6854D189B5ECB7A8AC555.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 45
+        },
+        "service": "trophy"
+    },
+    "NPWR14163_00": {
+        "npCommunicationId": "NPWR14163_00",
+        "trophyTitleName": "ピオフィオーレの晩鐘",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14163_00_0008E0E67A6A174FA5ECAC5C82331879385BE26D1C/761092575F6EFD1971B63CFB70890D3FAEE55925.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR14165_00": {
+        "npCommunicationId": "NPWR14165_00",
+        "trophyTitleName": "Smoke and Sacrifice",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14165_00_001F57DC66CB4E036040911CE44ECD1CAD644B0711/416F7D7249041F3C234B889651730E73118F95C8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR14167_00": {
+        "npCommunicationId": "NPWR14167_00",
+        "trophyTitleName": "STAR OCEAN™ - THE LAST HOPE -™ 4K & Full HD Remaster",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14167_00_00838CBA5C8D4B5185F269714203292DFA0FD5B745/07448B1D6A7DC83506849820207952A1E6C254C4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR14168_00": {
+        "npCommunicationId": "NPWR14168_00",
+        "trophyTitleName": "Outer Wilds",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14168_00_00604EF0335B82CF502FA5FC2D256EE4482EDFB66C/6913FD455618E7517809E316CF18EFEBFAD5B40A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 3,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR14169_00": {
+        "npCommunicationId": "NPWR14169_00",
+        "trophyTitleName": "7'scarlet",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14169_00_003687D10D78C7B8348C23DB3335D191E4C31D6B53/5DE3E277E5C57ACADD4A5B3822D36513AD9302DC.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
