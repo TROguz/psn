@@ -37308,5 +37308,135 @@
             "bronze": 3
         },
         "service": "trophy"
+    },
+    "NPWR07004_00": {
+        "npCommunicationId": "NPWR07004_00",
+        "trophyTitleName": "戦場の円舞曲",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07004_00_0005431AA582D6C00C906A2710643CE2F9B1DBD841/2CF82B44ACA52C86DB7D6EE20E76932C02EEA67C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 20,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR07005_00": {
+        "npCommunicationId": "NPWR07005_00",
+        "trophyTitleName": "RISK",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07005_00_00BADEAC39577AFD53CE5B6036653D25A61DC24E63/CFE5A9D0BA056F0CA2914B90ED430BCD6FE72869.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR07015_00": {
+        "npCommunicationId": "NPWR07015_00",
+        "trophyTitleName": "幕末Rock 超魂",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07015_00_007A1F32B9FB9C994E204BE7B6548291C9833651BF/3B78AA15FD11D11AA013D83243A3C46498B45762.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR07016_00": {
+        "npCommunicationId": "NPWR07016_00",
+        "trophyTitleName": "#KILLALLZOMBIES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07016_00_00EF22157C290FCBEC3DDE0E715997E596E98EE887/8B22AEEF13D8828B198793690AE8F8E7362E3FF9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR07017_00": {
+        "npCommunicationId": "NPWR07017_00",
+        "trophyTitleName": "Guilty Gear Xrd -SIGN- Trophy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07017_00_003B706B5DCB8A468E44D7E992ABCE1E8BC4A605E8/5E25A41A0B7FA1B3960481E21D9AB6C88E239BAD.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR07020_00": {
+        "npCommunicationId": "NPWR07020_00",
+        "trophyTitleName": "Infinity Runner",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07020_00_0067C7C626FA2FD1018B75D3A1B40E0406521F9573/B16ABD28E22A4F596A99769F913FFF8ED9A9228E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR07021_00": {
+        "npCommunicationId": "NPWR07021_00",
+        "trophyTitleName": "Soul Axiom",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07021_00_00D97E840899FDE29AB805520C70409204EEB6FEE0/91E92C19C52019D7CAF03BD748B828B51A4D4FE7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR07028_00": {
+        "npCommunicationId": "NPWR07028_00",
+        "trophyTitleName": "Uncharted 4: A Thief’s End™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07028_00_00328912165EFFF45B65627D1975AB169F7A096025/0CAA52366C0F14C85A71FACB36BDD29122DF85D6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 10,
+            "bronze": 56
+        },
+        "service": "trophy"
+    },
+    "NPWR07031_00": {
+        "npCommunicationId": "NPWR07031_00",
+        "trophyTitleName": "FINAL FANTASY TYPE-0 HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07031_00_008325C7149AD9CA9534805F51F14D92B3273CB5FB/4448954CE78C5E326A97FFC1E56CD83774065EE3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR07032_00": {
+        "npCommunicationId": "NPWR07032_00",
+        "trophyTitleName": "Mad Max",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07032_00_006C7EFF534DE56254160FE1DFB92C0F43DA473DF9/E71723CF571609907BF2665F5F06E2820214CD79.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 41
+        },
+        "service": "trophy"
     }
 }
