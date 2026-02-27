@@ -86188,5 +86188,135 @@
             "bronze": 6
         },
         "service": "trophy"
+    },
+    "NPWR14184_00": {
+        "npCommunicationId": "NPWR14184_00",
+        "trophyTitleName": "EDF 4.1 WINGDIVER THE SHOOTER ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14184_00_00F7C458A3104E72D7353C120E42B7022CEFD55E79/5E5609731C2E59F749274B5AA69C9D3F4E429FA5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 15,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR14187_00": {
+        "npCommunicationId": "NPWR14187_00",
+        "trophyTitleName": "Light Tracer",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14187_00_0013BED466C247B84DF74F046BB5805AB03BFBE628/8CFA452972110D72C25C179AA8511AD8C7DB8355.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR14188_00": {
+        "npCommunicationId": "NPWR14188_00",
+        "trophyTitleName": "Spiral Splatter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14188_00_009CFA53FA78B98B6C065C2EBE5EC573D8B1365312/9A689DA508136E5F32753724A411C145FA382430.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR14189_00": {
+        "npCommunicationId": "NPWR14189_00",
+        "trophyTitleName": "SkyTime",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14189_00_001AFBF4E0D10B9F0EC456493CAC1E7880C1677683/48544C9122A2313F0B608AAB7AFCC306312C7306.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR14190_00": {
+        "npCommunicationId": "NPWR14190_00",
+        "trophyTitleName": "NORTH",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14190_00_002C25954C722855EECEB8F405B9E7EC4D7F81689D/0B269ED9BF3C4EDAC5ECA0AC73AEA81DBD318715.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR14191_00": {
+        "npCommunicationId": "NPWR14191_00",
+        "trophyTitleName": "Alteric",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14191_00_0066097172504E0C79017CE6AD0947187A1DD6DFFE/8D6FD8D3DF2B73EC6A57C12178C897DEFB83AC34.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14193_00": {
+        "npCommunicationId": "NPWR14193_00",
+        "trophyTitleName": "Spiral Splatter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14193_00_004B6EA238F11EF9341A697F27D03D2CD570019C82/BAC91178F847FA49C0B2DEB062263D61D24FB52E.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR14195_00": {
+        "npCommunicationId": "NPWR14195_00",
+        "trophyTitleName": "NORTH",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14195_00_00843D76D0AEBC94BC2A45E16D399356A87A6E22B8/A3B0875A1B7F93AEC757E235D19CF53F6B31ABA1.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR14196_00": {
+        "npCommunicationId": "NPWR14196_00",
+        "trophyTitleName": "Alteric",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14196_00_00A5571A65D20CD9AF199B8883A17017E3711CBC97/16D767E6ABB156FD9578401553BAEA25D52F8FA8.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14198_00": {
+        "npCommunicationId": "NPWR14198_00",
+        "trophyTitleName": "Light Tracer",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14198_00_008278E67545BD99390CB795E8FAFE088CEF347F58/617CE7C4031D45F20A549AED95B23F66EBD57B67.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
     }
 }
