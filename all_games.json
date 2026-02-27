@@ -59278,5 +59278,135 @@
             "bronze": 9
         },
         "service": "trophy"
+    },
+    "NPWR10670_00": {
+        "npCommunicationId": "NPWR10670_00",
+        "trophyTitleName": "Pixel Hunter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10670_00_0052736C50E7640E3168D7F31F5CC1F37BB5C790E5/EDC75FE482ECD358F774354807BCAF6B544CD058.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 1,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR10672_00": {
+        "npCommunicationId": "NPWR10672_00",
+        "trophyTitleName": "Armikrog",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10672_00_008A5BA2595477BBE4EA054A8D188480CEF70D0506/D25ED1C2D75833F91975F027C0FFB3093FB12DFB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR10673_00": {
+        "npCommunicationId": "NPWR10673_00",
+        "trophyTitleName": "Downwell",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10673_00_0069CC564223F5CE12506E3DFED248075EAB775F76/3A8D36AE020DC504165FF4C7A8A8D310996D1B99.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR10674_00": {
+        "npCommunicationId": "NPWR10674_00",
+        "trophyTitleName": "Ninja Pizza Girl",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10674_00_007F5B43DBF157649408682C90D39AE4E27DAF5E1B/CEC2219E0C329FC1853348B3A019B9DF00D0665D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR10676_00": {
+        "npCommunicationId": "NPWR10676_00",
+        "trophyTitleName": "三極姫４ 天華繚乱 天命の恋絵巻",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10676_00_006A216A1E9BB4A3CDADEB6E541383CC7F14DF4DCE/E72B9D3FD0DCD33E473296C1F92D2AB83F4A0707.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR10678_00": {
+        "npCommunicationId": "NPWR10678_00",
+        "trophyTitleName": "Bridge Constructor Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10678_00_0051976B51D2643D8955AEBA59F4AE9692819927DD/CEBE0E282CCE0A415DDB5A6ECE9A5BF168BADD18.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR10680_00": {
+        "npCommunicationId": "NPWR10680_00",
+        "trophyTitleName": "Soft Body",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10680_00_005DAF2F1F6C8F43A0AEB8EA9AC8DB61A3ADCE891D/23511D77EA2B56C697AC6E59703317EE2ADBFC18.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR10681_00": {
+        "npCommunicationId": "NPWR10681_00",
+        "trophyTitleName": "StarBlood Arena™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10681_00_0080CDE09A08AB2CAFEF676D4BE0BF21573CF4CEF0/84C359B80FDF7CC165B37CD1C70446857700CBA0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 11,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR10682_00": {
+        "npCommunicationId": "NPWR10682_00",
+        "trophyTitleName": "SPACE HULK",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10682_00_007A472008331FA8B09FF9D91BDEECF8A3F6D18D69/10CCEC0494A890F74A62DD3E7E40CC68A423D74D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10684_00": {
+        "npCommunicationId": "NPWR10684_00",
+        "trophyTitleName": "ピリオドキューブ ～鳥籠のアマデウス～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10684_00_0082F994EA0697FEE48F9B4C14887FCBE230692F86/0CDCEB1EF6242675E4CF5A87FE362B92B650D7FF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 18
+        },
+        "service": "trophy"
     }
 }
