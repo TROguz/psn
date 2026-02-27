@@ -81248,5 +81248,135 @@
             "bronze": 0
         },
         "service": "trophy"
+    },
+    "NPWR13536_00": {
+        "npCommunicationId": "NPWR13536_00",
+        "trophyTitleName": "《美国篮球协会18》",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13536_00_00C2178FD3D3389557BDA5E225A741EC131679CD47/6305DEABF98B5B3FFEDBBEC62BE7A3DF4ECEDAA3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR13538_00": {
+        "npCommunicationId": "NPWR13538_00",
+        "trophyTitleName": "ハイリゲンシュタットの歌\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13538_00_00088AD5DEC9E2B1B448FD8433E33D4A54785CE334/08DB9298C241C55D41A95A6F74B8EDA67DB3F6B7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 20,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR13539_00": {
+        "npCommunicationId": "NPWR13539_00",
+        "trophyTitleName": "OCCULTIC;NINE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13539_00_002851B43AC900F34845B6E9DF471103F6020D2222/9431DA881A8F06FEBFFBB38FCD9BD868FF824AA0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR13540_00": {
+        "npCommunicationId": "NPWR13540_00",
+        "trophyTitleName": "OCCULTIC;NINE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13540_00_000A7F08A84509BA9A33D4DB13935823484BFD09AD/8EB6BE12E3DA20BCF0DBC0F2D160BED3660DCFBB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR13543_00": {
+        "npCommunicationId": "NPWR13543_00",
+        "trophyTitleName": "スチームプリズン -七つの美徳-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13543_00_00C119577DD549E2C53850B6CB1124DBF903F9169E/275C4481025BDDDB740C92D28DE0B7CF5FAFA800.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR13544_00": {
+        "npCommunicationId": "NPWR13544_00",
+        "trophyTitleName": "Energy Cycle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13544_00_00C433FA00F515A6086B9C618F739FBF2D0ACB3572/6F4BEA8E6FE443500D048FFBF0BFAF699518E4FB.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR13548_00": {
+        "npCommunicationId": "NPWR13548_00",
+        "trophyTitleName": "Herocade",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13548_00_000307F6DAA615E80B84CCC66E87EF0B17D9D04031/225EFF400864528A101A36D81807D3EAE9D7237F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 10,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13549_00": {
+        "npCommunicationId": "NPWR13549_00",
+        "trophyTitleName": "Mortal Blitz Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13549_00_004216995EABE414F9C4D9B979568A74FEAFE279A4/E0B0EAA5DD111CD22D83BEC9F6A6F55E62172C38.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR13550_00": {
+        "npCommunicationId": "NPWR13550_00",
+        "trophyTitleName": "SWORD ART ONLINE: FATAL BULLET",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13550_00_00D8B4DE09477F449994A8BCC6C3A1F735F8729BF2/287923FA5B425F709B678169993CF3B43DFE9287.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR13553_00": {
+        "npCommunicationId": "NPWR13553_00",
+        "trophyTitleName": "グリザイアの果実 -SIDE EPISODE-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13553_00_005005D06C08F0C2A8F840A538E13C05C42E8067DA/8B53DEF921DB41EAACB974D73A3D384DBDA34A07.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 0
+        },
+        "service": "trophy"
     }
 }
