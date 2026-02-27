@@ -89438,5 +89438,135 @@
             "bronze": 32
         },
         "service": "trophy"
+    },
+    "NPWR14613_00": {
+        "npCommunicationId": "NPWR14613_00",
+        "trophyTitleName": "EarthNight",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14613_00_00073DC888C3A53153EE82FD14D226C9872B437B68/265F140E2F7418A6271B57A1B19E1BE11C030C66.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 15,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR14614_00": {
+        "npCommunicationId": "NPWR14614_00",
+        "trophyTitleName": "Kwaidan",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14614_00_005BE9C0BF1CCAE0CECAF2CDB28764DFBC48F41594/594C5CA4450E20ED44DF6F4771E0E34FC9A95203.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 1,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14616_00": {
+        "npCommunicationId": "NPWR14616_00",
+        "trophyTitleName": "DRAGON QUEST BUILDERS 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14616_00_009567FBB56F8F5582D456C9E7DA10020AACB933CB/807DE0523B9AE0B3F25F613606E598EE7425D3B3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR14617_00": {
+        "npCommunicationId": "NPWR14617_00",
+        "trophyTitleName": "Bandit Six: Combined Arms",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14617_00_0043C5D31C61B6BD514ED7590603BCD6DFC6F76035/AE1AE25685405F9446BA89CC8EA3FCEA57C76028.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR14618_00": {
+        "npCommunicationId": "NPWR14618_00",
+        "trophyTitleName": "Bandit Six: Combined Arms",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14618_00_0059FC22A1DE6FE74CADDB0245C19ED960E8526D26/9DAE390EA0AB0DB70EA9A5548584075D7702A0C2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR14621_00": {
+        "npCommunicationId": "NPWR14621_00",
+        "trophyTitleName": "Super Daryl Deluxe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14621_00_00A31D07B727DEF79D02944EA20726DE07E1B9A74D/AD493EDCC82DC798A39617BDE44466728A87573C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 18,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR14622_00": {
+        "npCommunicationId": "NPWR14622_00",
+        "trophyTitleName": "Touhou Sky Arena",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14622_00_0020EF85EDF67602374B97F0095A1C43EA9279949A/70391975B554555AAD777EF9F79CFA3E10D09E17.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR14624_00": {
+        "npCommunicationId": "NPWR14624_00",
+        "trophyTitleName": "ZONE OF THE ENDERS THE 2nd RUNNER : M∀RS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14624_00_00699B1428ADDB12BD4055B5612A42158D8CB352CA/7A5E3629FAEE1AAD567DAA612EFA065D3815029C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 16,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR14625_00": {
+        "npCommunicationId": "NPWR14625_00",
+        "trophyTitleName": "EARTH DEFENSE FORCE: IRON RAIN",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14625_00_0086E84891E16D50D7956D768CF22771EFA620EE57/879DC8BEF11BF5568D2792527368716C378F101C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR14626_00": {
+        "npCommunicationId": "NPWR14626_00",
+        "trophyTitleName": "Conan Exiles",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14626_00_004A2D5F5DDD3E08862E9B143BF8C6FA0DF3932B4D/4D85B4A56442977AD5FF33265AE67556B994BD71.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 21
+        },
+        "service": "trophy"
     }
 }
