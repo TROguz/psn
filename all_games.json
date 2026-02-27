@@ -18198,5 +18198,135 @@
             "bronze": 24
         },
         "service": "trophy"
+    },
+    "NPWR03001_00": {
+        "npCommunicationId": "NPWR03001_00",
+        "trophyTitleName": "NINJA GAIDEN Σ PLUS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03001_00_006D71C9E2D6E9D5D19CA658468DDF5047A514EA03/5084AA110373CFD8B2FB668B22895609785FC1E4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR03002_00": {
+        "npCommunicationId": "NPWR03002_00",
+        "trophyTitleName": "Tales from Space: Mutant Blobs Attack",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03002_00_00180A27657B6BC90AC5FA5A8E21B8182F1E154A31/DE840968711EC4CE12118151242DB939B24425A1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR03003_00": {
+        "npCommunicationId": "NPWR03003_00",
+        "trophyTitleName": "Rayman® Origins",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03003_00_00B7CD25300ADB98463F1B075D5E56153DF43FBD48/BC757E14618717AECF744F00C99589F48B4FB0AF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 6,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR03007_00": {
+        "npCommunicationId": "NPWR03007_00",
+        "trophyTitleName": "Ben 10™ Galactic Racing",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03007_00_00E7B0AD64F85BF97BBCE165C3E14ADBDACA849082/E30F989D86D3190B623E296182F09A3A768A0400.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR03010_00": {
+        "npCommunicationId": "NPWR03010_00",
+        "trophyTitleName": "UNDER DEFEAT HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03010_00_00E883A34390EBA97B38344B544378151D44DE153C/2E0AFF72A1EFF9753B05FE42C52BEC85D8587623.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 6,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR03011_00": {
+        "npCommunicationId": "NPWR03011_00",
+        "trophyTitleName": "Putty Squad",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03011_00_00C0DF3EC34F567E84DD29F8589CB06E49EADBAF00/E90429C67249301FFA3D19D19B09388B4682558E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 16,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR03015_00": {
+        "npCommunicationId": "NPWR03015_00",
+        "trophyTitleName": "Everybody's Golf",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03015_00_003F4064037EFAC1398AB04C6C8471FFF19F81B608/FA0C21718D2C1467C7F378C0046B130D425D3661.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR03023_00": {
+        "npCommunicationId": "NPWR03023_00",
+        "trophyTitleName": "真剣で私に恋しなさい！Ｒ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03023_00_00B5665F34673F07D9E149650E258955EFD0C0DC35/554CD3CE34B83611851DC9D5C12CC9763F2FAE52.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR03024_00": {
+        "npCommunicationId": "NPWR03024_00",
+        "trophyTitleName": "Start the Party!™ Save the World",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03024_00_003F4962721D747AA58BC6A541ABA07AE26C81FBCD/E9E1FBDA5FD1CC2EF8B16CD4C3144D343BFA6B58.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 23,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR03025_00": {
+        "npCommunicationId": "NPWR03025_00",
+        "trophyTitleName": "Sorcery™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03025_00_004177FB1357766E6FAD5D22DF673C4320DB02BEC9/25230956E369550DA1145435BE2F2F04150CA882.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
     }
 }
