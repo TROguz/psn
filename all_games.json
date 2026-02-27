@@ -62658,5 +62658,135 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR11138_00": {
+        "npCommunicationId": "NPWR11138_00",
+        "trophyTitleName": "真 流行り神２",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11138_00_005173EFF90BFA14ADD81B8F4C176DCF7A9F330320/D33A6B1F4AD2FB86CE5F759CE8781CF1AD377FC3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR11140_00": {
+        "npCommunicationId": "NPWR11140_00",
+        "trophyTitleName": "DUCATI - 90th Anniversary",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11140_00_00E32E805A0C1D838D2FD04D42B47C6CA11EEACA3D/C66C884D9B79F6013B83F1111BC687075ACE7F04.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 5,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11142_00": {
+        "npCommunicationId": "NPWR11142_00",
+        "trophyTitleName": "Mutant Mudds Super Challenge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11142_00_002DD28865F4DA1A2028EDC49B87CB5E9B9C4DAC85/D999E77B0D7A9AE90524F4237F09E1D23A305950.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11146_00": {
+        "npCommunicationId": "NPWR11146_00",
+        "trophyTitleName": "Ronin",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11146_00_00786AF0AB8AD0FE62D41651372827D99F8698E3EB/BFFFAD966F83AF20E85714DC8BDB1B2593556D6D.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11148_00": {
+        "npCommunicationId": "NPWR11148_00",
+        "trophyTitleName": "Destroy All Humans!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11148_00_001DD0E6853FDC9A38325C30EFA52937F33618A9CC/04674C070B8D785107DB2B3BA096413DBBB9479B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR11149_00": {
+        "npCommunicationId": "NPWR11149_00",
+        "trophyTitleName": "Destroy All Humans! 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11149_00_008DB6D13222506E42B217D792B271C9652074E0FF/588376FF5A8026FCA46F427217A1ABFFB57A93F6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 15,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR11150_00": {
+        "npCommunicationId": "NPWR11150_00",
+        "trophyTitleName": "Jazzpunk",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11150_00_00C36FDB709D14DDD8FC61CE5CA7EE5E534BFB886C/ED8E777130AF1FF186627D75E39A293D87BA3189.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11155_00": {
+        "npCommunicationId": "NPWR11155_00",
+        "trophyTitleName": "MALICIOUS FALLEN™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11155_00_0092365D801C8D3DDCD94750C6A64952A8D0133EB4/5711DD186B1F776A1C5D9ED9FBA65CA91E9B7946.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11156_00": {
+        "npCommunicationId": "NPWR11156_00",
+        "trophyTitleName": "Blackwood Crossing\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11156_00_00F5A1E8ADBED8CBB83EECAC5DFD2A8B2AFACBF67E/581D36CE19F5D263EDC455D765ED897CD60FD6C7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 5,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11157_00": {
+        "npCommunicationId": "NPWR11157_00",
+        "trophyTitleName": "Harmonix Music VR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11157_00_0083E2C7B5B39A5C81A639F14A118A2EDEAE57317B/DEA7ED03A5EC009893AA2163367851A3403412A2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 19
+        },
+        "service": "trophy"
     }
 }
