@@ -59928,5 +59928,135 @@
             "bronze": 30
         },
         "service": "trophy"
+    },
+    "NPWR10765_00": {
+        "npCommunicationId": "NPWR10765_00",
+        "trophyTitleName": "Koi",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10765_00_001EF42BF865F52B3A8032FD26811B959590FAF06D/36E35EA280887938F4738F82327F000DB4484E99.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR10768_00": {
+        "npCommunicationId": "NPWR10768_00",
+        "trophyTitleName": "Skylight Freerange 2: Gachduine",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10768_00_008B881F17D3081AD9A60B5B4536D79846A093C03A/36BD23B19A85F2079F571890B079BD1901A411AE.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR10771_00": {
+        "npCommunicationId": "NPWR10771_00",
+        "trophyTitleName": "Green Game",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10771_00_00BD8AEA79957754DC33230B808AFFF7BFA20B707F/4B7E39ACEE550C53088F698AB5B1F1AFD210B4AD.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR10772_00": {
+        "npCommunicationId": "NPWR10772_00",
+        "trophyTitleName": "SWORD ART ONLINE: HOLLOW REALIZATION",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10772_00_00BF8318C8894B1278893F64BC64C65E962B23F57C/448D626A2E1FA194A0BDCEF8E61F737188BDC52F.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR10775_00": {
+        "npCommunicationId": "NPWR10775_00",
+        "trophyTitleName": "Green Game",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10775_00_00B5B2F772BCC6A10EC0B38CD52CF56BC3E3C1DBB0/7D36B1D12C8A64D38AE2588658E2FFE5C0043CA3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR10780_00": {
+        "npCommunicationId": "NPWR10780_00",
+        "trophyTitleName": "Infinite Air",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10780_00_00F932E7DB69B997AD1E10EC3A5F1D2BE17B804B1F/7416E77F73FBD73C04983C1227E8950B82FB5F30.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 14,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR10784_00": {
+        "npCommunicationId": "NPWR10784_00",
+        "trophyTitleName": "Metropolis Defenders",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10784_00_00E4354474A048791250D989ABE3F115D0F715DBBA/0D9B4946D53213C0BE09336112F309AC81BA9670.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR10785_00": {
+        "npCommunicationId": "NPWR10785_00",
+        "trophyTitleName": "South Park™: The Stick of Truth™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10785_00_00CED98F2112743D2D48C82578C3069CFE624DD1B0/D914EF7E7C627BAA9CDF64062CDA87B1AC8E6313.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR10786_00": {
+        "npCommunicationId": "NPWR10786_00",
+        "trophyTitleName": "GNOG",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10786_00_00B66921432BE936D42F349B65E57563EC92813CF9/8D0D1269DC370097C1C98CB746C4F7E23963C6E9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR10787_00": {
+        "npCommunicationId": "NPWR10787_00",
+        "trophyTitleName": "Exist Archive",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10787_00_007D6780743613885C599351C088AEAAC818FFD8A8/742E612815770BB365818ABFF9881C7813E33489.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 32
+        },
+        "service": "trophy"
     }
 }
