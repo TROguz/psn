@@ -70458,5 +70458,135 @@
             "bronze": 33
         },
         "service": "trophy"
+    },
+    "NPWR12149_00": {
+        "npCommunicationId": "NPWR12149_00",
+        "trophyTitleName": "Zero Escape: The Nonary Games",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12149_00_006A3A2035A413A69FEF1A4AA7A4E977180F73DA22/D411DF56B0CEA49915661E973144816647031A2F.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 18,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR12154_00": {
+        "npCommunicationId": "NPWR12154_00",
+        "trophyTitleName": "不思議の幻想郷TOD-RELOADED-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12154_00_0013F21D72FB03DE25EF89EC84183C7110C96DE3E2/4A3BC3A500C26D2C2C20E473C5C693DF0ED6FE9E.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR12155_00": {
+        "npCommunicationId": "NPWR12155_00",
+        "trophyTitleName": "Ys Origin",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12155_00_00C7C3D95259748519CF073337CF5B88FC40B65804/E103C7D03AA1DC784A9E83B4244AB701DB2625DA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR12157_00": {
+        "npCommunicationId": "NPWR12157_00",
+        "trophyTitleName": "Blade & Bones trophy set\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12157_00_002E2556D26522FF9BB022706C0520BA7DCE111F99/790A8F16328C1B9B9267CC97CB254F54E1582261.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR12160_00": {
+        "npCommunicationId": "NPWR12160_00",
+        "trophyTitleName": "Cladun Returns: This is Sengoku!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12160_00_00C5A4BD9B218337538D1AE9EF16198246B7364807/CB3189800516758095C76B0CD8FEA01E3FEB3BDA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR12163_00": {
+        "npCommunicationId": "NPWR12163_00",
+        "trophyTitleName": "Momodora: Reverie Under the Moonlight",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12163_00_00C4EAF54C6913A55025D8F3D3B7618FF74CE66F5A/D73DBDADF74AB939335C9B353B9E45621DA686E7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR12164_00": {
+        "npCommunicationId": "NPWR12164_00",
+        "trophyTitleName": "Crossout",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12164_00_00E62D9002A0898F9B8F9CA390658698FD939D3EEA/9B4327C01AD79A412F092DA733E0C12049A1AB02.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR12166_00": {
+        "npCommunicationId": "NPWR12166_00",
+        "trophyTitleName": "NBA 2KVR Experience",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12166_00_0021E5DB6C338FA4CA3CAC5D08582165FE250D148F/39230A56D0C146A96F0437BCC66CBBDDC78DB062.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR12167_00": {
+        "npCommunicationId": "NPWR12167_00",
+        "trophyTitleName": "Fruit Ninja VR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12167_00_00C56C814FBF5F5A76A1A147D7C0849D11FDCDD8E5/8EDA965B6CBB43E88EE862A103957DB30D5DACC0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR12170_00": {
+        "npCommunicationId": "NPWR12170_00",
+        "trophyTitleName": "Deformers Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12170_00_004C407E711A2164F3A0C1AE4B8D98386BE022BA45/73EA422FBA6CD1DF2C5DBF6002842F48401F396B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 12,
+            "bronze": 4
+        },
+        "service": "trophy"
     }
 }
