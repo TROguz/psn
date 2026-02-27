@@ -78778,5 +78778,135 @@
             "bronze": 24
         },
         "service": "trophy"
+    },
+    "NPWR13186_00": {
+        "npCommunicationId": "NPWR13186_00",
+        "trophyTitleName": "Demetrios",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13186_00_007DC32D93DA9F7C8FC8780C46DDFBE42FEC848E65/754CED3C0E8ABC4C5A51A1422D3C613E543450C2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR13187_00": {
+        "npCommunicationId": "NPWR13187_00",
+        "trophyTitleName": "WWE 2K18",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13187_00_00C1079CF132FE37997E2501A2E0036E3EFAE1BA4E/1571B28316CF0A7062FF336C1AAAA75009B48F82.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR13192_00": {
+        "npCommunicationId": "NPWR13192_00",
+        "trophyTitleName": "とある魔術の電脳戦機",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13192_00_004220556391AB6A25FA368E7A626AAEE8FB57C35D/7442DADA62C98883747AC5FA0FC010E6782986D3.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR13195_00": {
+        "npCommunicationId": "NPWR13195_00",
+        "trophyTitleName": "Just Dance® 2018",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13195_00_007CAEAB50C7A3B1610461DA6D261E9D37345A9471/9BD6E76DCFE5C939F98265C7F32B8CA0A9C12931.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR13200_00": {
+        "npCommunicationId": "NPWR13200_00",
+        "trophyTitleName": "Super ninja hero",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13200_00_00796FE1F9C8AA5F0BB51D6F782B89049FF2D8F929/25F340BC2C36FEDF35B5F57C574DF765374898AC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR13202_00": {
+        "npCommunicationId": "NPWR13202_00",
+        "trophyTitleName": "Ruiner",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13202_00_00488F7D1BEA69FB87612A10FE50E62192E817A0FA/EDB9E67AE2DB19CA458BDDB7625E9AE14B04E7D2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR13203_00": {
+        "npCommunicationId": "NPWR13203_00",
+        "trophyTitleName": "VRog",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13203_00_00C2B86145FA0D71DBD15E24AE4576EC14CE52FFE8/E6CC421E2C048DB8187DD87E98412F9ABEE11271.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR13204_00": {
+        "npCommunicationId": "NPWR13204_00",
+        "trophyTitleName": "Mages of Mystralia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13204_00_00DC01965FC9486FDE568CBB15FE43EED9AFD72700/EAA58D23FA73C64E146BA73C4B0189A1B232725F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR13206_00": {
+        "npCommunicationId": "NPWR13206_00",
+        "trophyTitleName": "SmuggleCraft Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13206_00_00AD899E5B0EFDC84CC225EB5D8B4C52FD2E791BE1/41BE446E421E5D278DD8DA9FEADD70BF5A8C917C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 0,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13208_00": {
+        "npCommunicationId": "NPWR13208_00",
+        "trophyTitleName": "Typoman: Revised",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13208_00_00BFF4970AB6CE49A33DF14F7E109AB314D86CB72A/3A0CE36FDC4BBFD0BCCF0067512E73C9228D6755.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 6
+        },
+        "service": "trophy"
     }
 }
