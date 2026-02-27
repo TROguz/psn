@@ -20408,5 +20408,135 @@
             "bronze": 9
         },
         "service": "trophy"
+    },
+    "NPWR03477_00": {
+        "npCommunicationId": "NPWR03477_00",
+        "trophyTitleName": "The Expendables 2 Videogame",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03477_00_00C93261AD7D0B32A8F17D0BBD5935F4EFCCB0EA99/BA3B023DBBE5E109A25695ED4E15377E0F3E8BB2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR03480_00": {
+        "npCommunicationId": "NPWR03480_00",
+        "trophyTitleName": "Ultra Dimension NeptuneV",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03480_00_00DBDF1295046E64E1935D06893E977A5610F624E9/7D14F1EAF4DE6E7E9FF9C278A2FF22FF93D6A9DB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 15,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR03481_00": {
+        "npCommunicationId": "NPWR03481_00",
+        "trophyTitleName": "SENRAN KAGURA SHINOVI VERSUS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03481_00_00CBF5DABE38664A3DD3260C385DA2207B7E5EE59D/B2D828EF3A59CA45988EFD672E9FA064A07D244B.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 15,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR03482_00": {
+        "npCommunicationId": "NPWR03482_00",
+        "trophyTitleName": "ＡＳＳＡＵＬＴ　ＧＵＮＮＥＲＳ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03482_00_00D43A384377B81758157650FD633E412D878889BC/2D2FA5C163C54A2CFD1615F0FD64C67469F5E22A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 17,
+            "bronze": 60
+        },
+        "service": "trophy"
+    },
+    "NPWR03484_00": {
+        "npCommunicationId": "NPWR03484_00",
+        "trophyTitleName": "Machinarium",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03484_00_00E9B5270B50B72C38CC3615BD0E7F4D6B8F60F6B3/152223D06CAEDCACF83D29FC395720CCA27755F2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR03485_00": {
+        "npCommunicationId": "NPWR03485_00",
+        "trophyTitleName": "METAL GEAR SOLID 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03485_00_00F5923ACADEECADE40DF76DACD3E51E26432F3C74/DD209D574BCAF3DF9DF27335522CC0AFBDE68A5B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR03487_00": {
+        "npCommunicationId": "NPWR03487_00",
+        "trophyTitleName": "Burn the Rope",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03487_00_007F5439B0AB33206FD43FF877D1651A0FA56B92D7/B63D103D83A07A5799F5518D1060AC9224FBD12D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR03488_00": {
+        "npCommunicationId": "NPWR03488_00",
+        "trophyTitleName": "NiGHTS into dreams...",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03488_00_0078F500D52A8FBDBD845B0B0E82617539859B412C/BB233060388110B920A6499E8778B963ADB57172.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR03489_00": {
+        "npCommunicationId": "NPWR03489_00",
+        "trophyTitleName": "戦国BASARA HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03489_00_001152C811E1A212EAC9B7FCD733E513F050723E45/8D632361A2926B24DE714F6B2B513EA6B4819FFC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR03490_00": {
+        "npCommunicationId": "NPWR03490_00",
+        "trophyTitleName": "戦国BASARA2 HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03490_00_0032AAC4B80CFBE00F5E6A4A174CCDE4C0A2957F57/61F6DB18EFEBCFE9B4ED6B25E283C395D64855AE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 47
+        },
+        "service": "trophy"
     }
 }
