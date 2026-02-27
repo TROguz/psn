@@ -41338,5 +41338,135 @@
             "bronze": 67
         },
         "service": "trophy"
+    },
+    "NPWR07811_00": {
+        "npCommunicationId": "NPWR07811_00",
+        "trophyTitleName": "Fat Princess Adventures™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07811_00_00F12A7E7C328EC0964C9CCF6E7FAB9527A0427EB1/F4D693B54517426C9AD7ADEC5F022D73342CF7C3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR07813_00": {
+        "npCommunicationId": "NPWR07813_00",
+        "trophyTitleName": "Poltergeist: A Pixelated Horror",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07813_00_000BEDFDA1E875D800BB332A4078D78FF28EEE4583/0094F98411040D6EF56F13630BF4164ED65F889A.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR07817_00": {
+        "npCommunicationId": "NPWR07817_00",
+        "trophyTitleName": "#KILLALLZOMBIES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07817_00_002C3A22F0D2D93FC8013D27611ECA98B0566EED4D/8A57F7C6D4C7C9BE461D1793AEF1B4F38C8B1E27.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR07820_00": {
+        "npCommunicationId": "NPWR07820_00",
+        "trophyTitleName": "Arcana Heart 3 LOVE MAX!!!!!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07820_00_001342A76EAD7972252F27FA4E7BE36B4842E39449/E9778FED7FDE61684BDD2EEA3860A123E8D09DDB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR07830_00": {
+        "npCommunicationId": "NPWR07830_00",
+        "trophyTitleName": "Arcana Heart 3 LOVE MAX!!!!!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07830_00_00FBCC7989073A7757B40705DB1037E22AE2819AAB/A4E52AF65FCBC9B8C7AA7C13C5597026863A3912.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR07834_00": {
+        "npCommunicationId": "NPWR07834_00",
+        "trophyTitleName": "MAGICKA® 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07834_00_0002D204CF6BB4EE124D69C6E59285FD6276C204A2/10E63046CAFB68AC1A02DC25C0785332BAABB491.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR07835_00": {
+        "npCommunicationId": "NPWR07835_00",
+        "trophyTitleName": "魔壊神トリリオン",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07835_00_00E086AA5D8BC024AC9D5A19CCB49BE794EB54DFD0/2A6866E11D9F8C79EF0902B03951A8190F1662B7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR07839_00": {
+        "npCommunicationId": "NPWR07839_00",
+        "trophyTitleName": "Arcade Archives Scramble",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07839_00_00A984892A548B1A24E9B59353570BA40DC67F3671/DA2E230AA707F6A5138AC50DB34275A0154D9E8B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR07841_00": {
+        "npCommunicationId": "NPWR07841_00",
+        "trophyTitleName": "BANG! the Official Video Game",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07841_00_001F75CECBFFD1B4D624DB1BFD4F94CECBF6E1CD7F/8B0DBABE72FAFFC808010AD128B7066CAA447B74.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR07842_00": {
+        "npCommunicationId": "NPWR07842_00",
+        "trophyTitleName": "Apotheon",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07842_00_0065EC8ABB4160E9735485AA9FA0E2DA86DE3972EA/2543594CEBECCF70DBE7B6C1C3D384767C42C500.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 18,
+            "bronze": 8
+        },
+        "service": "trophy"
     }
 }
