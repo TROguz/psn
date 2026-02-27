@@ -30938,5 +30938,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR05625_00": {
+        "npCommunicationId": "NPWR05625_00",
+        "trophyTitleName": "プロ野球スピリッツ2014",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05625_00_0094897055AF0E1FCFCFE09457F4457CB8665D73F7/ABF65A01C872D26DBA759EE6D76DDAA62206A363.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 16,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR05627_00": {
+        "npCommunicationId": "NPWR05627_00",
+        "trophyTitleName": "プロ野球スピリッツ2014",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05627_00_002C3B9CF69977288A33344E4380A588ED5B50D2CB/DB930735010DEED73119324CDD75593B8EFFA588.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 16,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR05628_00": {
+        "npCommunicationId": "NPWR05628_00",
+        "trophyTitleName": "Abyss Odyssey",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05628_00_005AD043E9170464660219375D1F8C859D10BD4E85/8CC9265843C7F6EF1AF83F2D39B4EED0908AE567.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR05629_00": {
+        "npCommunicationId": "NPWR05629_00",
+        "trophyTitleName": "エビコレ+ アマガミ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05629_00_009C3D2D8C5B5650A15D1D7014F0A43A4B6631C3DB/1F9C383DC188CBB0C49F19672E3D0C2BAC2F67F9.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR05630_00": {
+        "npCommunicationId": "NPWR05630_00",
+        "trophyTitleName": "Basement Crawl",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05630_00_0096D7CC51755982E477FE2159C154108C28C9C7D9/56FEFF5E49D02FC982BBC1A07C36D8E5CB575FBD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR05633_00": {
+        "npCommunicationId": "NPWR05633_00",
+        "trophyTitleName": "Murasaki Baby™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05633_00_00392EEB08BA81AE98CE16B7257B9938146A21F67C/4A01E7D2ACE1A89EB575A6CCE6A5AB81ACAAD0FC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR05636_00": {
+        "npCommunicationId": "NPWR05636_00",
+        "trophyTitleName": "Minecraft: PlayStation®3 Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05636_00_00D566F7DF58F1F72419CBC61A037D6C66314804BF/281283171C7DC79AEAAACDB6BB91D6861FF8821F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 32,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR05640_00": {
+        "npCommunicationId": "NPWR05640_00",
+        "trophyTitleName": "魔都紅色幽擊隊",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05640_00_00D5C23DFDA5F52A0C2AE5E000F74DEA7B56492E9C/96569FADE610A204DB72E899865E9CD0640E900C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 8,
+            "bronze": 45
+        },
+        "service": "trophy"
+    },
+    "NPWR05641_00": {
+        "npCommunicationId": "NPWR05641_00",
+        "trophyTitleName": "魔都紅色幽擊隊",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05641_00_00299383427DF438AC822BDFA36605DB53DB398AE0/DEDC899AB3519D47367529DE935F9E5EF5869665.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 8,
+            "bronze": 45
+        },
+        "service": "trophy"
+    },
+    "NPWR05642_00": {
+        "npCommunicationId": "NPWR05642_00",
+        "trophyTitleName": "俺たちに翼はない",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05642_00_00957041B378BB52E93DA294E4D376FA723696EB3D/2BC01EAA5DC1939CD4F94D2611C67B88789AA03E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 1,
+            "bronze": 1
+        },
+        "service": "trophy"
     }
 }
