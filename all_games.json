@@ -35098,5 +35098,135 @@
             "bronze": 24
         },
         "service": "trophy"
+    },
+    "NPWR06519_00": {
+        "npCommunicationId": "NPWR06519_00",
+        "trophyTitleName": "真 流行り神",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06519_00_00B46BAA3060E93F2A7E2503AF6519CBDB0ADEBA59/4FAE34E63335EB5622CCB03F981E443E53A1EFE5.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR06520_00": {
+        "npCommunicationId": "NPWR06520_00",
+        "trophyTitleName": "Alien Shooter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06520_00_000CC9CA63C2EAEAC5D68FB6B5F3569CEF08FD672B/1DCDCCF70163C0EBAC6B79C26A51A38DE3973F54.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR06521_00": {
+        "npCommunicationId": "NPWR06521_00",
+        "trophyTitleName": "大江戸BlackSmith",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06521_00_009E0DF91DA69F4C83F0BA95CC61B4129F55777FC1/91F5A82662DDB355FA0ABED986A9B5652CF38491.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 19,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR06524_00": {
+        "npCommunicationId": "NPWR06524_00",
+        "trophyTitleName": "バレットガールズ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06524_00_00E4F2B0396F046EEB32AEE5A9C0CC5D8B41A4B972/5A40012C4529F51FDE09AC3E66045E98CE5AE3DA.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 19,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR06530_00": {
+        "npCommunicationId": "NPWR06530_00",
+        "trophyTitleName": "AKIBA'S TRIP: Undead ＆ Undressed Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06530_00_005FA252C81F5ECECE75E4FBE643D998AF1096B5A6/C6EFCDB4A0BF4D2168BF43AFDFC6FF534C6EB35E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR06531_00": {
+        "npCommunicationId": "NPWR06531_00",
+        "trophyTitleName": "AKIBA'S TRIP: Undead ＆ Undressed Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06531_00_0058643665767CCFDCFC31CC55CE5CED2BD5F9A8EB/E5646ACDFB71A1074C788E192DD07A84DB4E8BEA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR06533_00": {
+        "npCommunicationId": "NPWR06533_00",
+        "trophyTitleName": "Run Like Hell! Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06533_00_00DE4D5117269F53CA5624D1A20859B2CFAEF163CE/EF4EA22E4522A57362B19970456D1FE79657B39A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR06535_00": {
+        "npCommunicationId": "NPWR06535_00",
+        "trophyTitleName": "Blue Estate",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06535_00_0030293A2E4B67D6457BC9AAF85DCF4C762ADE22CE/DA5779FED0735DB21A20411DCEE536826764449A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR06538_00": {
+        "npCommunicationId": "NPWR06538_00",
+        "trophyTitleName": "実況パワフルプロ野球２０１４",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06538_00_005B1BB3F9B2103A55C4ED78BA4C8C6F33360CE3D1/C5B2DEEEB687260DFF183B888AB1EB5FE55CD76C.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR06540_00": {
+        "npCommunicationId": "NPWR06540_00",
+        "trophyTitleName": "Transistor",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06540_00_00752395481F782175F00773A86BDFB78B7AA14C95/D4B16473CF2C3DEF6B837E895A772CED85F89EDA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 17
+        },
+        "service": "trophy"
     }
 }
