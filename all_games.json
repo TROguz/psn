@@ -18328,5 +18328,135 @@
             "bronze": 18
         },
         "service": "trophy"
+    },
+    "NPWR03029_00": {
+        "npCommunicationId": "NPWR03029_00",
+        "trophyTitleName": "リトルバスターズ！Converted Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03029_00_00ABC98A975EE1215C38E177433E664526CF2ED25C/47B075E2E974143C35D6ECF76801A7BE03045F35.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR03030_00": {
+        "npCommunicationId": "NPWR03030_00",
+        "trophyTitleName": "シェルノサージュ～失われた星へ捧ぐ詩～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03030_00_00D5B6BEE6EBE980E47ED631778868C11E96636324/5215DFFB24AA9462F78026BE509E48070D467164.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 8,
+            "silver": 18,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR03032_00": {
+        "npCommunicationId": "NPWR03032_00",
+        "trophyTitleName": "機動戦士ガンダムSEED BATTLE DESTINY",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03032_00_005ECD4D2E6B8B6E4E49874FB72422FE9FF16C0304/2A7E9506624864506536BE857CA578126FF98E4D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 17,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR03038_00": {
+        "npCommunicationId": "NPWR03038_00",
+        "trophyTitleName": "Wicked Monsters BLAST!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03038_00_00AC7E4A7C58FE2AC25581A9ABC475A683CC857CC9/F3954FBFC23864222F3DF13C431B9551852A9B3C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR03041_00": {
+        "npCommunicationId": "NPWR03041_00",
+        "trophyTitleName": "英雄伝説 零の軌跡 Evolution",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03041_00_00AAA61623AC572C045408671448AEC743CAC9F820/86E2001AC500E31B75DE23BB2FFA61A994FD0F4B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR03044_00": {
+        "npCommunicationId": "NPWR03044_00",
+        "trophyTitleName": "NHL® 13 Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03044_00_0052A4C219B0AC41A733D29B0834F25F3CF313C997/6EC3C72470C931B35005F59FB39377F4C7685322.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR03045_00": {
+        "npCommunicationId": "NPWR03045_00",
+        "trophyTitleName": "Fuel Overdose",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03045_00_001282DE93477B7E2BDDEB272B082B1F9164375639/E2816EC1AC2E59F02F48C9618FB32966499AD57D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR03046_00": {
+        "npCommunicationId": "NPWR03046_00",
+        "trophyTitleName": "ニコリの数独V 珠玉の12パズル",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03046_00_00B64A6C10B164C2ECF60AFF7DDFA692B89D19DCE7/471BE1ABFA17E51D7453C78BCF023F813027F469.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR03047_00": {
+        "npCommunicationId": "NPWR03047_00",
+        "trophyTitleName": "ニコリのパズルV 数独",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03047_00_00B5050A75EEDD3FDD89AB4BB513E62173E5958F50/2127D887632F4DB77E6C46203383BDF4B68EFC53.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR03050_00": {
+        "npCommunicationId": "NPWR03050_00",
+        "trophyTitleName": "Armored Core V\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03050_00_00242ACC9CC8ADB1543A721B03869A07644F2E1DB9/375FDFD89902D6E9C0C8922651AD8FD03E774942.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
     }
 }
