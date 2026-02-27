@@ -58888,5 +58888,135 @@
             "bronze": 19
         },
         "service": "trophy"
+    },
+    "NPWR10614_00": {
+        "npCommunicationId": "NPWR10614_00",
+        "trophyTitleName": "Mr.Pumpkin Adventure",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10614_00_00ABCECEBF75B3BE53271D63B7BC13D713A002C8D2/5AFEA46A37DEA695E593BFFD57A7D622AF866D6A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10615_00": {
+        "npCommunicationId": "NPWR10615_00",
+        "trophyTitleName": "Anima: Gate of Memories",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10615_00_00558F017C14476099E30A550782F4E58D52407895/9444BCE0201E5EBC72F8AC4280F15C818D4BC2EF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR10617_00": {
+        "npCommunicationId": "NPWR10617_00",
+        "trophyTitleName": "Deadlight Director's Cut",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10617_00_00BA83765DCE48EC46308DF9C96BF501050BD7FFE1/6FC4523FEA92D9918B9D658225DDF92CB6FF1A20.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR10618_00": {
+        "npCommunicationId": "NPWR10618_00",
+        "trophyTitleName": "F1™ 2016",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10618_00_0071F10F68FAC615A1B27D560BD998BD7F62915967/C50498B4608472E6F68436A870EC7EEC184334AF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR10621_00": {
+        "npCommunicationId": "NPWR10621_00",
+        "trophyTitleName": "Element4l",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10621_00_007A6581447563FF7045A2C8C6A04D2BB18CBE302B/ABAC2405A3A8A8E9FC89252AC39B2D04E58F4CF1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR10623_00": {
+        "npCommunicationId": "NPWR10623_00",
+        "trophyTitleName": "Pirates: Treasure Hunters",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10623_00_0098E414AB07818A2C2099140B2EA1484354BB2388/6B027F9CBE3282B26EFB2A5F46494BF715B3D45D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR10626_00": {
+        "npCommunicationId": "NPWR10626_00",
+        "trophyTitleName": "Arcade Archives THUNDER CROSS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10626_00_0030D1125042226DA02BF40B15856833CCC8683DBF/F388C3E9305D300ACC544E1589F97FEB6A87F7F9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR10627_00": {
+        "npCommunicationId": "NPWR10627_00",
+        "trophyTitleName": "Arcade Archives CONTRA",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10627_00_006834EEDC1AEB577DC22EF8E229E1E7CB63E2D85D/836B66F9B75E0B39671966287C1B67DF8B0EEF4B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR10630_00": {
+        "npCommunicationId": "NPWR10630_00",
+        "trophyTitleName": "Murasaki Mist",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10630_00_00463023EDC0666821D4929837B7537E2DF5A778F6/C087AFBDC0566C6D27AEB508BCC3685E1F064943.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR10631_00": {
+        "npCommunicationId": "NPWR10631_00",
+        "trophyTitleName": "Zenith",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10631_00_001592850BC1E3449C5D070546265013E7EAB78A86/C33582695FDA0C069654B59B6BF40E7E14D34106.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
