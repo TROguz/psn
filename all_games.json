@@ -21578,5 +21578,135 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR03659_00": {
+        "npCommunicationId": "NPWR03659_00",
+        "trophyTitleName": "ネクレボ FP技能検定試験３級",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03659_00_003502973A0FD98CC35FFF97BA8E67326A5B86B66B/54F081952AA4FAE035F43DD2F1242E020392721B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR03661_00": {
+        "npCommunicationId": "NPWR03661_00",
+        "trophyTitleName": "Just Dance 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03661_00_00BDA2D4B6B3F7F8BE989ACBE0B36F10ECC323E449/06D345061FFC4F690463BDC1C116C1CBF2364C70.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR03663_00": {
+        "npCommunicationId": "NPWR03663_00",
+        "trophyTitleName": "Dollar Dash",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03663_00_005EB4F85BFD96D2A40159A8DE096B7E14F7C2E9BA/F27AB683EA81BA9A54D06B88071388948BF7BF68.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR03664_00": {
+        "npCommunicationId": "NPWR03664_00",
+        "trophyTitleName": "Zombie Tycoon 2: Brainhov's Revenge",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03664_00_007A5C2A9485A8775ED4AF28CF2717F7ED1C30A293/DB437DD42EDFD774DEEE85F4D2D6CBC1FD4BD5AC.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR03670_00": {
+        "npCommunicationId": "NPWR03670_00",
+        "trophyTitleName": "Kingdoms of Amalur: Reckoning (J)",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03670_00_0078E07530178AE87FBE4208E638265423B4AC7F83/0EFCF814B1F73B9296537B4C13773A3955696637.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 49
+        },
+        "service": "trophy"
+    },
+    "NPWR03680_00": {
+        "npCommunicationId": "NPWR03680_00",
+        "trophyTitleName": "Hitman: Blood Money",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03680_00_008C27A0F00331C42F5823DD861CA81C244B91058E/30F261B89871CA0E53504B850C2B89CD94533981.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR03681_00": {
+        "npCommunicationId": "NPWR03681_00",
+        "trophyTitleName": "Hitman: Contracts",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03681_00_007BDD5FAF45E4C87E37E048E46C7826B7ADAD40AA/3C75CBC824FEC084405440475416100AAE132FB9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR03684_00": {
+        "npCommunicationId": "NPWR03684_00",
+        "trophyTitleName": "Hitman 2: Silent Assassin",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03684_00_00F3C0656F994F451D177664592DF157E22106F075/9D9BA12474E95FEFC36075001AFA27772CBF9BBA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR03686_00": {
+        "npCommunicationId": "NPWR03686_00",
+        "trophyTitleName": "Mugen Souls",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03686_00_00D135AEA3D652996831A179BED4F70ED1AF783DF0/C24C4D864F9567C37D5A13CE26ACEC11CEC8BBC9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR03687_00": {
+        "npCommunicationId": "NPWR03687_00",
+        "trophyTitleName": "Table Ice Hockey",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03687_00_001AEAA846DF3E9A15FDE96C12393F963020980906/917AA4F0E50D6D154B39C36E2A24CF42F1486353.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
     }
 }
