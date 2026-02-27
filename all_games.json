@@ -73708,5 +73708,135 @@
             "bronze": 1
         },
         "service": "trophy"
+    },
+    "NPWR12554_00": {
+        "npCommunicationId": "NPWR12554_00",
+        "trophyTitleName": "ACA NEOGEO OVER TOP",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12554_00_00A886B0FF4E73D9092370B86D9CC180DE6121A05C/4166946781A744CBC19480E394288336DD5F4A1F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12555_00": {
+        "npCommunicationId": "NPWR12555_00",
+        "trophyTitleName": "This Is the Police Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12555_00_00E4D0C8DB0D0D6C992825B2462302AEE306DA99A6/A95BDC8C6A1C6444DC75CC4B01F289C6202F50B0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR12558_00": {
+        "npCommunicationId": "NPWR12558_00",
+        "trophyTitleName": "Proton Pulse",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12558_00_0077804D1C569482D57F88D24D6640FCF43C20C688/97FF0D7A52F77F4C3B649DF5331C150B0D56EC36.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR12559_00": {
+        "npCommunicationId": "NPWR12559_00",
+        "trophyTitleName": "Tokyo 42",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12559_00_00835CDA7A0A06800DC1A9E66D679A03FCAA80A638/000696405D303A8EEBFC00A52166DA485F35E3F6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR12560_00": {
+        "npCommunicationId": "NPWR12560_00",
+        "trophyTitleName": "Darknet",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12560_00_008F052C4B94F00F1BB4E786360F0C973EC5C64BBE/B624CAA69C905E95C21ECA04ADFB4CEE7711DCE8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR12561_00": {
+        "npCommunicationId": "NPWR12561_00",
+        "trophyTitleName": "H1Z1",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12561_00_0027CE33C28F2602ACB885CAF1EF6A9FC82FA1C66A/FA6DC2A1D825777C5B1B6370A782FFEF73576D50.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR12562_00": {
+        "npCommunicationId": "NPWR12562_00",
+        "trophyTitleName": "Deer Simulator Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12562_00_007F069BD533817770FA76E76804C6796295173418/93E222404AC4E0CF0D7D1E500A9EDF0213D17BC8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR12563_00": {
+        "npCommunicationId": "NPWR12563_00",
+        "trophyTitleName": "Side Kicks!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12563_00_00F162479DA10ADD2DE7195FB9AC5DCA324B3842DE/0835628780105FC6A1EBB07E9E806B70606ED7DC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR12564_00": {
+        "npCommunicationId": "NPWR12564_00",
+        "trophyTitleName": "ACA NEOGEO ART OF FIGHTING 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12564_00_005CB82BF96CCC33C0D79FAF0F99CCA13450E5F1A3/80285B4D13A04918B428180AB598B42BC1C951FE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12565_00": {
+        "npCommunicationId": "NPWR12565_00",
+        "trophyTitleName": "Typoman: Revised",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12565_00_003058B1C34FA62A79985CC44D6DD996087DCD2462/BAD94CB174C502BC6B9B1E85146615C7E5C5E253.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 6
+        },
+        "service": "trophy"
     }
 }
