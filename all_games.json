@@ -84498,5 +84498,135 @@
             "bronze": 30
         },
         "service": "trophy"
+    },
+    "NPWR13966_00": {
+        "npCommunicationId": "NPWR13966_00",
+        "trophyTitleName": "Hidden Dragon Legend",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13966_00_00EE7E4F0658540ADDFD3EEC69BA451F543C255512/36F6CB0A1DCFD131EF90C2E452BD4D761991AFC8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR13967_00": {
+        "npCommunicationId": "NPWR13967_00",
+        "trophyTitleName": "Frantics",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13967_00_00D17BBC757C3FBEE1AAFDC833AA43076FF481CA06/C1B6C4639CA84100578B67ECB427E383482FA169.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 6,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR13969_00": {
+        "npCommunicationId": "NPWR13969_00",
+        "trophyTitleName": "Dynasty Feud",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13969_00_00F192695E1BB99FA882124677EFD7A029EC950EF4/2AF401553F1C9F08DE2993B8B0F85D9EC38B4976.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 2,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR13970_00": {
+        "npCommunicationId": "NPWR13970_00",
+        "trophyTitleName": "YAKUZA 6: The Song of Life",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13970_00_00C97E3A217B75A74D086DA55A4BA0E6547BBBC32F/5EA252A528BA05D87BF98A6B1108C028B55EC40E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR13974_00": {
+        "npCommunicationId": "NPWR13974_00",
+        "trophyTitleName": "Dusty Raging Fist Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13974_00_00009F3629C5A121521C665344CC3703675B676E62/406C418AC097DA068EF5C76B5DAA7A088498B207.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR13977_00": {
+        "npCommunicationId": "NPWR13977_00",
+        "trophyTitleName": "VitaminX Destination",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13977_00_008F6D5D883716AAA8C76B538D5BC2028286DFA2DB/F8E6969B726C38571EAE710D9C039AC3D2609D49.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR13978_00": {
+        "npCommunicationId": "NPWR13978_00",
+        "trophyTitleName": "Laws of machine",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13978_00_002F658186F6BC46F406D1070FD5FA526BE9B1FAE3/061B1B04BC968F200EEB223A9B18A26F555F01B2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR13979_00": {
+        "npCommunicationId": "NPWR13979_00",
+        "trophyTitleName": "NeverEnd",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13979_00_0036503F2895D4C6182FA2BAF9B9F8F8404E68A2B2/7A798C88803CEBE07F275EC830A759526A132D6C.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 9,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR13982_00": {
+        "npCommunicationId": "NPWR13982_00",
+        "trophyTitleName": "The Lost Child",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13982_00_003EF82DBF07552B0D239C030FA2E00F4FF7E82564/BDBF4947A460621B4CCFD6EE121BA96A66E25B41.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR13983_00": {
+        "npCommunicationId": "NPWR13983_00",
+        "trophyTitleName": "The Lost Child",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13983_00_00FB91729AE304547D81863D948861DEB035EC98E5/0C9FD06ACB242EC9B7CAE3786D2A9D2ECA3F37B4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 25
+        },
+        "service": "trophy"
     }
 }
