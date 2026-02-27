@@ -77088,5 +77088,135 @@
             "bronze": 15
         },
         "service": "trophy"
+    },
+    "NPWR12987_00": {
+        "npCommunicationId": "NPWR12987_00",
+        "trophyTitleName": "Hunting Simulator",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12987_00_00D7F8884183FE0D704A5B840426DF141E038CE70A/8CDB373547E0F0855CD69D7FA63EDD8BC7FE5526.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 17,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR12988_00": {
+        "npCommunicationId": "NPWR12988_00",
+        "trophyTitleName": "Hob",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12988_00_007A9A7C139401EA6D02AC255FCEED2707F402118E/9992098308CB6407F630088639545611A19E0160.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR12989_00": {
+        "npCommunicationId": "NPWR12989_00",
+        "trophyTitleName": "Island Flight Simulator",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12989_00_008B267C5913E0995C4171A464E0BC4CC5B60FFF2F/146CFE9370BB5A04873A6982C7C0E8113A5785A2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR12990_00": {
+        "npCommunicationId": "NPWR12990_00",
+        "trophyTitleName": "Street Fighter 30th Anniversary Collection\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12990_00_00FB430E618CF0E0E8DC0DBCA551340DDDECA42649/9F71FDE38F52D69144FB05DDC78BF4888F240092.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR12991_00": {
+        "npCommunicationId": "NPWR12991_00",
+        "trophyTitleName": "LOUD on Planet X",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12991_00_00C100C1E67DD104F2FBAA40378B201877F5EA6DD2/5C36303D0D0175F3EACD326B0119DB00F4A365DE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR12992_00": {
+        "npCommunicationId": "NPWR12992_00",
+        "trophyTitleName": "도쿄 재너두 eX+",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12992_00_00ACA16F5B8BB7DF3661E8EF5F842A74CF82785A72/10063B04857F2D358960FE75A972FF3664C99DFA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR12994_00": {
+        "npCommunicationId": "NPWR12994_00",
+        "trophyTitleName": "War Thunder",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12994_00_002284262F3C9E093A621B9A87B0CA6824998EA5B3/703DC491D76B4FA62C8B7DE8CD51E8061BEF4D55.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR12995_00": {
+        "npCommunicationId": "NPWR12995_00",
+        "trophyTitleName": "Syndrome",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12995_00_007C7B57E8ECAFA044D28F654B924B6BF7DCF8ACD4/F051B45ABD917F3BA2BFD4FC6D2C3A0DEB444598.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR12997_00": {
+        "npCommunicationId": "NPWR12997_00",
+        "trophyTitleName": "Sonic Mania",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12997_00_00C4E5173121EAB218130CCDEAC7D274842CA7D522/4C0A40419159DB7943841C07D605B54B48721F77.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR13000_00": {
+        "npCommunicationId": "NPWR13000_00",
+        "trophyTitleName": "Blasting Agent: Ultimate Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13000_00_007C1AB08E39545CBE5E014683920A1224B061F8FE/3E36458E762B7249C68B885365841D742586E866.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 6
+        },
+        "service": "trophy"
     }
 }
