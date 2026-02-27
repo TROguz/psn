@@ -84628,5 +84628,122 @@
             "bronze": 25
         },
         "service": "trophy"
+    },
+    "NPWR13984_00": {
+        "npCommunicationId": "NPWR13984_00",
+        "trophyTitleName": "Robonauts",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13984_00_00C148F59959A25CE6F6D1FF1B739B9043B21A9EF4/216478FFEB198FE5CF037BC3D28CA2944CE6AD88.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR13985_00": {
+        "npCommunicationId": "NPWR13985_00",
+        "trophyTitleName": "Cursed Castilla (Maldita Castilla EX)",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13985_00_007DABEE69D48CD55474159A2C57B674808A238C7B/1A8DE7D559CD36F1EF345FAA43D35645E38B45C7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR13986_00": {
+        "npCommunicationId": "NPWR13986_00",
+        "trophyTitleName": "Cursed Castilla (Maldita Castilla EX)",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13986_00_00C8C243FE30B5B617C0909525110252119D488124/BE439C4BE627142E2BD07269B6F61BD3D229136C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR13988_00": {
+        "npCommunicationId": "NPWR13988_00",
+        "trophyTitleName": "Armed and Gelatinous: Couch Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13988_00_00DD123FF6B7685A974A330EA769AF4F14E1BFB263/02C6B8BA2551C69FB71AEE7F8D35CCF7D686CE48.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR13991_00": {
+        "npCommunicationId": "NPWR13991_00",
+        "trophyTitleName": "Demons with Shotguns",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13991_00_004CD622D5870B93FF3A60FCC78F79A04146A3C61E/64043ED36FD790A940221E902FF24CBFBF641CC8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 2,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR13993_00": {
+        "npCommunicationId": "NPWR13993_00",
+        "trophyTitleName": "Kingdom Come: Deliverance",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13993_00_00695E1B2A81C8D8739EE6201E5BB03D090093A3F6/472BD30AD8B8A81D2CE4A79D1D01C4264C36EC06.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 21,
+            "bronze": 57
+        },
+        "service": "trophy"
+    },
+    "NPWR13995_00": {
+        "npCommunicationId": "NPWR13995_00",
+        "trophyTitleName": "ATV Drift & Tricks",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13995_00_00CA589C4824B9C84C997AA58A8F406CDCDB93CD66/FD0CEF016ED9AFDFB4D044819A332CF78A861279.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR13997_00": {
+        "npCommunicationId": "NPWR13997_00",
+        "trophyTitleName": "SaGa SCARLET GRACE: AMBITIONS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13997_00_00A1500644C3B6347E1CDEFA4A9514DDDA1A22023D/269454A9C0129200820E879C73CA9F736BEC2BE3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 49
+        },
+        "service": "trophy"
+    },
+    "NPWR13999_00": {
+        "npCommunicationId": "NPWR13999_00",
+        "trophyTitleName": "千の刃濤、桃花染の皇姫",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13999_00_007269BA855D6FE4CA06DF1E8E1530C8419779F07E/C8F366A6BF75D08BCE0A13DC54D213797EDCEEC8.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 4,
+            "bronze": 2
+        },
+        "service": "trophy"
     }
 }
