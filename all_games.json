@@ -26778,5 +26778,135 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR04680_00": {
+        "npCommunicationId": "NPWR04680_00",
+        "trophyTitleName": "エクステトラ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04680_00_00322290B863DEDC6278345CD4268289495C16A35F/2651E4F048BB09CBBFC4395799F17D2066F0FBE6.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR04682_00": {
+        "npCommunicationId": "NPWR04682_00",
+        "trophyTitleName": "Drakengard 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04682_00_002F242BDF470A0F8E245A7148FA936E5C672E7210/F73C7A5E1FF99FBF55A282A6FBFC202B81819F97.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 14,
+            "bronze": 49
+        },
+        "service": "trophy"
+    },
+    "NPWR04683_00": {
+        "npCommunicationId": "NPWR04683_00",
+        "trophyTitleName": "Winning Post 7 2013",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04683_00_001805372ACCED38B498F81C5F7DE1AC15B37AA1F6/90FA962D45F34856F62BC4A7A928929338C1421E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 16,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR04685_00": {
+        "npCommunicationId": "NPWR04685_00",
+        "trophyTitleName": "Dungeons & Dragons® ―ミスタラ英雄戦記―",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04685_00_0022D4B393860DCB0F1CF6A10D56E8D753C193B238/9F636341CBFACD0373D4CFA8737D1B1D56674C0C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 19,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR04688_00": {
+        "npCommunicationId": "NPWR04688_00",
+        "trophyTitleName": "実況パワフルプロ野球２０１３",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04688_00_000E123379A9423B1263F4B4E3EAE466575B333643/6DB4D3512B536984D42EDDDF0A81711B27A50A2D.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 6,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR04693_00": {
+        "npCommunicationId": "NPWR04693_00",
+        "trophyTitleName": "俺の妹がこんなに可愛いわけがない。 ハッピーエンド",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04693_00_00470D55F094EBD425E5729B6CD9A287478901EF7C/0AD4E4E8C3EC9EB1FE56CF3561D09D32AA0BB2A4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR04694_00": {
+        "npCommunicationId": "NPWR04694_00",
+        "trophyTitleName": "Sparkle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04694_00_000011FF361A5C20DF95C6D77383560F5774685010/E9ADCA9A85BE1CC9BE7E1D04F6522B29476F98A4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR04695_00": {
+        "npCommunicationId": "NPWR04695_00",
+        "trophyTitleName": "Ratchet & Clank: Into the Nexus™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04695_00_009E4130F53D5879D1E033E55DFA78405E7E2442DA/1354629B19E5FE75676FD20B6785E0E3EC585173.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR04697_00": {
+        "npCommunicationId": "NPWR04697_00",
+        "trophyTitleName": "Battleborn",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04697_00_0053597B4CA5BBA65465EE2A9A9BCD05CDC3955D37/392D5514CAEE629752BB7BF8CBBC895BAF74591C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR04706_00": {
+        "npCommunicationId": "NPWR04706_00",
+        "trophyTitleName": "三極姫２～皇旗咆哮・覚醒めし大牙～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04706_00_001489A97B64B12B3A98263C6947EFA240BD6C0785/E40705966E6044C353CCD01B6DDACFEF2378786D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
