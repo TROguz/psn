@@ -33148,5 +33148,135 @@
             "bronze": 13
         },
         "service": "trophy"
+    },
+    "NPWR06047_00": {
+        "npCommunicationId": "NPWR06047_00",
+        "trophyTitleName": "KickBeat",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06047_00_00B08EA37D754D71253478454915145ECC647C9167/E0E27B9E52891EB3B28533CD55DFA705FC05FBE7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR06048_00": {
+        "npCommunicationId": "NPWR06048_00",
+        "trophyTitleName": "Assassin's Creed® Freedom Cry",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06048_00_002E1F7D1E5DFEC506913CEB081777A4D5ED7D4792/04F71E232B5029491077D829EF3ABFEE7B8BEE2F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR06051_00": {
+        "npCommunicationId": "NPWR06051_00",
+        "trophyTitleName": "DYNASTY WARRIORS 8: Xtreme Legends",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06051_00_00CDAB7E146E7257E00F3171463EEC760AC4C67817/E90C6CC4C27C93BAE7D149CBAE3FA8C15EF62BBF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR06052_00": {
+        "npCommunicationId": "NPWR06052_00",
+        "trophyTitleName": "DYNASTY WARRIORS 8: Xtreme Legends",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06052_00_00F0F97BA8C9F9BFD71BEB77E38FF61A2AA1465E12/AAC6AE21D297E165C90020005DC89D963F30A6F5.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR06055_00": {
+        "npCommunicationId": "NPWR06055_00",
+        "trophyTitleName": "Skullgirls Encore",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06055_00_00789C3DF2A42DCE7B345F2E5ABF5B884871FB9C9B/942E43E17AB5E4653439A6EF9671DC183BDB49E5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR06058_00": {
+        "npCommunicationId": "NPWR06058_00",
+        "trophyTitleName": "限界凸記 モエロクロニクル",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06058_00_006C94CBF93AC349871E505F17CA243700D56DB0AD/DA7977EF99383B58488D9FB96A8782FDA89981B6.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR06059_00": {
+        "npCommunicationId": "NPWR06059_00",
+        "trophyTitleName": "Contrast",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06059_00_00348A946C9E3ABF87242368F2F891F52DEE4D5577/43FC2AD21C02283FA0C18DF6273769B8ABF4CA0C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR06061_00": {
+        "npCommunicationId": "NPWR06061_00",
+        "trophyTitleName": "Metrico\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06061_00_00D7F690DBE1D46C827EA209656653BD35F027FB68/E6F729276683FBAED6FB113940D253ACE497E2A6.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR06063_00": {
+        "npCommunicationId": "NPWR06063_00",
+        "trophyTitleName": "Murdered: Soul Suspect",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06063_00_00D5F236C8495D20CF29D0743CD064F3E03CCFD6EE/F0EE91BF9A1222F73EED880951525D699CB8329A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 2,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR06070_00": {
+        "npCommunicationId": "NPWR06070_00",
+        "trophyTitleName": "Ranko Tsukigime's Longest Day",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06070_00_001622172FEFF925EAD99CF2F214446884DED5469E/CC2EF445C0F4989B301B246C5EB361FA3762345E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
