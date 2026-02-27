@@ -57848,5 +57848,135 @@
             "bronze": 16
         },
         "service": "trophy"
+    },
+    "NPWR10445_00": {
+        "npCommunicationId": "NPWR10445_00",
+        "trophyTitleName": "Tumble VR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10445_00_00B7E6AAA6F713C7DE279F5AE796106465D123224D/C72C17474A3E7B929A7738C4B8432B7DBCF646FE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR10446_00": {
+        "npCommunicationId": "NPWR10446_00",
+        "trophyTitleName": "Corridor Z",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10446_00_00D0D0B3946EC3CF2C8B91E4C3AEB604C5A5887439/0DD7C865BE26821BF0DDC89672526B8045171AB3.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10447_00": {
+        "npCommunicationId": "NPWR10447_00",
+        "trophyTitleName": "HTR+ Slot Car Simulation",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10447_00_00FEB735CF905675812FA6E63A0E51F73664C9691E/11208BF5F471F274C5144C2C7C7490F739C1EB42.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR10453_00": {
+        "npCommunicationId": "NPWR10453_00",
+        "trophyTitleName": "信長の野望・創造 戦国立志伝",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10453_00_00EBC9580C0F586A03CD2121BBB02008C04C8A937A/F8F7B52853F490BA810C01C7A0D451CD29EEACE2.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR10459_00": {
+        "npCommunicationId": "NPWR10459_00",
+        "trophyTitleName": "Aegis of Earth: Protonovus Assault",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10459_00_00E94411C61A8A48C38BCB807CDFE0A58150A155B0/D699C9F82D59ECF6D33BACC14C6E79B47E1DE931.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR10461_00": {
+        "npCommunicationId": "NPWR10461_00",
+        "trophyTitleName": "Chariot",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10461_00_0068FBC2E6CEEC80B3CCBE2BAE53BAF6F631B1DEB9/BCAE704B4FF9E2DB61D68369FC1D3D91FA461E86.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 19,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR10463_00": {
+        "npCommunicationId": "NPWR10463_00",
+        "trophyTitleName": "The Magic Circle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10463_00_00C881B3A0F5B87D498D9C84BDEF97B6107477BBB3/6E32117253CB8EAFFDBDCDF78C8E9136EFF41D70.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10466_00": {
+        "npCommunicationId": "NPWR10466_00",
+        "trophyTitleName": "Firewatch",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10466_00_00A39DB921FEF4BEB72F7E53FC7FCF35AE190C67D6/202C99D2FBF3E88F1175625CCC502FD63ADD729C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 1,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR10467_00": {
+        "npCommunicationId": "NPWR10467_00",
+        "trophyTitleName": "Arcade Archives MX5000",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10467_00_00389F304FCC6CF410179A2529E697F4791B953C81/B5ED2B01687CAD703F54D71A53554358F682D8F0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR10470_00": {
+        "npCommunicationId": "NPWR10470_00",
+        "trophyTitleName": "Randal's Monday",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10470_00_00877AD0ABB309BB9C1FF36D1344F6581A99A550E2/C626C4F33DC146023669C766E22E9E0A60A930A0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
     }
 }
