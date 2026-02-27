@@ -30418,5 +30418,135 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR05473_00": {
+        "npCommunicationId": "NPWR05473_00",
+        "trophyTitleName": "flOw",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05473_00_00D1542F2078AEA17A091D9412CAFAA9E9B4AD4CFD/C46E50A1D9B4B435330C2A635451943ADBEEBE64.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR05474_00": {
+        "npCommunicationId": "NPWR05474_00",
+        "trophyTitleName": "PAC-MAN MUSEUM",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05474_00_00364FA6ECC698CBE05DF0B7967F07576D08A143DD/ADE604E06B287DB8A0BEF64D32E787D5C168303D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR05478_00": {
+        "npCommunicationId": "NPWR05478_00",
+        "trophyTitleName": "Just Dance 2014",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05478_00_00E0EB407D11BDC09368AC317B0A1AD909D63A0C87/DB035C2347FCBCD0E040334628D6E6F0B681E1FC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR05479_00": {
+        "npCommunicationId": "NPWR05479_00",
+        "trophyTitleName": "BLOODBATH",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05479_00_0087C688A8A3DFBD7D86052F0D8EDFF550842A098D/C1188D6E557167DA161C1856D38F5E424FB228B8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 2,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR05485_00": {
+        "npCommunicationId": "NPWR05485_00",
+        "trophyTitleName": "Doki-Doki Universe™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05485_00_00E55928C3B305DFDA4A48DD9E5C4C658D71E28074/A94D6A1C41136B2312EDC67F731C3E96F58C6A2A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR05486_00": {
+        "npCommunicationId": "NPWR05486_00",
+        "trophyTitleName": "戦国無双４",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05486_00_0030F45771E060F6FD84D41658526E076678CE1615/D85BC4406E06018C0D250AE8C998987D19925744.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR05487_00": {
+        "npCommunicationId": "NPWR05487_00",
+        "trophyTitleName": "ぷよぷよテトリス",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05487_00_00EF6D7EDE8C39327DBD0314B1A5767961D99C93A0/78B1EB5D9ACF8C314FFC30AE9789AF1F05EB40D7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR05495_00": {
+        "npCommunicationId": "NPWR05495_00",
+        "trophyTitleName": "Skylanders SWAP Force",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05495_00_00E23161F08C8A4F83A779626F5B786975247B36B6/9FB092B6A8372B3D2EF13136EB272917C5204EB1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 4,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR05503_00": {
+        "npCommunicationId": "NPWR05503_00",
+        "trophyTitleName": "PhantomBreaker:BattleGrounds",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05503_00_002EDE552945FFA762AE7A99AB308E3E16DA74283A/2195B88CC691AA04DAD7E17BC95C9A6C5D20AA9E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR05505_00": {
+        "npCommunicationId": "NPWR05505_00",
+        "trophyTitleName": "Damascus Gear: Operation Tokyo",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05505_00_009F33426C8422208A1C20EE7A7B8B8D33EF6C3B07/8F356D384FCE09EF6FB3244FB6E0A8169484095C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
