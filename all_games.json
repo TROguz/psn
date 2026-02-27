@@ -46538,5 +46538,135 @@
             "bronze": 45
         },
         "service": "trophy"
+    },
+    "NPWR08673_00": {
+        "npCommunicationId": "NPWR08673_00",
+        "trophyTitleName": "WRC 5",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08673_00_00383DEA063795637509501CCD1E74FFD899E5D2DC/5BDFBF1927F572C265B7D9BCE1AC27406E890101.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR08674_00": {
+        "npCommunicationId": "NPWR08674_00",
+        "trophyTitleName": "Battle Islands",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08674_00_00ACE788C085D003610499C2E9151AEF78126D0BD3/EC795974E0E95C94841114B51CA7387DCA1AA607.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR08677_00": {
+        "npCommunicationId": "NPWR08677_00",
+        "trophyTitleName": "Riptide GP2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08677_00_00D74620531FBA99B5B60199C113BA813870C22211/350A0B5C1A8F487CA1D9971DC4C927EB3684CB0E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR08682_00": {
+        "npCommunicationId": "NPWR08682_00",
+        "trophyTitleName": "Skullgirls 2nd Encore",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08682_00_00BA8D7E99C233469EFAE5DE4706914F8117DC824C/E4A474DC0AC9F38D4D7015D96CEDDC3EB33E8FDC.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR08685_00": {
+        "npCommunicationId": "NPWR08685_00",
+        "trophyTitleName": "FIFA 16",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08685_00_000572B613C7F7ED9CF2B7411C994FF95467C8DF4B/99CF9C934FF58796C271DFD621DA4A949E4A5507.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 3,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR08687_00": {
+        "npCommunicationId": "NPWR08687_00",
+        "trophyTitleName": "Skulls of the Shogun",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08687_00_00AF7F0441600776DC5136963880FB13DF8D1FDB0F/42D00529B4DE383C3CEC00DC4EFD59CD33FB93B1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR08689_00": {
+        "npCommunicationId": "NPWR08689_00",
+        "trophyTitleName": "Tour de France 2015",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08689_00_00768C689FECCA2191A269DD12720650F647FE1EF0/EBB261D7FB041C1DA6CFDF89ED568A6F713D2719.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR08690_00": {
+        "npCommunicationId": "NPWR08690_00",
+        "trophyTitleName": "Rack N Ruin",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08690_00_009CBC978B79FEB0C9323150A5F38C5199398265D1/775E91DC81092329C3878E714C92812C35F01BBF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR08691_00": {
+        "npCommunicationId": "NPWR08691_00",
+        "trophyTitleName": "Grand Theft Auto: San Andreas",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08691_00_004FA4D389F06CAFB0960245CD826F09E1D26AF04D/CEC92D43BD92005EA0AC6319B9F24B7029BF2C7C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR08692_00": {
+        "npCommunicationId": "NPWR08692_00",
+        "trophyTitleName": "Zombie Vikings",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08692_00_00EACC8C63E7A9BA643F31DCA224AFCFBF9376E19E/DCB9CD4AC7F6A1B4E7297293A567AFB2DBB81197.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 16
+        },
+        "service": "trophy"
     }
 }
