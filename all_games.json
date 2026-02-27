@@ -69301,5 +69301,122 @@
             "bronze": 1
         },
         "service": "trophy"
+    },
+    "NPWR12001_00": {
+        "npCommunicationId": "NPWR12001_00",
+        "trophyTitleName": "ACA NEOGEO ART OF FIGHTING",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12001_00_00376294601519D1C8DDF7D7FEC99C327B68F45F70/CB5DDB33C0F53189DAD3DB1F4D2D6A3A5FC85908.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12002_00": {
+        "npCommunicationId": "NPWR12002_00",
+        "trophyTitleName": "ACA NEOGEO FATAL FURY",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12002_00_00CF8E650B5CD8604C9EDB782A73293B0A73BCD941/35C73CA19782ED8E12E508081C8203CCD67952F5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12003_00": {
+        "npCommunicationId": "NPWR12003_00",
+        "trophyTitleName": "ACA NEOGEO LAST RESORT",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12003_00_00CF0C75FA7A8B22CBE8118CE8EA45CBD47EC21947/6AFD0B13B64BDABCE2986A2EBA7FA98972A69AAF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12004_00": {
+        "npCommunicationId": "NPWR12004_00",
+        "trophyTitleName": "刺青の国",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12004_00_0060006EE5ECC928BFEDC31E44AB7152BC8A60FA8B/5B0F31FF36D491849C6EC821EA2CCD27E15ED23D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR12005_00": {
+        "npCommunicationId": "NPWR12005_00",
+        "trophyTitleName": "ACA NEOGEO NAM-1975",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12005_00_00D0898BD952EB1702F3DE1DD0841B5CBEAF5EE3A6/06A6334B726AD02E9632A84EB98F32208ECDB9C6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12006_00": {
+        "npCommunicationId": "NPWR12006_00",
+        "trophyTitleName": "ACA NEOGEO WORLD HEROES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12006_00_00CB1C4DF9B37D12D8C6670E0618097A8A2E926FB4/BE2209DE5BB2B3EBD9C970A5E80894FACDC01749.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12007_00": {
+        "npCommunicationId": "NPWR12007_00",
+        "trophyTitleName": "ACA NEOGEO SENGOKU",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12007_00_00D7B3CB787715A08C2C4781A5D91FE651DBE71B19/66746E772CE042486E7215AE6DAB2487435E9891.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12008_00": {
+        "npCommunicationId": "NPWR12008_00",
+        "trophyTitleName": "ACA NEOGEO SUPER BASEBALL 2020",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12008_00_00D41A528947DB039560E00A7BB8177B0D480C51F3/8285EC40E87C9752C7E907FD8ABF61400E3D7650.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12009_00": {
+        "npCommunicationId": "NPWR12009_00",
+        "trophyTitleName": "OGRETALE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12009_00_0019683C3092CA4FA5B7775BA8AEE55850BA4B6FE0/94127D6A71745C0A8FFE0D0798697026698E56D7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 64
+        },
+        "service": "trophy"
     }
 }
