@@ -19368,5 +19368,135 @@
             "bronze": 40
         },
         "service": "trophy"
+    },
+    "NPWR03219_00": {
+        "npCommunicationId": "NPWR03219_00",
+        "trophyTitleName": "KickBeat",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03219_00_00AC9F5DEEFA9DB779650EF962D643B35675B109B6/41443B4409EC475717765DFBAE29E180AD149FAD.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 6,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR03221_00": {
+        "npCommunicationId": "NPWR03221_00",
+        "trophyTitleName": "Game of Thrones trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03221_00_0001B7DA2AD98EA1B3715346BB0AA5397758C32AA3/4BFA2F1AD92245567820CF194C5114CC809D494B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 15,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR03235_00": {
+        "npCommunicationId": "NPWR03235_00",
+        "trophyTitleName": "Labyrinth Legends",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03235_00_0003E798974647141BBF99F616BE72142FEE6214BE/6F2E71EE507255CC8C7AF99CA91BD88C3BD29A7A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR03236_00": {
+        "npCommunicationId": "NPWR03236_00",
+        "trophyTitleName": "Tony Hawk's Pro Skater HD Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03236_00_0041A307051F6C434F7DA6352ED55974E4A5821382/DE10F5CBA258C4696CA1FB2611ACA63A6CF92A30.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 4,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR03237_00": {
+        "npCommunicationId": "NPWR03237_00",
+        "trophyTitleName": "Madden NFL 13",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03237_00_00854A9574979DAD7832426E39F41F6F4904E410CC/36A4B08541AC7108C797CCAFD8F2103E284AFAE5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR03241_00": {
+        "npCommunicationId": "NPWR03241_00",
+        "trophyTitleName": "Travel Bug",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03241_00_008EEF23DD009E542F6B760A9AB5BC9F178352350C/CD3DEE3732ED10F725C2FD5A8C99B2CA3FAA49A5.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR03244_00": {
+        "npCommunicationId": "NPWR03244_00",
+        "trophyTitleName": "Orc Attack",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03244_00_00CBEDD52C6C6411E866AB79E09810980073803CD6/B01B64178AFE8047F32E1C5970E4FAB3958E9AE9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR03248_00": {
+        "npCommunicationId": "NPWR03248_00",
+        "trophyTitleName": "Runner2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03248_00_001088F87B1511B04D4A6C5BFF888CF366FB1E2EF2/E22AD46BAE3741A90685D2080291C9F1DE42C6E9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR03249_00": {
+        "npCommunicationId": "NPWR03249_00",
+        "trophyTitleName": "Kite Fight",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03249_00_000B4342290985E6D37C41BEECD57DFA43EA064036/A6633E7505F23AF3DA485F0E84360950CBB342D5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR03251_00": {
+        "npCommunicationId": "NPWR03251_00",
+        "trophyTitleName": "萌え萌え大戦争☆げんだいばーん++",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03251_00_00D6EC35FFF7F65550610103A63FFEAF32ACDDC46D/2D2DA586E65753B1C68E06549111809FE167B8E8.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 6
+        },
+        "service": "trophy"
     }
 }
