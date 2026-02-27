@@ -37568,5 +37568,135 @@
             "bronze": 33
         },
         "service": "trophy"
+    },
+    "NPWR07062_00": {
+        "npCommunicationId": "NPWR07062_00",
+        "trophyTitleName": "オメガクインテット",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07062_00_00AA299404F60F4897CC9EE02945A9F23E0663B9F5/8213C5DD7F2DC4C7093B74A7902504E74B651732.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR07070_00": {
+        "npCommunicationId": "NPWR07070_00",
+        "trophyTitleName": "ものべの -pure smile-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07070_00_009A067532785303C52BF1D779343A49A8987BE333/116200A63867D510624096F0E8DD6E9C8839A86E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR07071_00": {
+        "npCommunicationId": "NPWR07071_00",
+        "trophyTitleName": "クロガネ回姫譚 トロフィー",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07071_00_00A8D2BB84FED8B6BE5254FACE765E35C321D836CA/8CFC5E3022D19EB164820415A125901CAA517F22.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR07075_00": {
+        "npCommunicationId": "NPWR07075_00",
+        "trophyTitleName": "Killzone Shadow Fall Intercept",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07075_00_0016482F986C6815D8EEB2D33B77F5DAD0E074C39C/086C6F2201BE0E3734098B49B1FEEDD2AEDB09D8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR07079_00": {
+        "npCommunicationId": "NPWR07079_00",
+        "trophyTitleName": "Trivial Pursuit Live!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07079_00_003E29E70CB545A33236E9B62ED0104D623151BC97/4F6FB744C9607701BF4910659E1AC3C6C1D12703.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR07081_00": {
+        "npCommunicationId": "NPWR07081_00",
+        "trophyTitleName": "A Virus Named TOM",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07081_00_00DD7770698D80F216BD926EC1A855355259D90F17/6DEABF8DB178FC90E5E7D537DB31B7FBE15A4E02.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR07082_00": {
+        "npCommunicationId": "NPWR07082_00",
+        "trophyTitleName": "デジモンストーリー サイバースルゥース",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07082_00_006FD9FCE12731EDCD830A5A6197A00F1B3E5A5717/877C5FD0CF67A686C3C4A8966FDB531143DB23D7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR07085_00": {
+        "npCommunicationId": "NPWR07085_00",
+        "trophyTitleName": "IA/VT COLORFUL",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07085_00_00FA81F6D97A6B5C7B86B0B210832A53083F311A0D/011112D516E125B8F2D245812D5E0F261E744EED.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR07086_00": {
+        "npCommunicationId": "NPWR07086_00",
+        "trophyTitleName": "RESOGUN™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07086_00_001C8908F4AC30F63EFEFC15E442DAAB3FF84B191F/149690CD164D5FCBF7988B53294C38F946D84DCC.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR07090_00": {
+        "npCommunicationId": "NPWR07090_00",
+        "trophyTitleName": "Deadly Premonition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07090_00_0073ED8E29E468370C2FDD14028D87F4209288B34D/7B73F01FAA3CDC3022DA74FB618BD5CF55702ADA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 52
+        },
+        "service": "trophy"
     }
 }
