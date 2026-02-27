@@ -82158,5 +82158,135 @@
             "bronze": 2
         },
         "service": "trophy"
+    },
+    "NPWR13660_00": {
+        "npCommunicationId": "NPWR13660_00",
+        "trophyTitleName": "NeverEnd",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13660_00_005F65AB8965BE424C243306135C7F7C5206930D1D/FF0AC6F0362845A41FF769B8EE715C4F695CDFE1.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 9,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR13661_00": {
+        "npCommunicationId": "NPWR13661_00",
+        "trophyTitleName": "Eliosi's Hunt",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13661_00_00C8C759EBC226B0834EC4EE0066DD2EFB6D38FBD0/9511FFDAC88805A1819D96D3B568758DD93BC77D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR13664_00": {
+        "npCommunicationId": "NPWR13664_00",
+        "trophyTitleName": "Burly Men At Sea",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13664_00_0043A76295BEB3DCC497B231953D0161A5AB94D422/ADF6B5E13A7FABEF8377A66FB88EFF409E5A63D2.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 14,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR13666_00": {
+        "npCommunicationId": "NPWR13666_00",
+        "trophyTitleName": "Guns of Icarus Alliance",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13666_00_00533B7FF5F395C70F61B53EB9821766F45E61FEF2/09633C86ADEA71BAE50E0B69CB59F98B4307F246.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR13667_00": {
+        "npCommunicationId": "NPWR13667_00",
+        "trophyTitleName": "Anarcute",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13667_00_005FD83F8612AFE97FAD1F6B8D685442F9B2978515/771AB2F94B36289C06A8215980D5FB9D8389B16F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR13668_00": {
+        "npCommunicationId": "NPWR13668_00",
+        "trophyTitleName": "Super Comboman",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13668_00_00D36033A2C736196E3E65878B7EF6576A2CBE2206/CD5CA3BAA15667BC9CA1AC64BDA255590A819DCF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR13669_00": {
+        "npCommunicationId": "NPWR13669_00",
+        "trophyTitleName": "オメガラビリンスZ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13669_00_004AC1F0846BDA11A9CFB4D61F74F8DAED1EDD9362/C84459EE5600E668DDC9AF7718FE42FD27DEE941.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR13670_00": {
+        "npCommunicationId": "NPWR13670_00",
+        "trophyTitleName": "WHITEDAY～学校という名の迷宮～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13670_00_00CAD83354D4BD35C8949AAB49F90C9C0376FCC2DF/CA4C4BF57B02E19AE3B2900318D6B153A641AE9C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR13671_00": {
+        "npCommunicationId": "NPWR13671_00",
+        "trophyTitleName": "Ys Origin",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13671_00_0045DBA24A1BDB223DE7E5A7BD34285311F78B4DD4/53E5E964142BA098A3075AF5AAA4F693B6E02C51.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR13672_00": {
+        "npCommunicationId": "NPWR13672_00",
+        "trophyTitleName": "Streets of Red Trophy Pack",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13672_00_00FD7C0973A8FCB9FCC3FD91F252D0959526EF1721/529964D1F1D8FC64857167F8B78BCE5EFEC0AD4E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 20
+        },
+        "service": "trophy"
     }
 }
