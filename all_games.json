@@ -30678,5 +30678,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR05542_00": {
+        "npCommunicationId": "NPWR05542_00",
+        "trophyTitleName": "BATMAN™: ARKHAM KNIGHT",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05542_00_00E4C4407A3A16A95392C7768854A71BB3EAE66598/75A7852A33844847C19E12881B35D958525F1F87.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 27,
+            "bronze": 81
+        },
+        "service": "trophy"
+    },
+    "NPWR05543_00": {
+        "npCommunicationId": "NPWR05543_00",
+        "trophyTitleName": "Blood Knights",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05543_00_00948FB843125BE509AAE3FE39DD6755DF214A2807/6F83A58D1A605CDB6327C3200E9EE0A71A313528.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR05547_00": {
+        "npCommunicationId": "NPWR05547_00",
+        "trophyTitleName": "MIND≒0",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05547_00_002BD0BFCEAF4CD4BB7EF53190F543D0D1EBF3EB83/28564D3D6FC5A0577A795BC91EA20D54AFC08381.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR05548_00": {
+        "npCommunicationId": "NPWR05548_00",
+        "trophyTitleName": "Disgaea 4: A Promise Revisited",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05548_00_00E282FD3808F262E71F71B2660509A85E4BE8AA9D/E950B01BE1DE5807AD356028A9295E4B6BA6C5D5.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR05550_00": {
+        "npCommunicationId": "NPWR05550_00",
+        "trophyTitleName": "Pure Chess®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05550_00_005CCD3F43AB3023465CC95580FF995B460F3069BC/E25B30C5F3D80F1192092295CA51F82D860969FC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR05555_00": {
+        "npCommunicationId": "NPWR05555_00",
+        "trophyTitleName": "Treasures of Montezuma Arena",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05555_00_00327E41272E49C5B23746C1BBED55D968169E2741/C75F108245FDCF1CFAB6672BD5710E1F554A9B48.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR05556_00": {
+        "npCommunicationId": "NPWR05556_00",
+        "trophyTitleName": "Trine 2: Complete Story",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05556_00_00F3B0D32C59909D9B9DC76CD305E232AF55A1D0C6/00D4D6D0E38FBA7531B5A2DFD3D50DFE5969B948.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR05565_00": {
+        "npCommunicationId": "NPWR05565_00",
+        "trophyTitleName": "槍彈辯駁　希望學園與絕望高中生",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05565_00_00F782D063240120682413FBF8A3D79F94B95C8026/149916EB12583EE02D60151D86DCE3B4439F16F8.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR05567_00": {
+        "npCommunicationId": "NPWR05567_00",
+        "trophyTitleName": "Sound Shapes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05567_00_000B37CBF96361A28D88144509BDAA390576353887/B8530B66259DB6A5EA5497F9E1EBF628EF650710.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 87,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR05568_00": {
+        "npCommunicationId": "NPWR05568_00",
+        "trophyTitleName": "Sound Shapes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05568_00_00FE9FF62B11D08102184CE9D4B525CD5D95BDA846/B0DB7A807FD1708E2D8ACA14021B174E7F97C260.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 87,
+            "bronze": 0
+        },
+        "service": "trophy"
     }
 }
