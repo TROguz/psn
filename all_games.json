@@ -63308,5 +63308,135 @@
             "bronze": 0
         },
         "service": "trophy"
+    },
+    "NPWR11231_00": {
+        "npCommunicationId": "NPWR11231_00",
+        "trophyTitleName": "古き良き時代の冒険譚",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11231_00_002AA5C35231C8D55F92D35715C72AACF1ED805B10/4CE275491FC129302D42DF8388A825C511AAAD38.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 11,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR11232_00": {
+        "npCommunicationId": "NPWR11232_00",
+        "trophyTitleName": "アストラエアの白き永遠 -White Eternity-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11232_00_007BD75EF6EEBDFFDC8CEF55D1E0A6AEFCA6F44472/5764ECB0DD738791756B0996B0BE2C9B0CA7B287.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 6,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR11233_00": {
+        "npCommunicationId": "NPWR11233_00",
+        "trophyTitleName": "Starry☆Sky～Summer Stories～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11233_00_009D9FFEF7AE5367349AB05B447D2969E912DDB5B5/4F923050BD4E41FF9FD9E308456AFB26F899E7A1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11234_00": {
+        "npCommunicationId": "NPWR11234_00",
+        "trophyTitleName": "ABZÛ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11234_00_00CBB876963299D0183BE0D1EB680CEAE2E59002FE/027A538FA28DB176BAD0EE4DF64F39E6C86B24FF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR11236_00": {
+        "npCommunicationId": "NPWR11236_00",
+        "trophyTitleName": "DIABOLIK LOVERS LOST EDEN",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11236_00_00AA5F7FD720C68864EB71665566CB6605AB9F51D4/6B16F180C23AA24A9E5922A3985014952B8F4C13.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 26,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR11239_00": {
+        "npCommunicationId": "NPWR11239_00",
+        "trophyTitleName": "Flywrench",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11239_00_001CB2CF223D551E777F57CAAE9FDD61478582AC51/F7CACB082F35177CCB83B163D168206CDDD5D2C7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR11241_00": {
+        "npCommunicationId": "NPWR11241_00",
+        "trophyTitleName": "Metropolis Defenders",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11241_00_00797AD065CEB5D6A0379C1CF7DAB408A88A6CF881/0252D66E0621BBEACD651C2BBBB25B991485795D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR11242_00": {
+        "npCommunicationId": "NPWR11242_00",
+        "trophyTitleName": "Fallen: A2P Protocol",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11242_00_0067A7D89C04A06E01966ADC9B95A9F221753C0E31/408E72A0A086C36107F2F2608BECA9DDA0200247.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 12,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR11243_00": {
+        "npCommunicationId": "NPWR11243_00",
+        "trophyTitleName": "Batman",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11243_00_00BA59038C4D483C5AA9817CAFD98B3DA960E696D2/7BFFC34724C6B792D74A8FE8A11456B33C54F6D4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR11244_00": {
+        "npCommunicationId": "NPWR11244_00",
+        "trophyTitleName": "Batman",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11244_00_003946EA972C4C654C84CD45F12B1F1A045D246A02/572BB57FB70B22AB05C0BE350ED8216EDC8B6685.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 15
+        },
+        "service": "trophy"
     }
 }
