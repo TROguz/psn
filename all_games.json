@@ -25478,5 +25478,135 @@
             "bronze": 3
         },
         "service": "trophy"
+    },
+    "NPWR04422_00": {
+        "npCommunicationId": "NPWR04422_00",
+        "trophyTitleName": "How to Survive",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04422_00_00F8E74800CCEEABCE2BD62C9D51662D359D68316D/65DE63C71FB7BF0255BA1CBEBD591AB387DB86AD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR04423_00": {
+        "npCommunicationId": "NPWR04423_00",
+        "trophyTitleName": "Major League Baseball 2K13",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04423_00_001D314A4E84A14EE0BC17AF0C4E656735B96D837D/528989845596824A025146503FF8716B6B9686FC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR04424_00": {
+        "npCommunicationId": "NPWR04424_00",
+        "trophyTitleName": "BLAZBLUE CHRONOPHANTASMA Trophy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04424_00_009E96E959E6CDEC87D9BCF440054E6EE711EDC842/D27525C4630558F8FA9B0F50E774564EEC5C83F0.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR04425_00": {
+        "npCommunicationId": "NPWR04425_00",
+        "trophyTitleName": "仮面ライダー　バトライド・ウォー\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/ABC20A2F96362EE726C107F1ADCDBC75416403D0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR04426_00": {
+        "npCommunicationId": "NPWR04426_00",
+        "trophyTitleName": "Everybody's Golf®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04426_00_00F023009F57786EF690097071A7C0BFC092FD6D1F/C9EF6758B843E15F1A98076227471C0B8F30C49B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR04428_00": {
+        "npCommunicationId": "NPWR04428_00",
+        "trophyTitleName": "ACE COMBAT™ INFINITY",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04428_00_0018D0860A72F6701E04B2A8802A5CC8432C90AEB7/556C8AD874D71A842AA0CA4B8E08F7A4936BC959.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR04429_00": {
+        "npCommunicationId": "NPWR04429_00",
+        "trophyTitleName": "Everybody's Golf™ 6",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04429_00_00CF728B17A0432EC527C92E185F66EA111A591058/42C78D8F6226747D850327046EF3A4EEA53A2D97.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR04430_00": {
+        "npCommunicationId": "NPWR04430_00",
+        "trophyTitleName": "スーパーロボット大戦ＯＧサーガ　魔装機神Ⅲ　PRIDE OF JUSTICE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04430_00_00EFCFA735C95BCC64C3CAE62F76502421AD4C84BE/EBF7FDAB45F5E9C3F227C012D6DA0CC10C9C8D0E.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR04433_00": {
+        "npCommunicationId": "NPWR04433_00",
+        "trophyTitleName": "Legends of War",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04433_00_009278A4C0A4CBF9456E676AF858A106F6B5B35BB0/A38771B826DBC60BA1DC74BCDFAF631565B60FFE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR04435_00": {
+        "npCommunicationId": "NPWR04435_00",
+        "trophyTitleName": "Sly 1",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04435_00_00A3990993043A8FA8429C96FD9821E2E0CB641AE8/3B1CF5A94096CEDD6C433A702C457CB9379ACA7F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 22
+        },
+        "service": "trophy"
     }
 }
