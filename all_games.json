@@ -64868,5 +64868,135 @@
             "bronze": 6
         },
         "service": "trophy"
+    },
+    "NPWR11424_00": {
+        "npCommunicationId": "NPWR11424_00",
+        "trophyTitleName": "Assassin's Creed® Origins",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11424_00_00B0C1B25B2BC046B57977D1690CE5A22AFC430A01/FD3786571EEA68F65321230E711DCAE92BC53794.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 21,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR11425_00": {
+        "npCommunicationId": "NPWR11425_00",
+        "trophyTitleName": "Whitestone",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11425_00_0057BE466BB4EA785494C025D0FD49C13FAFAB1C51/F8A253D3CE4D2ACBE39AB578D90551E4EC05443D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR11435_00": {
+        "npCommunicationId": "NPWR11435_00",
+        "trophyTitleName": "Assassin's Creed® II",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11435_00_00025CC40B8D85858575298BAA090D80E9E134D207/987B37AA2202ABB7055B12AD6E63A95EC077D01E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 15,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR11436_00": {
+        "npCommunicationId": "NPWR11436_00",
+        "trophyTitleName": "Assassin's Creed® Brotherhood",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11436_00_00C89B12831B7D5D7ECB16CB8B7AE050E9BA8B8760/09B139DED0DC4E6DCA3EE321927F133A843D88F1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 13,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR11437_00": {
+        "npCommunicationId": "NPWR11437_00",
+        "trophyTitleName": "Assassin's Creed® Revelations",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11437_00_0034E02A5B10EA864673E7E129B40D853AD830A629/4882EE3E0AC8D3831789B971A59B3372F2049F21.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR11438_00": {
+        "npCommunicationId": "NPWR11438_00",
+        "trophyTitleName": "Big Buck Arcade",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11438_00_004F9D0F42D4AC37E65A5CAB976448224DEF89539D/34000E0BF817B247B5EF7919557B942D3ADC4A20.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR11439_00": {
+        "npCommunicationId": "NPWR11439_00",
+        "trophyTitleName": "Star Trek Online",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11439_00_005B3A8E11F426C7731BCEF4C452B3A0C90875577D/C80F79392754E49F464FBB70A027BBAE352BF9E6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR11441_00": {
+        "npCommunicationId": "NPWR11441_00",
+        "trophyTitleName": "Ace Banana",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11441_00_00988F483626CA546B1C99A4175DF06CA087FFB75B/5F34A284A75085A4A260E920BD8E638F39FBA3B0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR11442_00": {
+        "npCommunicationId": "NPWR11442_00",
+        "trophyTitleName": "DOGOS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11442_00_0042674996AD0220E91B21EE72C6A62ED6628E9533/D1ABAD0C689481968CF2EC005F93A789D77329C9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR11444_00": {
+        "npCommunicationId": "NPWR11444_00",
+        "trophyTitleName": "NBA 2K17",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11444_00_006F8FD7C0DA2EB30D293EC58EB2B99C501B837B9F/87FF9991A485D4A90AE6AAE8D945E84610BD697D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 34
+        },
+        "service": "trophy"
     }
 }
