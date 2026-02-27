@@ -72538,5 +72538,135 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR12416_00": {
+        "npCommunicationId": "NPWR12416_00",
+        "trophyTitleName": "The Bard's Tale",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12416_00_00821D004DECDA5A5B092695FF2FFFAE3688EF5F6F/1769C6C7F4F13792250276F361F85BBF37681079.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 4,
+            "bronze": 45
+        },
+        "service": "trophy"
+    },
+    "NPWR12418_00": {
+        "npCommunicationId": "NPWR12418_00",
+        "trophyTitleName": "マルディタカスティーラEX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12418_00_00834927146C51A8405AAC8B73E1CBF8712B59451A/0CD38865BE8A53439A211782EE193CD5CC23DD8A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12420_00": {
+        "npCommunicationId": "NPWR12420_00",
+        "trophyTitleName": ".hack//G.U. Last Recode",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12420_00_004CFA3BC8F30677DC89574347A7E1EA696668FFF5/39464FDA8149F0C45AAFD715A2FC5AF91496F5AF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 4,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR12421_00": {
+        "npCommunicationId": "NPWR12421_00",
+        "trophyTitleName": "Accel World vs. Sword Art Online",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12421_00_0005C53209CDE8EB75D5B04BAC2ED2677EECF7DB98/99474B2CAFF4B986045ABE3616D61E07438EBDB4.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR12425_00": {
+        "npCommunicationId": "NPWR12425_00",
+        "trophyTitleName": "Siralim 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12425_00_00D608C1A3426C4802C23EB24280CBBD16B0621FB9/763902838E05365E52E2A7E9728F3011234A93B8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR12426_00": {
+        "npCommunicationId": "NPWR12426_00",
+        "trophyTitleName": "Patapon™2 Remastered",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12426_00_00609725AA987C51414348D0D4265FFF7E0348E157/036B9B77E0762CB5610B5810AD7243E5A99E17F6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR12430_00": {
+        "npCommunicationId": "NPWR12430_00",
+        "trophyTitleName": "Vaccine",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12430_00_0005C9DEB4E53D7F42399CC6E97A0F7C49FF326DA1/3FB1AEBE48CB2156CB98DC5C3CA8DCC29485349B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR12431_00": {
+        "npCommunicationId": "NPWR12431_00",
+        "trophyTitleName": "Shoppe Keep Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12431_00_0011CAE9C72F0E3C1D560A39AEA55E7F64FBCA23A6/9680433E117DC6429583E70F5F9D03BDC45BDE61.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR12432_00": {
+        "npCommunicationId": "NPWR12432_00",
+        "trophyTitleName": "花咲ワークスプリング！",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12432_00_001F466A2440AF322841E8B5C80B72323339ED5FE6/90F4FB5633E376E26D515164BAD724978F26A46B.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 5,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR12433_00": {
+        "npCommunicationId": "NPWR12433_00",
+        "trophyTitleName": "無双☆スターズ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12433_00_005EE652074FD1C555491773D15EA500C3527A5292/C467682D3A0568B89E3C136927B6EB61CC245C42.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 2,
+            "bronze": 29
+        },
+        "service": "trophy"
     }
 }
