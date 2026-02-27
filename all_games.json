@@ -73968,5 +73968,135 @@
             "bronze": 5
         },
         "service": "trophy"
+    },
+    "NPWR12576_00": {
+        "npCommunicationId": "NPWR12576_00",
+        "trophyTitleName": "StarryNights -Helix-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12576_00_006070C014A804BBF19B47DB3F5C46B8738BDC2593/C42AD4F310512898F6ED139C919BDE1304F17DD7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR12577_00": {
+        "npCommunicationId": "NPWR12577_00",
+        "trophyTitleName": "무쌍☆스타즈",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12577_00_003CA888086EF572390D0E13F087C10FC75F9C950B/98F0DD79FA3C9EB5DF6EF6CBDEAD51FD9B7834C2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 2,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR12581_00": {
+        "npCommunicationId": "NPWR12581_00",
+        "trophyTitleName": "Embers of Mirrim\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12581_00_00D14F5A756C9B762CD718351EE2E21A8278AA1A3A/BF033656C258E3993A89E0BE1F9E77470C00ABA0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR12582_00": {
+        "npCommunicationId": "NPWR12582_00",
+        "trophyTitleName": "Boiling Bolt",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12582_00_003245BAF07224B41D17D8F16B2A459E269939B9D8/058B21F815D3DE6A9355D796672DC4E076ADED1C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR12583_00": {
+        "npCommunicationId": "NPWR12583_00",
+        "trophyTitleName": "F1™ 2017",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12583_00_00FF422ACFCC616B82A09632A0F4D31B4730DFCAF0/075DB9B25971282FBC85ACCD37BC94B16A8C8856.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR12586_00": {
+        "npCommunicationId": "NPWR12586_00",
+        "trophyTitleName": "_>OBSERVER_",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12586_00_0031BBE6540910D71EEA3CA7AD984B0646D31DC3DC/C5C6F7A2247B62F49D59094F56FACBCD70A9B4F9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR12587_00": {
+        "npCommunicationId": "NPWR12587_00",
+        "trophyTitleName": "Winkings Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12587_00_00A8870F9AB1A4E758E8C6661437AB5AABBB86DD38/4CF7ED7B97D3672861F56BC259849135654A7745.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 15,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR12590_00": {
+        "npCommunicationId": "NPWR12590_00",
+        "trophyTitleName": "Agatha Christie - The ABC Murders",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12590_00_002659BE41861F3C94E6DE3043868FFDA051740F09/69E0B197670B3A5EBF8E83370E407638804A77E9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR12591_00": {
+        "npCommunicationId": "NPWR12591_00",
+        "trophyTitleName": "Hellblade: Senua's Sacrifice",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12591_00_0037BD7D4462740EE895422284E277AAE06AC848FC/42AF55CC21C0E6E60ABACDF963589608D1218FDA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR12592_00": {
+        "npCommunicationId": "NPWR12592_00",
+        "trophyTitleName": "Hellblade: Senua's Sacrifice",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12592_00_009A396314896B7BFBCCD5BAF1BC1217CD0BB08DCF/31D375EE4DC8B0ABE3CED1043C0883C0F82DE932.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 0
+        },
+        "service": "trophy"
     }
 }
