@@ -69808,5 +69808,135 @@
             "bronze": 4
         },
         "service": "trophy"
+    },
+    "NPWR12067_00": {
+        "npCommunicationId": "NPWR12067_00",
+        "trophyTitleName": "MUSYNX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12067_00_00F764B14A5B0A0FC9AA7B6363834F3D9FFBF2DD0F/7168267BFBC826E0226E5E29F39D670AA5F456C5.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR12070_00": {
+        "npCommunicationId": "NPWR12070_00",
+        "trophyTitleName": "Chime Sharp",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12070_00_002FF1F2A269A4E502F4BB74271E5339F2F65B9DF1/39CC739E0510CE2CAFA73BAD02A20DCA2E16FFAA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR12071_00": {
+        "npCommunicationId": "NPWR12071_00",
+        "trophyTitleName": "Chime Sharp",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12071_00_00008262CACE5AE62AC2B3AFDB95EB3F88EA20D725/D94E650B8C4DEE603CAE71D817CD30E159DBD445.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR12072_00": {
+        "npCommunicationId": "NPWR12072_00",
+        "trophyTitleName": "Radial-G : Racing Revolved",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12072_00_00F1D4B63415F19EFED4E0BE93C4200350D732B2BE/8DCEB118430D98ED87456D6BC8C3AF5503BD58C5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR12078_00": {
+        "npCommunicationId": "NPWR12078_00",
+        "trophyTitleName": "Marvel Pinball Epic Collection Vol. 1",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12078_00_00194DC3323B90835214EB65BB56574A4B879687C5/1AE591E3D5EEA0E14BB8CD87DB88D66E03DC9C19.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR12079_00": {
+        "npCommunicationId": "NPWR12079_00",
+        "trophyTitleName": "Valhalla Hills",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12079_00_003D33FCD37F6E4E736850ACB1A715DE0DDA40B6FF/2F66EE6542F51E6D5B1E64ECDBD38057BAFADBD2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR12080_00": {
+        "npCommunicationId": "NPWR12080_00",
+        "trophyTitleName": "The Longest Five Minutes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12080_00_00D41B52B2085D08C55D46F07F70EF9067B06634A1/4B9D45DC40BCE6F7E4F695A1DBFCB8C83C9BF49F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR12081_00": {
+        "npCommunicationId": "NPWR12081_00",
+        "trophyTitleName": "Touhou Genso Wanderer",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12081_00_00988DC1736A48F330BFF748772A953897C3C414E9/600C96953FD0AD865328BA39A6963AE9DD3A4A25.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR12082_00": {
+        "npCommunicationId": "NPWR12082_00",
+        "trophyTitleName": "Time Machine VR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12082_00_00AA34CA38E1FBC10349EE8DBF8BD578F472145CDC/65A9A7B1D66525FB90DDB0820AB956F4B4CE1ACC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR12083_00": {
+        "npCommunicationId": "NPWR12083_00",
+        "trophyTitleName": "EA SPORTS™UFC®3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12083_00_0043CE96DD54577C5AB7EC88D39D5FE908323D808E/3DD16CA215C231B8F4C9EBD1A535E06583DC094B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 16
+        },
+        "service": "trophy"
     }
 }
