@@ -66168,5 +66168,135 @@
             "bronze": 1
         },
         "service": "trophy"
+    },
+    "NPWR11603_00": {
+        "npCommunicationId": "NPWR11603_00",
+        "trophyTitleName": "Arcade Archives Mutant Night",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11603_00_00126AC88FC3666CF86E37A62F74484AB62C91E2EB/726D4003B13122D887D8BFF2BF01AB457E021959.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR11605_00": {
+        "npCommunicationId": "NPWR11605_00",
+        "trophyTitleName": "ICEY",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11605_00_00BE9DE471476818EA0DFAD255E3E6E63312C23196/63EC5AF0CCBDD610426F28710A486F1D42B324BC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR11606_00": {
+        "npCommunicationId": "NPWR11606_00",
+        "trophyTitleName": "LEGO® Harry Potter™ Collection: Years 1-4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11606_00_009B15484E8570FD5C81BA5C125B8C638A5BEE8A75/DE15B3D5F3AB692FF87328462606FDB55134AACB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR11608_00": {
+        "npCommunicationId": "NPWR11608_00",
+        "trophyTitleName": "Headmaster",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11608_00_003F9DFCC7F8809992EACFF1E319BDD558EF873447/2B2ABBB18A40EFB838AF91F2699D49E58081F0D1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR11609_00": {
+        "npCommunicationId": "NPWR11609_00",
+        "trophyTitleName": "Knobswitch",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11609_00_00FE652A00B097389F7BA1831B2A5145B4CB2ADCA5/781B3BE220A2248930E9E1FE1650736C32B638D1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR11610_00": {
+        "npCommunicationId": "NPWR11610_00",
+        "trophyTitleName": "LEGO® Harry Potter™ Collection: Years 5-7",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11610_00_006350FAC8B3770B3C7D7308EDF44269F9E9678F47/A523113038FA35C930D6C53949447341AE0E0CBC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR11611_00": {
+        "npCommunicationId": "NPWR11611_00",
+        "trophyTitleName": "Baboon!®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11611_00_009CB2310E35A303A82A8508954140258372017828/97DD3C49BA297BA684A313D2363311584330E32F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR11612_00": {
+        "npCommunicationId": "NPWR11612_00",
+        "trophyTitleName": "AIR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11612_00_003814ED10F7B5DC8E48CEFE2FF4C9D36F5641996B/8A4F7C5795ED5B54B81D82D43023A0F852907CAA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 6,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR11613_00": {
+        "npCommunicationId": "NPWR11613_00",
+        "trophyTitleName": "DEADBOLT",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11613_00_00AE7BBE51D6C2ECC6751B18F7CF253B60DEAC6101/511B924739C939121AD175E16879C960E66321F8.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 18,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR11614_00": {
+        "npCommunicationId": "NPWR11614_00",
+        "trophyTitleName": "Huntsman: Winter's Curse",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11614_00_0094DCEA74F76C0EF83855C0E09947DC321822B103/846EBFD7B1D4FA7DA8D676B1BD22D6DFA10C1550.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
     }
 }
