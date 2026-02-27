@@ -49398,5 +49398,135 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR09109_00": {
+        "npCommunicationId": "NPWR09109_00",
+        "trophyTitleName": "Hyperdimensional War : Neptune's Platoon VS SEGA HARD GIRLS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09109_00_0013D24707CF0B5E4E453836C244FEA09E47929320/8CEC9E74AE481572BB9ACF0130C27A41DA9F93C2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR09116_00": {
+        "npCommunicationId": "NPWR09116_00",
+        "trophyTitleName": "あやかしごはん～おおもりっ！～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09116_00_00321546E7A8B9508BF3C3A8E60ECB6FEAA0051376/C4790C49957BADC1681F2B6D120F1098E9EBC929.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR09117_00": {
+        "npCommunicationId": "NPWR09117_00",
+        "trophyTitleName": "Knights of Valour",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09117_00_008AEBAB0663579B25517AFF07C965AD857456E4CE/3F06351E09CE3CA1DB4112B085C2CC96B8862640.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR09118_00": {
+        "npCommunicationId": "NPWR09118_00",
+        "trophyTitleName": "Beyond Eyes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09118_00_00A6AC2833B6BF4E5E3B8D97D5BCDD15E13CE844A1/5EA382288AE059F606C66A9158F20D1B10BE636C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09122_00": {
+        "npCommunicationId": "NPWR09122_00",
+        "trophyTitleName": "Giana Sisters: Dream Runners",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09122_00_007CFFE17E9FF47E2ACCBEF3DA8369D70B39C2B708/DCEFCB01E6F0257CF6EFAC7FFB2FFA20ED69900B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR09123_00": {
+        "npCommunicationId": "NPWR09123_00",
+        "trophyTitleName": "Leo's Fortune",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09123_00_00DD141E9B7D89664D24CB8A318C30ACBCC6DA6F0C/5D998CA635CF80351122C50655B294301CA775DD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR09124_00": {
+        "npCommunicationId": "NPWR09124_00",
+        "trophyTitleName": "Unravel™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09124_00_0081C0245874DC9B27E63C282FF13C0BEC7A6FB553/E54C44BA8969BBF703600979CB2596AB2441E293.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR09127_00": {
+        "npCommunicationId": "NPWR09127_00",
+        "trophyTitleName": "Brothers : a Tale of Two Sons",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09127_00_0006973573DAAF2EC1D64716CB52848CFEEE43F8E5/3129DF831C779532FE352F6972D18877F0B6ECCD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR09129_00": {
+        "npCommunicationId": "NPWR09129_00",
+        "trophyTitleName": "Big City Stories",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09129_00_0031848BF41C5524C320934E59FECDFE746140B713/7A9782BCFCB8A0B6AADE84531F8FBAE5B763741D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR09130_00": {
+        "npCommunicationId": "NPWR09130_00",
+        "trophyTitleName": "Polara",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09130_00_00BC5212D08B49080B262CB72B944EBA76105C0BF7/8B0EDCAA85075557F970CA0456E07F13C879E557.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
     }
 }
