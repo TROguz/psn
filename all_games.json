@@ -41728,5 +41728,135 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR07892_00": {
+        "npCommunicationId": "NPWR07892_00",
+        "trophyTitleName": "Borderlands: The Pre-Sequel",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07892_00_003FA51A157327D7CDA564A80FAF1808DFCC3D5111/3811B4651E7D8BE4305F08FFF82DACF917A5CEF3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 47
+        },
+        "service": "trophy"
+    },
+    "NPWR07893_00": {
+        "npCommunicationId": "NPWR07893_00",
+        "trophyTitleName": "Scrabble",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07893_00_00A50C9A0217BA30CFCA3E93CE019EB6ABA46FD6E7/E7ADE91A7FBCEBCA56AE02616D57912AD0FDF9D8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR07894_00": {
+        "npCommunicationId": "NPWR07894_00",
+        "trophyTitleName": "不思議のダンジョン　風来のシレン5 plus",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07894_00_00D10E0D5EDAB4882822CE731A54F7E4E1E9D98DEE/7E53C29BAF063C1BD270DD12A6DD55592C401E74.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR07895_00": {
+        "npCommunicationId": "NPWR07895_00",
+        "trophyTitleName": "The Witcher 3: Wild Hunt",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07895_00_00F3835DB9D03005B3AFA34E5DCFB01A7DF3BC14A8/AC229C223A552DEC74BD45267F054F18BEB44040.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 68
+        },
+        "service": "trophy"
+    },
+    "NPWR07897_00": {
+        "npCommunicationId": "NPWR07897_00",
+        "trophyTitleName": "DARK SOULS III",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07897_00_00B1B88693A993473272413EDB83CC197E895B34D1/3F49215DC1A348E47575B58B205808F148F3D3A8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR07900_00": {
+        "npCommunicationId": "NPWR07900_00",
+        "trophyTitleName": "Giana Sisters: Twisted Dreams - Director's Cut",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07900_00_004034CC1835B2BBC7E98B00FD961CB4C1C7204BE1/1EA41AA244E8FC7A6A3F436CDF91366883C93337.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR07901_00": {
+        "npCommunicationId": "NPWR07901_00",
+        "trophyTitleName": "LOVELY×CATION 1&2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07901_00_00D4FB40502C5059ED59EF9A7B4A7EE50485634C5B/6CC273970288B4BE9530ED2C7DE703CA09C54C71.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 21,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR07903_00": {
+        "npCommunicationId": "NPWR07903_00",
+        "trophyTitleName": "SpongeBob HeroPants",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07903_00_00FF6B937161C1233006900CCA7C70A9659763E60C/F408F71BB0C4BBB260FDF8B86D832073F9517279.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR07904_00": {
+        "npCommunicationId": "NPWR07904_00",
+        "trophyTitleName": "King's Quest",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07904_00_006CDF551393EAAC1BDA4658CB85E97A130DB3835D/4ADDDC7CB7379E57CBA95481F5773C5D06A127A8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 10,
+            "bronze": 43
+        },
+        "service": "trophy"
+    },
+    "NPWR07905_00": {
+        "npCommunicationId": "NPWR07905_00",
+        "trophyTitleName": "King's Quest",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07905_00_00EE50D8D1333434E434E9645C48B944EF83E2A0CE/CB1A06FF69E2163C38E8F6646E14E9F49D3A3C8D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 10,
+            "bronze": 43
+        },
+        "service": "trophy"
     }
 }
