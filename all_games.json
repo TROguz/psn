@@ -53298,5 +53298,135 @@
             "bronze": 6
         },
         "service": "trophy"
+    },
+    "NPWR09714_00": {
+        "npCommunicationId": "NPWR09714_00",
+        "trophyTitleName": "Earth Defense Force 4.1: The Shadow of New Despair",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09714_00_00FEE9699CF89C2F19E6279A33929A71BB07E85329/C808F11710858506ECEC91BACD31C4D7BA6F3610.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR09715_00": {
+        "npCommunicationId": "NPWR09715_00",
+        "trophyTitleName": "STAR OCEAN: Integrity and Faithlessness",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09715_00_00E7CF3C1BE6A0AB427362C56749E32BB564B3BE7B/2DF8001B06147EE03A1ABDAB8F0D514F3D47933A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR09716_00": {
+        "npCommunicationId": "NPWR09716_00",
+        "trophyTitleName": "DIGIMON STORY CYBER SLEUTH",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09716_00_00944E0C913C87D700FF75A9CE212A18C10B136560/91F18D5CDA2CD9614F6888EE8884FEA556AE4D4C.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR09718_00": {
+        "npCommunicationId": "NPWR09718_00",
+        "trophyTitleName": "スターオーシャン５ -Integrity and Faithlessness-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09718_00_00E6B1953F7035AC84D8366F6A4B912317730FB63F/E5A2B5CDC91E0B66108FAA1F0BE474965D70C28B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR09719_00": {
+        "npCommunicationId": "NPWR09719_00",
+        "trophyTitleName": "SOMA",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09719_00_00BD4883DDEBC423FF62C085C16F34AB1B22507488/AB8A8D6092867BA337EC01DC52E6AA4080A7BF33.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 9,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR09720_00": {
+        "npCommunicationId": "NPWR09720_00",
+        "trophyTitleName": "SOMA",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09720_00_00E850152EC8EAF2849F84AD86AC8560C826E05DBF/46C2F6C586E724C1BA9EF4A2AA2D9E3C20BC8A77.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 9,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR09725_00": {
+        "npCommunicationId": "NPWR09725_00",
+        "trophyTitleName": "三國志13",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09725_00_00A52729D166A0322237927932D567FE30037EE3C2/F57E3FE6236B6BA778F082B8F440F081BEED30B0.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 18,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR09730_00": {
+        "npCommunicationId": "NPWR09730_00",
+        "trophyTitleName": "Super Meat Boy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09730_00_0029C9D8C4B151993AB7BD52FBB8118C0D37B1ED82/30054659B3CA9A538213FB62812210E97F8C3586.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR09731_00": {
+        "npCommunicationId": "NPWR09731_00",
+        "trophyTitleName": "The Surfer",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09731_00_00CD52FB3F1C98E21602AADB5DBA6D37A6F3CE886F/69E2F11922F5D1FFAEF45324DE13CEB6C1FD09F4.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR09734_00": {
+        "npCommunicationId": "NPWR09734_00",
+        "trophyTitleName": "NOW That's What I Call Sing",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09734_00_0052937049D20C1A316BEBB1C095808D55EE017DEC/D9D6CD5084C31C2F3997D45100E5F07DBB69EF0D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 20
+        },
+        "service": "trophy"
     }
 }
