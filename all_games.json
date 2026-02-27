@@ -29248,5 +29248,135 @@
             "bronze": 20
         },
         "service": "trophy"
+    },
+    "NPWR05246_00": {
+        "npCommunicationId": "NPWR05246_00",
+        "trophyTitleName": "Super Motherload",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05246_00_00BDE361C2DE0909B17434B46EE6E9E93211A189F1/62C34BE1DD073F2D8B86C7B53165BDAC60942D8B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR05248_00": {
+        "npCommunicationId": "NPWR05248_00",
+        "trophyTitleName": "Blacklight: Retribution",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05248_00_006BFE7970C78664169E69FF61357EDF513D78A629/DB1DA8B3DA42550BF7071F8381E318BDF024E191.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR05254_00": {
+        "npCommunicationId": "NPWR05254_00",
+        "trophyTitleName": "DRIVECLUB™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05254_00_0035A0268243FACE848A78FC8876CECE4F7ECECBD3/09000885A1AA03C74FC05EBD176F00295738B386.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 26,
+            "silver": 47,
+            "bronze": 54
+        },
+        "service": "trophy"
+    },
+    "NPWR05256_00": {
+        "npCommunicationId": "NPWR05256_00",
+        "trophyTitleName": "RAMBO THE VIDEO GAME",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05256_00_0023B963448AD7403D9B8BB9A6FC0D02C5F8F565AF/9CCC399AF947B5A0D01F48D9D008B2137BE7A097.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 4,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR05257_00": {
+        "npCommunicationId": "NPWR05257_00",
+        "trophyTitleName": "Mutant Mudds Deluxe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05257_00_006D2FCA8C6858F92385C953B2F4ECB26B9C848732/A27DF198D0B3972AD48D9C7AA09F7F246AABEC9F.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR05260_00": {
+        "npCommunicationId": "NPWR05260_00",
+        "trophyTitleName": "信長の野望･創造",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05260_00_004CADC8E14CE3845AC737A8FDF2383B0C5781A0D1/8734C286C2631791A04456C709D6D36B08225D91.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 20,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR05262_00": {
+        "npCommunicationId": "NPWR05262_00",
+        "trophyTitleName": "猛獣使いと王子様",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05262_00_0095D6040DF7C57F20A42E1E3E5206E03796FC1749/C56D360C95024D3590A1E21097DB6CC4198512BC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 20,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR05268_00": {
+        "npCommunicationId": "NPWR05268_00",
+        "trophyTitleName": "もっと姉、ちゃんとしようよっ！+PLUS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05268_00_00A6EC57456E142D6702CF0BF703211E87C5025F07/EF5A5BC159D04EACC75E2630B92D88D78D6E3127.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 15,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR05271_00": {
+        "npCommunicationId": "NPWR05271_00",
+        "trophyTitleName": "新・ロロナのアトリエ はじまりの物語\n～アーランドの錬金術士～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05271_00_00212520972A3B41B6651392E3C07F9999374886AA/744A4BCA20B820D2EEFDBFF5B1A472C66EAE3734.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR05274_00": {
+        "npCommunicationId": "NPWR05274_00",
+        "trophyTitleName": "MLB® 14 The Show™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05274_00_0049DE4505829A8089A0BAB6F5CB95ACE6607AE3E3/8218BEA8A78CD918B7B0203BB5DA27200E21EC97.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 8
+        },
+        "service": "trophy"
     }
 }
