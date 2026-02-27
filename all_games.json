@@ -54728,5 +54728,135 @@
             "bronze": 18
         },
         "service": "trophy"
+    },
+    "NPWR09937_00": {
+        "npCommunicationId": "NPWR09937_00",
+        "trophyTitleName": "Pang Adventures",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09937_00_0061C416AE41B0CC81D9D3BF0BA8AC9B05406C8C0B/E507B508630960ED2BCB02D9FB1CD6B574F48F70.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR09940_00": {
+        "npCommunicationId": "NPWR09940_00",
+        "trophyTitleName": "ご注文はうさぎですか？？ Wonderful party！",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09940_00_00325DF733B798F9DB07E7687E6D927B1C0AC3C695/A17A0560CB8EB035C04E94F0C66B312E9EBEA6DF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR09947_00": {
+        "npCommunicationId": "NPWR09947_00",
+        "trophyTitleName": "Dogchild",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09947_00_0085862084307975E4D695A31BF8493ACC3C7E71D2/6C9733ACFD185E2B1F0915E550229A2D149AC171.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR09957_00": {
+        "npCommunicationId": "NPWR09957_00",
+        "trophyTitleName": "Teslagrad",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09957_00_00436FA274B6FF28660A7142BE3809867064D10E8F/5C54032BC4AFFA0D32B3D565DA3C9C7A0B0B09FC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR09958_00": {
+        "npCommunicationId": "NPWR09958_00",
+        "trophyTitleName": "Red Game Without Great Name",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09958_00_00BE27BFB5267EE058533AE5F2CB998E7B2730AA1B/B2AE1E62173F3E02450E108A9926CCF648C88927.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR09959_00": {
+        "npCommunicationId": "NPWR09959_00",
+        "trophyTitleName": "Teslagrad",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09959_00_009C7A46073282CA22C51C03B32F2C34CC6015DE9E/2E495038C13D11F4E70E3B1B6722608D6B1B3ABD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR09960_00": {
+        "npCommunicationId": "NPWR09960_00",
+        "trophyTitleName": "Teslagrad",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09960_00_0088724880416817E1AB958412EBD0ED1876B68D26/239D760C0F35191A058D5826279E57D93004F536.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 8,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR09962_00": {
+        "npCommunicationId": "NPWR09962_00",
+        "trophyTitleName": "ARCADE GAME SERIES: GALAGA",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09962_00_00D9139D1ABFDC0A3FA5F533266753D1AFF3525042/09812CC91BC745BBB9DCA00232C622302BF7E63E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR09963_00": {
+        "npCommunicationId": "NPWR09963_00",
+        "trophyTitleName": "ARCADE GAME SERIES: DIG DUG",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09963_00_007A0A8ECAB398BFB792710CCEE7DAEFA07DA0DEF9/8D217FC0E383C715B891CB262FEF167EE572F60C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR09964_00": {
+        "npCommunicationId": "NPWR09964_00",
+        "trophyTitleName": "ARCADE GAME SERIES: PAC-MAN",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09964_00_00C5E15D977E809643C2D192F76584A0B2D3F0FDB1/2E995532098A22C5EB870A9E61D875619EA06EE6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 6
+        },
+        "service": "trophy"
     }
 }
