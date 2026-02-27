@@ -55378,5 +55378,135 @@
             "bronze": 16
         },
         "service": "trophy"
+    },
+    "NPWR10031_00": {
+        "npCommunicationId": "NPWR10031_00",
+        "trophyTitleName": "ZOTRIX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10031_00_002B39F8152E7AEE1C4EF4183C6963A78C662F2103/98044467664AC3880FAA835EBD30BEB9CFFCA22F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 4,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR10032_00": {
+        "npCommunicationId": "NPWR10032_00",
+        "trophyTitleName": "サガ スカーレット グレイス",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10032_00_00DEFCBB89E15AEDC3CD05896EFB5EADC1EA692EFA/7AB490729F8663E90D245C383074D9B2C3B65119.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 10,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR10033_00": {
+        "npCommunicationId": "NPWR10033_00",
+        "trophyTitleName": "SD Gundam: G Generation Genesis",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10033_00_004AB179F08034B323014FF6A779C830783F60759B/7B77EE018A7F06F64AF99FDD58231B2458C6BB1F.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR10035_00": {
+        "npCommunicationId": "NPWR10035_00",
+        "trophyTitleName": "Sky Force Anniversary",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10035_00_007E6ACB97FF4847BDE70B525ABDD5A78B19EC70C8/514B578847D35233D7F5AF07306013C1393BAB83.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR10038_00": {
+        "npCommunicationId": "NPWR10038_00",
+        "trophyTitleName": "Super Blast Deluxe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10038_00_005B05ED7981E4978A084CB149A8E5C81B1398DC65/EE75A695704E22E7D97687274B4F43C58DC4A46D.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 11,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10039_00": {
+        "npCommunicationId": "NPWR10039_00",
+        "trophyTitleName": "Joe Dever's Lone Wolf Console Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10039_00_006FFD4437813E4E8B054C2EDF86CB5B626EC21B0D/BDAE14310AAAF8E5E32B2FE8EE07BE30DACE069A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 15,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR10040_00": {
+        "npCommunicationId": "NPWR10040_00",
+        "trophyTitleName": "THE LEGEND OF HEROES: TRAILS OF COLD STEEL",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10040_00_004CA173CDD50C637DBAFB4C701E9234271C26D975/CFAF3E523292805E859F3E2B3DDADA697B1F86B9.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR10042_00": {
+        "npCommunicationId": "NPWR10042_00",
+        "trophyTitleName": "Verdun",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10042_00_00B640B18AB83E08CBC27720574E4240ACA10C26F6/79FE7A9A4D00CF97CF6364DA78FBC52E64F58CFE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 10,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR10043_00": {
+        "npCommunicationId": "NPWR10043_00",
+        "trophyTitleName": "ShadowBladeTrophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10043_00_000BA5D55E3401112C7D6B57F2DEAEF88F48917779/19DD3FE0CF601AB980D4E9E0ACB03CACB52A0A19.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR10044_00": {
+        "npCommunicationId": "NPWR10044_00",
+        "trophyTitleName": "Alien Shooter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10044_00_0083C90BC757A6014CDAD016A78D4B43E9A0B8A96C/AA15F584F30608DF33833762C46729D27B698DB1.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
