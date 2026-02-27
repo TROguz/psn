@@ -77738,5 +77738,135 @@
             "bronze": 19
         },
         "service": "trophy"
+    },
+    "NPWR13062_00": {
+        "npCommunicationId": "NPWR13062_00",
+        "trophyTitleName": "Slain: Back from Hell",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13062_00_0015400627C41292C54C6DE8917A4DB08C818257A3/405A05F58DB0E8EA555561A2AD778D47C125270E.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR13063_00": {
+        "npCommunicationId": "NPWR13063_00",
+        "trophyTitleName": "Dungeons of Sundaria Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13063_00_003B84C860401166008993D82B41587BA88A39CDA3/93802F43F543CD28876D2A515C4F4B254A9A7F53.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 2,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13064_00": {
+        "npCommunicationId": "NPWR13064_00",
+        "trophyTitleName": "Kerbal Space Program Enhanced Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13064_00_000CAF97FAA9986B1403627A35A06583273910B19B/84BF6E3D0D3AF9B2492DE5E63BAF1494D59023EE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 18,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR13067_00": {
+        "npCommunicationId": "NPWR13067_00",
+        "trophyTitleName": "Mages of Mystralia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13067_00_009AAC1E08BC169CD8E814078BA41F0B09D2FAF5CE/27F57935449C4D51EB90746638B10E24EF808B26.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR13068_00": {
+        "npCommunicationId": "NPWR13068_00",
+        "trophyTitleName": "The Invisible Hours",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13068_00_0072F09862B2D8C50092E65CDF13F83576062C265A/2AB8144EFD22D50FDE90EE46B26534827F01BFF1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR13069_00": {
+        "npCommunicationId": "NPWR13069_00",
+        "trophyTitleName": "悠久のティアブレイド -Fragments of Memory-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13069_00_00416921902CC742E166D9D87844EA178663EA8161/D4CBCF690DAA4FAAB778647A57BD9DCBB79D6D84.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR13077_00": {
+        "npCommunicationId": "NPWR13077_00",
+        "trophyTitleName": "ハコニワカンパニワークス",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13077_00_00098715002F33E45C2BFEB42E38E96F3086721B4E/0F2B012A4A320A202655A63DA2C5FC424959487F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR13080_00": {
+        "npCommunicationId": "NPWR13080_00",
+        "trophyTitleName": "ネオ アンジェリーク 天使の涙",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13080_00_00A1FD11556922BC5D3CF74B2CEEAECA5AF65A5637/AFFECD6A773D7A1AE7FF02882156FDAC4ED79963.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR13081_00": {
+        "npCommunicationId": "NPWR13081_00",
+        "trophyTitleName": "Monster Energy Supercross - The Official Videogame",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13081_00_00A74C1FFAA7A6E043206C64D190FD4C8CD2243815/C348C78AF2662CC3E9464B02EDBD77E4A219D47B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR13083_00": {
+        "npCommunicationId": "NPWR13083_00",
+        "trophyTitleName": "Tachyon Project Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13083_00_00D3303A6F295707A633BDAB7C46113631973A718A/8AB691C7D33965407F4D00CBFA93E282AA4F25AF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
