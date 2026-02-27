@@ -76438,5 +76438,135 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR12901_00": {
+        "npCommunicationId": "NPWR12901_00",
+        "trophyTitleName": "Transport Giant",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12901_00_00F1EF4E5BB8F660F7F1C04B115850797C52F5B27E/487B761CF24606E9A120C10790C8728E6E9CEF17.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR12903_00": {
+        "npCommunicationId": "NPWR12903_00",
+        "trophyTitleName": "Friday the 13: The Game",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12903_00_00DEBECE45FBC6B56DBF1F04B934BF7994190737B6/760BF3137990954E985CCEBE324CE4CE6ED26131.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR12904_00": {
+        "npCommunicationId": "NPWR12904_00",
+        "trophyTitleName": "Operation Babel: New Tokyo Legacy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12904_00_000BAA76603241B2B32D6FB5DDFDBFCD48D5FFD0BB/7621EFEAA7771B6DFF7A3F983F6F218842CE8BC2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 6,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR12906_00": {
+        "npCommunicationId": "NPWR12906_00",
+        "trophyTitleName": "Raiden V: Director's Cut",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12906_00_00786509EF405D86A73923DF263B5DBA309DC42EC7/203CB8435CD13605A8F7BCBFD44E17D3D444FE05.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR12907_00": {
+        "npCommunicationId": "NPWR12907_00",
+        "trophyTitleName": "Mortal Blitz Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12907_00_00E06169DB32B561640F7C8CF8654F20A320D719D8/4E72D28BE0096118219B77A2529ED3EB39F1456B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR12908_00": {
+        "npCommunicationId": "NPWR12908_00",
+        "trophyTitleName": "Dog Gone Golfing",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12908_00_00E82B0F71CD42ED37970F631DC388197444DE2F52/5BC35504835CA3169B79800738EB6F6E39D63554.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 0,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR12911_00": {
+        "npCommunicationId": "NPWR12911_00",
+        "trophyTitleName": "Transport Giant",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12911_00_00ACD9917EE729C60D7F37D13C0D99CDCF620C7428/DBE12FB774575BADD91D6A8D4AB855CBF85FEF58.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR12912_00": {
+        "npCommunicationId": "NPWR12912_00",
+        "trophyTitleName": "蝶々事件ラブソディック",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12912_00_0078FFC62C4103244E362FB2CB76D534053C8FDAFC/E2C1F52DC5A24D248E4141F827CCADC7D8692BFA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 14,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR12913_00": {
+        "npCommunicationId": "NPWR12913_00",
+        "trophyTitleName": "Winning Eleven 2018",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12913_00_00AC375FA2F489E3A3BE4EE4B8F1870E0260F12A52/801D09BE71E7EFFC071C24A7EAEF21DB7E36FB10.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR12914_00": {
+        "npCommunicationId": "NPWR12914_00",
+        "trophyTitleName": "박앵귀 꽃의 장",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12914_00_003815B4AEA685F10F545B9546E57DBB5B4D17E93C/78DF4CBF6841B48FDA0B985CB685918A8A2BCB01.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 16
+        },
+        "service": "trophy"
     }
 }
