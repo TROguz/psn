@@ -25868,5 +25868,135 @@
             "bronze": 8
         },
         "service": "trophy"
+    },
+    "NPWR04492_00": {
+        "npCommunicationId": "NPWR04492_00",
+        "trophyTitleName": "Turbo: Super Stunt Squad",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04492_00_0080E0927E9017F5C237D2B7DED7005FF8A65A8F78/C72BA7D8E93A998E496C5D0683180899BD975A8A.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 18,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR04494_00": {
+        "npCommunicationId": "NPWR04494_00",
+        "trophyTitleName": "テイルズ オブ シンフォニア",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04494_00_00E5F790DF71EF71395D9A84C4D11F2FC0A65DCDF5/39BE79598D779D99210A6D40EEACCBFE29272B97.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 14,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR04495_00": {
+        "npCommunicationId": "NPWR04495_00",
+        "trophyTitleName": "テイルズ オブ シンフォニア -ラタトスクの騎士-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04495_00_00A6E764DCC0CD26078A70B996EB28D23365B383E1/8947DC72BFF05C9783AB946641C8CBDDC3496694.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR04497_00": {
+        "npCommunicationId": "NPWR04497_00",
+        "trophyTitleName": "Tour de France 2013 - 100th Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04497_00_00F816ADCE58F5498C0A65AD00B3E6ABDECCF98F40/A3C73A63D9F1FAE50516F9F7CE637AB33F8E24BD.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 4,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR04500_00": {
+        "npCommunicationId": "NPWR04500_00",
+        "trophyTitleName": "Time and Eternity",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04500_00_004FBB0353D109CE8098AC073FC72C675B4BCDB2B5/ECB81FBBB5E9DDDF36C61B24D822F7A7E8B41F28.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 6,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR04501_00": {
+        "npCommunicationId": "NPWR04501_00",
+        "trophyTitleName": "三国恋戦記",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04501_00_00F68F57EF592A01FC8DCD67A6D6BAE72D92BEFB79/52F85955756809453F846E2507FD52446033D5F7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR04503_00": {
+        "npCommunicationId": "NPWR04503_00",
+        "trophyTitleName": "Legends of War: Patton (Digital)",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04503_00_005E14D79F59D19E7ABC4CE582A3EDA3081D9378F1/A65E4D7FBDFF686AC7B845350570BE0271BADA63.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR04504_00": {
+        "npCommunicationId": "NPWR04504_00",
+        "trophyTitleName": "The HD Adventures of Rotating Octopus Character",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04504_00_0074FDD674D13987C9FFE7306D40146E04D99CAC82/A377D6C778B3A74E0DE0E3FB7C3942C93B2B8700.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR04506_00": {
+        "npCommunicationId": "NPWR04506_00",
+        "trophyTitleName": "Rock of Ages",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04506_00_00B11F4D5833DE90ED99CAA14BBD509201941A8D49/B4E7A13195AB3F08049EEFE3D7C0C47CA5828AEA.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR04508_00": {
+        "npCommunicationId": "NPWR04508_00",
+        "trophyTitleName": "真・三國無雙７",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04508_00_001C03977684FCCF9CA2F35D9E32165A24E22D7D30/41752A9C6842ED551A87BD47B75DE976FC9A9690.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 20,
+            "bronze": 18
+        },
+        "service": "trophy"
     }
 }
