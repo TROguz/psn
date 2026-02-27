@@ -80468,5 +80468,135 @@
             "bronze": 22
         },
         "service": "trophy"
+    },
+    "NPWR13405_00": {
+        "npCommunicationId": "NPWR13405_00",
+        "trophyTitleName": "Castaway Paradise\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13405_00_00D6F91E8CAFEDFB179DC43BA3857D3EC0B64D5BFD/66A3BAE816C233A40E48E6E5C8B99F0F045E4A98.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 21,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR13406_00": {
+        "npCommunicationId": "NPWR13406_00",
+        "trophyTitleName": "BRIKS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13406_00_00AC33590008AE54C6DDC4A7B0AC6E630EBE65ABBB/B044573BC4593EA49ACEFB8F351F557222A6BEFD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR13407_00": {
+        "npCommunicationId": "NPWR13407_00",
+        "trophyTitleName": "The Tenth Line Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13407_00_00DCFFC041BDBAA59819C6A3CF6FB8F21A58631CE8/DF9DD29DFA096E9780A77E121AFCCB412ECB593A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR13408_00": {
+        "npCommunicationId": "NPWR13408_00",
+        "trophyTitleName": "Uncharted: The Lost Legacy™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13408_00_0048C6FBCAAB8AD3570530BDE9AF5F503C79A1985A/5B82A3F92DE117928614487FAE5CA140A7A26A81.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR13412_00": {
+        "npCommunicationId": "NPWR13412_00",
+        "trophyTitleName": "Fortnite",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13412_00_00F44396DE25C844554B3DF29F7D2DBFC1E52E5BE6/EAAB8F4C53A84D2A478CC0F2771D6B5E5F8372C3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR13418_00": {
+        "npCommunicationId": "NPWR13418_00",
+        "trophyTitleName": "Caveman Warriors",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13418_00_007E6664C7D81356BCB4CCBAE91A5B56622EECDF7F/05D7A22784AAE7D290B8E2611B63A2EFB0B71C9F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 9,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR13419_00": {
+        "npCommunicationId": "NPWR13419_00",
+        "trophyTitleName": "Energy Cycle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13419_00_0060ABEFD5E7CB8E1CADA8F8B1056CB90171AD9142/1D72588C312DBC1EC59A756666C64ADCC2DE16D7.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR13422_00": {
+        "npCommunicationId": "NPWR13422_00",
+        "trophyTitleName": "星織ユメミライ Converted Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13422_00_0029FA956DF5018CB63376AEF649EF00563D5ECC0D/E7829A5C350763E17F04D1C159D127ADEA52488C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 6,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR13423_00": {
+        "npCommunicationId": "NPWR13423_00",
+        "trophyTitleName": "喧嘩番長 乙女 完全無欠のマイハニー",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13423_00_00E5832462011370FF48904BF49D6DDF612ED1F6B4/C9A7978FBD4E4A61F0353C6E8220D6B0BEB8E744.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR13424_00": {
+        "npCommunicationId": "NPWR13424_00",
+        "trophyTitleName": "Perfect Angle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13424_00_00ADC8509BA71B7B081436044D8B136E5D05807378/679BA19F9E65B995ABBC5B2A9E3E13332874CAC6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 6,
+            "bronze": 24
+        },
+        "service": "trophy"
     }
 }
