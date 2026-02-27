@@ -32862,5 +32862,31 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR06006_00": {
+        "npCommunicationId": "NPWR06006_00",
+        "trophyTitleName": "@SIMPLE Vシリーズ Vol.2 THE 逃走ハイウェイ フルブースト ～名古屋-東京 激走4時間～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06006_00_00A095197B62279BC17C753417D7880AF1F8AFCC02/21B475B0BA804DF7D77BCDC9ADC76B7E22B2F6F3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR06007_00": {
+        "npCommunicationId": "NPWR06007_00",
+        "trophyTitleName": "Joe Danger 2: The Movie",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06007_00_0009777A57B5456006BBAB2CF4BCFE54A0DEF115C2/7CE2F6345ADD670AA468FE4B94FC8E41324B4DFB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
