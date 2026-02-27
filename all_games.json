@@ -55898,5 +55898,135 @@
             "bronze": 36
         },
         "service": "trophy"
+    },
+    "NPWR10114_00": {
+        "npCommunicationId": "NPWR10114_00",
+        "trophyTitleName": "Tachyon Project Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10114_00_0087E31BD54EF0CE64846322C7B2824E21A90D6CF2/6220370D7570165DFE3A70DAC82997BAA5D9E6FE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR10115_00": {
+        "npCommunicationId": "NPWR10115_00",
+        "trophyTitleName": "Super Toy Cars Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10115_00_008C25B6766BA75128279744D77D93BC74A4893246/DDCBEE8EF4DC41ED4AA2A99FBE471316DB042768.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR10116_00": {
+        "npCommunicationId": "NPWR10116_00",
+        "trophyTitleName": "Stories: The Path of Destinies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10116_00_0007A6B5DD963E2B36694649259A308053406DE2BF/C08BA773ACE2E03CB4731D383ACCB66FE49A0E4A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR10117_00": {
+        "npCommunicationId": "NPWR10117_00",
+        "trophyTitleName": "Whitetail Challenge trophy set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10117_00_003BA05DB5E7A283BDE25C78FEBE64CAA85EA1D7F3/AAE3C36781A2B03EBF5623C719FB6B85E66C3B72.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 10,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR10119_00": {
+        "npCommunicationId": "NPWR10119_00",
+        "trophyTitleName": "Caladrius Blaze",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10119_00_003250C008BE04DA0B3B5F3375BD4D78B023674837/3E621FA6B6D670135A6F7ABF995BC57D2CCACB3A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR10125_00": {
+        "npCommunicationId": "NPWR10125_00",
+        "trophyTitleName": "STAR OCEAN Second Evolution",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10125_00_002BFD520A8DA2D901A3F98EFCE896A7DE081D9414/9E8AC995922D454C9A709A465BE0AB1AF9E1E9E5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR10126_00": {
+        "npCommunicationId": "NPWR10126_00",
+        "trophyTitleName": "Guilty Gear Xrd -Revelator- Trophy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10126_00_00B71A99A02F0CBA06FD43F769BD6779B115B44825/2271ABD0BB48D27B8557943FDEA2C2AC4C58470A.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR10127_00": {
+        "npCommunicationId": "NPWR10127_00",
+        "trophyTitleName": "No Time To Explain",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10127_00_002FBA5B650E7AEA68088D121117B55DF618160EFF/9DEA6ED9846EC47C10A5F80D4E5B3D33156245AC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR10129_00": {
+        "npCommunicationId": "NPWR10129_00",
+        "trophyTitleName": "Deponia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10129_00_009454CD2ACF18A6297F25E269F091561773920C13/33BE27F3CB4ED57F5F2E32F11FE80F5ECEFF570A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 7,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR10131_00": {
+        "npCommunicationId": "NPWR10131_00",
+        "trophyTitleName": "THE KING OF FIGHTERS 2000™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10131_00_00B87D8D2A9E8ED44897922E462BF0147CA8125498/544D61015D3AC44419EDD49083ADB32AE9B0CA8F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
