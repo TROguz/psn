@@ -28156,5 +28156,57 @@
             "bronze": 15
         },
         "service": "trophy"
+    },
+    "NPWR05003_00": {
+        "npCommunicationId": "NPWR05003_00",
+        "trophyTitleName": "Just Dance 2014",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05003_00_008436DB70E45A5907A4CB85A1DBCD2F43ADA53A23/22661B3EAF5A17E4C0DC16D2F5E968F26DD23C59.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR05005_00": {
+        "npCommunicationId": "NPWR05005_00",
+        "trophyTitleName": "Pro Evolution Soccer 2014",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05005_00_0028E141A75AFA2612F44A95F634435521526E5844/D2AAFB05D89287E2F5BA0E226764ED54FC07AAE9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR05008_00": {
+        "npCommunicationId": "NPWR05008_00",
+        "trophyTitleName": "Proteus",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05008_00_00EA4C91D38BEBF2150FB80A83DEA15B5FE8EFA060/B8236A34667C16286EB499EC8CF14AC7E273FAD0.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR05011_00": {
+        "npCommunicationId": "NPWR05011_00",
+        "trophyTitleName": "TRANSFORMERS: Rise of the Dark Spark",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05011_00_00E9CA71BCAB6C122934463124ACF5B0752CAB7774/881ACC0C000B51DABBAF6ADDF84EA9356EF17D8D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 42
+        },
+        "service": "trophy"
     }
 }
