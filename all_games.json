@@ -85018,5 +85018,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR14045_00": {
+        "npCommunicationId": "NPWR14045_00",
+        "trophyTitleName": "ACA NEOGEO REAL BOUT FATAL FURY",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14045_00_00CAE3A9DBBBD9C3CEB51D444EE2D8F19815A014F1/53CD2C6009D56DE3B5A72A4C4B753E8DCE412B88.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14046_00": {
+        "npCommunicationId": "NPWR14046_00",
+        "trophyTitleName": "ACA NEOGEO ROBO ARMY",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14046_00_006500F74EB16873A3EDF66759F8590875C4630504/CB43DCAB8840FFF4E57DA2DED48398673EA6AEA5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14047_00": {
+        "npCommunicationId": "NPWR14047_00",
+        "trophyTitleName": "Armored Warfare",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14047_00_008F295343CF7C49E094D7D26670B77D7BCBD52A3C/1E30D924662EEABEA2FF846424F9DFC17194729F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR14048_00": {
+        "npCommunicationId": "NPWR14048_00",
+        "trophyTitleName": "Wild Turkey Hunter Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14048_00_0075B299B0E21DAEFA2808C7E8546D34B535020C03/9EA6BB0C744264B63038AAD7E1076BA54B786CC4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR14049_00": {
+        "npCommunicationId": "NPWR14049_00",
+        "trophyTitleName": "The Long Dark",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14049_00_00FDBBF60C3E3D38F01BDB61DD6CDFD213EC0157B9/B3EFB9274C177E246202C2490BDD90E0FB5B70F2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 56
+        },
+        "service": "trophy"
+    },
+    "NPWR14050_00": {
+        "npCommunicationId": "NPWR14050_00",
+        "trophyTitleName": "Ashes Cricket",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14050_00_00DCAFB4F057276E0419BC8CBA7B6708A0613B4DE5/8A91A077AAA948806840CD6F1A1F5BC24C01586C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR14051_00": {
+        "npCommunicationId": "NPWR14051_00",
+        "trophyTitleName": "Far from Noise",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14051_00_00BB8E74F97D2B5B196FEBE5DEFB8DCD03590E18E1/EF0877FC319BB2EEACE1BB8F608A49ACE820BEE6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR14054_00": {
+        "npCommunicationId": "NPWR14054_00",
+        "trophyTitleName": "Gunhouse",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14054_00_00A68CA5D4345810C28907F0C7CDF81B1D32C93FCB/CDD529F41501E5073E781894D068623F85090877.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR14055_00": {
+        "npCommunicationId": "NPWR14055_00",
+        "trophyTitleName": "V-Rally 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14055_00_00B9C1820E8A8DBC5F0E3F0D29370C5299A60546E0/4951D985AE849569BA00029A7296C4A3304B53F3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR14056_00": {
+        "npCommunicationId": "NPWR14056_00",
+        "trophyTitleName": "DWVR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14056_00_00E389E39D3DAC2DCB08E4B5C26D73CC0C6C4DFBB9/76D06B6EAC8C02102FE2C357090D2367E7323263.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 1
+        },
+        "service": "trophy"
     }
 }
