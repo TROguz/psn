@@ -92298,5 +92298,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR14946_00": {
+        "npCommunicationId": "NPWR14946_00",
+        "trophyTitleName": "PRO EVOLUTION SOCCER 2019",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14946_00_0030B2FB77DA74797F4CCD57C36BF6FF56A1E2E170/44C9BAC3D13C1DFBB946F93A080BB4C23CB1C617.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR14947_00": {
+        "npCommunicationId": "NPWR14947_00",
+        "trophyTitleName": "メモリーズオフ -Innocent Fille-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14947_00_0002E85B27831624BF99AB2D65235E42B2299D1415/1D4D4CB4273FC468836631AFC7A839AC93019001.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR14948_00": {
+        "npCommunicationId": "NPWR14948_00",
+        "trophyTitleName": "メモリーズオフ -Innocent Fille-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14948_00_00BE8CB8E8363B6D70CAD93D009DB165DDDA767C06/D74F4CCD5F1826D3A4E9329B3CB23B6F21C97199.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR14951_00": {
+        "npCommunicationId": "NPWR14951_00",
+        "trophyTitleName": "Tales of the Tiny Planet trophies.",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14951_00_00ADBF82D1B349D0090A909EC9B3EB8D20D6722B22/1FEE06BDD143B78DB298F7742623AA0369F99E69.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR14953_00": {
+        "npCommunicationId": "NPWR14953_00",
+        "trophyTitleName": "Wizard of Legend",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14953_00_005E192F8F9CA1A9D47FF3E88E19378E12DD6E1ED3/6C0A16B5907BA29DB1152F0AFA404045697CD42A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR14954_00": {
+        "npCommunicationId": "NPWR14954_00",
+        "trophyTitleName": "Wizard of Legend",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14954_00_0087D6808D071160BB54E5BA7765ABCEF48A34E678/8FA91A1F5E54CFEC4BB802AE02C858FE647A2F1A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR14955_00": {
+        "npCommunicationId": "NPWR14955_00",
+        "trophyTitleName": "Hex Tunnel",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14955_00_008BE106B08D1FA888F12B66B88C4F8ED63BDF1FD4/012B7C852A8FB3AEC42685B5C46BE490D9DD013B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 4,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR14956_00": {
+        "npCommunicationId": "NPWR14956_00",
+        "trophyTitleName": "Away: Journey to the Unexpected",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14956_00_00103DB05B04129CFEEEBBC64643C0D85E59F9F76C/57F539F66EEC39E4A196DCBE89944E49291707E2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR14958_00": {
+        "npCommunicationId": "NPWR14958_00",
+        "trophyTitleName": "The Exorcist: Legion VR\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14958_00_0026346859B38F613D0BECF44C0DEF84D54E7A46EB/769ED55F8A404183864E5B926511DC2176962556.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR14959_00": {
+        "npCommunicationId": "NPWR14959_00",
+        "trophyTitleName": "RentoTrophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14959_00_00C9C92092E538DE29A2B8C7DFF6D47219B410B213/245BF3B7349F7DB137724C34E2D3634B7C1633F0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 16
+        },
+        "service": "trophy"
     }
 }
