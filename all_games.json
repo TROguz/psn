@@ -92168,5 +92168,135 @@
             "bronze": 56
         },
         "service": "trophy"
+    },
+    "NPWR14927_00": {
+        "npCommunicationId": "NPWR14927_00",
+        "trophyTitleName": "Plants vs. Zombies: Battle for Neighborville",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14927_00_008EAF73C51FA007D070D82CB7F6133764963BE212/53D62DA296C12E7C7F90C4C30798D8F5FD26CDE0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 11,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR14928_00": {
+        "npCommunicationId": "NPWR14928_00",
+        "trophyTitleName": "Predator VR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14928_00_001C45797E4C7C1077CD471F43DD2FC81F70A15A55/B233E97B64945CC2B789AA4BE87203D4EA33EDCD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 3,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR14929_00": {
+        "npCommunicationId": "NPWR14929_00",
+        "trophyTitleName": "Winning Eleven 2019",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14929_00_000600BC58BDE1848F18C4705BD4D63BDC8727BCDB/751A6B1446CF09D9F8462CF2B4D631DFA09B6A7A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR14930_00": {
+        "npCommunicationId": "NPWR14930_00",
+        "trophyTitleName": "Candleman",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14930_00_002FE5888076C3D0EE6A3CACCD92E15976E39F3E51/9AC3CA658FE5875872CAC7347B82F22B8730CAA3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR14932_00": {
+        "npCommunicationId": "NPWR14932_00",
+        "trophyTitleName": "Reverie",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14932_00_00879DB00DBB2E4669A7BD7B30834166713B0E89C8/D2B47164D4E3565B8B6E579EFF3E88EBFEB00FE6.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR14934_00": {
+        "npCommunicationId": "NPWR14934_00",
+        "trophyTitleName": "Happy Drummer",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14934_00_00A2696C766ECDCF9151F831A5030EB5A863CED612/50C28AB93AC768E207B7465039440E38F6B697A5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR14936_00": {
+        "npCommunicationId": "NPWR14936_00",
+        "trophyTitleName": "Kaiji VR～THE NIGHTMARE BRIDGE～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14936_00_003F722C3795D3819E6279F8100A9834EC7DAECA19/CEA07BAAD608D8EFD33F513F328B257CC47EF399.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 7,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR14937_00": {
+        "npCommunicationId": "NPWR14937_00",
+        "trophyTitleName": "PRO EVOLUTION SOCCER 2019",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14937_00_00E3C27790787C6989AD74251F0E3DE6DF11113C11/E1A2381D39D2DAC94D4B3D6186B43D7D976458B4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR14938_00": {
+        "npCommunicationId": "NPWR14938_00",
+        "trophyTitleName": "PRO EVOLUTION SOCCER 2019",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14938_00_0021F7CD41086E85AA7111C718307DDF07A8C41C93/DD9AD6D8F8D250071D97BEA2E4C31A8D1E2C8103.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR14942_00": {
+        "npCommunicationId": "NPWR14942_00",
+        "trophyTitleName": "Super Skull Smash Go! 2 Turbo",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14942_00_0089BD7EC1A77C5F8A772B05FC21CF66A862034919/C8EFFCC677257F8C18F0D6B7863433EB3E95DF75.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
