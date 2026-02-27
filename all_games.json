@@ -26908,5 +26908,135 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR04711_00": {
+        "npCommunicationId": "NPWR04711_00",
+        "trophyTitleName": "やはりゲームでも俺の青春ラブコメはまちがっている。",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04711_00_00CC1638E05AC6E377A35D6FCDAEF432B44918F634/4C4B72BA9A0590D94136FAE7602E662F1013E2F1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR04712_00": {
+        "npCommunicationId": "NPWR04712_00",
+        "trophyTitleName": "Gran Turismo®6",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04712_00_005C24DD6A43837A09B000E7A88FE64C16500A714A/CB63481E9FD83AD6D862A136C4EB05C0C974DD88.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 4,
+            "bronze": 45
+        },
+        "service": "trophy"
+    },
+    "NPWR04714_00": {
+        "npCommunicationId": "NPWR04714_00",
+        "trophyTitleName": "Hot Wheels™ World's Best Driver™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04714_00_0058D30BCBDEEA2B724A2B4F507A0AE0392EE88B9C/7AC7CDD517A14C928843468772C2E845C3EBFE31.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 9,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR04716_00": {
+        "npCommunicationId": "NPWR04716_00",
+        "trophyTitleName": "DISORDER6",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04716_00_00AAFB7B38B0A87D8C27F806D5B59FACA2BD5120C6/5A62AEE1A63BED9EAD166FA242C163B4CF898718.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR04717_00": {
+        "npCommunicationId": "NPWR04717_00",
+        "trophyTitleName": "Mahjong Royal Towers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04717_00_00E42001194E2DFC2C1B40570E6C95D7CF24345693/EC15A5B48091469DC8BAED91F4CC47D461DFBD1F.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR04720_00": {
+        "npCommunicationId": "NPWR04720_00",
+        "trophyTitleName": "Need for Speed™ Rivals",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04720_00_006B3DE94CABF86EEB4951F068D3FE900E72EC507B/73330FCFC3B63DD53329F4E3B828D34A009176A3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR04721_00": {
+        "npCommunicationId": "NPWR04721_00",
+        "trophyTitleName": "Total Recoil",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04721_00_00A0C9D6CD92DFF8C0E9914ED9EB1223C4F276D47A/106CAE9377FFB47A2281237B750AD6892341A303.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR04724_00": {
+        "npCommunicationId": "NPWR04724_00",
+        "trophyTitleName": "Batman: Arkham Origins Blackgate",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04724_00_00A464BAF88BBF4CEC032E98A49F14C5628ACAA8FC/4CB26E11EE55EBE349066C06D188287A0CDAFABC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR04728_00": {
+        "npCommunicationId": "NPWR04728_00",
+        "trophyTitleName": "METAL GEAR SOLID V: GROUND ZEROES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04728_00_00976F357116D42927AD048F73344F1547F70FF8D3/AD9C0B8546A4886C09ABDF683E23612FD3EE6251.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR04730_00": {
+        "npCommunicationId": "NPWR04730_00",
+        "trophyTitleName": "Injustice",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04730_00_00BEF9C9292ACD906AD254BBDE7BFAB51178C97D1C/E8326140D1E7889A67211F869408184F52CAFF25.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
     }
 }
