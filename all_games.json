@@ -56028,5 +56028,135 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR10133_00": {
+        "npCommunicationId": "NPWR10133_00",
+        "trophyTitleName": "逢魔が刻 ～かくりよの縁～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10133_00_00FBA9F20CF7886D60D4F70BAA404246FB3CED103E/8911C5072FF4D0EF8BCD88EC004AFE53B14242EC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR10134_00": {
+        "npCommunicationId": "NPWR10134_00",
+        "trophyTitleName": "요마와리: 떠도는 밤",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10134_00_00D3BD4E8600EAB9E8C7725C142C8D28C383135668/B524D96D474D2522E2C376CF8520C74415FC4AF4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR10136_00": {
+        "npCommunicationId": "NPWR10136_00",
+        "trophyTitleName": "EVE burst error R",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10136_00_00247C401AFB7343E007E02B87D4EFC7E4FC8597C3/9F1C9C0E99686EEFD095FA8F8A5A980FE1667456.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR10137_00": {
+        "npCommunicationId": "NPWR10137_00",
+        "trophyTitleName": "ADK DAMASHII™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10137_00_00199038B0FDC815AB5872F45960C4EF4FC49D2B85/E549D5B9E3AE47FB0B0921F4EB1AE2F1E70153EB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR10139_00": {
+        "npCommunicationId": "NPWR10139_00",
+        "trophyTitleName": "Project Root",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10139_00_00748557A5F989A2734230B0F644C37D5ADC736A33/6606D324D430B2340181DCBE630F36A501F1E2CC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR10140_00": {
+        "npCommunicationId": "NPWR10140_00",
+        "trophyTitleName": "Project Root",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10140_00_000958C0B07D4B6E0781764ECAB004723B7DA6BCAF/772E9E482AC5AB0353B90B6169B2A2DD264498BB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR10142_00": {
+        "npCommunicationId": "NPWR10142_00",
+        "trophyTitleName": "SkyScrappers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10142_00_001E7A2AF552B0DA914B04BDAE543080C2B510EF4E/29FE31FB3EB87CE9E781B004841E3601996A99BC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR10143_00": {
+        "npCommunicationId": "NPWR10143_00",
+        "trophyTitleName": "Tachyon Project Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10143_00_0043EFC8A57C49B3D6FAF66A9241973FE6E05F6CFC/96ED0C4D2A14146E154706EF4218714289E9EF3F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR10144_00": {
+        "npCommunicationId": "NPWR10144_00",
+        "trophyTitleName": "FINAL FANTASY XV",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10144_00_00938D20328891A1CA779F0F933ADACEC42979238B/970A270E18FDC43350661D8F16E169BC1D1EF31E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 11,
+            "bronze": 77
+        },
+        "service": "trophy"
+    },
+    "NPWR10146_00": {
+        "npCommunicationId": "NPWR10146_00",
+        "trophyTitleName": "METAL SLUG™ ANTHOLOGY",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10146_00_00A49FF2512237240B20D23B651B93F1580155D4AD/27E25901C2E88A3F7A7096ED774AFF64CAF5736B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 1,
+            "bronze": 20
+        },
+        "service": "trophy"
     }
 }
