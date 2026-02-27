@@ -89828,5 +89828,135 @@
             "bronze": 22
         },
         "service": "trophy"
+    },
+    "NPWR14650_00": {
+        "npCommunicationId": "NPWR14650_00",
+        "trophyTitleName": "Aaero",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14650_00_0056045FF534D8B229C792BDD91E908F9491817AE1/FBC2BCDB757C2D861E9DB148CC679BA65DD94795.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 89
+        },
+        "service": "trophy"
+    },
+    "NPWR14651_00": {
+        "npCommunicationId": "NPWR14651_00",
+        "trophyTitleName": "Skyworld",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14651_00_00C9796972D892225A6BF0CDF4F3EE15D6B687D62D/2FCDA47EDCC72B64665BB484732BBF7526E091AD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR14652_00": {
+        "npCommunicationId": "NPWR14652_00",
+        "trophyTitleName": "Kabounce",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14652_00_00F6FEFAA39F6D159E35F637706760B629E3757A41/59996194FD266F88CE22036BF08C23CB394EA5F6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR14653_00": {
+        "npCommunicationId": "NPWR14653_00",
+        "trophyTitleName": "Gnomes Garden 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14653_00_00A085678937FCC57DDC750F3F1003E3DBF4EC4E7E/FAC6118A8961D9C6FD4D297F2F4B4269455031B0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14655_00": {
+        "npCommunicationId": "NPWR14655_00",
+        "trophyTitleName": "Gnomes Garden",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14655_00_00112AA853CF63565101AC7C6FDCD2617B4F5B3871/CA0414B188D24665F07A4D486325CB3BEB622046.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14656_00": {
+        "npCommunicationId": "NPWR14656_00",
+        "trophyTitleName": "Gnomes Garden 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14656_00_00BA6A012193F24518CA93DC5EE3645A34E34C4CB5/C39AF78BDC3D1DE3ABDFAE3B3FD8FFCE2E81D659.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14657_00": {
+        "npCommunicationId": "NPWR14657_00",
+        "trophyTitleName": "BRIKS 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14657_00_005B6DFC386364B7BCED964B7FD43889C6FB406B33/3D39FF5986ADE84848F7A237189363F26C3E4C34.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 16,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR14658_00": {
+        "npCommunicationId": "NPWR14658_00",
+        "trophyTitleName": "Sword and Fairy 6",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14658_00_00F5AE65B60D37AEAC3ED9D1EE810377C37904153A/184134AA5BC1BA657356459FF066E89C41B74E58.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR14659_00": {
+        "npCommunicationId": "NPWR14659_00",
+        "trophyTitleName": "Valhalla Hills",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14659_00_00B8E4E222BA4FC2D3C1D38CCC73C3BFE0CE750B1F/519F44616033B420A2DB00F45AAC4D13B1187928.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR14661_00": {
+        "npCommunicationId": "NPWR14661_00",
+        "trophyTitleName": "Yoku's Island Express",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14661_00_00753AE1DA7ABD641E20FD3E1677A7628E46C1F74C/5023435D0CA3EDD64A3169F0375FB5FC537F8D08.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 15
+        },
+        "service": "trophy"
     }
 }
