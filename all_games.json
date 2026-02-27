@@ -75138,5 +75138,135 @@
             "bronze": 3
         },
         "service": "trophy"
+    },
+    "NPWR12726_00": {
+        "npCommunicationId": "NPWR12726_00",
+        "trophyTitleName": "Code: Realize ~Future Blessings~",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12726_00_00152260314FCC5A82F5BCA4930AF0B7A4EE43B9FE/E4B3CC96ED30413E79E73D392620A1F8A9174F8F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR12727_00": {
+        "npCommunicationId": "NPWR12727_00",
+        "trophyTitleName": "Jak and Daxter: The Precursor Legacy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12727_00_00E6CF2205FC3F9753537EA61A3C49261BC72ADE40/A7B045E60F83BC9261B2C30F1EA6C3861D3F7A40.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR12728_00": {
+        "npCommunicationId": "NPWR12728_00",
+        "trophyTitleName": "3on3 Freestyle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12728_00_0084978C1839819F33D92B9B1BF0067457AB3F0136/97F6C4D0FE05DA35526867ADE180A3E2E435741A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR12729_00": {
+        "npCommunicationId": "NPWR12729_00",
+        "trophyTitleName": "White Day:a labyrinth named school",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12729_00_00D4952A7379E07E298677209E4D66CABAC2F9DD60/68B6031DBFB1649EC074CB5A0B0EEAD443499846.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR12730_00": {
+        "npCommunicationId": "NPWR12730_00",
+        "trophyTitleName": "Knowledge is Power",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12730_00_00A88F77F965AD741F33088FBCADBA34A3B119B5BA/01F597AAD79B8EE52116DDDECB3CFFC8BD116C76.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 9,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR12731_00": {
+        "npCommunicationId": "NPWR12731_00",
+        "trophyTitleName": "Railway Empire",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12731_00_00850C3168F9137348DD4A003E90A9F13AF213D4E3/F26E3BBF6F3EF5E5B2CE653561F601BEEBA5A1E1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 45,
+            "bronze": 81
+        },
+        "service": "trophy"
+    },
+    "NPWR12732_00": {
+        "npCommunicationId": "NPWR12732_00",
+        "trophyTitleName": "Still Time",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12732_00_0027DE8A0612B63C6BCEB34850242076EB5D8D625C/BF6F273FF6E7F2B528627D29CD5711E9D29699F3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 0,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR12733_00": {
+        "npCommunicationId": "NPWR12733_00",
+        "trophyTitleName": "Snake Pass Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12733_00_00BA8BD8D31D5AAFB2E509F670130ACA0A425FA0D8/8BDB2C87982556C61EA57B15CF0608CBBF797D22.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR12735_00": {
+        "npCommunicationId": "NPWR12735_00",
+        "trophyTitleName": "SUPERBEAT XONiC",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12735_00_0083A516554C15DD72D2ADA44B6858A17EA8692A5D/F0310E1AFD00F2512059930670A2464F2D353349.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR12736_00": {
+        "npCommunicationId": "NPWR12736_00",
+        "trophyTitleName": "Use Your Words",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12736_00_008591656D25CEFE36239AB90040EEB6BC9EE9A89A/408BC0AA451A901A3F987F58E7A65CE0CCF0BECE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 5
+        },
+        "service": "trophy"
     }
 }
