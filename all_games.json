@@ -43678,5 +43678,135 @@
             "bronze": 25
         },
         "service": "trophy"
+    },
+    "NPWR08204_00": {
+        "npCommunicationId": "NPWR08204_00",
+        "trophyTitleName": "APB Reloaded",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08204_00_007EA540592D826FE589D3461118E676E4660807EF/AEA442C96AB3A01D9028AA7A4904A3FF0E2851AD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR08205_00": {
+        "npCommunicationId": "NPWR08205_00",
+        "trophyTitleName": "男遊郭",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08205_00_00FC205E2CC696467A4C906E38D1E636F51117A728/B0167DB8ECD9CED8EEB4C6635336D2C803113C5F.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR08206_00": {
+        "npCommunicationId": "NPWR08206_00",
+        "trophyTitleName": "遙かなる時空の中で６",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08206_00_00EC72E8E2E43A90D16E252176FF6BA6549E1DF75D/BBC894F7799C0DF9F5667099DE6DCF10E2FC18C4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 18,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR08208_00": {
+        "npCommunicationId": "NPWR08208_00",
+        "trophyTitleName": "Dragon Fin Soup",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08208_00_000D6CCE9D0C940C031B1B05CF97A7FDF45EEEDE8F/FB848C6ED10161C4E82F16C23DA9BA4AE4F07688.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 11,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR08217_00": {
+        "npCommunicationId": "NPWR08217_00",
+        "trophyTitleName": "LOST ORBIT",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08217_00_005D256511541D150AD65D06544A5052B4E2FE69ED/172D567FBE7DB9C84EDE507CD6EEBB250A2DA6B4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR08218_00": {
+        "npCommunicationId": "NPWR08218_00",
+        "trophyTitleName": "Octodad: Dadliest Catch",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08218_00_001D3662BCB29BD676086AF7EDBDD023CD708AB5FC/9B7C4C40ED18B867288C804955A552FD557DC3C3.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR08220_00": {
+        "npCommunicationId": "NPWR08220_00",
+        "trophyTitleName": "오메가 퀸텟",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08220_00_004C671474C62ED401F9FD318F72468D4C9362FBF7/9A829A681583DAFA569E5AA05323B08DD65CB870.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR08221_00": {
+        "npCommunicationId": "NPWR08221_00",
+        "trophyTitleName": "Tennis in the Face",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08221_00_00FDDD4157BE5C8ECF01BB071BB62425BF62ED5BC2/E5DC453468436335D3E01B2726E5AA436736A01A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08223_00": {
+        "npCommunicationId": "NPWR08223_00",
+        "trophyTitleName": "MotoGP™15",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08223_00_001D19848107F36AED39937B7A69848AD46D72E7EB/60D5690E9E6977F87598175FD4ACB9D9C40C7BB1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR08224_00": {
+        "npCommunicationId": "NPWR08224_00",
+        "trophyTitleName": "MotoGP™15",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08224_00_0092D7A49FCC5EB72F9682B599B9A3A002C4B84A45/0B95793126BDE89D638CC43AC47C2555CAD631E3.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 35
+        },
+        "service": "trophy"
     }
 }
