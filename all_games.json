@@ -82028,5 +82028,135 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR13644_00": {
+        "npCommunicationId": "NPWR13644_00",
+        "trophyTitleName": "Defender's Quest: Valley of the Forgotten DX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13644_00_008A6B5ABB2F265FDC8F98EDE4E3395746BCB4EF59/BE43D8C3F33200C20E63110571EC6394C966E7A8.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 14,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR13645_00": {
+        "npCommunicationId": "NPWR13645_00",
+        "trophyTitleName": "Pankapu",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13645_00_00523680554DD3FE13CD1B2C71891D58C643570A73/7C87B7D601606E19510565915DC493AAA48217BC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR13646_00": {
+        "npCommunicationId": "NPWR13646_00",
+        "trophyTitleName": "Defender's Quest: Valley of the Forgotten DX",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13646_00_000FA481B34B1BDBBE6A84948942CB94601AF11FF1/3BD8ED4EB197DD0D859A6AF59E243C598588E4C2.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 14,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR13648_00": {
+        "npCommunicationId": "NPWR13648_00",
+        "trophyTitleName": "DOOM VFR®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13648_00_005E4EA361E54AD955E9B57EEE8950EC4A1A9AEDA4/F0BA0173F93E6C19E54B88589886768C13517FBA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR13649_00": {
+        "npCommunicationId": "NPWR13649_00",
+        "trophyTitleName": "Danganronpa V3: Killing Harmony",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13649_00_009616749C3150B771E659033D0B072DF5330D3BA1/901A2A1A49ACA0CD72D704A9350C4C146D47120F.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR13650_00": {
+        "npCommunicationId": "NPWR13650_00",
+        "trophyTitleName": "Skyrim VR",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13650_00_006DC2D53AC1E10840DEA62D4D9C314634CC24B6A2/B164955AFF1AB95588DCE05045C8F9670A03C0AE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 20,
+            "bronze": 54
+        },
+        "service": "trophy"
+    },
+    "NPWR13656_00": {
+        "npCommunicationId": "NPWR13656_00",
+        "trophyTitleName": "Miko Gakkou Monogatari: Kaede Episode",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13656_00_00D3B9D4C5D385F3595DB00695976DB253E3E83632/F5AC03EA1A680F2914B7D667E85B15377E133EAF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13657_00": {
+        "npCommunicationId": "NPWR13657_00",
+        "trophyTitleName": "ドラゴンクエストⅡ　悪霊の神々",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13657_00_0016EF4803FB9F726B702C2B352D7E5A6AA8830E0E/2695D33AD1683D715E98819415FE83550EFAE1D9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR13658_00": {
+        "npCommunicationId": "NPWR13658_00",
+        "trophyTitleName": "ドラゴンクエストⅢ　そして伝説へ…",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13658_00_001C049191B26E923B41284A02DBCA63A887F81A58/51295BD58F355AED1E83B64461FD024834E81910.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR13659_00": {
+        "npCommunicationId": "NPWR13659_00",
+        "trophyTitleName": "ドラゴンクエスト",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13659_00_0096F418177B2D5CDEEDE12DE2FC116B3977A87156/225A7E28A6DEE3010E69DC827F44A8FD4ECB7B2E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 2
+        },
+        "service": "trophy"
     }
 }
