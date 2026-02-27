@@ -89698,5 +89698,135 @@
             "bronze": 18
         },
         "service": "trophy"
+    },
+    "NPWR14638_00": {
+        "npCommunicationId": "NPWR14638_00",
+        "trophyTitleName": "Remothered Tormented Fathers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14638_00_008FB9CFCC14E3CAD81BB5E7CBEBF1420BF863F63D/5F5C0FC59AD59AFF2B6C09A39D6E83C6275949A9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14639_00": {
+        "npCommunicationId": "NPWR14639_00",
+        "trophyTitleName": "Midnight Deluxe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14639_00_006CBC7E352BD5F4956F1517BE860B0D6609C8B82F/D9C348113941C34480E57145C36D7559C0BA5852.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 2,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14640_00": {
+        "npCommunicationId": "NPWR14640_00",
+        "trophyTitleName": "Midnight Deluxe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14640_00_00DF9FD5CC138EA39F227FFD6CF1B461C8BF568E78/C43A1E642440FCC3C003B6B9BE28A78EA128FEF3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 2,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14641_00": {
+        "npCommunicationId": "NPWR14641_00",
+        "trophyTitleName": "Midnight Deluxe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14641_00_00BEC8E413B03509C398F4557927F18B1871D51C82/1C0B4B43E7F3EE62B7B7C200A21ED9961B3F1B51.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 2,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14642_00": {
+        "npCommunicationId": "NPWR14642_00",
+        "trophyTitleName": "Midnight Deluxe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14642_00_008C466BC757CB3ED62E3AA9820C44E74E0205D896/67B97924E0851E894F223BEC8AD9231E9D88C605.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 11,
+            "silver": 2,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14643_00": {
+        "npCommunicationId": "NPWR14643_00",
+        "trophyTitleName": "The Station",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14643_00_0012563578519269FE00ADA5CE79E95674EC4100BF/CE7768588F72248D4B2736A35ED33C30B7B6E4A1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR14644_00": {
+        "npCommunicationId": "NPWR14644_00",
+        "trophyTitleName": "The Station",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14644_00_006D5B1F77591F33B936112C216250401C5C5DF62A/32C737C8E522D7F6AF9619688A8BFE93037D5832.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR14645_00": {
+        "npCommunicationId": "NPWR14645_00",
+        "trophyTitleName": "Floor Plan: Hands-On Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14645_00_00260421014C16517165959A59AD7FCBE20EB137BD/22C9A417AE293D77BD65D510825E94E0A0289A4E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14647_00": {
+        "npCommunicationId": "NPWR14647_00",
+        "trophyTitleName": "Hand of Fate 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14647_00_00423F7AF542A704C509A2484F55C83ACA92A0609C/843CD411691C0360C29712B768C25412263C4B3C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 60
+        },
+        "service": "trophy"
+    },
+    "NPWR14649_00": {
+        "npCommunicationId": "NPWR14649_00",
+        "trophyTitleName": "New Gundam Breaker",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14649_00_009FFE3BA431F543C1378FF0C179C7512B93DEDB54/2768C407DB896D7E7873ABEAF87EFBBD877945D8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 15,
+            "bronze": 22
+        },
+        "service": "trophy"
     }
 }
