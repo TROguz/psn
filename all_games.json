@@ -63048,5 +63048,135 @@
             "bronze": 13
         },
         "service": "trophy"
+    },
+    "NPWR11193_00": {
+        "npCommunicationId": "NPWR11193_00",
+        "trophyTitleName": "Parappa the Rapper™ Remastered",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11193_00_00805B1B424763603D7AD94DC3503AA5D8657F6528/B2601CA185B9D520FA23FC0E2CF1B8AA9AC5E128.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11203_00": {
+        "npCommunicationId": "NPWR11203_00",
+        "trophyTitleName": "Tricky Towers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11203_00_00831FADC9D507B3B4470ADD1E5A3DA9341D3D2DE1/E8BD2759DAF8D84289DB438AD8738BF238695D11.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR11204_00": {
+        "npCommunicationId": "NPWR11204_00",
+        "trophyTitleName": "Criminal Girls 2 Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11204_00_0005C8FA52731558E9E9A342C328D4582C29E7FEE9/5EA0C1506D7683A7CC4D6D7EAD1032CA157EE7EF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 21,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR11205_00": {
+        "npCommunicationId": "NPWR11205_00",
+        "trophyTitleName": "MeiQ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11205_00_00B9C8A7371597E64955DDCFB3E0925AA9FD86D323/9E4142506563D6E1A4CAF1C7143B1C0B6A278089.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR11206_00": {
+        "npCommunicationId": "NPWR11206_00",
+        "trophyTitleName": "Indigo Prophecy™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11206_00_002E2EDA11648422D295EA14877EE9732FC598ABFB/8DECF67340EF7F459A73308EA8550391A0938466.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR11208_00": {
+        "npCommunicationId": "NPWR11208_00",
+        "trophyTitleName": "River City Melee : Battle Royal Special",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11208_00_00AAAF368BFFEB5C8F4EABF02952A759E2DB4F4881/47414022AF798BA38A236AC47DCDDD9E3840100F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11209_00": {
+        "npCommunicationId": "NPWR11209_00",
+        "trophyTitleName": "Hand of Fate 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11209_00_0056248B7EC0AC7FDA380EFFC8F13F1877CA4FCFB8/99218C0EFEF5CFC6EAA39D46D1C7628781E6C4EE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 60
+        },
+        "service": "trophy"
+    },
+    "NPWR11210_00": {
+        "npCommunicationId": "NPWR11210_00",
+        "trophyTitleName": "VOLUME",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11210_00_00B343E3460BAD93894F3580DD5A3AECEB79596DD1/D85F2042EC7E65C177B82B240F4BF556B511186A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR11211_00": {
+        "npCommunicationId": "NPWR11211_00",
+        "trophyTitleName": "Yesterday Origins",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11211_00_0096A7870DF9F2033C667E773D7540F90D7F570CBD/3A0B6B84D5D24EC851789C22A452D8A23E90D252.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 17,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR11212_00": {
+        "npCommunicationId": "NPWR11212_00",
+        "trophyTitleName": "Skyrim",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11212_00_00329A40482D7A9AD7625045E656BC15081D78BCA8/94632DC94B8A022E93AA226EB55A42AE63F69F13.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 20,
+            "bronze": 54
+        },
+        "service": "trophy"
     }
 }
