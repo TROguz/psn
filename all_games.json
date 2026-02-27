@@ -76958,5 +76958,135 @@
             "bronze": 29
         },
         "service": "trophy"
+    },
+    "NPWR12967_00": {
+        "npCommunicationId": "NPWR12967_00",
+        "trophyTitleName": "Blasting Agent: Ultimate Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12967_00_00CAEED1EA80B24EE7B46A5B6D5760A7AF4FEE0040/53C2796231523794F52D3DBF8F7DFEB3E905219A.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR12968_00": {
+        "npCommunicationId": "NPWR12968_00",
+        "trophyTitleName": "Blasting Agent: Ultimate Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12968_00_00E2FFD04D2A3AA1E7C1F9AA30B687DD69D1A0B2DC/7027A4C5993C2F0B3024F44849312659D564AD41.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR12970_00": {
+        "npCommunicationId": "NPWR12970_00",
+        "trophyTitleName": "Serial Cleaner",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12970_00_00760090D90C01B9ACB709E88A2379FEE902AEC7B6/0DB8C48C26035A26224BA87723CFD362BDC82D1C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 18,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR12972_00": {
+        "npCommunicationId": "NPWR12972_00",
+        "trophyTitleName": "Smashbox Arena",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12972_00_003C5635061DEBBACFD9047729522CFFB996D285FD/471E806A39E7FA49BB1F699E55305279803BE3EF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR12973_00": {
+        "npCommunicationId": "NPWR12973_00",
+        "trophyTitleName": "Neon Drive",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12973_00_0086B970236D660CF1C1F2873B221F300ACCFBC312/07965F4A2DDCD725FA055F1472A5BF5344AE3932.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR12974_00": {
+        "npCommunicationId": "NPWR12974_00",
+        "trophyTitleName": "Last Stitch Goodnight",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12974_00_00E752A3BCCE97C8CF7B747BF2B0453C73460D7E9D/56E92BA8A29278CEC23988B87052102834F54DF1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR12975_00": {
+        "npCommunicationId": "NPWR12975_00",
+        "trophyTitleName": "Animal Force",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12975_00_00A2EC230F368F101824E16B1EBF5BA2DC389BA00F/1E08E2B1D6FE26315D98434365733BD2C46D0ADA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 5,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR12978_00": {
+        "npCommunicationId": "NPWR12978_00",
+        "trophyTitleName": "Polarity: Ultimate Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12978_00_0038CCCA38BC3F8CCC2FBFB282B9D5C54AABDB4F3A/C9A738B7544D4297BB4E6D9B06220E4FC69C51B9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR12983_00": {
+        "npCommunicationId": "NPWR12983_00",
+        "trophyTitleName": "Real Farm",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12983_00_00ACDBCF178735BAD6DF503378ABD975D051174A51/ED778E49D29741528597FE91C2A329DFCA920904.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 5,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR12985_00": {
+        "npCommunicationId": "NPWR12985_00",
+        "trophyTitleName": "AereA",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12985_00_00B1A9C598C8CBA0C3DBAEC24A659C4261A5F9F2A5/D86779BA56A17C402A1FF028C13B2A8EC6EDF910.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 6,
+            "bronze": 15
+        },
+        "service": "trophy"
     }
 }
