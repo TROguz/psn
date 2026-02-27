@@ -21318,5 +21318,135 @@
             "bronze": 35
         },
         "service": "trophy"
+    },
+    "NPWR03613_00": {
+        "npCommunicationId": "NPWR03613_00",
+        "trophyTitleName": "暁の護衛 トリニティ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03613_00_001173F7BCA9F0D3BA6B98D5AE039FF27DA9D40EC9/BF9509D8A3AFED363DE27FCC538E182E7536118C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR03614_00": {
+        "npCommunicationId": "NPWR03614_00",
+        "trophyTitleName": "MUD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03614_00_0075CF3AB32C39270C2686EED1C828622B5A6BC47C/83C72A50EB2FDCB1F3B3826C087A46302F3EC621.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 13,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR03616_00": {
+        "npCommunicationId": "NPWR03616_00",
+        "trophyTitleName": "Naughty Bear: Panic in Paradise",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03616_00_00D8B3D8E64A61B1E47AB0504E4FDD38AC700B1EA5/1E907D9A02DE72B62DFAF9DF1C45537C695FA87B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR03622_00": {
+        "npCommunicationId": "NPWR03622_00",
+        "trophyTitleName": "Medal of Honor™ Warfighter Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03622_00_0057305FCA03C536440F45703B19D67B5B02119591/9F759E5598BA9AC21683AE700F646FA9CCD8B834.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR03623_00": {
+        "npCommunicationId": "NPWR03623_00",
+        "trophyTitleName": "Karateka",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03623_00_0032CB6F04DBA162BFE1BD348EC02ED26BC4F3194E/F8ADD3E8C940EF96B6CD62C66FF06B5C27461464.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR03629_00": {
+        "npCommunicationId": "NPWR03629_00",
+        "trophyTitleName": "智代アフター ～It's a Wonderful Life～ CS Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03629_00_0052093BB2291806C3515F1D0B912838D42F25DA2D/932353DF643FFACCDF360AF60307DB80C5420F30.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR03631_00": {
+        "npCommunicationId": "NPWR03631_00",
+        "trophyTitleName": "ダンボール戦機W",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03631_00_0054F9AB42A31386BFDF008EB883A202E11D043AD2/A9DF8CDAF1A86D61FF7B01EAD5B3EFCD9A7FFD98.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR03632_00": {
+        "npCommunicationId": "NPWR03632_00",
+        "trophyTitleName": "Ni no Kuni: Wrath of the White Witch",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03632_00_00040A2E1FC91A8C54DE8D02CD84BE9A7B6C6C9305/BF9C8D09624C5CEBDB5C0E6DF7B94C50F559D925.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR03634_00": {
+        "npCommunicationId": "NPWR03634_00",
+        "trophyTitleName": "Alien Spidy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03634_00_00656C76107D3EC4CF81E63D66CF3CF77779E64184/1BEDACCE94B152433DC70489BBDA174966BE54FB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR03639_00": {
+        "npCommunicationId": "NPWR03639_00",
+        "trophyTitleName": "Big Sky Infinity™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR03639_00_0052E509B5D37D2C2EAA317A765BBC90BD65657037/0BBB6D47D2F9B31618A6AE6D14ECA06FF89E30CC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
