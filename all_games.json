@@ -34968,5 +34968,135 @@
             "bronze": 38
         },
         "service": "trophy"
+    },
+    "NPWR06499_00": {
+        "npCommunicationId": "NPWR06499_00",
+        "trophyTitleName": "Air Conflicts: Vietnam - Ultimate Edition Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06499_00_00AA1FFDD0C9156B1FD807E45F72C0895DC08C150F/C42A92E0DECD61964D6052C1A6AC4C1E71F949FA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 6,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR06502_00": {
+        "npCommunicationId": "NPWR06502_00",
+        "trophyTitleName": "Invokers Tournament™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06502_00_00E5E2BF90D0C8BE17A6E8704D3BC4CE7C2E56A6DF/81CE3C59AFEBF660302619BE4A1B0E9076B3E9B1.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR06503_00": {
+        "npCommunicationId": "NPWR06503_00",
+        "trophyTitleName": "Run Sackboy! Run!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06503_00_007BD4DC05E2C820D697C056AE456DC0A75664AE25/9BF57E67582538267B9E2F1207C6870BB73E9CE1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR06504_00": {
+        "npCommunicationId": "NPWR06504_00",
+        "trophyTitleName": "Battalion Commander",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06504_00_00A0019DBDF77B7CA53B86583E1DC64838C9AAEB03/204BB5645210D1F7E08E2CDCF69B827DD1AA2318.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR06506_00": {
+        "npCommunicationId": "NPWR06506_00",
+        "trophyTitleName": "The Keeper of 4 Elements",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06506_00_007977368A435471FC68677054A55EF307B6E16C40/A17AE9BCE197ECD66BD3B06EAA779233B9848FF4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR06509_00": {
+        "npCommunicationId": "NPWR06509_00",
+        "trophyTitleName": "Sparkle 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06509_00_0000654FFD29F1CCD80DA0BC751592DB7EEA4CDA7B/C1B6614C69D69017529AB37A341E13F9E233031B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR06510_00": {
+        "npCommunicationId": "NPWR06510_00",
+        "trophyTitleName": "LEGO® Batman™ 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06510_00_00C40D8B4D4C52D172F09EB7AA7EAD46311B970762/9CB97ECED99A219144623D09C4806454B19C3B1B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 4,
+            "bronze": 62
+        },
+        "service": "trophy"
+    },
+    "NPWR06512_00": {
+        "npCommunicationId": "NPWR06512_00",
+        "trophyTitleName": "LEGO® Batman™ 3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06512_00_0093CBEFC41F6D96FEB30B24DBC5E81D88A396054A/7BC45F1F108BA4366A5A46A756C20920F5EC0D15.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 4,
+            "bronze": 62
+        },
+        "service": "trophy"
+    },
+    "NPWR06513_00": {
+        "npCommunicationId": "NPWR06513_00",
+        "trophyTitleName": "LEGO® Batman™ 3: Beyond Gotham",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06513_00_007D4991FF7B63BDBBFAF0205544F4226FFF04F2A4/6A450A252AA141C87CDBF2C342FA4E3A6A96E215.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 11,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR06515_00": {
+        "npCommunicationId": "NPWR06515_00",
+        "trophyTitleName": "Diablo III: Reaper of Souls",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06515_00_00CD05031D7A38AA95233B983504A256175E9A4606/F26746C42616D3CDC5CA93CE2E89BDB26FBF602C.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 17,
+            "bronze": 24
+        },
+        "service": "trophy"
     }
 }
