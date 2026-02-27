@@ -24178,5 +24178,135 @@
             "bronze": 0
         },
         "service": "trophy"
+    },
+    "NPWR04186_00": {
+        "npCommunicationId": "NPWR04186_00",
+        "trophyTitleName": "Zeno Clash 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04186_00_009A9F928EAE8334E12479B7FDA6154278F1E05538/D6C92815FF080F61756FDA8FBD0907DCB130F0D6.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR04191_00": {
+        "npCommunicationId": "NPWR04191_00",
+        "trophyTitleName": "メモリーズオフ6 Complete",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04191_00_004129677E3B4BDC41150265A6D0F940F07D42668E/5BC455D3682050A7BA7688DED3ED98F815140688.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 58
+        },
+        "service": "trophy"
+    },
+    "NPWR04192_00": {
+        "npCommunicationId": "NPWR04192_00",
+        "trophyTitleName": "Star Wars Pinball",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04192_00_003AE82000B2318CA4D88C9359030973E83B6EF2F0/9FE10BE44D1080673D18403B77E0765C17625F19.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR04194_00": {
+        "npCommunicationId": "NPWR04194_00",
+        "trophyTitleName": "Bentley's Hackpack™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04194_00_00F344BDFC63EC2E2756D8BE3B613FBF5807749F46/96AB9F51752E51531641B987A2F47F6D40453E19.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR04196_00": {
+        "npCommunicationId": "NPWR04196_00",
+        "trophyTitleName": "Jetpack Joyride",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04196_00_00E18265FC51336DFC2FD94EBEA696004892F8F9FC/3B1562EA2BFD799CAA84292B07CC25184401817D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR04197_00": {
+        "npCommunicationId": "NPWR04197_00",
+        "trophyTitleName": "Jetpack Joyride",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04197_00_000339452B3A4BAD6287D223586B7AC8BDA231C508/6916C0FE3B6C389469710F7A340C622E50D64263.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR04202_00": {
+        "npCommunicationId": "NPWR04202_00",
+        "trophyTitleName": "Hyperdimension Neptunia Victory",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04202_00_00F61AC1AB973956E2C917BDFF2C98F1FC97B27A20/47A2C98F242EF4F7384A466EE35B4ED2001DAFED.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 15,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR04204_00": {
+        "npCommunicationId": "NPWR04204_00",
+        "trophyTitleName": "マブラヴ オルタネイティヴ トータル・イクリプス",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04204_00_00402447E4E959A846FED23B1F6DF33A887CC4EF24/3F561292A55B133D45C8C3430B01A6DBF91D1A11.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR04205_00": {
+        "npCommunicationId": "NPWR04205_00",
+        "trophyTitleName": "メモリーズオフ6 Complete",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04205_00_008B3253A65D0BA0779C47D958D7C14BBD26144F8A/EE73225BCC4E9A654CF977C357D8A194177F7550.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 57
+        },
+        "service": "trophy"
+    },
+    "NPWR04206_00": {
+        "npCommunicationId": "NPWR04206_00",
+        "trophyTitleName": "メモリーズオフ ゆびきりの記憶",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04206_00_00DF0484A4CD4AD14566826F2E42ED09ECF86BD91B/F3A3D88B760D27E4F3E2D6B9E578407B8D2F158F.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 16,
+            "bronze": 13
+        },
+        "service": "trophy"
     }
 }
