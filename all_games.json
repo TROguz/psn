@@ -32888,5 +32888,135 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR06008_00": {
+        "npCommunicationId": "NPWR06008_00",
+        "trophyTitleName": "The Elder Scrolls Online Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06008_00_00B8BB8A5B5921B026BBC07210D9DF2A83BB0B904B/CF3000EE9177CC9A5270472A0F1F931BEB6E73EA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 19,
+            "silver": 35,
+            "bronze": 69
+        },
+        "service": "trophy"
+    },
+    "NPWR06009_00": {
+        "npCommunicationId": "NPWR06009_00",
+        "trophyTitleName": "Vessel",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06009_00_000A13E0462486CB6246D65CA08D1F9ECD6AFE43C0/E2155051A03868D8A7C68ECF05FE6B4F8B23E074.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR06010_00": {
+        "npCommunicationId": "NPWR06010_00",
+        "trophyTitleName": "NARUTO STORM R",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06010_00_003BD3E483B787B6E4B4A43610662D3BD36CE3CFF9/38DF7613E8C680B8D21C21677E0DCCB1E7E80EC7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR06021_00": {
+        "npCommunicationId": "NPWR06021_00",
+        "trophyTitleName": "アイドルマスター ワンフォーオール",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06021_00_00897C223D93B72B2BAC57C3243D58A1140E794253/EE391D11B5BE691EE81C72E6121448E8C53F9B22.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR06023_00": {
+        "npCommunicationId": "NPWR06023_00",
+        "trophyTitleName": "Miku Miku Hockey",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06023_00_005628A665DEBA2CD2B21C82482C16785189352D00/351998F552535783A08318D55F69352EA7519D39.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR06024_00": {
+        "npCommunicationId": "NPWR06024_00",
+        "trophyTitleName": "ニコリのパズル4 数独",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06024_00_0026149DFE348012A656005CC7117B8134E1410663/4C32CCF485AFFAB04D4033B4C8E890106053CA7C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR06025_00": {
+        "npCommunicationId": "NPWR06025_00",
+        "trophyTitleName": "Arcade Archives Renegade",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06025_00_0050FDA855D62D024C736E8CF4B8DEEABBB24862B4/EA09A689F1672563BF8E17ADBEE00C941EE986DD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR06026_00": {
+        "npCommunicationId": "NPWR06026_00",
+        "trophyTitleName": "Arcade Archives Ninja-Kid",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06026_00_001B403434CE12198C0B323332A54550C4909EC568/FD3BE77E6D780C7F1073BD06DDEA599F824A4888.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR06027_00": {
+        "npCommunicationId": "NPWR06027_00",
+        "trophyTitleName": "Arcade Archives City CONNECTION",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06027_00_0031AA7117F6FCBCF088B2325AE5D3EBEC36FBEBE5/6C4D70F23CAEAD6E1EC0C6EA30908E1E669F09EC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR06028_00": {
+        "npCommunicationId": "NPWR06028_00",
+        "trophyTitleName": "Arcade Archives CRAZY CLIMBER",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06028_00_009DEB4045E5B345B00AADBA2FE6832746DCD53C91/FC393397A5E4B3174E400685911C4FF69C2EFCA9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 0,
+            "bronze": 7
+        },
+        "service": "trophy"
     }
 }
