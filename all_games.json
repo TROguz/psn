@@ -83848,5 +83848,135 @@
             "bronze": 83
         },
         "service": "trophy"
+    },
+    "NPWR13870_00": {
+        "npCommunicationId": "NPWR13870_00",
+        "trophyTitleName": "Semispheres trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13870_00_006F9270AAD95BEC74B9DCF34D80310E0356318694/720A54A0B988956995E35BD110E534A1F9370A98.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR13871_00": {
+        "npCommunicationId": "NPWR13871_00",
+        "trophyTitleName": "ACA NEOGEO BURNING FIGHT",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13871_00_00F6921733EC52DD16AC32E47EF0F23C8F053C297F/07D879223C7FA00BBF3735FD0C00A11082C67CE8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 3,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR13872_00": {
+        "npCommunicationId": "NPWR13872_00",
+        "trophyTitleName": "DETROIT: BECOME HUMAN",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13872_00_00BE2C548A4C58B53BB438538BF2552A5EC3CB2454/9411A02B801534FF93B46D29DF61282875512079.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR13873_00": {
+        "npCommunicationId": "NPWR13873_00",
+        "trophyTitleName": "Atari Flashback Classics vol.3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13873_00_008543C3EA58D2851ED6B0ED45FAB1892293111D2F/89C4F45A03A393653745332E6D0EE60DA6B79301.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR13876_00": {
+        "npCommunicationId": "NPWR13876_00",
+        "trophyTitleName": "MLB® The Show™ 18",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13876_00_00F838F561CFD2A22C4BED2593DC9BF47BE86D9321/E472C9F72FCC0F46F4A166CA47BA4221E7C0C3C5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 8,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR13877_00": {
+        "npCommunicationId": "NPWR13877_00",
+        "trophyTitleName": "TheAdventurePals",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13877_00_005FDC2FCB7EF5817009EF23B7A3B71027CE1AF479/F628A5DB4C4B95F10C9501B968478ECD236EF63C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR13878_00": {
+        "npCommunicationId": "NPWR13878_00",
+        "trophyTitleName": "Pinstripe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13878_00_00683AAECEFD0F05049E6334A3752950DB98CD388E/E324AAC595E5432509D92593672A42C93A61B759.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR13880_00": {
+        "npCommunicationId": "NPWR13880_00",
+        "trophyTitleName": "Preta",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13880_00_00B37C419F4A7FBFA4D6F3E4B8FBEFE13562B967CD/A20E57AEA18BC6AF7A6AF546D86BBE1A5C01D442.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR13882_00": {
+        "npCommunicationId": "NPWR13882_00",
+        "trophyTitleName": "D.S.-Dal Segno-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13882_00_009F6A80A1B6205CB199A452E9F7F8FDA3762964DB/7289F0E1E8656809AC7303529D7ADCF0E6B962FE.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 1,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR13885_00": {
+        "npCommunicationId": "NPWR13885_00",
+        "trophyTitleName": "Planet of the Apes: Last Frontier",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13885_00_000E5803128EB7D59FD4760BB19D7D44956E5F17D5/020C475E8A2E5BF9668E17F1490A33458A9AD7EF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 19
+        },
+        "service": "trophy"
     }
 }
