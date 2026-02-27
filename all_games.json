@@ -64998,5 +64998,135 @@
             "bronze": 34
         },
         "service": "trophy"
+    },
+    "NPWR11450_00": {
+        "npCommunicationId": "NPWR11450_00",
+        "trophyTitleName": "PSYCHO-PASS Mandatory Happiness",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11450_00_00DFF11005152C9A7A6C18035F2E596D509FE7E82C/2734EE9F89CD926EBDC969115341E8B23B2FC41E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR11451_00": {
+        "npCommunicationId": "NPWR11451_00",
+        "trophyTitleName": "PSYCHO-PASS Mandatory Happiness",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11451_00_007BF12F2D7867EDDD734C5888C9FAEC2FAA2FABC5/16CF251F2476EDF48C4FCD70036D6D9D2142A5B8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 15,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR11452_00": {
+        "npCommunicationId": "NPWR11452_00",
+        "trophyTitleName": "Song of Memories",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11452_00_00839765AB12D57C2D3020B45E696C1A340F022D2D/E5BE856880D23781EE3911DA7E22789B2E5D1FD5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR11453_00": {
+        "npCommunicationId": "NPWR11453_00",
+        "trophyTitleName": "Rise of the Tomb Raider",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11453_00_00094E790F4EFEFE2495B522E982D20528432FF99A/149075FB4FB57A1F3BA94F2B1DF479347405AC40.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 118
+        },
+        "service": "trophy"
+    },
+    "NPWR11455_00": {
+        "npCommunicationId": "NPWR11455_00",
+        "trophyTitleName": "SpeedRunners",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11455_00_009637523467A716BFED6D743255AB60F0D28578BB/EBA2C4758BA041CA137F7F608E04691BA2D35709.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR11459_00": {
+        "npCommunicationId": "NPWR11459_00",
+        "trophyTitleName": "Re:BIRTHDAY SONG～恋を唄う死神～another record",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11459_00_004363D5265A4B8F5165B9D80590AC28BBE61841D6/554B79AC171A19012DD03642664C50CF21F90FA2.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 2,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR11460_00": {
+        "npCommunicationId": "NPWR11460_00",
+        "trophyTitleName": "乙女理論とその周辺 -Bon Voyage-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11460_00_0058339B682FC0DA389BBBD0BF69B4B7215A007222/37E183F1C4823E6BA0E14B6594F3BB190CE4B9DA.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR11462_00": {
+        "npCommunicationId": "NPWR11462_00",
+        "trophyTitleName": "Wanderjahr",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11462_00_007BBB17446214451940BBDD4641359E669BA97D96/95E0A3D7687BC145FF4265BA8F03C62D44562716.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR11463_00": {
+        "npCommunicationId": "NPWR11463_00",
+        "trophyTitleName": "Flying Bunny Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11463_00_00DC9C2CF6EBC288511C0EE58B55A0766BEAA91DDB/75113590C45F91A68052D72EDA0566A4D25C5BCF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR11465_00": {
+        "npCommunicationId": "NPWR11465_00",
+        "trophyTitleName": "STAR WARS™ Battlefront™ II Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11465_00_00AB3D87382BEB1FBE407D2F43ED586838AAE7295C/D9EFB1844E98400D1E4753B1673910260ADB5C7B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 15,
+            "bronze": 26
+        },
+        "service": "trophy"
     }
 }
