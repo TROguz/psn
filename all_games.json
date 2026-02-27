@@ -53688,5 +53688,135 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR09774_00": {
+        "npCommunicationId": "NPWR09774_00",
+        "trophyTitleName": "The Jackbox Party Pack 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09774_00_00361449F5F5C6FDA62039960EE0357F70E61682E7/145968D7D250EFC9BE768E25391ABB4A715B9E9B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR09775_00": {
+        "npCommunicationId": "NPWR09775_00",
+        "trophyTitleName": "Star Wars™: Jedi Starfighter™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09775_00_00B2A91CC25F458A4A9D7C56CACFF22FCFE14C3614/949233A0E133D872B947EE110A0DAFB6845A8C75.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR09776_00": {
+        "npCommunicationId": "NPWR09776_00",
+        "trophyTitleName": "Star Wars™: Racer Revenge™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09776_00_00DD2D2621B10F160139615E4788673E531D1CB7E2/6677F2EDD4CE802659F3FCBDD871A3BD90024E90.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR09777_00": {
+        "npCommunicationId": "NPWR09777_00",
+        "trophyTitleName": "Star Wars Bounty Hunter™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09777_00_00623DFC8BE12A63B11C42A8346BE47F26D8684BB3/7C474F90E03A95B43C7B1372B1CF601B30F49AAA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR09778_00": {
+        "npCommunicationId": "NPWR09778_00",
+        "trophyTitleName": "Golem™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09778_00_00E73AD2A0EEE670D6EB950BD6826E0B8FB328EC57/EB45CB7848720573276BB7296056DC5D1AE50418.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 19,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR09779_00": {
+        "npCommunicationId": "NPWR09779_00",
+        "trophyTitleName": "Wasteland 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09779_00_00AE8F713BE4A8DAB8C4B4F8721E8EA1EA57C59A0E/157CCE1875FC28CA8F40D23BAA6E80F948AB571B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR09781_00": {
+        "npCommunicationId": "NPWR09781_00",
+        "trophyTitleName": "Guns, Gore and Cannoli",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09781_00_008630415C65D6992F809C7E1897468807C2FA6525/2AAF820A90D1D1307C8187D3154C3BA211B9F14A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR09783_00": {
+        "npCommunicationId": "NPWR09783_00",
+        "trophyTitleName": "마괴신 트릴리온",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09783_00_00A4EC743F025892E210FAB10A65D2E77F1CC3F304/FA25D81A018C70FCE219247060008F15173B0408.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR09784_00": {
+        "npCommunicationId": "NPWR09784_00",
+        "trophyTitleName": "Pixel Hunter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09784_00_004BBEEAE15908515A70194E16A0D923CB51ED5219/DA7999A18A544575DDCB548994E817B3F4B54172.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 1,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR09785_00": {
+        "npCommunicationId": "NPWR09785_00",
+        "trophyTitleName": "Bounce Rescue!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR09785_00_005F81A727EDE7805240EE356952A7A324B688B65D/131E0270CE6FDA5C3F346B491DB870F6056E763C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
     }
 }
