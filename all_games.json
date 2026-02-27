@@ -24698,5 +24698,135 @@
             "bronze": 32
         },
         "service": "trophy"
+    },
+    "NPWR04291_00": {
+        "npCommunicationId": "NPWR04291_00",
+        "trophyTitleName": "BreakQuest: Extra Evolution",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04291_00_00280C97310C4CE7EFB76859D4EA45C5B29198F492/A9F85AE0772978C245BF438A2E1233BB0170C605.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR04292_00": {
+        "npCommunicationId": "NPWR04292_00",
+        "trophyTitleName": "大都技研公式パチスロシミュレーター 秘宝伝　~太陽を求める者達~ ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04292_00_00C9539C31431CED799800F59830698E4AB0C40EBD/49D213B3CF9803BB44E0C7C87E3E264CD941B946.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR04293_00": {
+        "npCommunicationId": "NPWR04293_00",
+        "trophyTitleName": "Truck Racer",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04293_00_002109A58661D569375DE2F2A66DBB86A7CE43D05E/8629BF427B5F670081FDBCB2BEC58E0F69202F28.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 35
+        },
+        "service": "trophy"
+    },
+    "NPWR04296_00": {
+        "npCommunicationId": "NPWR04296_00",
+        "trophyTitleName": "Fast & Furious™: Showdown",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04296_00_00B72BFE07216B100646A2DF047C4588DD2208815A/3630AE4C00531D568A952F707B0583FDAF6DE9BE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR04298_00": {
+        "npCommunicationId": "NPWR04298_00",
+        "trophyTitleName": "Fist of the North Star: Ken’s Rage 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/74732F70470641C8D5239E76061A378D34E8509E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR04303_00": {
+        "npCommunicationId": "NPWR04303_00",
+        "trophyTitleName": "大戦略大東亜興亡史～トラ・トラ・トラワレ奇襲ニ成功セリ～ トロフィー",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04303_00_007A4A506C8452470E8C9EF7C431FF25FB40D2CF2F/90E30DBFF30FFCB0A2A8CDCEA038A1BFDB6815F2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR04306_00": {
+        "npCommunicationId": "NPWR04306_00",
+        "trophyTitleName": "PlayStation®Move Fitness™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04306_00_00D8B81CF11B4AAF697153EF0B43B1B9C0C7FCC8B9/DE45CCF790F2C21B98D5962DCDEDBAF6271E6BA7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR04310_00": {
+        "npCommunicationId": "NPWR04310_00",
+        "trophyTitleName": "Nun Attack",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04310_00_00CB1C1E59C60D638FFD9AB4320970FFF989C00E4F/0A64A15FA53518D7C4337B80C80EC397A5C6F070.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 6,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR04311_00": {
+        "npCommunicationId": "NPWR04311_00",
+        "trophyTitleName": "DYNASTY WARRIORS 7 Empires",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04311_00_0046894D8B47DE8D5F5B2729C9E979235A54118485/BF6A5874EE05B8AB4389510FFFA4A6901CEB0DF8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR04312_00": {
+        "npCommunicationId": "NPWR04312_00",
+        "trophyTitleName": "Magrunner: Dark Pulse",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04312_00_00B6F62290DD5E6528E977F5214C761765403B5965/77972D96B87A1428F0073D8690007E330E62989E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 16,
+            "bronze": 2
+        },
+        "service": "trophy"
     }
 }
