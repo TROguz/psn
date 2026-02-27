@@ -78128,5 +78128,135 @@
             "bronze": 13
         },
         "service": "trophy"
+    },
+    "NPWR13116_00": {
+        "npCommunicationId": "NPWR13116_00",
+        "trophyTitleName": "PRO EVOLUTION SOCCER 2018",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13116_00_005516BF8D0FAFBFE870682142DA087CB85859F214/A1F68E894990E4C6E43CB598C62E00753D6886AB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR13117_00": {
+        "npCommunicationId": "NPWR13117_00",
+        "trophyTitleName": "PRO EVOLUTION SOCCER 2018",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13117_00_0095C20E9503D4D21D1DD33829240082A1C3C20044/2D9E9DE5B10ECAF330FC9CCC642BB195427530CC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR13118_00": {
+        "npCommunicationId": "NPWR13118_00",
+        "trophyTitleName": "Megaman Legacy Collection 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13118_00_0001B9AAE5C9041168E69A5479B44DDE8025F75354/E88BD0241847A305AF6893B625712A925DC3D8A7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR13120_00": {
+        "npCommunicationId": "NPWR13120_00",
+        "trophyTitleName": "Toby: The Secret Mine Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13120_00_0027CEAE4A4AFE706978AE1F77D78A3EF061F57127/22CEAE8D9ED71F2212B3EA726133784E9B6B89CC.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR13121_00": {
+        "npCommunicationId": "NPWR13121_00",
+        "trophyTitleName": "Toby: The Secret Mine Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13121_00_00B90ABF6A52B66E9B76DA7AD09425AB5E51A365F5/A9417B46D37063B1170FD4E440C10874C8BD062A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR13122_00": {
+        "npCommunicationId": "NPWR13122_00",
+        "trophyTitleName": "Shining Resonance Refrain",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13122_00_00B9C3D3F9CA66916E2513F341853191153C523566/EEC591F1FC263C2B2E4079E8F087DA4C64BFD3BF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 18,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR13124_00": {
+        "npCommunicationId": "NPWR13124_00",
+        "trophyTitleName": "Plague Road",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13124_00_0041038FF1F7E7966D825413932904F23CF9575573/7D5AE53B5F551709422423B9C027EDDD993FAB98.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR13125_00": {
+        "npCommunicationId": "NPWR13125_00",
+        "trophyTitleName": "Plague Road",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13125_00_00341BBFD39820F02EF6503F24B41D72889BCE931C/A8621EB7091FB35F9F62A8AB00B00726CFFA3665.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 2,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR13128_00": {
+        "npCommunicationId": "NPWR13128_00",
+        "trophyTitleName": "Indivisible Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13128_00_00344A99D472250429B7B425EFA7919087AF16A846/4035903FD04336A180D7ED61EAA72734596FE634.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 11,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR13129_00": {
+        "npCommunicationId": "NPWR13129_00",
+        "trophyTitleName": "Tachyon Project Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13129_00_001251C00333D4352CC3AA9EB7D31F04D3E70634B7/A04A110A726BB85E803D4D276C69042F0E818573.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 4,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
