@@ -64478,5 +64478,135 @@
             "bronze": 16
         },
         "service": "trophy"
+    },
+    "NPWR11371_00": {
+        "npCommunicationId": "NPWR11371_00",
+        "trophyTitleName": "WRC 6",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11371_00_00D418A5E5D230757D8B86B57B19A4F864598BE00A/BF769B675834DB6CAD53D265D180DB62D640633F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR11372_00": {
+        "npCommunicationId": "NPWR11372_00",
+        "trophyTitleName": "Birthdays the Beginning",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11372_00_00DC397DE68533740CC9841B7288CC92F5006A33C1/BB91C4DA528815BD2436CA944FCF800E64D6E973.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR11373_00": {
+        "npCommunicationId": "NPWR11373_00",
+        "trophyTitleName": "Forestry 2017 - The Simulation",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11373_00_00EE67E1C46AED67769D0B5874FE329B4D73D6FACD/56D5EC29A10DA02C59359E52D813423A005D2A77.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR11375_00": {
+        "npCommunicationId": "NPWR11375_00",
+        "trophyTitleName": "Hyper Light Drifter",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11375_00_009CA7BCB8A9AD64ED81974262F48E915206802CCD/CEECC50AC109514EBBE3F228BE6C304FB21C2DEB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 9,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR11376_00": {
+        "npCommunicationId": "NPWR11376_00",
+        "trophyTitleName": "Laser Disco Defenders Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11376_00_000BD16E77EFF09C34F618C49DFABA5BC0004BEB35/68664AE8F38F963D3113E6A9249496B0D055DF22.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11378_00": {
+        "npCommunicationId": "NPWR11378_00",
+        "trophyTitleName": "Road Rage",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11378_00_00EE38F6D012E57CA8FD9DAA1E2FD9983EB3E57F21/1A264CAB4D8DB324062A166606BDC94C3AAE898E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 5,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR11379_00": {
+        "npCommunicationId": "NPWR11379_00",
+        "trophyTitleName": "I Expect You To Die",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11379_00_003404156FA8965D1406844A8D18EAB834FF71092D/3499089CDCC58960EBF9C94DF85BBE8470372C32.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR11381_00": {
+        "npCommunicationId": "NPWR11381_00",
+        "trophyTitleName": "Ginger",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11381_00_008F6085D458B0F65ED46A8B30E32E75F7B809940C/BD44A16F280092C2440662B50FD288A95BEB6ED3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR11384_00": {
+        "npCommunicationId": "NPWR11384_00",
+        "trophyTitleName": "Arcade Land",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11384_00_00417DF39B679D59365C97905F74C2AF7AB6621843/AA142DE6DC4BCA642BCDB197E5152AC9B61B5381.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 7,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR11385_00": {
+        "npCommunicationId": "NPWR11385_00",
+        "trophyTitleName": "Tokyo Twilight Ghost Hunters Daybreak: Special Gigs",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11385_00_007A103519FD92953A66829DC59A6E8A207304EF88/8D0BF4502ED9BAABEE69C05004EB6A15A835BB6D.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 42
+        },
+        "service": "trophy"
     }
 }
