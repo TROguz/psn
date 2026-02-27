@@ -81378,5 +81378,135 @@
             "bronze": 0
         },
         "service": "trophy"
+    },
+    "NPWR13554_00": {
+        "npCommunicationId": "NPWR13554_00",
+        "trophyTitleName": "Max: The Curse of the Brotherhood",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13554_00_00DB72B6DF2AB65387ADA0D24CE0240569952BEED8/A54B004F309EDAA3A8345284C1029DB9ACE30E7A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR13555_00": {
+        "npCommunicationId": "NPWR13555_00",
+        "trophyTitleName": "SEUM",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13555_00_007F61A17322CEDDFA54C815B82D1F1566FA0948A3/E8BF378FB7D3DA30DB9B25175F0EB01A75CA0DF6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR13556_00": {
+        "npCommunicationId": "NPWR13556_00",
+        "trophyTitleName": "SEUM",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13556_00_00DAAD23A115767A2BAF8B6B124F6F0B895FA90000/84AD899550C6FC55AA9B47E7034CFD4D49145402.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR13557_00": {
+        "npCommunicationId": "NPWR13557_00",
+        "trophyTitleName": "The Fall Part 2: Unbound",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13557_00_003FBECBA2DDF63F938A05FE946FCE8597D4C4B6F9/9E2EB6E0BBD59DF5B8474AA8517497C5BFD25A84.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR13559_00": {
+        "npCommunicationId": "NPWR13559_00",
+        "trophyTitleName": "PsychoBreak® 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13559_00_00A339B81CFF976ACB527A2DADAD8C048541EAFAD0/6635E3EF89F079132DBAA5A2CA0540F61EE5FF7C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 14,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR13561_00": {
+        "npCommunicationId": "NPWR13561_00",
+        "trophyTitleName": "Tachyon Project Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13561_00_0056B3149D0E410612F716343D80A02F5BEA2E9D66/84AE9E07E72A3DCA76FA62311CDBCF51ECB31983.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 13,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR13563_00": {
+        "npCommunicationId": "NPWR13563_00",
+        "trophyTitleName": "月に寄りそう乙女の作法 ～ひだまりの日々～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13563_00_00390478DD4DFE9FDD7F0E9B5B6352FE16C6979474/C464F5928058354CF7BC82ABEDEC4B611DE7DA41.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 9,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR13565_00": {
+        "npCommunicationId": "NPWR13565_00",
+        "trophyTitleName": "Thimbleweed Park",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13565_00_00495F8EFA12B7F930DA84067FA2E5CC6FAF808A5F/3D91DAC2B1A771D6DB82AD06D65930445655823D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 17
+        },
+        "service": "trophy"
+    },
+    "NPWR13567_00": {
+        "npCommunicationId": "NPWR13567_00",
+        "trophyTitleName": "LEGO® MARVEL Super Heroes 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13567_00_003C9DDD926BC8C6F842E240C8F9BDF40B55702EB5/1DC49BB50A285877FD49F47776D3E30D3F8545A0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 4,
+            "bronze": 67
+        },
+        "service": "trophy"
+    },
+    "NPWR13568_00": {
+        "npCommunicationId": "NPWR13568_00",
+        "trophyTitleName": "神頼みしすぎて俺の未来がヤバい。",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13568_00_008B78330C88B16DD679D413C75FC82C1F5ABFD905/C4EAC4604AF42E3A0443F3D6235A3E6D297F6DD0.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 6
+        },
+        "service": "trophy"
     }
 }
