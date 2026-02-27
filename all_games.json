@@ -70588,5 +70588,135 @@
             "bronze": 4
         },
         "service": "trophy"
+    },
+    "NPWR12173_00": {
+        "npCommunicationId": "NPWR12173_00",
+        "trophyTitleName": "Paranautical Activity",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12173_00_001D672B93420AEDD62B54BCD5509C01B53305871A/15D3F05798E7B170C4FC75AF4F7A68517656869F.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR12174_00": {
+        "npCommunicationId": "NPWR12174_00",
+        "trophyTitleName": "Cladun Returns: This is Sengoku!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12174_00_006E00A78F2338C84C08C230B0DE36D168D3553246/5E016BF529DBCBA50CDEC9F42458DB9F1F30AE81.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 9,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR12176_00": {
+        "npCommunicationId": "NPWR12176_00",
+        "trophyTitleName": "88 Heroes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12176_00_0042E30E3F487D6F9F8F1B2A038F2D8AC19061F249/EB7BD248359E3AABCED961D5A358B50CCE869791.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR12177_00": {
+        "npCommunicationId": "NPWR12177_00",
+        "trophyTitleName": "The Walking Dead: A New Frontier",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12177_00_0043C7E17CFA01AB64DB7F813715BA0BB0BD26CCBC/7112034B7F72E57A32B2E065015F7BB01A499CCF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR12178_00": {
+        "npCommunicationId": "NPWR12178_00",
+        "trophyTitleName": "Toy Odyssey",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12178_00_0049BDEEB9D6837EDFD1C635243442E4A5C9257E0B/7BB7C6BF037C79EF883BA36DB3C11B3EE9558497.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR12179_00": {
+        "npCommunicationId": "NPWR12179_00",
+        "trophyTitleName": "Herocade",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12179_00_0010FB644A18CA95ED5F1FC9F8C8F539D101149C84/FFAD7BF2402A2D02818D9DDE72794E089CD35B23.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 10,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR12181_00": {
+        "npCommunicationId": "NPWR12181_00",
+        "trophyTitleName": "Collar×Malice",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12181_00_00E53553C9092E358B28AEA3C3C9D20CF0584C796D/0E951CF53FC7E9B40E58ACDC5005706EAA88F841.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 4,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR12182_00": {
+        "npCommunicationId": "NPWR12182_00",
+        "trophyTitleName": "Period Cube ~Shackles of Amadeus~",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12182_00_00671C7E3D51D955A2E0380622871E9F2993DE8FDB/C45E98E132F939939E0DE67CF463328460EAD69D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR12185_00": {
+        "npCommunicationId": "NPWR12185_00",
+        "trophyTitleName": "BugsBox Trophy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12185_00_0023280D57FFAE674AAF6D1E18B6225F8D7185A20C/830212B42F0D7A9F2EF3B9717205EC449BC2CD55.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR12186_00": {
+        "npCommunicationId": "NPWR12186_00",
+        "trophyTitleName": "NBA 2KVR Experience",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12186_00_00ADD5FFDB6C3EBFB5134EAD70F8F88FF77778CB16/6F1FDC4D17402FCD6F2B4A8BD2BA665BD902B31F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
     }
 }
