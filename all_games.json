@@ -34578,5 +34578,135 @@
             "bronze": 49
         },
         "service": "trophy"
+    },
+    "NPWR06386_00": {
+        "npCommunicationId": "NPWR06386_00",
+        "trophyTitleName": "最強将棋 激指13",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06386_00_0044B7240A0F62CF853087DB6E5A2928C05D80C5C8/83AA97A9E4D1F33A2C91592E44E9498027A90749.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR06387_00": {
+        "npCommunicationId": "NPWR06387_00",
+        "trophyTitleName": "覆面闘士",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06387_00_003E9DCE18319E80B5820277D9C0D19F888A44BFB4/592CD53F045070AEB09720AF61366523234770FB.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 6,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR06391_00": {
+        "npCommunicationId": "NPWR06391_00",
+        "trophyTitleName": "F1™ 2015 Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06391_00_006A031FF1C8ED6335BE6A070F2D73F82ED40729DF/0A37CCB0ACDE4B4D0EE8E37B4CD87DCFBC551687.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR06394_00": {
+        "npCommunicationId": "NPWR06394_00",
+        "trophyTitleName": "Pier Solar and the Great Architects",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06394_00_0004CB6EE2B6F2633A78CA59CAC2A71BD5F9F2929A/F09A6CEF7DFAAE3B94B80FD8982A5E0EED03BE7D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR06397_00": {
+        "npCommunicationId": "NPWR06397_00",
+        "trophyTitleName": "Another World",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06397_00_003A7579389F0D9F085EB85BE14EBAF5555E216715/D9F868BBF1743098BCF390B724CBA89796B474F0.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR06398_00": {
+        "npCommunicationId": "NPWR06398_00",
+        "trophyTitleName": "Doodle Kingdom",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06398_00_008EB3A688CFEA649C327DFF223E94451847EAEA1F/E01AB2855C81E25BD588ECDA34413C39438A6EC1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR06405_00": {
+        "npCommunicationId": "NPWR06405_00",
+        "trophyTitleName": "Don't Starve: Giant Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06405_00_007EF221F6C8C9542F7D22F943C017BADBBF985334/C51DA8764B72DE8E3A7B592CADB78CCDC163C0EF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR06406_00": {
+        "npCommunicationId": "NPWR06406_00",
+        "trophyTitleName": "超級槍彈辯駁２　再會了絕望學園",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06406_00_007D5BFEF099D78B1A5FC700504F7755F0C18170C5/B8AEC7315DE1ED434EEC0EC4D879690A56E68CFF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR06407_00": {
+        "npCommunicationId": "NPWR06407_00",
+        "trophyTitleName": "Oreshika™: Tainted Bloodlines",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06407_00_000A02349A2D969E8D3D8AAEF63A8488BB1C5A260D/14DC9CA05C08AEA5127E9D7A68907D853F844B38.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR06410_00": {
+        "npCommunicationId": "NPWR06410_00",
+        "trophyTitleName": "Bodycheck Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06410_00_00125E4F60551402FDEE0C2AB7DACB3D5299F3867B/B9D6B3CE952DAFBA037E7B9D667481777E4575CF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
     }
 }
