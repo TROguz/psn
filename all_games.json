@@ -42508,5 +42508,135 @@
             "bronze": 30
         },
         "service": "trophy"
+    },
+    "NPWR08006_00": {
+        "npCommunicationId": "NPWR08006_00",
+        "trophyTitleName": "SteamWorld Heist",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08006_00_0013A539D40983CE375A5E33009F08B3C84ED1F3E9/126F05078AF8C49D817B6938E999A44AE5854DD4.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR08009_00": {
+        "npCommunicationId": "NPWR08009_00",
+        "trophyTitleName": "MONOPOLY PLUS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08009_00_001B74564E9F700D80C9C1BE552366795270B6CF03/6C3BE58A7E0D6E60D2FAEF71A93D0251A6CDBE31.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR08010_00": {
+        "npCommunicationId": "NPWR08010_00",
+        "trophyTitleName": "MONOPOLY DEAL",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08010_00_000BAEB330313F9D6693F35D4EE74448214C66A31E/ED903807A5F73A92A70C622A0DC41BC9BA3B2677.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR08011_00": {
+        "npCommunicationId": "NPWR08011_00",
+        "trophyTitleName": "Super Dungeon Bros.",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08011_00_00B00DA99E97C306779C1085072671A1247EEF9C4C/8E41F6C97F260A7E512B6B54BE49A0519743EC6C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR08012_00": {
+        "npCommunicationId": "NPWR08012_00",
+        "trophyTitleName": "Don't Starve: Giant Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08012_00_000E1F86F4F30BA85252F2F00599A80EF6472242ED/1F639ACD1BF27F14B6C40307388F1D7204079DC8.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08014_00": {
+        "npCommunicationId": "NPWR08014_00",
+        "trophyTitleName": "ロゼと黄昏の古城",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08014_00_00539A2FA3D3A4A160D264299AB89059D32324FE93/151D351EB4D02E333BA2C63FBAE099FC96A8C322.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR08015_00": {
+        "npCommunicationId": "NPWR08015_00",
+        "trophyTitleName": "Hand Of Fate",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08015_00_002CBAE8C19BC5BD66F27338C3A7E458EFE0F2773A/E20E41EE69DA707CAE426044771E4283DD925A80.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR08016_00": {
+        "npCommunicationId": "NPWR08016_00",
+        "trophyTitleName": "SteamWorld Dig",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08016_00_00B7C7E03720EE08755F48741C31A586484502B99A/B7EECAC46F18C49530A13A363F9CDE88A23C9B24.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR08021_00": {
+        "npCommunicationId": "NPWR08021_00",
+        "trophyTitleName": "Operation Abyss: New Tokyo Legacy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08021_00_00B06F5DFF8C08A6F9A859BE528958EC5D431776D4/0C2609DC77D7C4FCEFC25D05AF8D32EB821CE686.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR08022_00": {
+        "npCommunicationId": "NPWR08022_00",
+        "trophyTitleName": "Operation Abyss: New Tokyo Legacy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08022_00_005048B0FFFF7BC80B4CD680AC9F3E1E82B4AF8636/50C6662F28ABAC4E35B48A32CCCB9EB1767DD084.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 28
+        },
+        "service": "trophy"
     }
 }
