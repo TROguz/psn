@@ -38348,5 +38348,135 @@
             "bronze": 30
         },
         "service": "trophy"
+    },
+    "NPWR07221_00": {
+        "npCommunicationId": "NPWR07221_00",
+        "trophyTitleName": "LittleBigPlanet™3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07221_00_00016D6BCD432E0DD797AE186F2A4B94D441B8B9ED/168C02CDB47A20E4BD583A2E0DDFEF8853173A71.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR07222_00": {
+        "npCommunicationId": "NPWR07222_00",
+        "trophyTitleName": "The Four Kings Casino and Slots",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07222_00_003A9FC1E2C622B50E52F55567236FED00400BAE0B/822D25C5969CB740EB58647A6ED78DA2A0B592B6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR07228_00": {
+        "npCommunicationId": "NPWR07228_00",
+        "trophyTitleName": "Tales from the Borderlands",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07228_00_00912E8D33E128E6DA27E9041254DD5CC878F676D4/5C8E0E69C5A0FD407CBE4F107C5E86D280031759.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR07229_00": {
+        "npCommunicationId": "NPWR07229_00",
+        "trophyTitleName": "AKIBA'S TRIP: UNDEAD ＆ UNDRESSED Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07229_00_00F45E552504A3DCC8D481FBF7AA3F616544C8CE14/0B7F2D40BA4DF58410050FF24A3EA3A81E6F79E6.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 10,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR07230_00": {
+        "npCommunicationId": "NPWR07230_00",
+        "trophyTitleName": "Don Bradman Cricket",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07230_00_009CDF2C1ECF7F58983C94B002C29E8C72179E1E32/B9C109EE9F149C8DB355B4E3BD84121FA7DD2A53.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR07231_00": {
+        "npCommunicationId": "NPWR07231_00",
+        "trophyTitleName": "キャプテン・アース Mind Labyrinth",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07231_00_00E0F6BA39F76A2CB5B93890B7F41459889549E1C5/2A4C18050D5AC383EAE5ABE68F75E189AED22A46.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 11,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR07240_00": {
+        "npCommunicationId": "NPWR07240_00",
+        "trophyTitleName": "The Wolf Among Us",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07240_00_00EC221A2B777FCF1F4741C64DB773D61703B9C3FE/10EA1AB61FD9D753289CDA233B3306CB86928EC5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR07242_00": {
+        "npCommunicationId": "NPWR07242_00",
+        "trophyTitleName": "The Walking Dead",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07242_00_00AF8D7989BF846F347B578819478E1A0B73EDC997/3B5BFE150F4DA3BC20655875346EFBFBFE4996FE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 5,
+            "bronze": 37
+        },
+        "service": "trophy"
+    },
+    "NPWR07243_00": {
+        "npCommunicationId": "NPWR07243_00",
+        "trophyTitleName": "The Walking Dead: Season 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07243_00_00009C124C80574E489CD82D6A79E4D2B769F20E4D/E88807D1F338C888FE8A2CBDD6777F7F95293388.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 24,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR07252_00": {
+        "npCommunicationId": "NPWR07252_00",
+        "trophyTitleName": "麻雀ワールドW",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07252_00_00FFE58300D323F29AB3808C117D1E068FF46DAA1C/DDD8D4E31D283C56ACEB65E07E9C68B2C0ED3544.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 7,
+            "bronze": 11
+        },
+        "service": "trophy"
     }
 }
