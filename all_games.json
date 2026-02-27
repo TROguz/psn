@@ -61098,5 +61098,135 @@
             "bronze": 18
         },
         "service": "trophy"
+    },
+    "NPWR10932_00": {
+        "npCommunicationId": "NPWR10932_00",
+        "trophyTitleName": "FATAL FURY BATTLE ARCHIVES Vol. 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10932_00_006484E09D72F50FB161490D26BD2816B1AC3D127A/F608EE19D4A1FE0C7E1E0B6410BB32A1F08FCB69.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR10936_00": {
+        "npCommunicationId": "NPWR10936_00",
+        "trophyTitleName": "Neon Chrome",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10936_00_00BC67E79707918C9091AAD4C822661780FF903EFF/01C9A1DBFBB92933BAD99EFEE65C730D6B221C77.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10939_00": {
+        "npCommunicationId": "NPWR10939_00",
+        "trophyTitleName": "Pinball FX3",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10939_00_008C13239DFFE5392A31B4FACEAC6E220CCD567C9B/20AF52E76287C2F08EF0BC3DCA8993C15D8A1351.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 6,
+            "bronze": 104
+        },
+        "service": "trophy"
+    },
+    "NPWR10941_00": {
+        "npCommunicationId": "NPWR10941_00",
+        "trophyTitleName": "Shu",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10941_00_00C2D2F5BC6578D7B9773E44D38106E6B06014356C/9FD48982CAE23371584EE846983032B873379E2A.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR10942_00": {
+        "npCommunicationId": "NPWR10942_00",
+        "trophyTitleName": "The King of Fighters '98 Ultimate Match",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10942_00_0062B0E45F0B3588D4833B37D3F1714C2622DCD181/0FA7A6E2A7DBF76B4F364CAC2E18DCAA0C9F0FBA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR10945_00": {
+        "npCommunicationId": "NPWR10945_00",
+        "trophyTitleName": "The King of Fighters Collection: The Orochi Saga",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10945_00_00D59F428CFBE869F56FDF6D8BC33B1E1EC430F402/C9D5A378613F868DAC89BD376A0B04219B7DCAA0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 21,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR10949_00": {
+        "npCommunicationId": "NPWR10949_00",
+        "trophyTitleName": "Shantae: Risky's Revenge - Director's Cut",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10949_00_0007FD09B045B4AB0E8641784539A25128DA3C288E/3C5AA7BE0E96080E6D6AE767DFB81CDBEFDB575F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10950_00": {
+        "npCommunicationId": "NPWR10950_00",
+        "trophyTitleName": "Shantae and the Pirate's Curse",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10950_00_0014461FDC87828426478B88A2271F8C16D0EF1208/2FE0E53AE0EBF639EF47C1913801D3B20F92284F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 4,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR10953_00": {
+        "npCommunicationId": "NPWR10953_00",
+        "trophyTitleName": "A.O.T. Wings of Freedom",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10953_00_00CD905C6CC5B6841E6D5E22ABF4F7ECDE1E5E4853/1CC2B8A65FC8508CC600888C5A70742A02AB89AF.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR10954_00": {
+        "npCommunicationId": "NPWR10954_00",
+        "trophyTitleName": "Attack on Titan",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10954_00_00B65BCA71F1981874362B31741F1F40C4F3FDE4E5/493E9902D3B50BA197FBE6F67DED6938B25AA10B.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 13,
+            "bronze": 26
+        },
+        "service": "trophy"
     }
 }
