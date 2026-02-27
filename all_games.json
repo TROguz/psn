@@ -75008,5 +75008,135 @@
             "bronze": 6
         },
         "service": "trophy"
+    },
+    "NPWR12711_00": {
+        "npCommunicationId": "NPWR12711_00",
+        "trophyTitleName": "OUTRIDERS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12711_00_0067BAD33BA2112BA42A51FA10823E5EFBAC32A043/295BD902EB5B2D00FF35753C042D8AEAACCFA3CB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR12712_00": {
+        "npCommunicationId": "NPWR12712_00",
+        "trophyTitleName": "The Inner World",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12712_00_00A0FF0A3337433AD4E21EACCC43AA5569AE02FE4F/0016565784EE17B0D67993650C44B3583099145B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR12713_00": {
+        "npCommunicationId": "NPWR12713_00",
+        "trophyTitleName": "The Inner World",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12713_00_0081997AA04CA4137AA9E2E60FCBD73BCC84F886F2/CA571AFC3A20F28416914ADF6CA5F5FF66694914.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR12714_00": {
+        "npCommunicationId": "NPWR12714_00",
+        "trophyTitleName": "Blue Rider",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12714_00_00D12D488F65E7EFD7ECD5EDF3A32E89AC0CFC022C/C63271332274716B6DA1C620CDDDBD2DF70D135C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 3,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR12715_00": {
+        "npCommunicationId": "NPWR12715_00",
+        "trophyTitleName": "Factotum 90 Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12715_00_00AF35423534A9B37A0EFD33701B0126EC858B0C0E/31E720DD958C76A18B9AE93923950D601EA2F684.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR12716_00": {
+        "npCommunicationId": "NPWR12716_00",
+        "trophyTitleName": "Heroes of the Monkey Tavern",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12716_00_00AC033B0A5E9D45B870DDFE6B5426C88CB9AD7AB9/7B35F342526C7D658A07D7C063A2353B1B489FF4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR12719_00": {
+        "npCommunicationId": "NPWR12719_00",
+        "trophyTitleName": "Heroes of the Monkey Tavern",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12719_00_0090FBB5E115052A896240B5E2E77587B3F2E16CA0/F3DA2581E75629E04AAEC64B6EAFF5456EF6E51E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 5,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR12720_00": {
+        "npCommunicationId": "NPWR12720_00",
+        "trophyTitleName": "Skylight Freerange",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12720_00_00FEAA82A5B463C18CFA6E18375F94C9A40AA3D88A/E7FB8699C041A0BBB0702AC4DEE2BD4822603910.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR12724_00": {
+        "npCommunicationId": "NPWR12724_00",
+        "trophyTitleName": "Sudden Strike 4",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12724_00_00460BF14312675AA0256A9ACE0D0DD1E48D874E2D/CAD425C0F37A942CD4043DBC8F02B8F18DE82361.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 24,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR12725_00": {
+        "npCommunicationId": "NPWR12725_00",
+        "trophyTitleName": "Still Time",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12725_00_00A5D915E02AC144E00F8D6EF6840AE2A3764B3AD0/9DF4AC25445A2E1F0B0939F04CC8322671E1D327.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 0,
+            "bronze": 3
+        },
+        "service": "trophy"
     }
 }
