@@ -83978,5 +83978,135 @@
             "bronze": 19
         },
         "service": "trophy"
+    },
+    "NPWR13886_00": {
+        "npCommunicationId": "NPWR13886_00",
+        "trophyTitleName": "Planet of the Apes: Last Frontier",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13886_00_008977D0DFE09D43926DAA2F4C3E9CF7117C000CE7/CD483885AC359D026D1BD981B7EE419CD10E43D4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR13888_00": {
+        "npCommunicationId": "NPWR13888_00",
+        "trophyTitleName": "Ghost Blade HD",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13888_00_006BA402F1D72DDA749D870EC56E7EB6340F0282A9/9996C613AF6E42FD5205C5A24095F6ACFA6DBEDA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR13891_00": {
+        "npCommunicationId": "NPWR13891_00",
+        "trophyTitleName": "Trials Rising™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13891_00_0037268238768CEC4038F1BBEA864BEF0E2014E221/50E03EE2B42310C896EA818F47C6143FBE162857.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 12,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR13893_00": {
+        "npCommunicationId": "NPWR13893_00",
+        "trophyTitleName": "Hyper Sentinel",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13893_00_009B3EE9BA10313CC315C060F4F6EEEF8CD67B332C/0AFA8202D3A7BFB20CD5439276B29BC72CEFC378.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 6,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR13899_00": {
+        "npCommunicationId": "NPWR13899_00",
+        "trophyTitleName": "The American Dream",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13899_00_000453A749B87F0CD44CF5C2BE798630AD300C7C09/2AE76EF9F9A9918B5B1E74D577039B409D66068E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR13901_00": {
+        "npCommunicationId": "NPWR13901_00",
+        "trophyTitleName": "魯弗蘭的地下迷宮與魔女的旅團",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13901_00_0041D08C0F597F0D401DD076E1FABE19FA432FB03E/470B9ABCBF528411BD4C32F684F90542CCAB3403.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 53
+        },
+        "service": "trophy"
+    },
+    "NPWR13902_00": {
+        "npCommunicationId": "NPWR13902_00",
+        "trophyTitleName": "Project Nimbus: Code Mirai Trophy",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13902_00_0053C5D9FAA6D1527DD6D497DA03E0EACC4F55DB58/1F7149C348F01BF890A5235A79CB1707F7B0FB19.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 10,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR13903_00": {
+        "npCommunicationId": "NPWR13903_00",
+        "trophyTitleName": "桜花裁き 斬",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13903_00_0016086EA340F6ED16331D0AE9A288622FDBB99A40/82C9E5397DF5B1E8B085ED51F98DADFF4CBB5CE7.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 3,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR13909_00": {
+        "npCommunicationId": "NPWR13909_00",
+        "trophyTitleName": "Devil May Cry",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13909_00_000A88C9AF0CED54301A437041EC194D6021CB28CE/1968AAF133B13CB969FAA5FD63F3F25750CDD3E9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR13911_00": {
+        "npCommunicationId": "NPWR13911_00",
+        "trophyTitleName": "Devil May Cry 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR13911_00_00A4ADFFF50FA43EF45C8744067CC38B955AB6B87E/9938A63AFB8E1959EF30ACA5504872863A1638D4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 17,
+            "bronze": 12
+        },
+        "service": "trophy"
     }
 }
