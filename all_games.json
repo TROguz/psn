@@ -86578,5 +86578,135 @@
             "bronze": 15
         },
         "service": "trophy"
+    },
+    "NPWR14224_00": {
+        "npCommunicationId": "NPWR14224_00",
+        "trophyTitleName": "VRog",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14224_00_0056B7962CCF6CDF76C720C4A87481F3B36B4CEFD5/AE40411C8CC342624F8FF4AA62B76A2DA0ECB1D0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14225_00": {
+        "npCommunicationId": "NPWR14225_00",
+        "trophyTitleName": "Drunkn Bar Fight",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14225_00_000BEAB8C124B67628BFD4B76543774735482B6B46/3C87E67527F1B558E206EF1F54F27B2CE2F16CCB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR14227_00": {
+        "npCommunicationId": "NPWR14227_00",
+        "trophyTitleName": "Nights of Azure 2: Bride of the New Moon\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14227_00_0039327B4A14E00F4ADC9AA589B21A03917AA35BAB/97F3E92FBFB64AD935C9C91F9DFDA937D73048D9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR14228_00": {
+        "npCommunicationId": "NPWR14228_00",
+        "trophyTitleName": "Airtone",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14228_00_00CBCCF0BEC359E41E34B960848D023A18E7AC2783/E56072740EE0D1B685FDCE182CDAB1286F6852A0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 6,
+            "bronze": 25
+        },
+        "service": "trophy"
+    },
+    "NPWR14229_00": {
+        "npCommunicationId": "NPWR14229_00",
+        "trophyTitleName": "ひめひび 続！二学期-New Princess Days!!-\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14229_00_00C7930067BEC6BD84C2C13FFFFB2D27239E6D35A4/61436895ED09BEF1322B876939783F5A4FD872EF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 16
+        },
+        "service": "trophy"
+    },
+    "NPWR14230_00": {
+        "npCommunicationId": "NPWR14230_00",
+        "trophyTitleName": "無夜國度２ ～新月的新娘～\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14230_00_004C676DEF370F21680BC72AFE388C694ED831BEA1/F2C90A1B6DE3628A27EC413038F440A7E3135D74.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 42
+        },
+        "service": "trophy"
+    },
+    "NPWR14232_00": {
+        "npCommunicationId": "NPWR14232_00",
+        "trophyTitleName": "Donut County",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14232_00_00B530733E06A01C3388478BE14F9F248A74DC7667/04B62FD8DF56E1C728B241C2C7B2B9AEFFC9B261.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 5,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14233_00": {
+        "npCommunicationId": "NPWR14233_00",
+        "trophyTitleName": "Kentucky Route Zero TV Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14233_00_0041FC914591556A1572046AB40429BF0078D19B57/139615A445095B80C47B3C9B7128F31F80F90B95.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 19,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR14234_00": {
+        "npCommunicationId": "NPWR14234_00",
+        "trophyTitleName": "Masters Of Anima",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14234_00_000FA4EA7E393B52F5D41345977CA032EB87B17929/1999D4F822D887FF839A0AF37C435CEF762957CF.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR14235_00": {
+        "npCommunicationId": "NPWR14235_00",
+        "trophyTitleName": "Masters Of Anima",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14235_00_00322AE25815FC296A2F52A9C207B8B9E14E559377/3EB97BB25D86B154FE31D02961AE827CE784980B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 15
+        },
+        "service": "trophy"
     }
 }
