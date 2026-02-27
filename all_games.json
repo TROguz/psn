@@ -60188,5 +60188,135 @@
             "bronze": 28
         },
         "service": "trophy"
+    },
+    "NPWR10811_00": {
+        "npCommunicationId": "NPWR10811_00",
+        "trophyTitleName": "Super Robot Wars OG The Moon Dwellers",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10811_00_009A6824751F341A35E8D3B5B9665A280922852D07/7F9D09D95246507F3F034BC7BCF001B69F4FA28F.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 9,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR10814_00": {
+        "npCommunicationId": "NPWR10814_00",
+        "trophyTitleName": "iO",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10814_00_0003C4DDBBAE31F2615723724870D949FD37A95206/C3769B23C350E5E645A7424FBEF7CA7B576806D9.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR10817_00": {
+        "npCommunicationId": "NPWR10817_00",
+        "trophyTitleName": "メゾン・ド・魔王",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10817_00_00E754A2ED61B08E724E73BC0E3F3BE66A8C6DBF39/45AA90A79952BEE244B29E5745F70A2F7121649D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR10818_00": {
+        "npCommunicationId": "NPWR10818_00",
+        "trophyTitleName": "Just Dance® 2017",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10818_00_0051D401CC6AE6E5EFB338A77A31F54C85BBC5E704/3685295ED395C3B4397E16D958CBA9014E929458.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 29
+        },
+        "service": "trophy"
+    },
+    "NPWR10819_00": {
+        "npCommunicationId": "NPWR10819_00",
+        "trophyTitleName": "Fenix Furia",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10819_00_006C67E829B12F8722A1262D6A653544B6BB2EBEB9/590F79E1B54E8E902C1CAE96FBC6E8E15922FCEA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 20,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR10823_00": {
+        "npCommunicationId": "NPWR10823_00",
+        "trophyTitleName": "Fairy Fencer F: Advent Dark Force",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10823_00_0096DDC4911154079377FD13516BC1FDD969699ACD/E04A00598864CAE3F3AB8762D1CA18E1F3FDA5F1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 16,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR10824_00": {
+        "npCommunicationId": "NPWR10824_00",
+        "trophyTitleName": "BioShock Infinite: The Complete Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10824_00_0032F414F569060524DAB9843E949670CD579236CF/F23B7FE8C674A6869DF361654AAA40F82D479F74.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 24,
+            "bronze": 55
+        },
+        "service": "trophy"
+    },
+    "NPWR10825_00": {
+        "npCommunicationId": "NPWR10825_00",
+        "trophyTitleName": "용과 같이 극",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10825_00_0044BDC456BC5F6C879AA2D76018089E2F1E78A035/D8CEEE78F764BAAEF64411CCA1199E627A764F85.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 6,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR10827_00": {
+        "npCommunicationId": "NPWR10827_00",
+        "trophyTitleName": "大正×対称アリス all in one",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10827_00_00B79B22F76A289197A5C2F3AA650E3BC1E06E6EF3/E96F19A5BFEC371D391391593A6FC827A33B62BB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 10,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR10829_00": {
+        "npCommunicationId": "NPWR10829_00",
+        "trophyTitleName": "Aragami Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10829_00_00742B84FD1A81416A00E1A505D6F24A0761DE0330/840E6D3502CADF56B8162922CF2860832C50FFC8.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 1,
+            "bronze": 45
+        },
+        "service": "trophy"
     }
 }
