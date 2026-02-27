@@ -85278,5 +85278,135 @@
             "bronze": 48
         },
         "service": "trophy"
+    },
+    "NPWR14076_00": {
+        "npCommunicationId": "NPWR14076_00",
+        "trophyTitleName": "Slice, Dice & Rice",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14076_00_007BD019A03F1A78201328B1EA2F11800EDC1E55A4/453AC6614F81D52F060B5CB38A1E323E50CC4FDD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR14077_00": {
+        "npCommunicationId": "NPWR14077_00",
+        "trophyTitleName": "DeBlob",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14077_00_0051D66DDE092C538685D1DECE1D821ED3A0C5D804/788AE483EDF091501BB048BBF272A68C616190EE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 3,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR14080_00": {
+        "npCommunicationId": "NPWR14080_00",
+        "trophyTitleName": "Caveman Warriors",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14080_00_00D027033569DC7097BC825846795A206EC6630A59/6CD9A02701611F92E28F9E4CB012DB0799E55C39.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 9,
+            "bronze": 44
+        },
+        "service": "trophy"
+    },
+    "NPWR14081_00": {
+        "npCommunicationId": "NPWR14081_00",
+        "trophyTitleName": "Discovery\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14081_00_002EE0C1668BC2B8788F3334C9C015216904B72090/6B1D04E23D9043DAFEDC518F6828FCDC059B90E4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 0,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR14082_00": {
+        "npCommunicationId": "NPWR14082_00",
+        "trophyTitleName": "Konrad the Kitten",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14082_00_006B0104F18AC3375EC4489F682056A27D286A88D7/7E2049610468FF0B3D102F69DD298E992B8FBAA1.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR14085_00": {
+        "npCommunicationId": "NPWR14085_00",
+        "trophyTitleName": "99Vidas",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14085_00_00CF2A5DDE4CE828FBB075AE949275977C7977B1A3/536CE97BAF880FA8C6D87AD3BF6655ED19F14096.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 17,
+            "bronze": 18
+        },
+        "service": "trophy"
+    },
+    "NPWR14088_00": {
+        "npCommunicationId": "NPWR14088_00",
+        "trophyTitleName": "死印",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14088_00_00B0DE9CF284106125188F3AB23FC6B0ECAFFA42A1/A1DC69957F27BF05908718D501611DCD569CC002.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR14089_00": {
+        "npCommunicationId": "NPWR14089_00",
+        "trophyTitleName": "Mahjong Gold",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14089_00_000CF918464E0DF6E1F2FC0B2473B18D0F74E3C258/D914EF0D0D05D4E9642EE27FB4A3A138EB930EE3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR14091_00": {
+        "npCommunicationId": "NPWR14091_00",
+        "trophyTitleName": "Abyss: The Wraiths of Eden",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14091_00_009B1C66767849AC9F733B2E554278B7C37A6E7C0F/34D0BDE775FE5D0D4D1A3E0B7F03040F2AFE0902.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 10,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR14092_00": {
+        "npCommunicationId": "NPWR14092_00",
+        "trophyTitleName": "SEGA Mega Drive & Genesis Classics",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14092_00_00B9A018850D28C9A125594F98FDD55589350F96B3/4AA191E4CF506B4BC6193B00617C9181D04ECAF9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 6,
+            "bronze": 12
+        },
+        "service": "trophy"
     }
 }
