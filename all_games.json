@@ -28858,5 +28858,135 @@
             "bronze": 28
         },
         "service": "trophy"
+    },
+    "NPWR05171_00": {
+        "npCommunicationId": "NPWR05171_00",
+        "trophyTitleName": "解放少女 SIN",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05171_00_00D7E4838BA7FAA7C9E11D6D5E2CD37AFCBA8761A7/2A085B0A67F3CE7D3846CDBD20644EF9425DC51A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 7,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR05172_00": {
+        "npCommunicationId": "NPWR05172_00",
+        "trophyTitleName": "Kung Fu Rabbit",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05172_00_00442EC2A7F6D8104764E96B77549883B0403BA6BC/0BDC8A310A12CB0159728A62B6AAB4786499CFB2.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 2,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR05174_00": {
+        "npCommunicationId": "NPWR05174_00",
+        "trophyTitleName": "Skylanders SWAP Force",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05174_00_002E05F17CC950B17794CABE357D87C3E78E1A25D1/8FEA678506C05AF9A966C3C70418D9FE291FA251.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 4,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR05175_00": {
+        "npCommunicationId": "NPWR05175_00",
+        "trophyTitleName": "Yaiba: Ninja Gaiden Z",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05175_00_002377E7C60B7524A4050472B4CAAF7F2820FF26EF/9F0E6086CA10EED0F8C859022C9DB7C5CFE3C9E0.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR05178_00": {
+        "npCommunicationId": "NPWR05178_00",
+        "trophyTitleName": "ルートダブル -Before Crime * After Days- Xtend edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05178_00_00074473CEB9C42C05F07E0156FE5EDD3C48432207/6B212EBB2E893F33EAB34081EB77972F9297CABF.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR05183_00": {
+        "npCommunicationId": "NPWR05183_00",
+        "trophyTitleName": "‘&’ -空の向こうで咲きますように‐",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05183_00_00AEAD530C03DA7A384595C192C106A7C4609C0EF5/1D0922F1A3EFF7610A450AF800147E15FB078A2C.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR05184_00": {
+        "npCommunicationId": "NPWR05184_00",
+        "trophyTitleName": "‘&’ -空の向こうで咲きますように‐",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05184_00_0005AED371A8C2D82B12D556D70FA0D3ACFB899745/467DAE637A06EB705318CC83F0419CEB23F2114A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 50
+        },
+        "service": "trophy"
+    },
+    "NPWR05185_00": {
+        "npCommunicationId": "NPWR05185_00",
+        "trophyTitleName": "The Walking Dead",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05185_00_00D989ED6360473121E9C086F6C6434E85CC1E81FC/3BD5037D6D63F2BB600BE9AAF71FC29A7AD1ABD7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 5,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR05187_00": {
+        "npCommunicationId": "NPWR05187_00",
+        "trophyTitleName": "NBA 2K14",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05187_00_004A375DCD2DB4D3C460CF955EF44354897ACF5E5A/B923FA9E05BF73B7AE766C9DCE61E2542348B895.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 0,
+            "bronze": 46
+        },
+        "service": "trophy"
+    },
+    "NPWR05188_00": {
+        "npCommunicationId": "NPWR05188_00",
+        "trophyTitleName": "Contrast",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05188_00_00DAD04050305F9D60F8871922FE3CA55F0AE59821/72DE885318273C2295ECAD49E90A12C4534581FB.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
     }
 }
