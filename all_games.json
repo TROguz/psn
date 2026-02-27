@@ -87488,5 +87488,135 @@
             "bronze": 38
         },
         "service": "trophy"
+    },
+    "NPWR14327_00": {
+        "npCommunicationId": "NPWR14327_00",
+        "trophyTitleName": "Citadel: Forged With Fire",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14327_00_0014620B2FA421917658FCEAE120E554DC66ABCF01/8B5F88BAF49C5CF6CA07367E782A1A1FB0CECAE4.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR14330_00": {
+        "npCommunicationId": "NPWR14330_00",
+        "trophyTitleName": "The Sexy Brutale",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14330_00_001A1A2C2974239A7B8CC74C67D4F7E114C838DF66/7FB5ED4C1C5284C15AD74897F65CD8CA3BF19D68.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 6,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR14333_00": {
+        "npCommunicationId": "NPWR14333_00",
+        "trophyTitleName": "STAR OCEAN™ - THE LAST HOPE -™ 4K & Full HD Remaster",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14333_00_007D9C1932757829601840DD5D7A8DACA02C580B9C/70EC2D95D1D0803E261EC4FE1260989FF724B021.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR14334_00": {
+        "npCommunicationId": "NPWR14334_00",
+        "trophyTitleName": "STAR OCEAN™ - THE LAST HOPE -™ 4K & Full HD Remaster",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14334_00_0031A91E7867900A9C64A6F554021C683A11839943/C8299CFDE583CCF0E83E3543273D4454D7E19286.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR14336_00": {
+        "npCommunicationId": "NPWR14336_00",
+        "trophyTitleName": "8-bit Hordes",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14336_00_003589475C4D1BE9589A9D438577AEF106B2C591E1/E1228CF55E1C79819575208FB4385A16E1F09717.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 17,
+            "bronze": 3
+        },
+        "service": "trophy"
+    },
+    "NPWR14337_00": {
+        "npCommunicationId": "NPWR14337_00",
+        "trophyTitleName": "8-bit Invaders",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14337_00_00975C655414CF39AF04235581832444A043505C09/9C4464EEB999F5A21343E6481D6B62618414738C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 13,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR14338_00": {
+        "npCommunicationId": "NPWR14338_00",
+        "trophyTitleName": "Tempest 4000",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14338_00_00C0B5991C0F02A7D90F83A34C353AB042837EE233/323B542929851886F3DC24623DCF7E83F88A62FE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 9,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR14340_00": {
+        "npCommunicationId": "NPWR14340_00",
+        "trophyTitleName": "Starlit Adventures",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14340_00_00BFB1BD5992F9AF4870B28FAD91F8FF7D7B84B4B2/7BB17462FF7C19C40945785B0885F220D50224BE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR14341_00": {
+        "npCommunicationId": "NPWR14341_00",
+        "trophyTitleName": "Snow Fortress Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14341_00_00C11142C780EE8F90BEB318003B98A447AA1D4712/6C9FDD0E800BB2A86B5953E44CB9CC10D9C4F435.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR14344_00": {
+        "npCommunicationId": "NPWR14344_00",
+        "trophyTitleName": "真紅の焔 真田忍法帳",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR14344_00_0020203BAAEF777790A795EE33D99677DB51811CF2/B2DC6419D9B13C61C30DBFBADF7BD520CA929726.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 16,
+            "bronze": 14
+        },
+        "service": "trophy"
     }
 }
