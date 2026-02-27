@@ -61358,5 +61358,135 @@
             "bronze": 47
         },
         "service": "trophy"
+    },
+    "NPWR10980_00": {
+        "npCommunicationId": "NPWR10980_00",
+        "trophyTitleName": "Unholy Heights",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10980_00_001104992047E99DB1B5B68E7887A86CB3E1C84C2A/ABA39E8CE10E168FA838906D579EECB512897D12.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 8,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR10981_00": {
+        "npCommunicationId": "NPWR10981_00",
+        "trophyTitleName": "Drawful 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10981_00_00578028390A0BD463400E495D5C7AA3F5F68D8724/945FAE35C9879D63D7D08DBE56A42CE75F5D6824.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 5
+        },
+        "service": "trophy"
+    },
+    "NPWR10983_00": {
+        "npCommunicationId": "NPWR10983_00",
+        "trophyTitleName": "LOUD on Planet X",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10983_00_00032401C8C759C019B18846F6B68C7052CB4953C1/1D33A7A0A6FB3F520D7CA76E9ED8619418ECED58.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR10986_00": {
+        "npCommunicationId": "NPWR10986_00",
+        "trophyTitleName": "戦国乙女 ～LEGEND BATTLE～のトロフィー",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10986_00_00C567F3A6B4E535E9C611AF1D1AE91E614412E4D9/5E86D23AD2E69A55D60F63397CEFDEB676DC6977.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 13,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR10987_00": {
+        "npCommunicationId": "NPWR10987_00",
+        "trophyTitleName": "Guns, Gore and Cannoli",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10987_00_00438071E6D26DF2A996C8B329BC1B7E412314D8B4/64357BE4F0ADF050E9FE5E3A98FAF26A8E45624B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 0,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR10988_00": {
+        "npCommunicationId": "NPWR10988_00",
+        "trophyTitleName": "Solitaire",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10988_00_00D56C13C1B008A18E0B8891B390FE728A5F136B72/0FE8227C15D445D0404E9A2F317C439CEDFB069B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 10,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR10989_00": {
+        "npCommunicationId": "NPWR10989_00",
+        "trophyTitleName": "Mahjong",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10989_00_00CB52BBF26BFDB1B1E1D4C75241E1C278E05F260F/47D4021960F354D3682327051DDCB72C107A552D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 10,
+            "bronze": 0
+        },
+        "service": "trophy"
+    },
+    "NPWR10990_00": {
+        "npCommunicationId": "NPWR10990_00",
+        "trophyTitleName": "真・三國無双 英傑伝",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10990_00_00652EBBD1036E6FCA1C7F07D4986FE99DA52B5035/525293F3E4DB7A9B6E3C50E6F078A9723C936297.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 12,
+            "bronze": 28
+        },
+        "service": "trophy"
+    },
+    "NPWR10991_00": {
+        "npCommunicationId": "NPWR10991_00",
+        "trophyTitleName": "ストロベリーノーツ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10991_00_00B1273249078CD29EC14165098338DF9FBB2F8F88/F8B68B521CBC4AC766C05A99ADB2B9FB6AD1E19A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 7,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR10995_00": {
+        "npCommunicationId": "NPWR10995_00",
+        "trophyTitleName": "√Letter\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR10995_00_003A7A0D0879F7056A4CDB181ADC7F8423AE9DAB05/2CF017F663743418A139756993809D772111D72E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 10,
+            "bronze": 10
+        },
+        "service": "trophy"
     }
 }
