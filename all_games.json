@@ -38218,5 +38218,135 @@
             "bronze": 44
         },
         "service": "trophy"
+    },
+    "NPWR07194_00": {
+        "npCommunicationId": "NPWR07194_00",
+        "trophyTitleName": "Jamestown+",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07194_00_004A70EF3A0058A9821D2F700DCF13D9F60C84AA11/E10B0471FBA51FC7586AF00BB9F563B92D832755.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 12,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR07198_00": {
+        "npCommunicationId": "NPWR07198_00",
+        "trophyTitleName": "EA SPORTS™ Rory McIlroy PGA TOUR®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07198_00_005F38EA948DC08B7CB81DA160B7F4C2A956656601/FA2E54AD349CEC822150CB8887322E1F0FD1363E.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 10
+        },
+        "service": "trophy"
+    },
+    "NPWR07199_00": {
+        "npCommunicationId": "NPWR07199_00",
+        "trophyTitleName": "MARGINAL#4 IDOL OF SUPERNOVA",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07199_00_00E82AA43217AB653C0FC088692D4E96D925E92B61/9896CD247C06EACE0B941C7D4E233B338DB720ED.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 20,
+            "bronze": 12
+        },
+        "service": "trophy"
+    },
+    "NPWR07205_00": {
+        "npCommunicationId": "NPWR07205_00",
+        "trophyTitleName": "ぷよぷよ™テトリス®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07205_00_008140A873681BA6D7C11C8E50FF92464C3AAD7A19/3041EA192F0ADF31F84F6F98614D6119AF6FF90D.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR07208_00": {
+        "npCommunicationId": "NPWR07208_00",
+        "trophyTitleName": "神さまと恋ゴコロ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07208_00_00849C2383D8969B6F29128E8DCFFC9873B16F346C/D1FA53CC718C045FEA4D1A8912FDF4E7F2D0B33E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 8,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR07211_00": {
+        "npCommunicationId": "NPWR07211_00",
+        "trophyTitleName": "Toybox Turbos",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07211_00_00C6DD353A9ECF351741295BBEE26A48DD69A9305B/E71A11746422C8B57745238F8C4A5D98A07E5983.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 5,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR07214_00": {
+        "npCommunicationId": "NPWR07214_00",
+        "trophyTitleName": "この大空に、翼をひろげて CRUISE SIGN",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07214_00_001A52D1D3A4276FB973B0E02C0347FD19973EBB2B/A9CEA9AAD67E4C9C31115B69200480306D2B6ABE.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 6,
+            "bronze": 24
+        },
+        "service": "trophy"
+    },
+    "NPWR07215_00": {
+        "npCommunicationId": "NPWR07215_00",
+        "trophyTitleName": "Kick and Fennick",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07215_00_009EED04C3E7D5C8E7227939A1EA6D3400DA28EDC6/4488B3AB0ACA43D811360D0C1236A14372589EAC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR07216_00": {
+        "npCommunicationId": "NPWR07216_00",
+        "trophyTitleName": "真・三國無双７ Empires",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07216_00_0058F099AF215C06EA4C3365355CAE8897BCD4B4F3/537435456C3C51EFAE210475A8A3FD1851BECB5D.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR07220_00": {
+        "npCommunicationId": "NPWR07220_00",
+        "trophyTitleName": "Assassin's Creed® Rogue",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07220_00_00E9F0A20B92725605E1EAE28EF67663C69FC0AE1D/36781C45920158AB95798CB6B8704E19CDA41AE9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 14,
+            "bronze": 30
+        },
+        "service": "trophy"
     }
 }
