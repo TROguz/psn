@@ -70718,5 +70718,135 @@
             "bronze": 9
         },
         "service": "trophy"
+    },
+    "NPWR12187_00": {
+        "npCommunicationId": "NPWR12187_00",
+        "trophyTitleName": "Deformers Trophy Set",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12187_00_00D60C81C980E6DFAD0DB48656E463A26A2B8C7946/F3704884BE5C34595A678523EA75557E2A65080F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 12,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR12189_00": {
+        "npCommunicationId": "NPWR12189_00",
+        "trophyTitleName": "Alchemic Jousts",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12189_00_00154C2ECC47327B6F418ED23517BC72B207C87030/49BC89B13A33164DEA464CD75793168458B627BB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 6,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR12190_00": {
+        "npCommunicationId": "NPWR12190_00",
+        "trophyTitleName": "RadioHammer",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12190_00_003E5C734680916DC5BDA234932D577A8CE6C57FC3/BE822B8FF71E602A599B93AB773B6EC4289E8438.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 9,
+            "silver": 4,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR12191_00": {
+        "npCommunicationId": "NPWR12191_00",
+        "trophyTitleName": "LocoRoco™ 2 Remastered",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12191_00_00C187BEEDF171A7CF98800F9EBC81C3310B06390F/E71EFC18107F822D1DD54D8C499DF8E3ED6820DE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 13,
+            "bronze": 14
+        },
+        "service": "trophy"
+    },
+    "NPWR12192_00": {
+        "npCommunicationId": "NPWR12192_00",
+        "trophyTitleName": "Patapon™ Remastered",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12192_00_00A4955F6FEB54656A371D3DEA96865133DA0C5B35/FEDB03251E43B675A76BEDB6D35AC12944858FBB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 19,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR12193_00": {
+        "npCommunicationId": "NPWR12193_00",
+        "trophyTitleName": "Wanderjahr",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12193_00_0031CAFE88678FB45D1B008F6F6AACE9C299697C04/F77BCD5C08CD0E883EC9D73713848F70A8F519C2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR12194_00": {
+        "npCommunicationId": "NPWR12194_00",
+        "trophyTitleName": "Sir Eatsalot",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12194_00_006817BBFCB0B2A4E1F7233C728F8958957DA42574/94A246BEA974C49FFE6B49DF4E707463EDAE908E.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 9,
+            "bronze": 27
+        },
+        "service": "trophy"
+    },
+    "NPWR12195_00": {
+        "npCommunicationId": "NPWR12195_00",
+        "trophyTitleName": "Marooners",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12195_00_0075D92C28922D342CEF40453F77C5707583D39219/1F2D4E3201CF31580F0B08407DD48213D7D468A3.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 8,
+            "bronze": 21
+        },
+        "service": "trophy"
+    },
+    "NPWR12196_00": {
+        "npCommunicationId": "NPWR12196_00",
+        "trophyTitleName": "Stardew Valley",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12196_00_00981D365C09BEA7F2465D9E7BA83994EC0D6B3B2F/221FC609348C8CDE3C865ED3B32B14EAA13EA02C.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 14,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR12197_00": {
+        "npCommunicationId": "NPWR12197_00",
+        "trophyTitleName": "Marvel Heroes Omega",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12197_00_00F0ACC408EDE275091BF2B6AC6B8358AE8F787A1F/1030F1154CAC44604732DE27828AE413A291D871.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 17,
+            "bronze": 16
+        },
+        "service": "trophy"
     }
 }
