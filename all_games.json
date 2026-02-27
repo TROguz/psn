@@ -44978,5 +44978,135 @@
             "bronze": 7
         },
         "service": "trophy"
+    },
+    "NPWR08405_00": {
+        "npCommunicationId": "NPWR08405_00",
+        "trophyTitleName": "１２時の鐘とシンデレラ～シンデレラシリーズ　トリプル全巻パック～",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08405_00_00E9960760231B79A19BF44EB5BCBA1067164C440F/C3B28E74633787965CB823C1EEFDEB3A873A2F8A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 15,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR08406_00": {
+        "npCommunicationId": "NPWR08406_00",
+        "trophyTitleName": "Nurse Love Addiction",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08406_00_00B9F1FA590D18EAA57F90D324AFADB4ABD7072586/8B1224B8D155285E78B63D18A3D53B40454E42CE.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 5,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR08407_00": {
+        "npCommunicationId": "NPWR08407_00",
+        "trophyTitleName": "Cosmophony",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08407_00_0022DA0740E78447EB9A45716325CA5A36038AB64C/FCE98BC4552C4E9708D2B225CC3A65D541C95E04.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08408_00": {
+        "npCommunicationId": "NPWR08408_00",
+        "trophyTitleName": "Warframe",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08408_00_0051EB178D8E136068583E6F3954D34EF2C7673672/A2269CBA2D927FE3FE5A7FB65BAB89EFFD0BCE2A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 31
+        },
+        "service": "trophy"
+    },
+    "NPWR08409_00": {
+        "npCommunicationId": "NPWR08409_00",
+        "trophyTitleName": "J-STARS Victory VS+　獎盃組",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08409_00_00A8A65858C15BBE03859BADBEDBE5685CAB59B7B0/DAF98CC5529BEFA674A769149B04B8157E536011.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR08411_00": {
+        "npCommunicationId": "NPWR08411_00",
+        "trophyTitleName": "華ヤカ哉、我ガ一族 幻燈ノスタルジィ",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08411_00_00A393EDA42E940957866200F8E98A256C9C24D3FD/C564B20C31BD26A8A65A6CFD597C29E2A2C7A091.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 6,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR08412_00": {
+        "npCommunicationId": "NPWR08412_00",
+        "trophyTitleName": "激次元タッグ ブラン＋ネプテューヌVSゾンビ軍団",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08412_00_00046A4FF9578247FDD6FBEE9B1A753943FC32F46E/8485A46E5DB1C47F3BDB41611807669857CD2FFF.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR08415_00": {
+        "npCommunicationId": "NPWR08415_00",
+        "trophyTitleName": "Devil May Cry 4 Special Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08415_00_0043D1EF88FFF56DF7CBE28CE5C21AF9FD7524392F/E3CC69766F78781D293B80A9E609B5123C99F1BD.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 6,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR08416_00": {
+        "npCommunicationId": "NPWR08416_00",
+        "trophyTitleName": "機動戰士鋼彈（高達）　激戰要塞",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08416_00_00C37DB1E31B5EE6B970FA75704FC44CC5D1331FDF/8928FF44D87DD53D9D8AC117466281D40A6DE900.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 4,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR08418_00": {
+        "npCommunicationId": "NPWR08418_00",
+        "trophyTitleName": "STEINS;GATE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08418_00_00FFE5A2380FAF4E58B3289E8451129B915FD77408/441F4C7E6205426D3FD3D5B7417CA193E538BD90.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 16,
+            "bronze": 23
+        },
+        "service": "trophy"
     }
 }
