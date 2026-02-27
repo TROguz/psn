@@ -61748,5 +61748,135 @@
             "bronze": 34
         },
         "service": "trophy"
+    },
+    "NPWR11025_00": {
+        "npCommunicationId": "NPWR11025_00",
+        "trophyTitleName": "PAC-MAN 256",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11025_00_009281F3D939BAE270E9A43C731384587E0A8A13D6/79B3D87993B46D510668DE878C8664FECDE8D717.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 1,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR11026_00": {
+        "npCommunicationId": "NPWR11026_00",
+        "trophyTitleName": "Winning Eleven 2017",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11026_00_00F80AE0857DF849C999B1506771CBCBCFBAA46D49/781760F2E86AA88C8BE5E2A76EA0BE6E9471E0AB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR11027_00": {
+        "npCommunicationId": "NPWR11027_00",
+        "trophyTitleName": "Pro Evolution Soccer 2017",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11027_00_0088DD70681B388102AC05261705D442E740898BAF/CABE8A6E68B5318A27D280C5D37C1C3EF56B602B.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR11028_00": {
+        "npCommunicationId": "NPWR11028_00",
+        "trophyTitleName": "Pro Evolution Soccer 2017",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11028_00_0029DB1B92F6CB561C5F1074A11638C3E75FB2B123/37E1F500D771331B2D4E6E99D53C098000E8BB3F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 12,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR11029_00": {
+        "npCommunicationId": "NPWR11029_00",
+        "trophyTitleName": "Zombeer",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11029_00_00DC62444893E7A7F42F8BCB48A8E289C303768CB9/C6C80C0BA14DC212967E3B03DA891C6770714DED.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR11031_00": {
+        "npCommunicationId": "NPWR11031_00",
+        "trophyTitleName": "Dex",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11031_00_0000A17C371F2F04E94CD799959871C3772218F4DF/BA9975C1AA71AA39B99152856A90D844523E913D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR11032_00": {
+        "npCommunicationId": "NPWR11032_00",
+        "trophyTitleName": "Skylanders™ Imaginators",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11032_00_00F59EAFB81A1BA825C4F3772752BAD4305AD5C3B8/BB2E891713CEFB64C50324D67CAB944A04BDE4C5.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR11035_00": {
+        "npCommunicationId": "NPWR11035_00",
+        "trophyTitleName": "PsychicEmotion6",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11035_00_00FB121930EB54AA8761CA65D0942D2F9ACB87AC07/EFA289674D16F2E3CBD70161BD52D6A6EC3C4E56.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 14,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR11036_00": {
+        "npCommunicationId": "NPWR11036_00",
+        "trophyTitleName": "ACE COMBAT™ 7: SKIES UNKNOWN",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11036_00_00DB8890E8D9630379CBFD16EF9F36534BD43616B1/94AF70B6DB32B044B7587B4C9E1C43E4188BA5F9.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 11,
+            "bronze": 36
+        },
+        "service": "trophy"
+    },
+    "NPWR11037_00": {
+        "npCommunicationId": "NPWR11037_00",
+        "trophyTitleName": "Romance of the Three Kingdoms XIII\n",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11037_00_00E267DE63AA44E7D3A8FD20D9FF8016BB1F88884A/C9F4BF7DB2247D39A91D21D2A4616CEF141F5181.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 18,
+            "bronze": 30
+        },
+        "service": "trophy"
     }
 }
