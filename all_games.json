@@ -24048,5 +24048,135 @@
             "bronze": 66
         },
         "service": "trophy"
+    },
+    "NPWR04170_00": {
+        "npCommunicationId": "NPWR04170_00",
+        "trophyTitleName": "ネクレボ 中小企業診断士試験１",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04170_00_00C2B60C77E6CB05F85735540D8986A7F317B3B69A/EC5F07D7BE652EEF9CACF6089FAADA32E197B211.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR04171_00": {
+        "npCommunicationId": "NPWR04171_00",
+        "trophyTitleName": "ネクレボ 中小企業診断士試験２",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04171_00_000DA887FA4910F2311358AB3C69A1EED628EE2532/81684D1E29D5C433BB0810DC513C9C79D88B2373.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
+    },
+    "NPWR04172_00": {
+        "npCommunicationId": "NPWR04172_00",
+        "trophyTitleName": "Deadly Premonition: The Director's Cut",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04172_00_00DFD767FD0A48FD57BDE7CEFA6C0BCAA2270809C9/A4BAC61B0401E8C6F59B01FC6739FFEFC7C78161.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 6,
+            "bronze": 52
+        },
+        "service": "trophy"
+    },
+    "NPWR04173_00": {
+        "npCommunicationId": "NPWR04173_00",
+        "trophyTitleName": "Mamorukun Curse!",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04173_00_0008F4C6776FCC3290397EA39328C744EA75A92BA3/FC306AD4BE958E73E5265FD15525138365D34750.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 0,
+            "bronze": 64
+        },
+        "service": "trophy"
+    },
+    "NPWR04175_00": {
+        "npCommunicationId": "NPWR04175_00",
+        "trophyTitleName": "Defiance",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/499D8FF3465FA1BA796CFD0C7A5BCF647E62FB7B.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 16,
+            "bronze": 52
+        },
+        "service": "trophy"
+    },
+    "NPWR04177_00": {
+        "npCommunicationId": "NPWR04177_00",
+        "trophyTitleName": "Doodle God",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04177_00_0097C647882777285FD551F9406446C1C101C0B1D6/EA060687A0990CE20EB33BD59342028C91526162.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR04178_00": {
+        "npCommunicationId": "NPWR04178_00",
+        "trophyTitleName": "Winning Post 7 2013",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04178_00_00E5FDD76A5B218E361D92DC1EF0F55445389991BE/6B99C430FF8CB1D1E4724D8F42ABEEE5156A2015.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 16,
+            "bronze": 32
+        },
+        "service": "trophy"
+    },
+    "NPWR04182_00": {
+        "npCommunicationId": "NPWR04182_00",
+        "trophyTitleName": "Star Wars Pinball",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/051FFC7C5DA567D496A5F396E2BF4E3345F2A48A.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 10,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR04184_00": {
+        "npCommunicationId": "NPWR04184_00",
+        "trophyTitleName": "Quell Memento",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04184_00_00A6A9CC7AF4E80AFCD2A92F04CED81DCE6BDD8C52/ACEE32486714F56CC25B6965B6AECDC34A184D56.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 11
+        },
+        "service": "trophy"
+    },
+    "NPWR04185_00": {
+        "npCommunicationId": "NPWR04185_00",
+        "trophyTitleName": "HAKO！ -OPEN ME-　digest ver.",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR04185_00_00B8BA9B3FA4466E5A826AF07DBB016FECF58F735C/065EDAA47E3078B894F40CA1BB6E74949899AFBC.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 7,
+            "bronze": 0
+        },
+        "service": "trophy"
     }
 }
