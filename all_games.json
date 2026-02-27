@@ -48228,5 +48228,135 @@
             "bronze": 5
         },
         "service": "trophy"
+    },
+    "NPWR08954_00": {
+        "npCommunicationId": "NPWR08954_00",
+        "trophyTitleName": "Top Trumps Turbo",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08954_00_00221F0389BF1B0CBFA82EF7C725801F9B3D97BEB5/C81AE92089BD1C0AFDBD6F1DF0AF0E9BCD3D22DE.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR08955_00": {
+        "npCommunicationId": "NPWR08955_00",
+        "trophyTitleName": "Afro Samurai 2: Revenge of Kuma Volume 1",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08955_00_00DA1E8658EBA3DBC3F6F6C0C4363049C64734C04A/902C36315C70615FD5C0FECE2D9CCB66C64E671F.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 2,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR08956_00": {
+        "npCommunicationId": "NPWR08956_00",
+        "trophyTitleName": "Thief Town",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08956_00_003D80C986DE660A2746D8AE3141A6354E6A7B0B3A/4B1D257CED06FB2F5851ACD80FBC04D2947FD57A.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 9
+        },
+        "service": "trophy"
+    },
+    "NPWR08957_00": {
+        "npCommunicationId": "NPWR08957_00",
+        "trophyTitleName": "ロミオVSジュリエット 全巻パック",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08957_00_000AA7794B3C3BCCFC60081D0BF5B759E9BB63D608/428A8FB63FEE532D2E6EE72F456C16A09F882FD1.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 16,
+            "bronze": 2
+        },
+        "service": "trophy"
+    },
+    "NPWR08958_00": {
+        "npCommunicationId": "NPWR08958_00",
+        "trophyTitleName": "ペルソナ５",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08958_00_0004D62FFD2303A3BFCE63CDDBF5B057BB356B5544/F3C99B0B1741385104DF430667285461F3D1D186.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 5,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR08959_00": {
+        "npCommunicationId": "NPWR08959_00",
+        "trophyTitleName": "The Book of Unwritten Tales 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08959_00_00FB0CF53B0E34C9A4B69CDCE3CC4EDC6D1DF50D74/1ECC30112CB59F3359EA1B74A0DB2893A0651507.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 1,
+            "silver": 10,
+            "bronze": 39
+        },
+        "service": "trophy"
+    },
+    "NPWR08960_00": {
+        "npCommunicationId": "NPWR08960_00",
+        "trophyTitleName": "VALKYRIE DRIVE -BHIKKHUNI-",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08960_00_00DCDDF2FFC807D980BE2B81BDDBBDA2DB3AC6E0E3/DD96D5D905666EBBCC3A6A818564721975577E6A.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR08961_00": {
+        "npCommunicationId": "NPWR08961_00",
+        "trophyTitleName": "UPPERS",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08961_00_0080B684B0FD02AC35B9F11210E4751903146CDC82/9870E012A97241489A0A81AF739C36EFBEA2DFCB.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 10,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR08963_00": {
+        "npCommunicationId": "NPWR08963_00",
+        "trophyTitleName": "Broken Sword 5 - the Serpent's Curse",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08963_00_0019FAD12599174B92ADCDFA00C263F4FE51F5636B/191B47CCFD619049B8451EB3AF190173B2A9D9C0.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 4,
+            "bronze": 23
+        },
+        "service": "trophy"
+    },
+    "NPWR08964_00": {
+        "npCommunicationId": "NPWR08964_00",
+        "trophyTitleName": "Minecraft: Story Mode",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08964_00_0076B51E58264123DB61349EDA177D93770079F7FB/0C57F8F71FB8A5E5A9461904DAC7144AD2AD2AAA.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 8,
+            "silver": 19,
+            "bronze": 23
+        },
+        "service": "trophy"
     }
 }
