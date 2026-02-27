@@ -33668,5 +33668,135 @@
             "bronze": 11
         },
         "service": "trophy"
+    },
+    "NPWR06169_00": {
+        "npCommunicationId": "NPWR06169_00",
+        "trophyTitleName": "신차원아이돌 넵튠 PP",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06169_00_00E6013DFCBB3CE616429A049E5CC9D48DFEF0D72D/40DC64B3A4811FF54D00840F6CF72B19EA7AA244.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 12,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR06172_00": {
+        "npCommunicationId": "NPWR06172_00",
+        "trophyTitleName": "Tales of Xillia 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06172_00_0044FF55B9386853ADC7694EAEE9E8208ECFD5E633/6191B7A4F455F2288685AC4A3D28A4C8F8154421.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 7,
+            "bronze": 38
+        },
+        "service": "trophy"
+    },
+    "NPWR06174_00": {
+        "npCommunicationId": "NPWR06174_00",
+        "trophyTitleName": "Valiant Hearts: The Great War",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06174_00_0000558BADD42F150A7839EAF5FF223D3D00E8020F/8B6C4C522BAE607BBF47ACC2CD4A66C380F123AC.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR06177_00": {
+        "npCommunicationId": "NPWR06177_00",
+        "trophyTitleName": "Atelier Ayesha ~The Alchemist of Dusk~",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06177_00_0096147F779220D60D4DEF057AE81A3BD487BDFCC3/D787A5E36DD48F9754B642C7FD857D4AC6BEA619.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 10,
+            "bronze": 26
+        },
+        "service": "trophy"
+    },
+    "NPWR06183_00": {
+        "npCommunicationId": "NPWR06183_00",
+        "trophyTitleName": "HELLDIVERS™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06183_00_007A4C8BBBF8858CD3198D0C0EB60CF5699852548D/26CF4A6C8BC1F1F0FEEEAC25B9DE618AB66A857F.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 19,
+            "bronze": 15
+        },
+        "service": "trophy"
+    },
+    "NPWR06199_00": {
+        "npCommunicationId": "NPWR06199_00",
+        "trophyTitleName": "ROBOTICS;NOTES ELITE",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06199_00_00FFEB909A73A168B1BA59C4EF22D7CD84502744EA/4CCDFAA42507515111299F791D16EDCCDE9FBA77.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 6,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR06200_00": {
+        "npCommunicationId": "NPWR06200_00",
+        "trophyTitleName": "Persona 4 Arena Ultimax Trophies",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06200_00_007CA92C9EE7F47E960DF4F9B0345F671AC37E71EB/BF6A73CF49E0AD4B0A6C95BCE0B44BF35E7F9E63.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 8,
+            "bronze": 49
+        },
+        "service": "trophy"
+    },
+    "NPWR06202_00": {
+        "npCommunicationId": "NPWR06202_00",
+        "trophyTitleName": "MOBILE SUIT GUNDAM SIDE STORIES",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06202_00_004EAF9D7EB3F020EF1A87D8936644AC1EB26DA26E/A3C862C199FD555F1EAADD24C5BF10DDC8E0B2E9.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 6,
+            "bronze": 34
+        },
+        "service": "trophy"
+    },
+    "NPWR06204_00": {
+        "npCommunicationId": "NPWR06204_00",
+        "trophyTitleName": "Valiant Hearts: The Great War",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06204_00_00A75B1662634A24F8696216D1996CF1D28E0ACB7B/5307DC83819155F5C8E59DFA06E8C975BE44EDF2.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 0,
+            "silver": 1,
+            "bronze": 19
+        },
+        "service": "trophy"
+    },
+    "NPWR06208_00": {
+        "npCommunicationId": "NPWR06208_00",
+        "trophyTitleName": "Raiden Ⅳ: OverKill",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06208_00_0035BD46C7C914019A02E0D38882FDBC056867A3B4/54E876FBDAF45F50194BFE197AA71452CCF3379E.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 4,
+            "silver": 4,
+            "bronze": 38
+        },
+        "service": "trophy"
     }
 }
