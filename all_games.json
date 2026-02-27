@@ -30288,5 +30288,135 @@
             "bronze": 26
         },
         "service": "trophy"
+    },
+    "NPWR05441_00": {
+        "npCommunicationId": "NPWR05441_00",
+        "trophyTitleName": "AMNESIA World",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05441_00_00622D7CB74FB57C4A3C82E5F0C1C2D536A3DD26E1/7B2A0C6EB7940BDDF12BF935CA2AA2A00BC32D4D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 5,
+            "bronze": 22
+        },
+        "service": "trophy"
+    },
+    "NPWR05443_00": {
+        "npCommunicationId": "NPWR05443_00",
+        "trophyTitleName": "龍が如く 維新！",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05443_00_0042C5DD51CE25AFF8661B7B3BE402D193CC98FFD4/CA9B5F62D75D254FEC11F2C2B82D8E0D03E75206.PNG",
+        "trophyTitlePlatform": "PS3,PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 5,
+            "bronze": 48
+        },
+        "service": "trophy"
+    },
+    "NPWR05444_00": {
+        "npCommunicationId": "NPWR05444_00",
+        "trophyTitleName": "PlayStation®Vita Pets",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05444_00_00B1917ECF64C75A3CF7B67255052484631194DC9B/C5CAE76DBA305C054D2D647624CD0F2823FBD730.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 7,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR05445_00": {
+        "npCommunicationId": "NPWR05445_00",
+        "trophyTitleName": "GOD EATER 2",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05445_00_00C6E67344B3C529CA9BD58756EAD8AD0547864DCE/D44E586A5FF61C75715174036D4F68904F93FD09.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 6,
+            "silver": 12,
+            "bronze": 4
+        },
+        "service": "trophy"
+    },
+    "NPWR05449_00": {
+        "npCommunicationId": "NPWR05449_00",
+        "trophyTitleName": "Dragon's Dogma Quest",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05449_00_005CAB8EE88C0C9D0ACF8423ED3C9812D9ADE6F4F0/D5467D6EE63A221D63533F339535F59EA6E50911.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR05451_00": {
+        "npCommunicationId": "NPWR05451_00",
+        "trophyTitleName": "FANTASY HERO",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05451_00_0080E695F9325455D11DF09D353AF5D1E8B5A11A0B/F3AAFCA8BCE56E1F3CDD75850C4D0D242C4A7F34.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 2,
+            "silver": 4,
+            "bronze": 1
+        },
+        "service": "trophy"
+    },
+    "NPWR05452_00": {
+        "npCommunicationId": "NPWR05452_00",
+        "trophyTitleName": "RESOGUN™",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05452_00_00385F8A82C3F57757FD097D8369E0B5DD097F23F3/E794883A863904A5E71B98405516D297D4F50402.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 7,
+            "silver": 17,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR05453_00": {
+        "npCommunicationId": "NPWR05453_00",
+        "trophyTitleName": "Just Dance 2014",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05453_00_003F7AA19A8B0DA99AC18DE81294AB979AE5EB370E/CD7007238E26778E91894FBCC60A676D324FAFBE.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 9,
+            "bronze": 30
+        },
+        "service": "trophy"
+    },
+    "NPWR05458_00": {
+        "npCommunicationId": "NPWR05458_00",
+        "trophyTitleName": "Tomb Raider: Definitive Edition",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05458_00_00E28041E8641A194CC275BFCD35E0436A3569735B/300269CC413F7596682F157CCF1BD6BE82F101AB.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 7,
+            "bronze": 41
+        },
+        "service": "trophy"
+    },
+    "NPWR05470_00": {
+        "npCommunicationId": "NPWR05470_00",
+        "trophyTitleName": "OlliOlli",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05470_00_009C2D15F539DF9E70BB735AD4F609CB1E7BAEB6FF/39F9A1ACA42826EF394BB6F65E8100F2DE4F321E.PNG",
+        "trophyTitlePlatform": "PS3,PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 3,
+            "bronze": 8
+        },
+        "service": "trophy"
     }
 }
