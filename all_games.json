@@ -39648,5 +39648,135 @@
             "bronze": 10
         },
         "service": "trophy"
+    },
+    "NPWR07466_00": {
+        "npCommunicationId": "NPWR07466_00",
+        "trophyTitleName": "Rocket League®",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/7E97D451B278DACDDD0CA8D59AFF7BF62E1A6560.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 12,
+            "silver": 24,
+            "bronze": 51
+        },
+        "service": "trophy"
+    },
+    "NPWR07472_00": {
+        "npCommunicationId": "NPWR07472_00",
+        "trophyTitleName": "Aaru's Awakening",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07472_00_000DBCE0E2766529DA88A27B92D96F7B9F42D17496/82F0C6F0B95B0962518AF91EF433617B8CB65A8C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR07474_00": {
+        "npCommunicationId": "NPWR07474_00",
+        "trophyTitleName": "Aaru's Awakening",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07474_00_00CDA262ECD8C175771AE3DC9E765240B2912F834E/138CB9988466BADB613AD8CEC8DF0066BA36B491.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR07476_00": {
+        "npCommunicationId": "NPWR07476_00",
+        "trophyTitleName": "Nidhogg",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07476_00_00931B980D3111E580A96D0C808F271A4CCC2A8F0A/752A5E2807B9B7CD561B05A1CE739FB159161B2F.PNG",
+        "trophyTitlePlatform": "PSVITA,PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 4,
+            "bronze": 7
+        },
+        "service": "trophy"
+    },
+    "NPWR07478_00": {
+        "npCommunicationId": "NPWR07478_00",
+        "trophyTitleName": "Motorcycle Club",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07478_00_006E8F78E8ADEF5A6C9C2E6CAC4308755E06E90420/44E3BFC3FC9DF01D088B84AD03BA538A04DA2D0D.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR07479_00": {
+        "npCommunicationId": "NPWR07479_00",
+        "trophyTitleName": "Motorcycle Club",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07479_00_0027156F6B0654454A7B3A39E2B2F4BA4287EC558F/8AE0304AB40B3358301052812EAA88BC450DE7C7.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 2,
+            "silver": 8,
+            "bronze": 40
+        },
+        "service": "trophy"
+    },
+    "NPWR07480_00": {
+        "npCommunicationId": "NPWR07480_00",
+        "trophyTitleName": "Legend of Kay Anniversary",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07480_00_00EDAF12384098A17A7A564D32574C923497BCF7BD/3DFB708B36F9361FA7BA60C2B830E537902109D7.PNG",
+        "trophyTitlePlatform": "PS3",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 14,
+            "bronze": 6
+        },
+        "service": "trophy"
+    },
+    "NPWR07481_00": {
+        "npCommunicationId": "NPWR07481_00",
+        "trophyTitleName": "The Talos Principle",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07481_00_00B9503089D2576B1628694EFF5017519556294253/BA1F14A3E4E7518A736EF2CEBB92A0313D4311B5.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 3,
+            "silver": 16,
+            "bronze": 20
+        },
+        "service": "trophy"
+    },
+    "NPWR07482_00": {
+        "npCommunicationId": "NPWR07482_00",
+        "trophyTitleName": "Pure Hold'em™ - World Poker Championship",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07482_00_0039EFB67D8BAD8CF2BBEE6234ED9CB47A93352CAC/3D9522F4B871F26A53E52D619B0F9628E259B70C.PNG",
+        "trophyTitlePlatform": "PS4",
+        "definedTrophies": {
+            "platinum": 0,
+            "gold": 1,
+            "silver": 1,
+            "bronze": 13
+        },
+        "service": "trophy"
+    },
+    "NPWR07485_00": {
+        "npCommunicationId": "NPWR07485_00",
+        "trophyTitleName": "百華夜光",
+        "trophyTitleIconUrl": "https://image.api.playstation.com/trophy/np/NPWR07485_00_0037E5EF7F9DD74C1C069E50DBE6D84578FC429951/9C483D774CC8EDB048F74F2E0C7165B4C0D03A7D.PNG",
+        "trophyTitlePlatform": "PSVITA",
+        "definedTrophies": {
+            "platinum": 1,
+            "gold": 5,
+            "silver": 11,
+            "bronze": 12
+        },
+        "service": "trophy"
     }
 }
