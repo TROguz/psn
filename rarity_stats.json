@@ -48,13 +48,14 @@
             ]
         },
         "NPWR15120_00": {
-            "progress": 23,
+            "progress": 26,
             "rarities": [
                 "Common",
                 "Common",
                 "Common",
                 "Common",
                 "Common",
+                "Uncommon",
                 "Uncommon",
                 "Uncommon",
                 "Uncommon",
@@ -72,6 +73,7 @@
                 "Common",
                 "Uncommon",
                 "Rare",
+                "Uncommon",
                 "Uncommon",
                 "Uncommon",
                 "Uncommon"
@@ -11335,7 +11337,7 @@
         "Ultra Rare": 2162,
         "Very Rare": 1249,
         "Rare": 1880,
-        "Uncommon": 3026,
+        "Uncommon": 3028,
         "Common": 1578
     }
 }
