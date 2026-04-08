@@ -1,8 +1,5 @@
 {
-  "version": "2025.01.02", 
-  "urls": [
-    "https://raw.githubusercontent.com/TROguz/psn/main/RewAdIs_Launcher.7z.001",
-    "https://raw.githubusercontent.com/TROguz/psn/main/RewAdIs_Launcher.7z.002",
-    "https://raw.githubusercontent.com/TROguz/psn/main/RewAdIs_Launcher.7z.003"
-  ]
+    "version": "202501011200",
+    "msg": "Yeni özellikler eklendi!",
+    "files": ["7z.exe", "7z.dll", "RewAdIs_Launcher.7z.001", "RewAdIs_Launcher.7z.002", "RewAdIs_Launcher.7z.003"]
 }
