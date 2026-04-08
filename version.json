@@ -1,4 +1,8 @@
 {
-  "date": "21.05.2024 15:00",
-  "link": "https://drive.google.com/file/d/1aeypAughcHexLsGhvQJcFWN92Us5XXSf/view?usp=sharing"
+  "version": "2025.01.02", 
+  "urls": [
+    "https://raw.githubusercontent.com/TROguz/psn/main/RewAdIs_Launcher.z01",
+    "https://raw.githubusercontent.com/TROguz/psn/main/RewAdIs_Launcher.z02",
+    "https://raw.githubusercontent.com/TROguz/psn/main/RewAdIs_Launcher.zip"
+  ]
 }
