@@ -1,11 +1,6 @@
 [
     {
         "u": "kafkef1",
-        "m": "selam",
-        "t": "13:44"
-    },
-    {
-        "u": "kafkef1",
         "m": "naber",
         "t": "13:45"
     },
@@ -268,6 +263,12 @@
     {
         "u": "kafkef21344gffasgafffsf",
         "m": "aga",
+        "t": "01:11",
+        "d": "13 Nisan"
+    },
+    {
+        "u": "kafkef21344gffasgafffsf",
+        "m": "tyuu",
         "t": "01:11",
         "d": "13 Nisan"
     }
